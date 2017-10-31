@@ -1,0 +1,52 @@
+C0039591  TESTICULAR PAIN
+C0152149  Mittelschmerz
+C0156405  Ovulation bleeding
+C0232107  Decreased blood pressure, not hypotension
+C0232943  MENOMETRORRHAGIA
+C0232982  Complete spermatogenic arrest
+C0232983  Incomplete spermatogenic arrest
+C0239278  Epididymal pain
+C0278021  Courvoisier's law
+C0458109  Ovarian pain
+C0522069  Pancreatic sign, NOS
+C0522070  Pancreatic symptom, NOS
+C0522071  Pancreatalgia
+C0542134  PAIN THYROID
+C0547004  Regular intermenstrual bleeding
+C0547005  Midcycle bleeding
+C0560252  Post-vasectomy epididymal pain
+C0560253  Persistent testicular pain
+C0577571  Mass of endocrine structure
+C0577593  Epididymal swelling
+C0578054  Pain of endocrine structure
+C0578088  Tenderness of endocr struct
+C0578750  Tenderness of thyroid
+C1288081  Inflammatory testicular mass
+C1319537  O/E - right eye background diabetic retinopathy (disorder)
+C1319538  O/E - left eye background diabetic retinopathy (disorder)
+C1319539  O/E - right eye preproliferative diabetic retinopathy (disorder)
+C1319540  O/E - left eye preproliferative diabetic retinopathy (disorder)
+C1319541  O/E - right eye proliferative diabetic retinopathy (disorder)
+C1319542  O/E - left eye proliferative diabetic retinopathy (disorder)
+C1319543  O/E - right eye diabetic maculopathy (disorder)
+C1319544  O/E - left eye diabetic maculopathy (disorder)
+C1390051  blood pressure; low, incidental reading, without diagnosis of hypotension
+C1390183  hemorrhage; intermenstrual
+C1390319  hemorrhage; uterus, intermenstrual (regular)
+C1395829  pressure; hyposystolic incidental reading, without diagnosis of hypotension
+C2008810  frequent passing of dime-sized blood clots during periods (symptom)
+C2008811  frequent passing of egg-sized blood clots during periods (symptom)
+C2008812  frequent passing of large blood clots during periods
+C2008813  frequent passing of quarter-sized blood clots during periods
+C2030274  metrorrhagia
+C2030275  heavy bleeding since the last period
+C2037198  sudden onset of testicular pain (symptom)
+C2048469  inability to impregnate after previous successful impregnation (symptom)
+C2126231  light bleeding between periods (symptom)
+C2127341  light bleeding since last period (symptom)
+C2129031  testicular pain right
+C2129032  left testicular pain
+C2129033  bilateral testicular pain
+C2129035  right testicular lump
+C2129036  left testicular lump (symptom)
+C2129037  lumps in both testes

@@ -1,0 +1,1503 @@
+C0000848  ABSENT POSTERIOR TIBIAL PULSE
+C0002962  Anginal pain
+C0003078  Aniseikonia
+C0004604  Backache
+C0005747  Blepharospasm
+C0005858  Bloodshot eyes
+C0005874  Blush
+C0008031  Chest Pain
+C0008033  Chest pain, pleuritic
+C0008035  CHEST WALL PAIN
+C0009193  Coccygodynia
+C0013609  Edema, localized
+C0016199  FLANK PAIN
+C0016382  Flushing
+C0018926  Hematemeses
+C0018933  Hematocolpometra
+C0019079  Hemoptyses
+C0019086  Hemorrhagic ascites
+C0019209  Hepatomegaly
+C0019214  Hepatosplenomegaly
+C0022353  Jaundice, Neonatal
+C0024031  Back Pain, Low
+C0024902  Mastodynia
+C0029089  Oculomotor Paralysis
+C0039070  Faintness
+C0040416  Adie's pupil
+C0042818  Visual discomfort
+C0085635  Photopsia
+C0085636  Photophobia
+C0149793  TRANSIENT MONOCULAR BLINDNESS
+C0151205  Periorbital edema
+C0151767  LIVER TENDERNESS
+C0151826  CHEST PAIN SUBSTERNAL
+C0155001  Subjective visual disturbances
+C0155002  Sudden visual loss
+C0155004  Visual distortions of shape and size
+C0155227  Dacryops
+C0155344  Spasm of conjugate gaze
+C0155347  Anomalies of divergence
+C0155382  Deficiencies of smooth pursuit movements
+C0156308  Edema of penis
+C0156317  Edema of male genital organs
+C0156405  Ovulation bleeding
+C0221154  Hypertension, paroxysmal
+C0221226  CAPUT MEDUSAE
+C0221755  ABDOMINAL BRUIT
+C0232107  Decreased blood pressure, not hypotension
+C0232119  Pulsus trigeminus
+C0232126  Abrupt pulse
+C0232127  Ectopic pulse
+C0232130  Labile pulse
+C0232168  Cardiac dyskinesia
+C0232170  Atrial dyskinesia
+C0232173  Cardiac wall motion, paradoxical
+C0232193  Pacemaker rhythm
+C0232194  Atrial rhythm from artificial pacing
+C0232199  Embryocardia
+C0232209  Aberrant nodal pacemaker
+C0232210  Junctional escape beats
+C0232246  Non-ejection systolic click, single
+C0232247  Multiple non-ejection systolic clicks
+C0232249  Cardiac murmur intensity, grade I
+C0232250  Cardiac murmur intensity, grade II
+C0232251  Cardiac murmur intensity, grade III
+C0232252  Cardiac murmur intensity, grade IV
+C0232253  Cardiac murmur intensity, grade V
+C0232254  Cardiac murmur intensity, grade VI
+C0232256  Heart murmur, organic
+C0232258  Holosystolic murmur
+C0232261  Late systolic murmur
+C0232262  DIASTOLIC HEART MURMUR
+C0232263  Early diastolic murmur
+C0232274  Pericardial knock
+C0232276  Diastolic rumble
+C0232279  Heart murmur configuration, NOS
+C0232280  Heart murmur configuration, crescendo
+C0232281  Heart murmur configuration, decrescendo
+C0232282  Heart murmur configuration, crescendo-decrescendo
+C0232283  Heart murmur configuration, plateau
+C0232285  CHEST PRESSURE SENSATION OF
+C0232286  Precordial pain
+C0232288  Chest pain, exertional
+C0232289  Chest pain, radiating
+C0232290  Chest pain, crushing
+C0232291  Pleuropericardial chest pain
+C0232292  CHEST TIGHTNESS OF
+C0232369  Vasomotor hypotonia
+C0232373  Paroxysmal vascular dilatation
+C0232503  Umbilical bleeding
+C0232533  Esophageal chest pain
+C0232943  MENOMETRORRHAGIA
+C0233193  Fetal souffle
+C0233194  Souffle, uterine
+C0233763  HALLUCINATION VISUAL
+C0233769  Hallucination, lilliputian
+C0234253  Pain at rest
+C0234660  Eyes tire easily
+C0234665  EYELID RETRACTION
+C0234706  Chromatic aberration of vision
+C0235068  Flittering scotoma
+C0235239  HEART FLUTTERING
+C0235240  HEART POUNDING
+C0235242  SYNCOPE EXERTIONAL
+C0235267  RED EYE
+C0235477  Coupled pulse
+C0235632  LOIN PAIN
+C0235706  BACK DISCOMFORT
+C0235707  LUMBO-SACRAL PAIN
+C0235708  SACRO-ILIAC PAIN
+C0235710  CHEST DISCOMFORT
+C0235711  CHEST DISTRESSED FEELING OF
+C0235712  CHEST FULLNESS OF
+C0235716  CHEST BURNING PAIN OF
+C0235777  CYANOSIS NEONATAL
+C0235886  EDEMA LEGS
+C0235980  SCLERAL DISCOLORATION
+C0236065  EDEMA MOUTH
+C0238995  sharp chest pain (symptom)
+C0239340  Edema of lower extremity
+C0240101  Kussmaul's sign
+C0240515  Nipple pain
+C0240521  Nipple tenderness
+C0240840  Narrow pulse pressure
+C0240841  Widened pulse pressure
+C0241229  Spleen tender
+C0262384  ATYPICAL CHEST PAIN
+C0262397  BREAST TENDERNESS
+C0269671  Gestational edema without mention of hypertension
+C0270261  Edema neonatorum
+C0270777  Edema of spinal cord
+C0271050  Localized retinal edema
+C0271052  Peripheral retinal edema
+C0271185  Metamorphopsia
+C0271186  Refractive diplopia
+C0271188  Visual Halos
+C0271276  Stahli's lines
+C0271397  Pseudoophthalmoplegia
+C0271404  Vitreous cavitation
+C0277927  Musset's sign
+C0277928  Bruit de diable
+C0277930  Orbital bruit
+C0277986  Gingival edema
+C0282005  Swelling of Scrotum
+C0312422  BLACK-OUT (NOT AMNESIA)
+C0314719  DRY EYE
+C0333240  Acute edema
+C0333243  Pitting edema
+C0333244  Transient edema
+C0333245  Massive edema
+C0333246  Edema, gaseous
+C0333247  Blue edema
+C0333248  Brawny edema
+C0333249  Edema, subepidermal
+C0333252  Hard edema
+C0339142  Exophthalmos due to orbital edema or congestion
+C0339205  Total scleral ectasia
+C0339250  Melanin pigmentation of cornea
+C0339251  Blood pigmentation of cornea
+C0339257  Chalcosis of cornea
+C0339259  Siderosis of cornea
+C0339667  Voluntary nystagmus
+C0339693  Internal ophthalmoplegia
+C0340979  Cryoglobulinaemic purpura
+C0341961  Vulval varices in pregnancy
+C0344232  Blurred vision
+C0344239  Mixed nystagmus
+C0344240  Irregular nystagmus
+C0344242  Uniocular nystagmus
+C0344244  Gaze paretic nystagmus
+C0344246  Postural nystagmus
+C0349681  Spontaneous nystagmus
+C0349683  Body positional nystagmus
+C0349684  Neck positional nystagmus
+C0362040  Enlarg submand lymph gland
+C0392685  Chest pain, at rest
+C0404555  Contact bleeding
+C0405472  Cyclical mastalgia
+C0405473  Non-cyclical mastalgia
+C0405474  Trigger point mastalgia
+C0406218  Persistent light reaction
+C0406399  Urticaria geographica
+C0406400  Menstrual urticaria
+C0406403  Delayed dermographism
+C0406404  Cold reflex urticaria
+C0406405  Delayed cold sensitivity
+C0406406  Persist cholinergic urticaria
+C0406407  Cholinergic pruritus
+C0406408  Reflex urticaria
+C0406411  Immune complex urticaria
+C0406548  Stellate pseudoscar
+C0410918  Fetal tachycardia
+C0410919  Fetal bradycardia
+C0423006  DISCHARGE EYE
+C0423042  Divergence paralysis
+C0423075  Incomitant esophoria
+C0423386  Silver wire retinal artery
+C0423517  Blood discharge from ear
+C0423633  Parasternal chest pain
+C0423634  Central chest pain
+C0423636  Cardiac chest pain, NOS
+C0423637  Sore nipple
+C0423640  Right flank pain
+C0423641  Left flank pain
+C0423673  Rachialgia
+C0423678  Back pain worse on sneezing
+C0423681  Pain in lumbar spine
+C0423683  Lumbar ache - renal
+C0423684  Thoracic back pain
+C0423685  Acute thoracic back pain
+C0423686  Hieralgia
+C0423689  Post compartment low back pain
+C0423729  Painful respiration
+C0424071  Unformed visual hallucinations
+C0424072  Formed visual hallucinations
+C0424518  Flushes/goes red
+C0424535  Vasovagal symptom
+C0424810  Swelling round eyes
+C0425617  Splitting of heart sounds
+C0425650  Cardiorespiratory murmur
+C0425665  Prominent leg veins - symptom
+C0425667  Prominent veins - symptom
+C0436816  O/E - cardiac thrill
+C0438432  Angioscotoma
+C0438434  Ring scotoma
+C0438716  PRESSURE CHEST
+C0439040  C/O - loin pain
+C0456073  Neonatal facial petechiae
+C0456074  Traumat neonat facial cyanosis
+C0456122  Harlequin change
+C0457950  Acute back pain - lumbar
+C0458102  Central crushing chest pain
+C0458114  Thoracic trigger point syndrom
+C0458116  Lumbar trigger point syndrome
+C0458226  Arthralgia - sternoclav joint
+C0458228  Acromioclavicular joint pain
+C0472514  Edema of uvula
+C0473249  Idiopathic scrotal edema
+C0473563  Achenbach's syndrome
+C0474512  Blood in faeces symptom
+C0476258  Awareness of heart beat
+C0476270  Cardiovascular symptom NOS
+C0476278  Anterior chest wall pain
+C0476280  Musculoskeletal chest pain
+C0476281  Non-cardiac chest pain
+C0521668  Thunderclap headache
+C0521762  Positional nystagmus, variable eye direction
+C0521763  Nystagmus produced by neck rotation
+C0521764  Nystagmus enhanced when fixation removed
+C0521765  Nystagmus unchanged when fixation removed
+C0521766  Nystagmus inhibited when fixation removed
+C0522044  Edema of thigh
+C0522045  Edema of knee
+C0522051  Acute chest pain
+C0522052  Intermittent palpitations
+C0522067  Liver pain
+C0522256  Thoracic nerve root pain
+C0541828  CHEST PAIN-L ARM
+C0547004  Regular intermenstrual bleeding
+C0547005  Midcycle bleeding
+C0547030  Visual disturbances
+C0555056  Expectoration of blood stained sputum
+C0555060  Atrial septal defect murmur
+C0558161  Breast-feeding painful
+C0563275  Right sided chest pain
+C0563278  Upper chest pain
+C0563608  Formed hallucination of people
+C0567493  Gen tenderness breast
+C0567494  Localised tenderness of breast
+C0574002  PEDAL EDEMA
+C0574068  Rib pain
+C0575014  Lumbar spine stiff
+C0577256  Prostate swelling
+C0577563  Mass cardiovascular structure
+C0577587  Swelling cardiovascular struct
+C0577588  Swelling lymphoreticul struct
+C0577592  Swelling male genital struct
+C0577593  Epididymal swelling
+C0577659  Pain in axilla
+C0577660  Postural low back pain
+C0577698  ANGINA OF EFFORT
+C0578048  Pain of cardiovasc structure
+C0578080  Tenderness of cardiovas struct
+C0578097  Tenderness of right lumbar
+C0578098  Tenderness of left lumbar
+C0578106  Rebound tendern R lumbar
+C0578107  Rebound tenderness L lumbar
+C0578674  Premenstrual breast tenderness
+C0578685  Upper lid retraction
+C0578686  Lower lid retraction
+C0578737  Brachial lymphadenopathy
+C0578738  Epitrochlear lymphadenopathy
+C0578739  Popliteal lymphadenopathy
+C0581323  Clavicle pain
+C0581866  Costal margin chest pain
+C0581879  Feeling faint
+C0585540  Oculopalatal myoclonus
+C0585542  BPPV-Ben parox pos vert nyst
+C0585566  Nystagmus signs
+C0585958  Genital varices in puerperium
+C0585977  Vaginal varices in puerperium
+C0600142  Hot flash
+C0677061  Pain in thoracic spine
+C0700200  NEAR SYNCOPE
+C0740418  Chronic back pain
+C0743554  recurrent epistaxis
+C0744876  Hepatomegaly tenderness
+C0745417  ISCHEMIC PAIN
+C0745742  LIVER DAMAGE SIGN
+C0745966  LOWER LEG EDEMA
+C0750152  VASOMOTOR SYMPTOM
+C0750957  Blindness, total
+C0751535  SYNCOPE CARDIAC
+C0751536  Convulsive syncope (disorder)
+C0849986  localized penile swelling of foreskin (symptom)
+C0850809  total loss of vision in one eye (symptom)
+C0858529  Cardialgia
+C0920171  feels like something is in eye
+C1262535  Jaundice, hepatocellular
+C1268591  Quadrantic scotoma (finding)
+C1277290  Mastalgia of puberty (disorder)
+C1277643  Intractable breast pain (finding)
+C1277645  Persistent mastalgia (finding)
+C1277646  Unilateral mastalgia (finding)
+C1280008  INTESTINAL ANGINA
+C1282193  Wound discharge of eye (disorder)
+C1282194  Contact lens related disorder (disorder)
+C1282197  Contact lens related red eye (disorder)
+C1282799  Swelling of Penis
+C1290771  edema of oral vestibule
+C1304408  Urticarial vasculitis
+C1319537  O/E - right eye background diabetic retinopathy (disorder)
+C1319538  O/E - left eye background diabetic retinopathy (disorder)
+C1319539  O/E - right eye preproliferative diabetic retinopathy (disorder)
+C1319540  O/E - left eye preproliferative diabetic retinopathy (disorder)
+C1319541  O/E - right eye proliferative diabetic retinopathy (disorder)
+C1319542  O/E - left eye proliferative diabetic retinopathy (disorder)
+C1319543  O/E - right eye diabetic maculopathy (disorder)
+C1319544  O/E - left eye diabetic maculopathy (disorder)
+C1319587  O/E - retinopathy (disorder)
+C1319588  O/E - referable retinopathy (disorder)
+C1319589  O/E - non-referable retinopathy (disorder)
+C1319825  On examination - left posterior tibial pulse abnormal
+C1319826  On examination - right dorsalis pedis pulse abnormal
+C1319827  On examination - Right posterior tibial pulse abnormal
+C1321324  Bruns nystagmus (disorder)
+C1321325  Elliptical nystagmus (disorder)
+C1332855  Cardiovascular System Signs and Symptoms
+C1386344  inguinal; adenopathy
+C1386346  mediastinal; adenopathy
+C1386351  mesenteric; adenopathy
+C1386353  adenopathy; tracheobronchial
+C1387770  angina pectoris; de novo effort
+C1387772  angina pectoris; pre-infarctional
+C1387773  progressive; angina pectoris, worsening effort
+C1388031  quadrant anopsia
+C1389583  benign; murmur
+C1389591  limitation; visual field
+C1390037  blood; cornea
+C1390051  blood pressure; low, incidental reading, without diagnosis of hypotension
+C1390183  hemorrhage; intermenstrual
+C1390319  hemorrhage; uterus, intermenstrual (regular)
+C1393964  cornea; deposit, hemosiderin in old scars
+C1394765  De novo effort angina
+C1395829  pressure; hyposystolic incidental reading, without diagnosis of hypotension
+C1397263  phenomenon; vasomotor
+C1397568  Fleischer; ring
+C1398452  murmur; cardiac valve
+C1398453  heart valve; murmur, innocent
+C1398454  murmur; nonorganic
+C1398664  visual field; disability
+C1398665  deformity; visual field
+C1398667  vision; visual field
+C1398734  glandular; hypertrophy
+C1399101  cervical gland; hyperplasia
+C1399104  cervical gland; swelling
+C1399669  hilus gland; hypertrophy
+C1401601  keratohemia
+C1401678  glands; swelling, localized
+C1402130  low back; myofasciitis
+C1402997  limbus corneae; pigmentation
+C1403230  lumbar region; pain
+C1405035  pain; pericardial
+C1405038  pain; thorax, thoracic, ischemic
+C1405040  pain; thorax, thoracic, spine
+C1406074  phenomenon; vasovagal
+C1406671  syncope; vasoconstriction
+C1408360  nonorganic origin; murmur
+C1408508  eyestrain; fatigue
+C1408758  eye; tension
+C1410075  sternalgia
+C1510416  Coffee ground emesis
+C1565887  Physiologic jaundice in newborn, NOS
+C1719857  Hepatomegaly associated with AIDS (disorder)
+C1740831  Chronic chest pain
+C1744601  Abnormal cardiac rate, NOS
+C1960978  Pain radiating to center of chest
+C1960985  Pain radiating to left side of chest (finding)
+C1960994  Pain radiating to right side of chest
+C1998435  Typical angina (disorder)
+C2008810  frequent passing of dime-sized blood clots during periods (symptom)
+C2008811  frequent passing of egg-sized blood clots during periods (symptom)
+C2008812  frequent passing of large blood clots during periods
+C2008813  frequent passing of quarter-sized blood clots during periods
+C2008829  frequently bumping into things or people (symptom)
+C2008831  frequently knocking things over (symptom)
+C2008832  frequently misjudging distance when stepping up or down (symptom)
+C2008833  frequently missing container when pouring liquids (symptom)
+C2008834  frequently missing when threading a needle (symptom)
+C2010780  foggy vision which is generalized
+C2010797  generalized scrotal swelling (symptom)
+C2012471  gradual loss of vision in left half of visual field
+C2012472  slow loss left vision binocular
+C2012473  gradual loss of vision in lower half of visual field (symptom)
+C2012474  slow loss lower vision left
+C2012475  gradual loss of vision in lower half of visual field in right eye (symptom)
+C2012476  gradual loss of vision in lower half of visual fields in both eyes
+C2012477  gradual loss of vision in nasal half of visual field (symptom)
+C2012478  slow loss nasal vision binocular
+C2012481  gradual loss of vision in part of visual field (symptom)
+C2012482  gradual loss of vision in right half of visual field (symptom)
+C2012483  gradual loss of vision in right half of visual fields in both eyes (symptom)
+C2012484  gradual loss of vision in temporal half of visual field (symptom)
+C2012487  gradual loss of vision in temporal half of visual fields in both eyes (symptom)
+C2012488  gradual loss of vision in upper half of visual field
+C2012489  slow loss upper vision binocular
+C2012490  gradual loss of vision in upper half of visual field in left eye
+C2012491  gradual loss of vision in upper half of visual field in right eye (symptom)
+C2012500  lower back pain started gradually
+C2012641  growth on left sclera
+C2012642  growth on right sclera (symptom)
+C2012643  growth on sclera
+C2012644  growth on white of eye with blood vessels (symptom)
+C2012661  growth on sclera binocular
+C2016599  pain between shoulder blades (symptom)
+C2020356  diffuse back stiffness (symptom)
+C2020617  street signs blurry until too late
+C2029900  tachycardia
+C2029901  fast heart rate over 160
+C2030274  metrorrhagia
+C2030275  heavy bleeding since the last period
+C2032146  pain in both breasts
+C2032305  bilateral flank pain
+C2032306  flank pain disproportionate to injury
+C2032307  radiating flank pain
+C2032308  pain in the flank which radiates to a testicle
+C2032341  pain in left breast
+C2032342  pain at the left nipple
+C2032343  pain in lower inner quadrant of left breast (symptom)
+C2032344  pain in lower outer quadrant of left breast (symptom)
+C2032345  pain in upper inner quadrant of left breast (symptom)
+C2032346  pain in upper outer quadrant of left breast (symptom)
+C2032409  pain in right breast (symptom)
+C2032410  pain at the right nipple
+C2032411  pain in lower inner quadrant of right breast
+C2032412  pain in lower outer quadrant of right breast
+C2032413  pain in upper inner quadrant of right breast (symptom)
+C2032414  pain in upper outer quadrant of right breast
+C2032450  pain in tailbone causing difficulty sitting (symptom)
+C2032728  painful lump in the armpit
+C2032742  painless periorbital swelling (symptom)
+C2032976  palpitations at rest (symptom)
+C2032986  occurrence of palpitations
+C2032987  palpitations occurring 15-30 minutes after eating (symptom)
+C2032988  palpitations occurring 2-3 hours after eating (symptom)
+C2032989  palpitations occurring after meal
+C2032990  palpitations occurring with exertion
+C2032991  palpitations started slowly (symptom)
+C2032992  palpitations started suddenly (symptom)
+C2032993  palpitations stop slowly (symptom)
+C2032994  palpitations stop suddenly (symptom)
+C2032995  palpitations sustained
+C2032996  palpitations when tired
+C2032997  fast palpitations (symptom)
+C2032998  palpitations while lying on left side (symptom)
+C2032999  palpitations with skipped beats
+C2037122  sudden onset or visual field defect in left half of eye
+C2037123  sudden loss of vision in left half of visual fields in both eyes (symptom)
+C2037124  sudden loss lower vision
+C2037125  sudden loss lower vision left
+C2037126  sudden loss lower vision right
+C2037127  sudden loss of vision in lower half of visual fields in both eyes (symptom)
+C2037128  nasal visual field defect, sudden onset
+C2037129  sudden onset of nasal visual field defect in left eye
+C2037130  sudden loss nasal vision right
+C2037131  nasal visual field defects in both eyes, sudden onset
+C2037132  sudden loss of part of vision
+C2037133  sudden loss of vision in right half of visual field
+C2037134  sudden loss of vision in right half of visual fields in both eyes (symptom)
+C2037135  sudden loss of vision in temporal half of visual field (symptom)
+C2037136  temporal visual field defects in both eyes, sudden onset
+C2037138  sudden onset of temporal visual field defect in right eye
+C2037139  sudden loss of vision in upper half of visual field
+C2037140  sudden loss upper vision left
+C2037141  sudden onset of upper visual field defect in right eye
+C2037142  upper visual field defect in both eyes, sudden onset
+C2037147  sudden onset of cold arm (symptom)
+C2037148  sudden onset of cold arms bilaterally
+C2037149  sudden onset of cold feet bilaterally
+C2037150  sudden onset of cold fingers (symptom)
+C2037151  sudden onset of cold fingers both hands (symptom)
+C2037152  sudden onset of cold finger of left hand (symptom)
+C2037153  sudden onset of cold finger of right hand
+C2037154  sudden onset of cold foot (symptom)
+C2037155  sudden onset of cold hand (symptom)
+C2037156  sudden onset of cold hands bilaterally (symptom)
+C2037157  sudden onset of cold hands or feet (symptom)
+C2037158  sudden onset of cold left arm
+C2037159  sudden onset of cold fifth toe of left foot (symptom)
+C2037160  sudden onset of cold left foot
+C2037161  sudden onset of cold fourth toe of left foot (symptom)
+C2037162  sudden onset of cold great toe of left foot
+C2037163  sudden onset of cold left hand
+C2037164  sudden onset of cold index finger of left hand
+C2037165  sudden onset of cold left leg
+C2037166  sudden onset of cold little finger of left hand
+C2037167  sudden onset of cold middle finger of left hand (symptom)
+C2037168  sudden onset of cold ring finger of left hand
+C2037169  sudden onset of cold second toe of left foot (symptom)
+C2037170  sudden onset of cold third toe of left foot (symptom)
+C2037171  sudden onset of cold thumb of left hand (symptom)
+C2037172  sudden onset of cold leg
+C2037173  sudden onset of cold legs bilaterally (symptom)
+C2037174  sudden onset of cold right arm (symptom)
+C2037175  sudden onset of cold fifth toe of right foot (symptom)
+C2037176  sudden onset of cold right foot (symptom)
+C2037177  sudden onset of cold fourth toe of right foot
+C2037178  sudden onset of cold great toe of right foot (symptom)
+C2037179  sudden onset of cold right hand (symptom)
+C2037180  sudden onset of cold index finger of right hand (symptom)
+C2037181  sudden onset of cold right leg
+C2037182  sudden onset of cold little finger of right hand (symptom)
+C2037183  sudden onset of cold middle finger of right hand (symptom)
+C2037184  sudden onset of cold ring finger of right hand
+C2037185  sudden onset of cold second toe of right foot
+C2037186  sudden onset of cold third toe of right foot
+C2037187  sudden onset of cold thumb of right hand
+C2037188  sudden onset of cold toe (symptom)
+C2037189  sudden onset of cold toes of both feet
+C2037190  sudden onset of cold toe of left foot (symptom)
+C2037191  sudden onset of cold toe of right foot (symptom)
+C2037196  lower back pain started suddenly
+C2037199  sudden onset of worsening vision (symptom)
+C2037201  duration of sudden redness of skin
+C2037202  frequency of sudden redness of skin
+C2037203  sudden redness of skin lasting several hours (symptom)
+C2037204  sudden redness of skin lasting several minutes (symptom)
+C2037205  flushing precipitated by stressful situations
+C2037206  flushing precipitated
+C2037207  flushing precipitated by alcohol
+C2037208  flushing precipitated by food
+C2037209  flushing precipitated by minimal exertion
+C2037210  sudden redness of skin several times a day (symptom)
+C2037211  sudden redness of skin several times a month
+C2037212  sudden redness of skin several times a week (symptom)
+C2037498  supraorbital swelling (symptom)
+C2038631  swelling around nasal side of both eyes (symptom)
+C2047122  hot flashes after recent gynecological surgery (symptom)
+C2047123  hot flashes after recent orchiectomy (symptom)
+C2047124  hot flashes after recent treatment for prostate cancer
+C2047125  gradual onset of hot flashes
+C2047126  sudden onset of hot flashes
+C2047127  hot flashes with recent cessation of estrogen therapy (symptom)
+C2048873  increased sensitivity to glare
+C2052806  generalized penile swelling
+C2052807  localized penile swelling of shaft (symptom)
+C2052808  localized penile swelling of tip
+C2053835  peripheral vision worsens during day
+C2073251  chest pain accompanied by difficulty breathing (symptom)
+C2073252  chest pain accompanied by palpitations
+C2073253  chest pain accompanied by sweating
+C2073254  chest pain accompanied by upset stomach (symptom)
+C2073255  chest pain along left costal margin (symptom)
+C2073256  chest pain along right costal margin (symptom)
+C2073257  chest pain accompanied by
+C2073258  chest pain below left clavicle (symptom)
+C2073259  chest pain below right clavicle
+C2073260  chest pain between left eighth and ninth ribs
+C2073261  chest pain between left fifth and sixth ribs
+C2073262  chest pain between left fourth and fifth ribs
+C2073263  chest pain between left ninth and tenth ribs (symptom)
+C2073264  chest pain between left second and third ribs
+C2073265  chest pain between left seventh and eighth ribs
+C2073266  chest pain between left sixth and seventh ribs (symptom)
+C2073267  chest pain between left third and fourth ribs
+C2073268  chest pain between right eighth and ninth ribs
+C2073269  chest pain between right fifth and sixth ribs
+C2073270  chest pain between right fourth and fifth ribs
+C2073271  chest pain between right ninth and tenth ribs
+C2073272  chest pain between right second and third ribs (symptom)
+C2073273  chest pain between right seventh and eighth ribs
+C2073274  chest pain between right sixth and seventh ribs
+C2073275  chest pain between right third and fourth ribs
+C2073276  chest pain causing awakening from sleep
+C2073277  chest pain deep in back between shoulder blades on exertion (symptom)
+C2073278  chest pain deep in back between shoulder blades (symptom)
+C2073279  duration of chest pain
+C2073280  chest pain made worse by
+C2073281  chest pain increasing in severity
+C2073282  chest pain increasingly less responsive to nitroglycerin (symptom)
+C2073283  chest pain starting with
+C2073284  chest pain lasting continuously for several days
+C2073285  chest pain lasting continuously for several weeks or more (symptom)
+C2073286  chest pain lasting from 20 minutes to a day (symptom)
+C2073287  chest pain lasting increasingly longer
+C2073288  chest pain lasting increasingly longer with each episode (symptom)
+C2073289  chest pain lasting increasingly longer during last few days (symptom)
+C2073290  chest pain lasting increasingly longer during the last few months
+C2073291  chest pain lasting increasingly longer during the last few weeks
+C2073293  chest pain localizing to the chest wall in the center
+C2073294  chest pain localizing to chest wall center anteriorly
+C2073295  chest pain localizing to chest wall in center posteriorly (symptom)
+C2073296  chest pain localizing to the chest wall on the left
+C2073297  chest pain localizing to the chest left wall anteriorly
+C2073298  chest pain localizing to chest wall on left laterally (symptom)
+C2073299  chest pain localizing to chest wall on left posteriorly (symptom)
+C2073300  chest pain localizing to the chest wall on the right
+C2073301  chest pain localizing to the chest right wall anteriorly
+C2073302  chest pain localizing to chest wall on right laterally (symptom)
+C2073303  chest pain localizing to the right chest wall posteriorly
+C2073304  chest pain localizing to deep within chest wall (symptom)
+C2073305  chest pain localizing with unclear focus
+C2073306  chest pain made worse by arm movement
+C2073307  chest pain made worse by bending over (symptom)
+C2073308  chest pain made worse by body movement (symptom)
+C2073309  chest pain made worse by breathing (symptom)
+C2073310  chest pain made worse by coughing but not by breathing
+C2073311  chest pain made worse by left arm movement
+C2073312  chest pain made worse by lying down
+C2073313  chest pain made worse by neck movement (symptom)
+C2073314  chest pain made worse by right arm movement (symptom)
+C2073315  chest pain made worse by straining
+C2073316  chest pain made worse by swallowing
+C2073317  chest pain not relieved by rest (symptom)
+C2073318  occurrence of chest pain
+C2073319  chest pain occurring more and more often (symptom)
+C2073320  chest pain occurring suddenly as new onset
+C2073321  chest pain in the left side (hemithoracic)
+C2073322  chest pain in the right side (hemithoracic)
+C2073323  chest pain over the left eighth rib
+C2073324  chest pain over left fifth rib (symptom)
+C2073325  chest pain over left fourth rib (symptom)
+C2073326  chest pain over left ninth rib
+C2073327  chest pain over left second rib
+C2073328  chest pain over left seventh rib (symptom)
+C2073329  chest pain over left sixth rib (symptom)
+C2073330  chest pain over left third rib (symptom)
+C2073331  chest pain over right eighth rib
+C2073332  chest pain over right fifth rib (symptom)
+C2073333  chest pain over right fourth rib (symptom)
+C2073334  chest pain over right ninth rib
+C2073335  chest pain over right second rib (symptom)
+C2073336  chest pain over right seventh rib (symptom)
+C2073337  chest pain over right sixth rib (symptom)
+C2073338  chest pain over right third rib (symptom)
+C2073339  quality of chest pain
+C2073340  chest pain radiating to back between shoulder blades
+C2073341  chest pain radiating to both arms (symptom)
+C2073342  chest pain radiating to central upper abdomen (symptom)
+C2073343  chest pain radiating to inner aspect of left arm only
+C2073344  chest pain radiating to inner aspect of right arm only (symptom)
+C2073345  chest pain radiating to jaw
+C2073346  chest pain radiating to left side of neck
+C2073347  chest pain radiating to left shoulder (symptom)
+C2073348  chest pain radiating to neck (symptom)
+C2073349  chest pain radiating to right side of neck (symptom)
+C2073350  chest pain radiating to right shoulder (symptom)
+C2073351  chest pain relieved by analgesics (symptom)
+C2073352  chest pain relieved by antacids (symptom)
+C2073353  chest pain relieved by nitroglycerin (symptom)
+C2073354  chest pain relieved by nitroglycerin faster than rest alone (symptom)
+C2073355  chest pain gradually relieved by nitroglycerin (symptom)
+C2073356  chest pain relieved by nitroglycerin in under five minutes
+C2073357  chest pain relieved by rest (symptom)
+C2073358  chest pain relieved by sitting up
+C2073359  chest pain relieving factors
+C2073360  chest pain starting when at rest during early morning
+C2073361  chest pain starting when at rest during night
+C2073362  chest pain starting while jogging or running
+C2073363  chest pain starting while walking inside (symptom)
+C2073364  chest pain starting while walking on level ground (symptom)
+C2073365  chest pain starting while walking up steps and hills (symptom)
+C2073366  chest pain starting after an injury (symptom)
+C2073367  postprandial chest pain (symptom)
+C2073368  chest pain starting during sex
+C2073369  chest pain starting suddenly after prolonged immobility (symptom)
+C2073370  chest pain starting when in a cold environment
+C2073371  chest pain starting when lying down (symptom)
+C2073372  chest pain starting with emotional event
+C2073373  chest pain sudden, sharp, and tearing
+C2073374  chest pain which changes location
+C2073375  chest pain lasting 1-15 minutes
+C2073376  chest pain worse with coughing (symptom)
+C2073390  chest tender when touched (symptom)
+C2073391  chest tightness or heavy pressure
+C2074632  chronic constant flank pain (symptom)
+C2074698  chronic flank pain recurring frequently (symptom)
+C2076650  right infraorbital swelling as symptom
+C2077839  lower back pain intermittent
+C2080640  bilateral photophobia
+C2080641  photophobia in left eye (symptom)
+C2080642  photophobia in right eye (symptom)
+C2080643  periodic flashing lights centrally
+C2080644  photopsia in peripheral field of vision
+C2081396  pigmented growth on white of eye
+C2106367  cold arm
+C2106368  cold fingers
+C2106369  cold hands or feet (symptom)
+C2106371  cold left arm (symptom)
+C2106372  cold fifth toe of left foot (symptom)
+C2106373  cold left foot (symptom)
+C2106374  cold fourth toe of left foot (symptom)
+C2106375  cold great toe of left foot
+C2106376  cold left hand (symptom)
+C2106377  cold index finger of left hand
+C2106378  cold left leg
+C2106379  cold little finger of left hand (symptom)
+C2106380  cold middle finger of left hand
+C2106381  cold ring finger of left hand
+C2106382  cold second toe of left foot (symptom)
+C2106383  cold third toe of left foot (symptom)
+C2106384  cold thumb of left hand
+C2106385  cold leg (symptom)
+C2106387  cold right arm
+C2106388  cold fifth toe of right foot (symptom)
+C2106389  cold right foot (symptom)
+C2106390  cold fourth toe of right foot (symptom)
+C2106391  cold great toe of right foot
+C2106392  cold right hand (symptom)
+C2106393  cold index finger of right hand (symptom)
+C2106394  cold right leg (symptom)
+C2106395  cold little finger of right hand
+C2106396  cold middle finger of right hand (symptom)
+C2106397  cold ring finger of right hand (symptom)
+C2106398  cold second toe of right foot (symptom)
+C2106399  cold third toe of right foot
+C2106400  cold thumb of right hand (symptom)
+C2106403  cold toes
+C2107735  constant clavicular pain
+C2108861  left sternoclavicular joint pain
+C2108892  right sternoclavicular joint pain
+C2109070  ankle swelling slowly worsens with decreased level of activity (symptom)
+C2109071  joint swelling in ankle slowly worsens w/ extended activity
+C2109072  joint swelling ankle slowly worse w/ same level of activity
+C2109073  swelling of joint of fourth toe (symptom)
+C2109074  swelling of joint of fourth toe of left foot (symptom)
+C2109075  swelling of joint of fourth toe of right foot (symptom)
+C2109076  swelling of joint of great toe (symptom)
+C2109077  abrupt onset of great toe joint swelling
+C2109078  left great toe joint swelling
+C2109079  right great toe joint swelling
+C2109081  swelling of joint of little toe (symptom)
+C2109082  swelling of joint of little toe of left foot (symptom)
+C2109083  swelling of joint of little toe of right foot (symptom)
+C2109084  swelling of joint of middle toe (symptom)
+C2109085  swelling of joint of middle toe of left foot (symptom)
+C2109086  swelling of joint of middle toe of right foot
+C2109087  swelling of joint of second toe (symptom)
+C2109088  swelling of joint of second toe of left foot
+C2109089  swelling of joint of second toe of right foot (symptom)
+C2109090  tenseness in toes (symptom)
+C2109100  ankle swelling slowly worsens (symptom)
+C2109105  left fourth toe DIP joint swelling
+C2109106  left fourth MTP swelling
+C2109107  left fourth toe PIP joint swelling
+C2109108  right fourth toe DIP joint swelling
+C2109109  right fourth MTP swelling
+C2109110  right fourth toe PIP joint swelling
+C2109111  left great toe IP joint swelling
+C2109112  left first MTP swelling
+C2109113  left first MTP swelling with redness
+C2109114  right great toe IP joint swelling
+C2109115  right first MTP swelling
+C2109116  right first MTP swelling with redness
+C2109132  left little toe DIP joint swelling
+C2109133  left fifth MTP swelling
+C2109134  left little toe PIP joint swelling
+C2109135  right little toe DIP joint swelling
+C2109136  right fifth MTP swelling
+C2109137  right little toe PIP joint swelling
+C2109138  left middle toe DIP joint swelling
+C2109139  left third MTP swelling
+C2109140  left middle toe PIP joint swelling
+C2109141  right middle toe DIP joint swelling
+C2109142  right third MTP swelling
+C2109143  right middle toe PIP joint swelling
+C2109158  left second toe DIP joint swelling
+C2109159  left second MTP swelling
+C2109160  left second toe PIP joint swelling
+C2109161  right second toe DIP joint swelling
+C2109162  right second MTP swelling
+C2109163  right second toe PIP joint swelling
+C2109164  gradual onset of ankle swelling
+C2109165  sudden onset of ankle joint swelling
+C2114287  prepubertal vaginal bleeding
+C2114688  currently nursing with pain during lactation (symptom)
+C2114689  currently nursing with pain in both breasts during lactation (symptom)
+C2114690  currently nursing with pain in left breast during lactation
+C2114691  currently nursing with pain in right breast during lactation
+C2115928  throbbing chest pain
+C2118391  fetal tachycardia with baby delivered (diagnosis)
+C2118393  fetal bradycardia with baby delivered
+C2126061  right eye bulging out
+C2126062  left eye bulging out (symptom)
+C2126063  both eyes bulging out
+C2126073  blurry vision right
+C2126074  blurred vision in left eye
+C2126075  blurred vision in both eyes
+C2126076  lower back pain worse with standing
+C2126077  lower back pain worse with walking
+C2126090  fainting while straining (symptom)
+C2126115  fainting with exercise (symptom)
+C2126117  fainting followed by prolonged sleepiness (symptom)
+C2126130  nosebleeds from right nostril (symptom)
+C2126131  nosebleeds from left nostril (symptom)
+C2126134  nosebleeds from both nostrils (symptom)
+C2126135  nosebleeds with both anterior and posterior drainage (symptom)
+C2126136  nosebleeds starting spontaneously (symptom)
+C2126137  nosebleeds after nosepicking
+C2126231  light bleeding between periods (symptom)
+C2126935  worsening distance and near vision (symptom)
+C2126936  worsening peripheral vision in upper visual fields
+C2126937  worsening peripheral vision lower
+C2126938  worsening peripheral vision in nasal visual fields (symptom)
+C2126939  worsening peripheral vision temporal
+C2126940  worsening vision sustained
+C2126941  worsening vision gradual onset (symptom)
+C2126942  scotoma tracks eye movement
+C2126943  floaters clear with blinking or rubbing eyes
+C2126944  scotoma in the upper field of view
+C2126945  scotoma in the lower field of vision
+C2126946  foggy vision in right eye (symptom)
+C2126947  foggy vision in left eye
+C2126948  foggy vision in both eyes
+C2126949  foggy central vision
+C2126950  foggy vision in peripheral field of vision
+C2126951  foggy vision goes away with blinking or rubbing eyes
+C2126952  foggy vision worse in morning
+C2126953  foggy vision worse in AM improves during the day
+C2126954  foggy vision for distant objects (symptom)
+C2126955  foggy vision for near objects
+C2126956  white or light spots in field of vision (symptom)
+C2126975  seeing more than two images (symptom)
+C2126985  excessive tearing on both sides
+C2126987  red spot on sclera
+C2126988  red spot on right sclera (symptom)
+C2126989  red blotch on sclera left
+C2126990  red spots on both sclerae
+C2127119  worsening nearsightedness making driving difficult
+C2127123  vomiting blood (hematemesis) in large amounts
+C2127148  worsening vision in both eyes (symptom)
+C2127153  worsening central vision right
+C2127154  worsening central vision in left eye (symptom)
+C2127155  worsening central vision in both eyes (symptom)
+C2127161  objects elongated
+C2127162  unilateral macropsia
+C2127163  macropsia in right eye (symptom)
+C2127164  objects appear larger than normal in left eye
+C2127165  worsening nearsightedness in right eye
+C2127166  worsening distance vision left
+C2127167  worsening distance vision in both eyes
+C2127168  worsening near vision in right eye (symptom)
+C2127169  worsening near vision in left eye (symptom)
+C2127170  worsening near vision in both eyes (symptom)
+C2127171  worsening distance and near vision right
+C2127172  worsening distance and near vision left
+C2127173  worsening distance and near vision binocular
+C2127174  worsening vision after prescription change right
+C2127175  worsening vision started after prescription change left
+C2127176  worsening vision started after prescription change binocular
+C2127185  both arms cold (symptom)
+C2127186  both hands cold
+C2127187  both legs cold
+C2127188  cold feet bilaterally
+C2127291  fainting preceded by sudden horrifying experience (symptom)
+C2127292  fainting preceded by seeing blood (symptom)
+C2127293  fainting preceded by seeing an animal
+C2127294  fainting preceded by seeing a spider (symptom)
+C2127295  fainting preceded by seeing a snake (symptom)
+C2127296  fainting preceded by seeing a mouse (symptom)
+C2127304  bilateral ocular pruritus
+C2127306  bloodshot right eye (symptom)
+C2127307  bloodshot left eye
+C2127308  bloodshot both eyes
+C2127312  vision worse in morning (symptom)
+C2127314  foreign body sensation in right eye (symptom)
+C2127315  foreign body sensation in left eye (symptom)
+C2127316  foreign body sensation binocular
+C2127341  light bleeding since last period (symptom)
+C2127383  visual distortion in right eye
+C2127384  visual distortion in left eye
+C2127385  distorted visual images in both eyes
+C2127386  objects elongated in right eye
+C2127387  objects elongated in left eye (symptom)
+C2127388  objects elongated in both eyes (symptom)
+C2127471  lower back pain radiating to legs when walking
+C2127564  breast pain in multiple sites (symptom)
+C2127565  breast pain comes and goes
+C2127684  right upper back pain along inner edge of shoulder blade
+C2127685  left upper back pain along inner edge of scapula (symptom)
+C2127686  right inner edge shoulder blade pain worse with movement
+C2127687  right inner edge shoulder blade pain unchanged with movement
+C2127688  right upper back pain along inner edge of scapula improves with movement (symptom)
+C2127689  left inner edge shoulder blade pain worse with movement
+C2127690  left inner edge shoulder blade pain unchanged with movement
+C2127691  left inner edge shoulder blade pain improves with movement
+C2127692  right upper back pain deep under the shoulder blade
+C2127693  upper back pain deep under R shoulder blade worse than left
+C2127694  left upper back pain deep under the shoulder blade
+C2127695  upper back pain deep under L shoulder blade worse than right
+C2127696  lower back pain radiating to the legs worse on right
+C2127697  lower back pain radiating to the legs worse on left
+C2128161  lower back pain worse with bending forward
+C2128162  lower back pain worsens with bending backward
+C2128163  lower back pain worsens with bending to right (symptom)
+C2128164  lower back pain worsens with bending to left (symptom)
+C2128165  lower back pain worse with turning
+C2128170  upper back pain worse with lifting (symptom)
+C2128194  unrelenting upper back pain (symptom)
+C2128195  unrelenting midback pain
+C2128196  lower back pain unrelenting
+C2128225  upper back pain difficult to localize (symptom)
+C2128226  difficult to localize midback pain
+C2128227  lower back pain difficult to localize
+C2128326  lower back pain shocklike sensation
+C2128327  shocklike sensation from lower back to right foot (symptom)
+C2128328  shocklike sensation from lower back to left foot
+C2128497  lower back pain worse with straining during bowel movement
+C2128504  lower back pain causing difficulty standing erect (symptom)
+C2128505  lower back pain relieved frequent position changes (sitting)
+C2128506  lower back pain worsens
+C2128507  lower back pain worse with stooping
+C2128508  lower back pain worsens with lifting (___ lbs)
+C2128509  lower back pain relieved by
+C2128510  lower back pain causing difficulty finding a comfortable position
+C2128511  lower back pain relieved by lying down on the back with a pillow under the knees
+C2128516  upper back pain causing inability to sleep
+C2128517  midback pain causing inability to sleep
+C2128518  lower back pain causing inability to sleep
+C2128530  lower back pain worse with sitting
+C2128531  lower back pain worsens with sitting in car (symptom)
+C2128532  lower back pain relieved by sitting
+C2128533  lower back pain relieved by standing (symptom)
+C2128534  lower back pain relieved by movement walking
+C2128535  lower back pain worsens when putting on shoes (symptom)
+C2128536  lower back pain worsens when putting on right shoe
+C2128537  lower back pain worsens when putting on left shoe
+C2128538  lower back pain worsens when putting on both shoes
+C2128539  lower back pain radiating to anterior thigh (symptom)
+C2128540  lower back pain radiating to the anterior right thigh
+C2128541  lower back pain radiating to the anterior left thigh
+C2128542  lower back pain radiating to knee
+C2128543  lower back pain radiating to the right knee
+C2128544  lower back pain radiating to the left knee
+C2128545  lower back pain radiating to posterior leg (symptom)
+C2128546  lower back pain radiating to posterior right leg
+C2128547  lower back pain radiating to the right ankle
+C2128548  lower back pain radiating to posterior left leg (symptom)
+C2128549  lower back pain radiating to the left ankle
+C2128550  lower back pain radiating to the right foot
+C2128551  lower back pain radiating to the left foot
+C2128552  lower back pain radiating to the medial right foot
+C2128553  lower back pain radiating to the lateral right foot
+C2128554  lower back pain radiating to the medial left foot
+C2128555  lower back pain radiating to the lateral left foot
+C2128577  lower back pain relieved by leaning forward
+C2128640  lower back pain after sleeping on back a few hours
+C2128824  lower back pain disproportionate to injury
+C2129186  vomiting blood at beginning of vomiting
+C2129187  vomiting blood after several episodes of vomiting (symptom)
+C2129221  lower back pain radiating
+C2129222  lower back pain radiating to the buttocks
+C2129223  lower back pain radiating to right buttock
+C2129224  lower back pain radiating to left buttock (symptom)
+C2129225  lower back pain radiating to both buttocks
+C2129226  upper back pain worsens
+C2129227  upper back pain worse at night
+C2129228  upper back pain worse with breathing (symptom)
+C2129229  upper back pain worse with coughing/sneezing
+C2129230  upper back pain worse with straining during bowel movement
+C2129231  upper back pain worse with sitting (symptom)
+C2129232  upper back pain worse with standing (symptom)
+C2129233  upper back pain worse with walking (symptom)
+C2129234  upper back pain worse with stooping (symptom)
+C2129235  upper back pain worse with bending
+C2129236  upper back pain worse with turning
+C2129237  upper back pain worse when putting on shoes (symptom)
+C2129238  radiating upper back pain
+C2129239  upper back pain radiating to upper extremities (symptom)
+C2129240  upper back pain radiating to the right upper extremity
+C2129241  upper back pain radiating to the left upper extremity
+C2129242  upper back pain radiating to both upper extremities
+C2129243  midback pain worsens
+C2129244  midback pain worsens at night
+C2129245  midback pain worsens with breathing
+C2129246  midback pain worse with coughing/sneezing
+C2129247  midback pain worsens with straining during bowel movement
+C2129248  midback pain worsens with sitting
+C2129249  midback pain worsens with standing (symptom)
+C2129250  midback pain worsens with walking (symptom)
+C2129251  midback pain worsens with stooping
+C2129252  midback pain worsens with bending
+C2129253  midback pain worsens with lifting (___ lbs)
+C2129254  midback pain worsens with turning (symptom)
+C2129255  midback pain worsens when going from sitting to standing
+C2129256  midback pain worsens when putting on shoes (symptom)
+C2129257  midback pain interfering with job duties
+C2129258  midback pain no longer radiates (symptom)
+C2129259  lower back pain radiating to the medial right ankle
+C2129260  lower back pain radiating to the lateral right ankle
+C2129261  lower back pain radiating to the medial left ankle
+C2129262  lower back pain radiating to the lateral left ankle
+C2129263  lower back pain worse in the morning
+C2129264  lower back pain worse with driving
+C2129265  lower back pain worsens when going from sitting to standing
+C2129266  lower back pain relieved by leaning backward (symptom)
+C2129267  muscle spasm in the upper back
+C2129268  muscle spasm in the right upper back
+C2129269  muscle spasm in the left upper back
+C2129270  muscle spasm in the mid upper back
+C2129271  bilateral muscle spasms in the upper back
+C2129272  muscle spasm in the midback
+C2129273  muscle spasm in midback on right (symptom)
+C2129274  muscle spasm in midback on left (symptom)
+C2129275  muscle spasm in midback in midline
+C2129276  bilateral muscle spasms in the midback
+C2129279  muscle spasm in the mid lower back
+C2129280  lower back pain muscle spasm bilateral
+C2129281  lower back pain radiating to ankle
+C2129282  lower back pain radiating to foot
+C2129283  lower back pain radiating to toe
+C2129284  lower back pain radiating to toe of right foot
+C2129285  lower back pain radiating to great toe of right foot
+C2129286  lower back pain radiating to second toe of right foot (symptom)
+C2129287  lower back pain radiating to third toe of right foot (symptom)
+C2129288  lower back pain radiating to fourth toe of right foot (symptom)
+C2129289  lower back pain radiating to fifth toe of right foot (symptom)
+C2129290  lower back pain radiating to toes of left foot (symptom)
+C2129291  lower back pain radiating to great toe of left foot
+C2129292  lower back pain radiating to second toe of left foot (symptom)
+C2129293  lower back pain radiating to third toe of left foot
+C2129294  lower back pain radiating to fourth toe of left foot
+C2129295  lower back pain radiating to fifth toe of left foot
+C2129305  upper back pain radiating to scapula (symptom)
+C2129306  upper back pain radiating to the right scapula
+C2129307  upper back pain radiating to the left scapula
+C2129308  upper back pain radiating along the midline
+C2129315  mucous eye discharge with matted eyelashes (symptom)
+C2129316  mucous eye discharge with matted eyelashes after nap
+C2129383  right axillary pain
+C2129384  pain in the left axilla
+C2129385  bilateral axillary pain (symptom)
+C2129441  upper back pain midline
+C2129442  upper back pain right of midline
+C2129443  upper back pain left of midline
+C2129444  midline upper back pain worse with movement
+C2129445  midline upper back pain is unchanged with movement
+C2129446  midline upper back pain improves with movement
+C2129447  midline midback pain
+C2129448  midback pain right of midline
+C2129449  midback pain left of midline
+C2129450  midline midback pain worse with movement
+C2129451  midline midback pain unchanged with movement
+C2129452  midline midback pain improves with movement
+C2129453  lower back pain midline
+C2129454  lower back pain right of midline
+C2129455  lower back pain left of midline
+C2129456  midline low back pain worse with movement (symptom)
+C2129457  midline lower back pain unchanged with movement
+C2129458  midline lower back pain improves with movement
+C2129459  upper back pain worse during storms
+C2129460  upper back pain worse before storms (symptom)
+C2129461  upper back pain worse with cold temperatures
+C2129462  midback pain worsens during storms (symptom)
+C2129463  midback pain worsens before storms
+C2129464  midback pain worsens with cold temperatures (symptom)
+C2129465  lower back pain worsens during storms (symptom)
+C2129466  lower back pain worsens before storms (symptom)
+C2129467  lower back pain worsens with cold temperatures
+C2129468  factors relieving upper back pain
+C2129469  midback pain relieved by
+C2129470  upper back pain relieved by medication (symptom)
+C2129471  upper back pain relieved by bracing (symptom)
+C2129472  upper back pain relieved by heat
+C2129473  upper back pain relieved by ice
+C2129474  upper back pain relieved by firm mattress
+C2129475  upper back pain relieved by softer mattress (symptom)
+C2129476  upper back pain relieved by waterbed (symptom)
+C2129477  upper back pain relieved by alternative medicine approach (symptom)
+C2129478  midback pain relieved by medication
+C2129479  midback pain relieved by bracing (symptom)
+C2129480  midback pain relieved by heat
+C2129481  midback pain relieved by ice
+C2129482  midback pain relieved by firm mattress
+C2129483  midback pain relieved by softer mattress (symptom)
+C2129484  midback pain relieved by waterbed
+C2129485  midback pain relieved by alternative medicine approach (symptom)
+C2129486  lower back pain relieved by medication
+C2129487  lower back pain relieved by bracing (symptom)
+C2129488  lower back pain relieved by heat (symptom)
+C2129489  lower back pain relieved by ice (symptom)
+C2129490  lower back pain relieved by firm mattress (symptom)
+C2129491  lower back pain relieved by softer mattress (symptom)
+C2129492  lower back pain relieved by waterbed (symptom)
+C2129493  lower back pain relieved by an alternative medicine approach
+C2129494  upper back pain started suddenly with lifting (___ lbs)
+C2129495  upper back pain started suddenly with bending
+C2129496  upper back pain started suddenly with twisting (symptom)
+C2129497  upper back pain started suddenly while at work (symptom)
+C2129498  midback pain started suddenly with lifting (___ lbs)
+C2129499  midback pain started suddenly with bending
+C2129500  midback pain started suddenly with twisting
+C2129501  midback pain started suddenly while at work (symptom)
+C2129502  lower back pain started suddenly with lifting (___ lbs)
+C2129503  lower back pain started suddenly with bending
+C2129504  lower back pain started suddenly with twisting (symptom)
+C2129505  lower back pain started suddenly while at work (symptom)
+C2129506  upper back pain started gradually (symptom)
+C2129507  midback pain started gradually (symptom)
+C2129508  lower back pain worsens with driving over rough terrain (symptom)
+C2129509  upper back pain worse with driving
+C2129510  upper back pain worse with driving over rough terrain (symptom)
+C2129512  midback pain worsens with driving
+C2129513  midback pain worsens with driving over rough terrain (symptom)
+C2129514  upper back pain no longer radiates (symptom)
+C2129515  lower back pain no longer radiates (symptom)
+C2129516  lower back pain radiating to legs after walking specified number of blocks
+C2129517  lower back pain radiating to groin (symptom)
+C2129518  lower back pain radiating to right groin (symptom)
+C2129519  lower back pain radiating to left groin
+C2129520  lower back pain radiating to both groins
+C2129521  right lower back pain at the sacroiliac joint
+C2129522  left lower back pain at the sacroiliac joint
+C2129612  upper back pain worse when sleeping on back
+C2129613  upper back pain worse when sleeping on stomach
+C2129614  midback pain worsens when sleeping on back
+C2129615  midback pain worsens when sleeping on stomach (symptom)
+C2129616  lower back pain worsens when sleeping on back
+C2129617  lower back pain worsens when sleeping on stomach (symptom)
+C2129618  upper back pain worse during exercise
+C2129619  upper back pain worse after exercise (symptom)
+C2129620  midback pain worsens during exercise (symptom)
+C2129621  midback pain worsens after exercise (symptom)
+C2129622  lower back pain worsens during exercise
+C2129623  lower back pain worsens after exercise (symptom)
+C2130055  upper back pain unchanged (symptom)
+C2130056  upper back pain unchanged with breathing
+C2130057  upper back pain unchanged with coughing/sneezing
+C2130058  upper back pain unchanged with straining during bowel movement (symptom)
+C2130059  upper back pain unchanged with sitting
+C2130060  upper back pain unchanged with driving (symptom)
+C2130061  upper back pain unchanged with driving over rough terrain (symptom)
+C2130062  upper back pain unchanged with standing
+C2130063  upper back pain unchanged with walking (symptom)
+C2130064  upper back pain unchanged during exercise (symptom)
+C2130065  upper back pain unchanged after exercise (symptom)
+C2130066  upper back pain unchanged with stooping
+C2130067  upper back pain unchanged with bending
+C2130068  upper back pain unchanged with lifting (symptom)
+C2130069  upper back pain unchanged with turning
+C2130070  upper back pain unchanged with lying down (symptom)
+C2130071  upper back pain unchanged when sleeping on back
+C2130072  upper back pain unchanged when sleeping on stomach
+C2130073  upper back pain unchanged when putting on shoes
+C2130074  upper back pain unchanged during storms (symptom)
+C2130075  upper back pain unchanged before storms (symptom)
+C2130076  upper back pain unchanged with cold temperatures (symptom)
+C2130077  midback pain unchanged
+C2130078  midback pain unchanged at night
+C2130079  midback pain unchanged with breathing
+C2130080  midback pain unchanged with coughing or sneezing (symptom)
+C2130081  midback pain unchanged with straining during bowel movement (symptom)
+C2130082  midback pain unchanged with sitting
+C2130083  midback pain unchanged with driving
+C2130084  midback pain unchanged with driving over rough terrain
+C2130085  midback pain unchanged with standing (symptom)
+C2130086  midback pain unchanged with walking (symptom)
+C2130087  midback pain unchanged during exercise
+C2130088  midback pain unchanged after exercise
+C2130089  midback pain unchanged with stooping (symptom)
+C2130090  midback pain unchanged with bending
+C2130091  midback pain unchanged with lifting (___ lbs)
+C2130092  midback pain unchanged with turning (symptom)
+C2130093  midback pain unchanged with lying down (symptom)
+C2130094  midback pain unchanged when sleeping on back (symptom)
+C2130095  midback pain unchanged when sleeping on stomach (symptom)
+C2130096  midback pain unchanged when putting on shoes
+C2130097  midback pain unchanged when going from sitting to standing
+C2130098  midback pain unchanged during storms (symptom)
+C2130099  midback pain unchanged before storms
+C2130100  midback pain unchanged with cold temperatures (symptom)
+C2130101  unchanged lower back pain (symptom)
+C2130102  lower back pain is unchanged in the morning
+C2130103  lower back pain unchanged with coughing or sneezing (symptom)
+C2130104  lower back pain unchanged w/ straining during bowel movement
+C2130105  lower back pain unchanged with sitting
+C2130106  lower back pain unchanged with sitting in a car (symptom)
+C2130107  lower back pain unchanged with driving
+C2130108  lower back pain unchanged with driving over rough terrain
+C2130109  lower back pain unchanged when going from sitting to standing (symptom)
+C2130110  lower back pain unchanged with standing
+C2130111  lower back pain unchanged with walking (symptom)
+C2130112  lower back pain unchanged during exercise
+C2130113  lower back pain unchanged after exercise (symptom)
+C2130114  lower back pain unchanged with stooping
+C2130115  lower back pain unchanged with bending (symptom)
+C2130116  lower back pain unchanged with bending forward
+C2130117  lower back pain unchanged with bending backward (symptom)
+C2130118  lower back pain unchanged with bending to right
+C2130119  lower back pain unchanged with bending to left (symptom)
+C2130120  lower back pain unchanged with lifting (___ lbs)
+C2130121  lower back pain unchanged with turning (symptom)
+C2130122  lower back pain unchanged by lying down (symptom)
+C2130123  lower back pain unchanged when sleeping on back (symptom)
+C2130124  lower back pain unchanged when sleeping on stomach
+C2130125  lower back pain unchanged when putting on shoes
+C2130126  lower back pain unchanged when putting on right shoe
+C2130127  lower back pain unchanged when putting on left shoe
+C2130128  lower back pain unchanged when putting on both shoes (symptom)
+C2130129  lower back pain unchanged during storms (symptom)
+C2130130  lower back pain unchanged before storms
+C2130131  lower back pain unchanged with cold temperatures (symptom)
+C2130134  upper back pain present upon awakening (symptom)
+C2130135  midback pain present upon awakening
+C2130136  lower back pain present upon awakening (symptom)
+C2130137  upper back pain started suddenly during sports activity
+C2130138  upper back pain start suddenly after motor vehicle accident (symptom)
+C2130139  midback pain started suddenly during sports activity (symptom)
+C2130140  midback pain started suddenly after motor vehicle accident (symptom)
+C2130141  lower back pain started suddenly during sports activity (symptom)
+C2130142  lower back pain start suddenly after motor vehicle accident (symptom)
+C2130149  upper back pain interfering with job duties
+C2130150  intermittent upper back pain
+C2130151  intermittent midback pain (symptom)
+C2130239  breast pain fluctuates with menses
+C2130283  scotoma in the nasal field of view
+C2130284  scotoma in the temporal field of view
+C2130285  scotoma upper field right
+C2130286  scotoma upper field left
+C2130287  scotoma in the upper half of visual field in both eyes
+C2130288  scotoma lower field right
+C2130289  scotoma lower field left
+C2130290  scotoma lower field binocular
+C2130291  scotoma nasal field right
+C2130292  scotoma nasal field left
+C2130293  scotoma nasal field binocular
+C2130294  scotoma temporal field right
+C2130295  scotoma temporal field left
+C2130296  scotoma temporal field binocular
+C2141060  left eye feels gritty
+C2141061  left eye feels scratchy (symptom)
+C2141063  dry left eye
+C2142807  pruritus of left eye (symptom)
+C2142808  pruritus of right eye (symptom)
+C2143936  discharge of pus from both eyes
+C2143938  purulent discharge from eye (symptom)
+C2143939  purulent discharge from left eye
+C2143940  purulent eye discharge right
+C2144154  cold toes both feet
+C2144155  cold toes left foot
+C2144156  cold toes right foot
+C2144962  total loss of vision in both eyes (symptom)
+C2144963  total loss of vision in both eyes occurs briefly for more global events
+C2144964  total blindness in left eye
+C2144965  total loss of vision in right eye
+C2165501  depressed fetal heart sounds (diagnosis)
+C2165503  depressed fetal heart sounds with baby delivered (diagnosis)
+C2168111  left-sided low back pain
+C2168170  leg pain with exercise (leg claudication)
+C2169315  raised growth on white of eye
+C2169796  chest pain or discomfort is recurring
+C2169801  recurrent episodes of fainting
+C2169814  right eye is red
+C2169815  red eye on left
+C2169821  red or bloody growth on white of eye (symptom)
+C2183423  difficulty distinguishing colors
+C2183438  difficulty reading improved by holding text further away (symptom)
+C2183440  difficulty seeing in bright light
+C2183472  diffuse bilateral periorbital swelling
+C2184182  localized chest pain (symptom)
+C2185950  loss of vision in part of visual field as if curtain were being drawn
+C2185953  lower back pain radiating to the legs
+C2185954  lower back pain relieved by lying down (symptom)
+C2185955  lower back pain worse with bending
+C2185956  lower back pain worse with coughing or sneezing
+C2185957  lower back pain worsened by lying down (symptom)
+C2185964  lower back pain precipitated by tension, depression, anxiety
+C2185965  lower back pain relieved by movement
+C2187162  localized retinal edema of both eyes (diagnosis)
+C2187163  localized edema of left retina (diagnosis)
+C2187164  localized edema of right retina
+C2187168  peripheral retinal edema of both eyes (diagnosis)
+C2187169  peripheral edema of left retina (diagnosis)
+C2187170  peripheral edema of right retina
+C2188004  unconscious about 1-5 minutes after fainting (symptom)
+C2188005  unconscious for 15 seconds or less after fainting (symptom)
+C2188172  unexplained vaginal bleeding (symptom)
+C2188185  unilateral red eye (symptom)
+C2188232  upper back pain on the left
+C2188233  upper back pain radiating around the chest
+C2188234  upper back pain relieved by lying down
+C2188235  upper back pain started suddenly (symptom)
+C2188237  upper back pain worse with lying down (symptom)
+C2189718  worsening vision started after prescription change
+C2198872  worsening vision after prescription change distance vision
+C2199604  easy bleeding (symptom)
+C2199605  easy bleeding after major surgery or trauma (symptom)
+C2199606  occurrence of easy bleeding
+C2199607  easy bleeding occurring spontaneously
+C2199608  onset of easy bleeding
+C2199609  easy bleeding starting several hours or days after injury
+C2199610  recurrent easy bleeding (symptom)
+C2199611  easy bleeding tendency which restarts after having stopped (symptom)
+C2201587  right eye feels gritty
+C2201588  scratchy eyes right
+C2201590  dry right eye
+C2202674  vitreous cavitation of both eyes (diagnosis)
+C2202675  vitreous cavitation of left eye
+C2202676  vitreous cavitation of right eye (diagnosis)
+C2202704  coffee ground emesis in large amounts
+C2202709  vomiting 'coffee grounds' material
+C2202977  watery discharge binocular
+C2202978  watery discharge from eye
+C2202979  watery discharge from left eye (symptom)
+C2202980  watery discharge from right eye
+C2202982  wavy lines in vision
+C2203257  white or light spots in field of vision stationary (symptom)
+C2203298  worsening central vision
+C2203299  worsening distance vision (symptom)
+C2203301  worsening near vision (symptom)
+C2203302  worsening peripheral vision
+C2203303  worsening peripheral vision binocular
+C2203304  worsening peripheral vision in left eye (symptom)
+C2203305  worsening peripheral vision in right eye
+C2203308  worsening vision as day progresses (symptom)
+C2203309  worsening vision in left eye
+C2203310  worsening vision in one eye
+C2203311  worsening vision in right eye (symptom)
+C2203312  transient worsening of vision (symptom)
+C2203313  worsening vision progressing rapidly (symptom)
+C2203314  worsening vision progressing slowly (symptom)
+C2203643  yellow growth on white of eye
+C2203647  yellow skin or eyes during pregnancy, subsiding afterwards
+C2203648  jaundice following a blood transfusion
+C2203649  yellow skin or eyes occurs intermittently (symptom)
+C2203650  yellow skin or eyes during first week after surgery (symptom)
+C2203733  seeing words, letters, or syllables reversed on page (symptom)
+C2203735  overflow of tears in one eye
+C2203736  mucous discharge from eye
+C2203737  yellow-green halos around lights
+C2219018  right upper back pain
+C2219286  lower back pain on the right
+C2219313  ring scotoma of both eyes
+C2219314  ring scotoma of left eye (diagnosis)
+C2219315  ring scotoma of right eye
+C2219721  bleeding after sexual intercourse
+C2219722  breast pain occurring several days before menstruation (symptom)
+C2219727  fainting while using hands or arms
+C2219728  fainting upon bending over (symptom)
+C2219729  fainting upon standing up
+C2219812  midback pain started suddenly (symptom)
+C2219813  midback pain radiates around chest (symptom)
+C2219814  midback pain relieved by lying down (symptom)
+C2219815  midback pain worsens with lying down (symptom)
+C2219816  lower back pain excruciating
+C2219960  fainting preceded by sudden or severe headache (symptom)
+C2219961  fainting followed by a headache
+C2219962  fainting preceded by turning pale (symptom)
+C2219963  fainting preceded by sweating (symptom)
+C2219964  fainting preceded by flushing
+C2219965  fainting during urination
+C2219966  fainting while coughing (symptom)
+C2219967  fainting preceded by sudden severe throat pain
+C2219968  fainting preceded by sudden severe ear pain
+C2219969  fainting preceded by rapid or irregular heartbeat
+C2219970  fainting preceded by turning blue
+C2219983  fainting preceded by chest pain (symptom)
+C2219989  total vision loss unilaterally occurring briefly
+C2220035  persistent bulging of eyes
+C2220040  mucous eye discharge right
+C2220041  mucous eye discharge left
+C2220042  bilateral red eyes (symptom)
+C2220050  blurred vision as if looking through a glass of water
+C2220051  seeing a bright light for 1-15 minutes
+C2220052  eye feels scratchy
+C2220055  midback pain on right
+C2220056  midback pain on left (symptom)
+C2220057  fainting preceded (symptom)
+C2220063  bone pain in right clavicle (symptom)
+C2220064  bone pain in left clavicle (symptom)
+C2220092  mucous discharge from both eyes
+C2220108  mucous eye discharge with matted eyelashes AM
+C2220245  worsening vision after prescription change for near vision
+C2228009  angioscotoma of both eyes (diagnosis)
+C2228010  angioscotoma of left eye (diagnosis)
+C2228011  angioscotoma of right eye (diagnosis)
+C2228017  aniseikonia of left eye
+C2228018  aniseikonia of right eye (diagnosis)
+C2228803  mastodynia of left breast (diagnosis)
+C2228804  mastodynia of right breast
+C2229262  scintillating scotoma of both eyes
+C2229263  scintillating scotoma of left eye
+C2229264  scintillating scotoma of right eye (diagnosis)
+C2229357  seed-like growth on white of eye
+C2231402  anterior wall chest pain with respiration
+C2232692  dryness binocular
+C2232693  scratchy eyes binocular
+C2232694  both eyes feel gritty (symptom)
+C2232721  cold fingers right hand
+C2232722  cold fingers left hand
+C2232723  cold fingers both hands
+C2232724  fainting after swallowing (symptom)
+C2232725  fainting preceded by nausea
+C2232726  fainting while sitting (symptom)
+C2232727  fainting while lying down (symptom)
+C2232728  fainting preceded by sudden severe pain (symptom)
+C2232734  bilateral supraorbital swelling (symptom)
+C2232735  bilateral infraorbital swelling as symptom
+C2232736  bilateral periorbital swelling
+C2232739  object swimming across field of vision
+C2233553  epistaxis stops
+C2233554  nosebleeds stop spontaneously (symptom)
+C2233555  nosebleeds stop with manual pressure
+C2233556  nosebleeds stop with nasal packing
+C2233557  nosebleeds after blood-thinning medication
+C2233585  flank pain emanating from spine (symptom)
+C2233586  flank pain crossing midline (symptom)
+C2233587  migratory flank pain
+C2233588  gradual onset of flank pain
+C2233589  abrupt onset of flank pain
+C2233590  flank pain severity
+C2233591  flank pain intermittent
+C2233592  quality of flank pain
+C2233593  flank pain quality sharp
+C2233594  stabbing flank pain
+C2233595  dull flank pain
+C2233596  positional flank pain
+C2233597  flank pain unrelated to meals
+C2233598  factors exacerbating flank pain (symptom)
+C2233599  flank pain worsened by sneezing or coughing (symptom)
+C2233600  flank pain worsened by bowel movement (symptom)
+C2233601  flank pain worsened by urinating (symptom)
+C2233602  flank pain worsened by breathing deeply (symptom)
+C2233603  flank pain worsened by bending forward (symptom)
+C2233604  flank pain worsened by twisting (symptom)
+C2233605  flank pain worsened by curling up on one's side
+C2233606  factors relieving flank pain
+C2233607  flank pain lessened by sneezing or coughing
+C2233608  flank pain lessened by bowel movement
+C2233609  flank pain lessened by urinating
+C2233610  flank pain lessened by breathing deeply (symptom)
+C2233611  flank pain lessened by bending forward (symptom)
+C2233612  flank pain lessened by twisting (symptom)
+C2233613  flank pain lessened by curling up on one's side (symptom)
+C2233614  flank pain lessened by applying heat (symptom)
+C2233615  flank pain lessened by applying cold
+C2233616  flank pain lessened by massage
+C2233617  flank pain not made better by anything (symptom)
+C2233624  skin-like growth on eyelid
+C2233625  skin colored growth on eyelid
+C2233626  brown eyelid growth
+C2233627  pigmented eyelid growth
+C2233628  red growth on eyelid
+C2233629  orange growth on eyelid (symptom)
+C2233630  bumpy growth on eyelid (symptom)
+C2233631  lumpy eyelid growth
+C2233632  skin-like growth on white of eye (symptom)
+C2233633  fibrous growth on white of eye (symptom)
+C2233637  location of pain in flank
+C2233638  timing of flank pain
+C2233639  flank pain increasing in frequency
+C2233640  flank pain decreasing in frequency (symptom)
+C2233641  flank pain gradually resolves on its own
+C2318661  chest pain made worse by exertion (symptom)
+C2318662  chest pain radiating to arms (symptom)
+C2318663  chest pain radiating to back (symptom)
+C2318664  chest pain radiating to left arm (symptom)
+C2318665  chest pain radiating to mid-back
+C2318666  chest pain radiating to right arm (symptom)
+C2318667  chest pain radiating to throat (symptom)
+C2318668  chest pain relieved by exertion
+C2321745  total vision loss occurring briefly
+C2321786  progressive exertional angina pectoris
+C2367594  fainting followed by event (symptom)
+C2367595  fainting preceded by sudden severe neck pain (symptom)
+C2728871  angina pectoris equivalent
+C2729493  chest pain located left of center
+C2729494  right precordial chest pain
+C2881415  Glare sensitivity
+C2919276  Edema of back (finding)
+C2919314  Oedema of entire limb
+C2919341  Edema of dorsum of foot
+C2919556  Firm pitting edema (finding)
+C2919622  Edema of suprapubic region (finding)
+C2919683  Edema of sole of foot
+C2919705  Soft pitting edema (finding)
+C3203733  Precordial catch syndrome
+C3272268  Typical Coronary Artery Disease Symptom
+C3275051  Atypical Coronary Artery Disease Symptom
+C3506134  cardiac defibrillator 'going off'
+C3508111  retraction right eyelid
+C3508112  retraction left eyelid (physical finding)
+C3509788  neonatal jaundice due to excessive hemolysis (diagnosis)
+C3532941  Anterior pleuritic pain (finding)

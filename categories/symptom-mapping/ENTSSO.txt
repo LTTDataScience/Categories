@@ -1,0 +1,1064 @@
+C0008301 Finding
+C0011057 Finding
+C0013456 Sign or Symptom
+C0017565 Finding
+C0018520 Sign or Symptom
+C0018772 Finding
+C0018779 Mental or Behavioral Dysfunction
+C0019521 Finding
+C0019825 Sign or Symptom
+C0027424 Sign or Symptom
+C0032781 Sign or Symptom
+C0037383 Finding
+C0037384 Sign or Symptom
+C0040264 Finding
+C0040434 Finding
+C0040460 Sign or Symptom
+C0043352 Sign or Symptom
+C0043387 Finding
+C0086066 Finding
+C0152228 Sign or Symptom
+C0155533 Sign or Symptom
+C0155534 Sign or Symptom
+C0155540 Finding
+C0155542 Sign or Symptom
+C0231918 Sign or Symptom
+C0231919 Finding
+C0235234 Sign or Symptom
+C0235282 Sign or Symptom
+C0235283 Sign or Symptom
+C0235285 Sign or Symptom
+C0235324 Finding
+C0235356 Finding
+C0235429 Finding
+C0236000 Sign or Symptom
+C0236071 Finding
+C0237244 Finding
+C0239064 Finding
+C0239206 Sign or Symptom
+C0239223 Sign or Symptom
+C0239571 Finding
+C0239739 Sign or Symptom
+C0240211 Sign or Symptom
+C0240308 Finding
+C0240311 Sign or Symptom
+C0241457 Sign or Symptom
+C0241462 Sign or Symptom
+C0241700 Sign or Symptom
+C0242429 Sign or Symptom
+C0262451 Sign or Symptom
+C0262502 Finding
+C0262503 Finding
+C0264272 Sign or Symptom
+C0264274 Sign or Symptom
+C0266952 Sign or Symptom
+C0267028 Sign or Symptom
+C0271411 Sign or Symptom
+C0277980 Sign or Symptom
+C0277981 Sign or Symptom
+C0277982 Finding
+C0277983 Finding
+C0277984 Sign or Symptom
+C0338948 Mental or Behavioral Dysfunction
+C0347825 Finding
+C0395908 Finding
+C0395956 Finding
+C0395957 Finding
+C0395958 Finding
+C0395959 Sign or Symptom
+C0395960 Finding
+C0399410 Sign or Symptom
+C0399411 Sign or Symptom
+C0399412 Finding
+C0399413 Finding
+C0399414 Finding
+C0399415 Finding
+C0399416 Finding
+C0399417 Finding
+C0399590 Sign or Symptom
+C0423479 Sign or Symptom
+C0423517 Sign or Symptom
+C0423546 Finding
+C0423625 Sign or Symptom
+C0423626 Sign or Symptom
+C0423628 Sign or Symptom
+C0424489 Sign or Symptom
+C0425455 Finding
+C0425554 Finding
+C0426466 Sign or Symptom
+C0426481 Sign or Symptom
+C0426484 Sign or Symptom
+C0426498 Sign or Symptom
+C0426528 Finding
+C0426610 Finding
+C0436889 Finding
+C0436898 Finding
+C0436900 Finding
+C0436901 Finding
+C0436902 Finding
+C0437471 Finding
+C0437472 Finding
+C0437473 Finding
+C0437474 Finding
+C0437664 Finding
+C0437666 Finding
+C0437667 Finding
+C0437668 Finding
+C0437669 Finding
+C0437670 Finding
+C0437672 Finding
+C0437674 Finding
+C0437675 Finding
+C0437716 Finding
+C0439029 Sign or Symptom
+C0439030 Finding
+C0456139 Finding
+C0456491 Finding
+C0456492 Finding
+C0456759 Finding
+C0456760 Finding
+C0456761 Finding
+C0456897 Mental or Behavioral Dysfunction
+C0459144 Finding
+C0475122 Finding
+C0475124 Finding
+C0521787 Sign or Symptom
+C0521788 Sign or Symptom
+C0521789 Sign or Symptom
+C0521790 Sign or Symptom
+C0521791 Sign or Symptom
+C0522047 Sign or Symptom
+C0522347 Sign or Symptom
+C0541967 Finding
+C0549250 Sign or Symptom
+C0554973 Finding
+C0555723 Finding
+C0555724 Finding
+C0555760 Finding
+C0557275 Finding
+C0558177 Finding
+C0558516 Finding
+C0558944 Sign or Symptom
+C0563385 Finding
+C0563389 Finding
+C0563394 Finding
+C0563400 Finding
+C0563406 Finding
+C0563412 Finding
+C0563418 Finding
+C0563424 Finding
+C0575010 Sign or Symptom
+C0575145 Finding
+C0575146 Finding
+C0575147 Finding
+C0576836 Sign or Symptom
+C0576837 Sign or Symptom
+C0576838 Sign or Symptom
+C0576949 Finding
+C0576951 Finding
+C0576953 Finding
+C0576954 Finding
+C0577934 Finding
+C0578044 Sign or Symptom
+C0578078 Sign or Symptom
+C0578733 Finding
+C0581298 Finding
+C0581859 Finding
+C0584595 Finding
+C0584809 Finding
+C0584845 Finding
+C0584846 Finding
+C0584847 Finding
+C0683113 Finding
+C0700184 Sign or Symptom
+C0743554 Sign or Symptom
+C0745015 Sign or Symptom
+C0751466 Sign or Symptom
+C0847233 Sign or Symptom
+C0847554 Sign or Symptom
+C0848220 Sign or Symptom
+C0850060 Sign or Symptom
+C0857008 Finding
+C0857009 Finding
+C0877717 Sign or Symptom
+C0877742 Finding
+C0878638 Sign or Symptom
+C1148477 Sign or Symptom
+C1260880 Sign or Symptom
+C1268587 Sign or Symptom
+C1277600 Finding
+C1277601 Finding
+C1290644 Sign or Symptom
+C1291008 Finding
+C1303045 Finding
+C1303046 Finding
+C1313969 Finding
+C1384666 Finding
+C1386209 Sign or Symptom
+C1395353 Sign or Symptom
+C1404891 Sign or Symptom
+C1408810 Sign or Symptom
+C1828062 Finding
+C1839694 Finding
+C1862923 Finding
+C1955514 Finding
+C1997086 Finding
+C2008828 Sign or Symptom
+C2008880 Sign or Symptom
+C2011482 Finding
+C2011483 Finding
+C2011484 Finding
+C2011485 Finding
+C2011486 Finding
+C2011487 Finding
+C2011488 Finding
+C2011489 Finding
+C2011490 Finding
+C2011491 Finding
+C2011492 Finding
+C2011493 Finding
+C2011494 Finding
+C2011495 Finding
+C2011496 Finding
+C2011497 Finding
+C2011498 Finding
+C2011499 Finding
+C2011500 Finding
+C2011501 Finding
+C2011502 Finding
+C2011503 Finding
+C2011504 Finding
+C2011505 Finding
+C2011506 Finding
+C2011507 Finding
+C2011508 Finding
+C2011509 Finding
+C2011510 Finding
+C2011511 Finding
+C2011512 Finding
+C2011513 Finding
+C2011514 Finding
+C2011515 Finding
+C2011516 Finding
+C2011517 Finding
+C2011518 Finding
+C2011519 Finding
+C2011520 Finding
+C2011521 Finding
+C2011522 Finding
+C2011523 Finding
+C2011524 Finding
+C2011525 Finding
+C2011526 Finding
+C2011527 Finding
+C2011528 Finding
+C2011529 Finding
+C2011530 Finding
+C2011531 Finding
+C2011532 Finding
+C2011533 Finding
+C2011534 Finding
+C2011535 Finding
+C2011536 Finding
+C2011537 Finding
+C2011538 Finding
+C2011539 Finding
+C2011540 Finding
+C2011541 Finding
+C2011542 Finding
+C2011543 Finding
+C2011544 Finding
+C2011545 Finding
+C2011546 Finding
+C2011547 Finding
+C2011548 Finding
+C2011549 Finding
+C2011550 Finding
+C2011551 Finding
+C2011552 Finding
+C2011553 Finding
+C2011554 Finding
+C2011555 Finding
+C2011556 Finding
+C2011557 Finding
+C2011558 Finding
+C2011559 Finding
+C2011560 Finding
+C2011561 Finding
+C2011562 Finding
+C2011563 Finding
+C2011564 Finding
+C2011565 Finding
+C2011566 Finding
+C2011567 Finding
+C2011568 Finding
+C2011569 Finding
+C2011570 Finding
+C2011571 Finding
+C2011572 Finding
+C2011573 Finding
+C2011574 Finding
+C2011575 Finding
+C2011576 Finding
+C2011577 Finding
+C2011578 Finding
+C2011579 Finding
+C2011580 Finding
+C2011581 Finding
+C2011582 Finding
+C2011583 Finding
+C2011584 Finding
+C2011585 Finding
+C2011586 Finding
+C2011587 Finding
+C2011588 Finding
+C2011589 Finding
+C2011590 Finding
+C2011591 Finding
+C2011592 Finding
+C2011593 Finding
+C2011594 Finding
+C2011595 Finding
+C2011596 Finding
+C2011597 Finding
+C2011598 Finding
+C2011599 Finding
+C2011600 Finding
+C2011601 Finding
+C2011602 Finding
+C2011603 Finding
+C2011604 Finding
+C2011605 Finding
+C2011606 Finding
+C2011607 Finding
+C2011608 Finding
+C2011609 Finding
+C2011610 Finding
+C2011611 Finding
+C2011612 Finding
+C2011613 Finding
+C2011614 Finding
+C2011615 Finding
+C2011616 Finding
+C2011617 Finding
+C2011618 Finding
+C2011619 Finding
+C2011620 Finding
+C2011621 Finding
+C2011622 Finding
+C2011623 Finding
+C2011624 Finding
+C2011625 Finding
+C2011626 Finding
+C2011627 Finding
+C2011628 Finding
+C2011629 Finding
+C2011630 Finding
+C2011631 Finding
+C2011632 Finding
+C2011633 Finding
+C2011634 Finding
+C2011635 Finding
+C2011636 Finding
+C2011637 Finding
+C2011638 Finding
+C2011639 Finding
+C2011640 Finding
+C2011641 Finding
+C2011642 Finding
+C2011643 Finding
+C2011644 Finding
+C2011645 Finding
+C2011646 Finding
+C2011647 Finding
+C2011648 Finding
+C2011649 Finding
+C2011650 Finding
+C2011651 Finding
+C2011652 Finding
+C2011653 Finding
+C2011654 Finding
+C2011655 Finding
+C2011656 Finding
+C2011657 Finding
+C2011658 Finding
+C2011659 Finding
+C2011660 Finding
+C2011661 Finding
+C2011662 Finding
+C2011663 Finding
+C2011664 Finding
+C2011665 Finding
+C2011666 Finding
+C2011667 Finding
+C2011668 Finding
+C2011669 Finding
+C2011670 Finding
+C2011671 Finding
+C2011672 Finding
+C2011673 Finding
+C2011674 Finding
+C2011675 Finding
+C2011676 Finding
+C2011677 Finding
+C2011678 Finding
+C2011679 Finding
+C2011680 Finding
+C2011681 Finding
+C2011682 Finding
+C2011683 Finding
+C2011684 Finding
+C2011685 Finding
+C2011686 Finding
+C2011687 Finding
+C2011688 Finding
+C2011689 Finding
+C2011690 Finding
+C2011691 Finding
+C2011692 Finding
+C2011693 Finding
+C2011694 Finding
+C2011695 Finding
+C2011696 Finding
+C2011697 Finding
+C2011698 Finding
+C2011699 Finding
+C2011700 Finding
+C2011701 Finding
+C2011702 Finding
+C2011703 Finding
+C2011704 Finding
+C2011705 Finding
+C2011706 Finding
+C2011707 Finding
+C2011708 Finding
+C2011709 Finding
+C2011710 Finding
+C2011711 Finding
+C2011712 Finding
+C2011713 Finding
+C2011714 Finding
+C2011715 Finding
+C2011716 Finding
+C2011717 Finding
+C2011718 Finding
+C2011719 Finding
+C2011720 Finding
+C2011721 Finding
+C2011722 Finding
+C2011723 Finding
+C2011724 Finding
+C2011725 Finding
+C2011726 Finding
+C2011727 Finding
+C2011728 Finding
+C2011729 Finding
+C2011730 Finding
+C2011731 Finding
+C2011732 Finding
+C2011733 Finding
+C2011734 Finding
+C2011735 Finding
+C2011736 Finding
+C2011737 Finding
+C2011738 Finding
+C2011739 Finding
+C2011740 Finding
+C2011741 Finding
+C2011742 Finding
+C2011743 Finding
+C2011744 Finding
+C2011745 Finding
+C2011746 Finding
+C2011747 Finding
+C2011748 Finding
+C2011749 Finding
+C2011750 Finding
+C2011751 Finding
+C2011752 Finding
+C2011753 Finding
+C2011754 Finding
+C2011755 Finding
+C2011756 Finding
+C2011757 Finding
+C2011758 Finding
+C2011759 Finding
+C2011760 Finding
+C2011761 Finding
+C2011762 Finding
+C2011763 Finding
+C2011764 Finding
+C2011765 Finding
+C2011766 Finding
+C2011767 Finding
+C2011768 Finding
+C2011769 Finding
+C2011770 Finding
+C2011771 Finding
+C2011772 Finding
+C2011773 Finding
+C2011774 Finding
+C2011775 Finding
+C2011776 Finding
+C2011777 Finding
+C2011778 Finding
+C2011779 Finding
+C2011780 Finding
+C2011781 Finding
+C2011782 Finding
+C2011783 Finding
+C2011784 Finding
+C2011785 Finding
+C2011786 Finding
+C2011787 Finding
+C2011788 Finding
+C2011789 Finding
+C2011790 Finding
+C2011791 Finding
+C2011792 Finding
+C2011793 Finding
+C2011794 Finding
+C2011795 Finding
+C2011796 Finding
+C2011797 Finding
+C2011798 Finding
+C2011799 Finding
+C2011800 Finding
+C2011801 Finding
+C2011802 Finding
+C2011803 Finding
+C2011804 Finding
+C2011805 Finding
+C2011806 Finding
+C2011807 Finding
+C2011808 Finding
+C2011809 Finding
+C2011810 Finding
+C2011811 Finding
+C2011812 Finding
+C2011813 Finding
+C2011814 Finding
+C2011815 Finding
+C2011816 Finding
+C2011817 Finding
+C2011818 Finding
+C2011819 Finding
+C2011820 Finding
+C2011821 Finding
+C2011822 Finding
+C2011823 Finding
+C2011824 Finding
+C2011825 Finding
+C2011826 Finding
+C2011827 Finding
+C2011828 Finding
+C2011829 Finding
+C2011830 Finding
+C2011831 Finding
+C2011832 Finding
+C2011833 Finding
+C2011834 Finding
+C2011835 Finding
+C2011836 Finding
+C2011837 Finding
+C2011838 Finding
+C2011839 Finding
+C2011840 Finding
+C2011841 Finding
+C2011842 Finding
+C2011843 Finding
+C2011844 Finding
+C2011845 Finding
+C2011846 Finding
+C2011847 Finding
+C2011848 Finding
+C2011849 Finding
+C2011850 Finding
+C2011851 Finding
+C2011852 Finding
+C2011853 Finding
+C2011854 Finding
+C2011855 Finding
+C2011856 Finding
+C2011857 Finding
+C2011858 Finding
+C2011859 Finding
+C2011860 Finding
+C2011861 Finding
+C2011862 Finding
+C2011863 Finding
+C2011864 Finding
+C2011865 Finding
+C2011866 Finding
+C2011867 Finding
+C2011868 Finding
+C2011869 Finding
+C2011870 Finding
+C2011871 Finding
+C2011872 Finding
+C2011873 Finding
+C2011874 Finding
+C2011875 Finding
+C2011876 Finding
+C2011877 Finding
+C2011878 Finding
+C2011879 Finding
+C2011880 Finding
+C2011881 Finding
+C2011882 Finding
+C2011883 Finding
+C2011884 Finding
+C2011885 Finding
+C2011886 Finding
+C2011887 Finding
+C2011888 Finding
+C2011889 Finding
+C2011890 Finding
+C2011891 Finding
+C2011892 Finding
+C2011893 Finding
+C2011894 Finding
+C2011895 Finding
+C2011896 Finding
+C2011897 Finding
+C2011898 Finding
+C2011965 Finding
+C2011966 Finding
+C2011967 Finding
+C2011968 Finding
+C2011969 Finding
+C2011970 Finding
+C2011971 Finding
+C2011972 Finding
+C2011973 Finding
+C2011974 Finding
+C2011975 Finding
+C2011976 Finding
+C2011977 Finding
+C2011978 Finding
+C2011979 Finding
+C2011980 Finding
+C2011981 Finding
+C2011982 Finding
+C2011983 Finding
+C2011984 Finding
+C2011985 Finding
+C2011986 Finding
+C2011987 Finding
+C2012694 Sign or Symptom
+C2012695 Sign or Symptom
+C2012696 Sign or Symptom
+C2012697 Sign or Symptom
+C2012698 Sign or Symptom
+C2012699 Sign or Symptom
+C2012700 Sign or Symptom
+C2012701 Sign or Symptom
+C2013427 Sign or Symptom
+C2017774 Sign or Symptom
+C2017775 Sign or Symptom
+C2017776 Sign or Symptom
+C2017777 Sign or Symptom
+C2017778 Sign or Symptom
+C2017779 Sign or Symptom
+C2017780 Sign or Symptom
+C2017781 Sign or Symptom
+C2017782 Sign or Symptom
+C2017783 Sign or Symptom
+C2017784 Sign or Symptom
+C2017785 Sign or Symptom
+C2017786 Sign or Symptom
+C2017787 Sign or Symptom
+C2017788 Sign or Symptom
+C2017789 Sign or Symptom
+C2017790 Sign or Symptom
+C2017791 Sign or Symptom
+C2017792 Sign or Symptom
+C2017793 Sign or Symptom
+C2017794 Sign or Symptom
+C2017795 Sign or Symptom
+C2017796 Sign or Symptom
+C2017797 Sign or Symptom
+C2017798 Sign or Symptom
+C2017799 Sign or Symptom
+C2017800 Sign or Symptom
+C2017801 Sign or Symptom
+C2017802 Sign or Symptom
+C2017803 Sign or Symptom
+C2017804 Sign or Symptom
+C2017805 Sign or Symptom
+C2019022 Sign or Symptom
+C2019023 Sign or Symptom
+C2019024 Sign or Symptom
+C2019025 Sign or Symptom
+C2019026 Sign or Symptom
+C2019027 Sign or Symptom
+C2019028 Sign or Symptom
+C2019029 Sign or Symptom
+C2026731 Finding
+C2026732 Finding
+C2026733 Finding
+C2026734 Finding
+C2026735 Finding
+C2026736 Finding
+C2026737 Finding
+C2028098 Finding
+C2028099 Finding
+C2028100 Finding
+C2028101 Finding
+C2028102 Finding
+C2028103 Finding
+C2028104 Finding
+C2028105 Finding
+C2028106 Finding
+C2028107 Finding
+C2028108 Finding
+C2028109 Finding
+C2028110 Finding
+C2028111 Finding
+C2028112 Finding
+C2028113 Finding
+C2028114 Finding
+C2028115 Finding
+C2028116 Finding
+C2028117 Finding
+C2028118 Finding
+C2028119 Finding
+C2028120 Finding
+C2032140 Sign or Symptom
+C2032377 Sign or Symptom
+C2032447 Sign or Symptom
+C2037121 Finding
+C2039135 Sign or Symptom
+C2045677 Sign or Symptom
+C2045736 Finding
+C2045737 Finding
+C2046396 Finding
+C2046451 Sign or Symptom
+C2046452 Sign or Symptom
+C2046453 Sign or Symptom
+C2046454 Sign or Symptom
+C2046455 Sign or Symptom
+C2046456 Sign or Symptom
+C2046457 Sign or Symptom
+C2046458 Sign or Symptom
+C2046459 Sign or Symptom
+C2046460 Sign or Symptom
+C2046461 Sign or Symptom
+C2046462 Sign or Symptom
+C2046463 Sign or Symptom
+C2046464 Sign or Symptom
+C2046465 Sign or Symptom
+C2047334 Sign or Symptom
+C2054284 Finding
+C2054361 Sign or Symptom
+C2054390 Finding
+C2054391 Finding
+C2054392 Finding
+C2054393 Finding
+C2054394 Finding
+C2054395 Finding
+C2054396 Finding
+C2054480 Sign or Symptom
+C2054481 Sign or Symptom
+C2054482 Sign or Symptom
+C2054487 Sign or Symptom
+C2054488 Sign or Symptom
+C2055631 Finding
+C2057703 Sign or Symptom
+C2058109 Sign or Symptom
+C2071170 Finding
+C2071171 Finding
+C2071172 Finding
+C2071173 Finding
+C2071174 Finding
+C2071175 Finding
+C2071176 Finding
+C2071177 Finding
+C2071178 Finding
+C2071237 Finding
+C2071238 Finding
+C2071239 Finding
+C2071345 Finding
+C2071346 Finding
+C2071347 Finding
+C2071348 Finding
+C2071349 Finding
+C2071350 Finding
+C2073926 Finding
+C2073927 Sign or Symptom
+C2074679 Sign or Symptom
+C2074680 Sign or Symptom
+C2074681 Sign or Symptom
+C2074682 Sign or Symptom
+C2075667 Sign or Symptom
+C2075668 Sign or Symptom
+C2075669 Sign or Symptom
+C2075670 Sign or Symptom
+C2087465 Finding
+C2087715 Finding
+C2087716 Finding
+C2087717 Finding
+C2087764 Finding
+C2087765 Finding
+C2087766 Finding
+C2087767 Finding
+C2087768 Finding
+C2087769 Finding
+C2087770 Finding
+C2087771 Finding
+C2088038 Finding
+C2089445 Finding
+C2106316 Finding
+C2107748 Sign or Symptom
+C2108444 Sign or Symptom
+C2108445 Sign or Symptom
+C2109045 Sign or Symptom
+C2109050 Sign or Symptom
+C2109051 Sign or Symptom
+C2111962 Sign or Symptom
+C2115920 Sign or Symptom
+C2115922 Sign or Symptom
+C2115923 Sign or Symptom
+C2115924 Sign or Symptom
+C2115925 Sign or Symptom
+C2116481 Finding
+C2116482 Finding
+C2116483 Sign or Symptom
+C2116484 Finding
+C2116485 Sign or Symptom
+C2116883 Finding
+C2126128 Sign or Symptom
+C2126129 Sign or Symptom
+C2126130 Sign or Symptom
+C2126131 Sign or Symptom
+C2126134 Sign or Symptom
+C2126135 Sign or Symptom
+C2126136 Sign or Symptom
+C2126137 Sign or Symptom
+C2126138 Sign or Symptom
+C2126139 Sign or Symptom
+C2126140 Finding
+C2126141 Finding
+C2126142 Finding
+C2126143 Finding
+C2126144 Finding
+C2126145 Finding
+C2126146 Finding
+C2126147 Finding
+C2126148 Sign or Symptom
+C2126149 Sign or Symptom
+C2126150 Sign or Symptom
+C2126151 Sign or Symptom
+C2126152 Sign or Symptom
+C2126153 Sign or Symptom
+C2126154 Sign or Symptom
+C2126155 Sign or Symptom
+C2126156 Sign or Symptom
+C2126157 Sign or Symptom
+C2126158 Sign or Symptom
+C2126159 Sign or Symptom
+C2126160 Sign or Symptom
+C2126161 Sign or Symptom
+C2126162 Sign or Symptom
+C2126163 Sign or Symptom
+C2126164 Sign or Symptom
+C2126165 Sign or Symptom
+C2126166 Sign or Symptom
+C2126167 Sign or Symptom
+C2126168 Sign or Symptom
+C2126173 Sign or Symptom
+C2126174 Sign or Symptom
+C2126175 Sign or Symptom
+C2126176 Sign or Symptom
+C2126227 Sign or Symptom
+C2126228 Sign or Symptom
+C2126229 Sign or Symptom
+C2126230 Sign or Symptom
+C2126994 Sign or Symptom
+C2127111 Sign or Symptom
+C2127177 Sign or Symptom
+C2127178 Sign or Symptom
+C2127305 Sign or Symptom
+C2128828 Sign or Symptom
+C2128950 Sign or Symptom
+C2128951 Sign or Symptom
+C2128952 Sign or Symptom
+C2128953 Sign or Symptom
+C2128954 Sign or Symptom
+C2128955 Sign or Symptom
+C2128956 Sign or Symptom
+C2128957 Sign or Symptom
+C2136984 Finding
+C2136985 Finding
+C2136986 Finding
+C2136987 Finding
+C2138248 Sign or Symptom
+C2138249 Sign or Symptom
+C2140578 Sign or Symptom
+C2140579 Sign or Symptom
+C2143025 Mental or Behavioral Dysfunction
+C2143163 Sign or Symptom
+C2143164 Sign or Symptom
+C2143165 Sign or Symptom
+C2143937 Finding
+C2144547 Sign or Symptom
+C2144584 Sign or Symptom
+C2144729 Sign or Symptom
+C2144730 Sign or Symptom
+C2144731 Sign or Symptom
+C2144732 Sign or Symptom
+C2144733 Sign or Symptom
+C2144734 Sign or Symptom
+C2144735 Sign or Symptom
+C2144736 Sign or Symptom
+C2144737 Sign or Symptom
+C2144738 Sign or Symptom
+C2144739 Sign or Symptom
+C2144740 Sign or Symptom
+C2144741 Sign or Symptom
+C2144742 Sign or Symptom
+C2144743 Sign or Symptom
+C2144744 Sign or Symptom
+C2146655 Sign or Symptom
+C2157135 Finding
+C2157136 Finding
+C2168114 Sign or Symptom
+C2169816 Sign or Symptom
+C2174669 Finding
+C2174670 Finding
+C2174671 Finding
+C2183422 Sign or Symptom
+C2183432 Sign or Symptom
+C2183433 Sign or Symptom
+C2183453 Sign or Symptom
+C2183783 Sign or Symptom
+C2183784 Sign or Symptom
+C2183785 Sign or Symptom
+C2183813 Finding
+C2183814 Finding
+C2183966 Sign or Symptom
+C2184254 Finding
+C2185931 Sign or Symptom
+C2185932 Sign or Symptom
+C2185933 Finding
+C2185934 Sign or Symptom
+C2185935 Finding
+C2185936 Sign or Symptom
+C2189399 Sign or Symptom
+C2197245 Finding
+C2197246 Finding
+C2197247 Finding
+C2197248 Finding
+C2197249 Finding
+C2197250 Finding
+C2197251 Finding
+C2197252 Finding
+C2197253 Finding
+C2197254 Finding
+C2197255 Finding
+C2197256 Finding
+C2197257 Finding
+C2197258 Finding
+C2199080 Sign or Symptom
+C2199543 Sign or Symptom
+C2199590 Sign or Symptom
+C2199591 Sign or Symptom
+C2199592 Sign or Symptom
+C2199600 Sign or Symptom
+C2199601 Sign or Symptom
+C2200100 Sign or Symptom
+C2200101 Sign or Symptom
+C2201205 Sign or Symptom
+C2201206 Sign or Symptom
+C2202981 Sign or Symptom
+C2202986 Sign or Symptom
+C2202987 Sign or Symptom
+C2202988 Sign or Symptom
+C2202989 Sign or Symptom
+C2202990 Sign or Symptom
+C2202991 Sign or Symptom
+C2202992 Sign or Symptom
+C2203277 Finding
+C2203645 Sign or Symptom
+C2215688 Finding
+C2219289 Sign or Symptom
+C2219321 Sign or Symptom
+C2219322 Sign or Symptom
+C2219323 Sign or Symptom
+C2219324 Sign or Symptom
+C2219325 Sign or Symptom
+C2219639 Finding
+C2219640 Sign or Symptom
+C2219641 Sign or Symptom
+C2219642 Sign or Symptom
+C2219643 Sign or Symptom
+C2219644 Sign or Symptom
+C2219645 Sign or Symptom
+C2219646 Sign or Symptom
+C2219647 Sign or Symptom
+C2219649 Sign or Symptom
+C2219650 Sign or Symptom
+C2219651 Sign or Symptom
+C2219652 Sign or Symptom
+C2219654 Sign or Symptom
+C2219850 Sign or Symptom
+C2220025 Sign or Symptom
+C2220034 Finding
+C2220043 Sign or Symptom
+C2220044 Sign or Symptom
+C2220093 Sign or Symptom
+C2220094 Sign or Symptom
+C2220095 Sign or Symptom
+C2220096 Sign or Symptom
+C2220097 Sign or Symptom
+C2220248 Sign or Symptom
+C2220249 Sign or Symptom
+C2220250 Sign or Symptom
+C2220251 Sign or Symptom
+C2220252 Sign or Symptom
+C2220253 Sign or Symptom
+C2220254 Sign or Symptom
+C2220390 Sign or Symptom
+C2225441 Finding
+C2225442 Finding
+C2225443 Finding
+C2225444 Finding
+C2228238 Finding
+C2229208 Sign or Symptom
+C2229543 Finding
+C2230215 Finding
+C2230216 Finding
+C2232701 Sign or Symptom
+C2232702 Sign or Symptom
+C2232703 Sign or Symptom
+C2232704 Sign or Symptom
+C2232705 Sign or Symptom
+C2232706 Sign or Symptom
+C2232709 Sign or Symptom
+C2233551 Sign or Symptom
+C2233552 Sign or Symptom
+C2233553 Sign or Symptom
+C2233554 Sign or Symptom
+C2233555 Sign or Symptom
+C2233556 Sign or Symptom
+C2233557 Sign or Symptom
+C2233558 Sign or Symptom
+C2233835 Finding
+C2235858 Finding
+C2235859 Finding
+C2235860 Finding
+C2237442 Finding
+C2237479 Finding
+C2237480 Finding
+C2237481 Finding
+C2237482 Finding
+C2237483 Finding
+C2242814 Sign or Symptom
+C2316035 Sign or Symptom
+C2367634 Sign or Symptom
+C2702700 Sign or Symptom
+C2703066 Finding
+C2957231 Sign or Symptom
+C2957232 Sign or Symptom
+C2957233 Sign or Symptom
+C3532891 Sign or Symptom

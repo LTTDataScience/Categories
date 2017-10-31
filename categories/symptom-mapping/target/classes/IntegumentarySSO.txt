@@ -1,0 +1,1532 @@
+C0003107  Anogenital pruritus
+C0005874  Blush
+C0007940  Chancre, sporotrichotic
+C0007942  Chancre, trypanosomal
+C0007943  Chancre, tuberculous
+C0010520  Cyanoses
+C0012766  Disturbance of skin sensation
+C0013196  Drug pigmentation
+C0016382  Flushing
+C0020429  Hyperpathia
+C0020453  Hyperesthesia
+C0028081  Night sweats
+C0028643  Numbness
+C0030232  Pallor
+C0030554  PARESTHESIAS
+C0033774  Itching
+C0033775  Pruritus Ani
+C0033776  Pruritus gravidarum
+C0033777  Pruritus of genital organs
+C0033778  Pruritus Vulvae
+C0034880  Loudness Recruitment
+C0038605  Subungual hyperkeratosis
+C0041834  Erythema
+C0042256  VAGINAL ITCHING
+C0085624  Burning sensation
+C0085625  Hypalgesia
+C0085641  Rash, pustular
+C0151206  Scalp tenderness
+C0151838  CIRCUMORAL PARESTHESIA
+C0151908  DRY SKIN
+C0152030  IRRITATION SKIN
+C0159040  Changes in skin texture
+C0221200  Koplik spot
+C0221201  MACULAR RASH
+C0221226  CAPUT MEDUSAE
+C0221232  WELTS
+C0221261  Koilonychia
+C0221730  NUMBNESS PERIORAL
+C0231772  Burning feet
+C0232412  Absent hair growth
+C0232431  Cold sweat
+C0232453  Skin rolling
+C0232454  Furrowed brow
+C0232455  Veraguth's folds
+C0232500  Abdominal hyperesthesia
+C0232502  Umbilical discharge
+C0232503  Umbilical bleeding
+C0232504  Umbilical pain
+C0232958  Stomatomenia
+C0234188  Tactile anesthesia
+C0234190  Thermal hypesthesia
+C0234191  Thermal anesthesia
+C0234202  Absence of tickle sensation
+C0234241  Indifference to pain
+C0234655  Burning sensation in eye
+C0234943  ANESTHESIA APPLICATION SITE
+C0234944  ANESTHESIA INJECTION SITE
+C0235006  HYPERESTHESIA SKIN
+C0235018  NUMBNESS LOCALIZED
+C0235044  PARESTHESIA DISTAL
+C0235045  PARESTHESIA MUCOSAL
+C0235046  PARESTHESIA SKIN
+C0235049  TINGLING MUCOSAL
+C0235050  TINGLING SKIN
+C0235218  SKIN HYPEREMIA
+C0235777  CYANOSIS NEONATAL
+C0236078  SCROTAL PAIN
+C0237322  Decreased skin turgor (finding)
+C0239375  EXTREMITY NUMBNESS
+C0239511  Numbness of face
+C0239517  FACIAL PARESTHESIA
+C0239649  Numbness of foot
+C0239739  GINGIVAL PAIN
+C0239832  Numbness of hand
+C0239836  HAND PARESTHESIA
+C0240194  Blue lips
+C0240444  Increased thickness of nail
+C0240608  Osler's node
+C0240940  Scalp pain
+C0240941  Scalp pruritus
+C0241057  BURNING SKIN
+C0241136  Pain of skin
+C0241164  Skin tenderness
+C0241165  Thickening of skin
+C0241413  burning sensation in toes
+C0241439  Paraesthesia of tongue
+C0241538  UPPER EXTREMITY NUMBNESS
+C0241709  Burning sensation of vulva
+C0262977  DECOLORATION SKIN
+C0263355  RASH SCARLATINIFORM
+C0263531  Horizontal splitting of nail plate
+C0263534  Beau's lines
+C0263538  CLUBBING OF NAILS
+C0263540  Complete loss of nails
+C0263571  Chloasma gravidarum
+C0263634  Abnormal granulation tissue
+C0268988  Itching of penis
+C0277852  Stocking anesthesia
+C0277938  Circumoral rhytides
+C0277941  Blanching of skin
+C0277943  Puffiness of skin
+C0277952  Change in nail appearance
+C0277953  Change in nail texture
+C0277956  Usure des ongles
+C0277959  Coarse hair
+C0277961  Greasy hair
+C0277962  Auspitz's sign
+C0277986  Gingival edema
+C0278134  Anesthesia
+C0282005  Swelling of Scrotum
+C0302310  Familial annular erythema
+C0311212  Migrating cheilosis
+C0332566  Maculopapule
+C0332573  Macula
+C0332579  Black and blue
+C0340979  Cryoglobulinaemic purpura
+C0343731  Penile warts
+C0344307  Analgesia
+C0392162  CLAMMINESS
+C0392699  DYSESTHESIA
+C0406146  Meningococcal rash
+C0406216  Juvenile spring eruption
+C0406218  Persistent light reaction
+C0406219  Actinic reaction
+C0406399  Urticaria geographica
+C0406400  Menstrual urticaria
+C0406402  Erythema fugax
+C0406403  Delayed dermographism
+C0406404  Cold reflex urticaria
+C0406405  Delayed cold sensitivity
+C0406406  Persist cholinergic urticaria
+C0406407  Cholinergic pruritus
+C0406408  Reflex urticaria
+C0406411  Immune complex urticaria
+C0406547  Pathological striae
+C0406548  Stellate pseudoscar
+C0406569  Congen eros+vesicl+retic scars
+C0406671  Burning scrotum
+C0406833  Wound erythema
+C0406881  Pain from tissue expander
+C0423571  Abnormal sensation
+C0423572  Pins and needles
+C0423575  Altered sensation
+C0423773  SKIN SCALY
+C0423797  Bruising symptom
+C0423812  Nail shedding
+C0423813  Nail splitting
+C0423818  Grooving of nail
+C0423823  Decreased thickness of nail
+C0423869  Exclamation mark hair
+C0423875  Kinked hairs
+C0424512  Yellow - symptom
+C0424513  Blue - symptom
+C0424518  Flushes/goes red
+C0424849  Breast lump symptom
+C0425791  Peau d'orange over breast
+C0426498  Dry tongue
+C0439814  Prickling sensation
+C0451941  Itching of scrotum
+C0456073  Neonatal facial petechiae
+C0456074  Traumat neonat facial cyanosis
+C0456122  Harlequin change
+C0457004  Adolescent striae
+C0458085  Tender scar
+C0473249  Idiopathic scrotal edema
+C0473563  Achenbach's syndrome
+C0475858  Generalised itching
+C0476226  Anaesthesia of skin
+C0476311  [D]Umbilical swelling (context-dependent category)
+C0497364  Local redness/erythema/rash
+C0497366  Other changes in skin color
+C0520559  Numbness of tongue
+C0520895  Normal hair texture
+C0520897  Bleached hair
+C0520899  Normal skin sensitivity
+C0520901  Increased skin sensitivity
+C0520902  Decreased skin sensitivity
+C0520903  Radiosensitivity of skin
+C0521485  Mucosal numbness
+C0521486  BURNING MUCOSAL
+C0521503  Injection site burning
+C0521506  Injection site paraesthesia
+C0521591  MOUTH PARESTHESIA
+C0521592  Oral hypoaesthesia
+C0521628  Itching of male genital organs
+C0521629  Leukoplakia of male genital organs
+C0521634  Female genital pruritus
+C0521635  Female genital leukoplakia
+C0521800  Central cyanosis
+C0522057  Numbness of skin
+C0522245  Feeling hot and cold
+C0554990  Pale - symptom
+C0555957  Scaly scalp
+C0558143  Maceration of epidermis
+C0559537  Perineal irritation
+C0560174  Temporal hair recession
+C0563287  Tightness in arm
+C0574747  Pain on movement of skin
+C0574769  Balding
+C0574921  Micropapular weal
+C0574922  Bullous weal
+C0574925  Transverse split nail
+C0576430  Excessive growth facial hair
+C0576431  Excessive growth of body hair
+C0576433  Excessive growth of leg hair
+C0576657  Cryanaesthesia
+C0576700  Sensation of a lesion
+C0576836  Pinna tender
+C0576837  General tenderness in pinna
+C0576838  Focal tenderness in pinna
+C0576841  Numbness of pinna
+C0578475  Cyanotic attack
+C0586407  Skin symptoms NOS
+C0587054  Numbness of finger
+C0587055  Numbness of lower limb
+C0587056  Numbness of toe
+C0587058  Paraesthesia of upper extremity
+C0600142  Hot flash
+C0677500  STINGING
+C0686768  Poor complexion
+C0686769  Hutchinson's mask
+C0686770  Leser-Trelat sign
+C0700590  DIAPHORESIS
+C0702164  Trichorrhexis invaginata
+C0743670  numbness of hands and feet
+C0747243  PAPULE NON TENDER
+C0750016  Generalized urticarial
+C0752255  Impaired light touch sensation
+C0848211  skin papules generalized [as symptom]
+C0848213  skin papule localized to [as symptom]
+C0848332  Spots
+C0848360  scrotal tenderness
+C0849907  itching of ears (symptom)
+C0849913  Localized erythema
+C0849916  generalized change in color of skin to red (erythema)
+C0850060  pruritus of nose
+C0857160  numbness of legs (symptom)
+C0863108  Numbness in shoulder
+C0877113  Scar: [NOS] or [painful] (disorder)
+C0877197  Numbness of lip
+C0877487  tingling of lip (symptom)
+C0877495  tingling of tongue (symptom)
+C0877639  blister of gum (diagnosis)
+C0877717  burning sensation in mouth (symptom)
+C0878658  Darier's sign
+C0919793  breast pruritus
+C0920171  feels like something is in eye
+C0948992  Paresthesia lower limb
+C1168149  circumoral tingling
+C1274923  Cutaneous hyperalgesia (finding)
+C1274924  Cutaneous allodynia (finding)
+C1274925  painful skin
+C1274926  skin stinging
+C1274927  Formication of skin (finding)
+C1277287  Transient paraesthesia (finding)
+C1277673  Splitting toenail (finding)
+C1279511  Malarial pigment deposition
+C1301340  Problem;umbilicus
+C1304408  Urticarial vasculitis
+C1328466  Laryngopharyngeal Dysesthesia
+C1334192  Integumentary System Signs and Symptoms
+C1387638  local skin lesion; anesthesia
+C1396873  eruption; ringed
+C1398289  furrowed; nail
+C1399357  hemiparesthesia
+C1442877  Sore
+C1446312  Erythematous mucosa (disorder)
+C1504494  tingling of limbs (symptom)
+C1517205  Flare
+C1536047  desquamation of lip
+C1536053  TONGUE DESQUAMATION
+C1562577  C/O: dry skin
+C1658104  arm numbness
+C1706846  Arm Or Hand Hypoesthesia
+C1708090  Foot Or Leg Hypoesthesia
+C1768507  Yellow nails
+C2004820  burning sensation in middle finger of right hand (symptom)
+C2004821  burning sensation in perianal area (symptom)
+C2004822  burning sensation in perineum
+C2004823  burning sensation in right ankle (symptom)
+C2004824  burning sensation in right arm or hand
+C2004825  burning sensation in right groin (symptom)
+C2004826  burning sensation in right inner thigh (symptom)
+C2004827  burning sensation in right leg or foot
+C2004828  burning sensation in right outer thigh
+C2004829  burning sensation in right thigh
+C2004830  burning sensation in ring finger of right hand (symptom)
+C2004831  burning sensation in thumb of left hand (symptom)
+C2004832  burning sensation in thumb of right hand
+C2004833  burning sensation in toes of left foot (symptom)
+C2004834  burning sensation in toes of right foot
+C2004835  burning sensation localized to area of exposure (symptom)
+C2004836  burning sensation on one entire side (symptom)
+C2004837  burning superficial skin pain (symptom)
+C2010778  generalized dry skin (symptom)
+C2010790  generalized sandpaper-like skin crusts excluding palms and soles (symptom)
+C2010791  generalized sandpaper-like skin lesions excluding palms and soles
+C2010797  generalized scrotal swelling (symptom)
+C2010801  generalized skin lesions excluding palms (symptom)
+C2010802  generalized skin lesions excluding palms and soles (symptom)
+C2010803  generalized skin lesions excluding soles of feet (symptom)
+C2010804  generalized lesions including the eyelid(s)
+C2010805  generalized skin lesions including interior of genitalia (symptom)
+C2010806  generalized skin lesions including interior of mouth (symptom)
+C2010807  generalized skin lesions including interior of nose
+C2010808  generalized skin lesions including interior of rectum (symptom)
+C2010809  generalized skin lesions including interior surfaces
+C2010810  generalized skin lesions including palms (symptom)
+C2010811  generalized skin lesions including palms and soles
+C2010812  generalized skin lesions including soles of feet (symptom)
+C2010971  genital lesion began as small inflamed pimple
+C2010972  genital lesion began as sore (symptom)
+C2010973  genital lesion first looked like small blister (symptom)
+C2012497  gradual onset of foot pain
+C2012694  spots on gums
+C2012695  black spots on the gums
+C2012696  blue spots on the gums
+C2012697  gray spots on gums
+C2012698  multiple spots on gums
+C2012699  single spot on gums (symptom)
+C2012700  white spots on gums
+C2016836  soft tissue pain in finger only when cold (symptom)
+C2016837  finger tissue pain with black discoloration
+C2016838  finger tissue pain with blue discoloration
+C2016839  soft tissue pain in finger with discoloration (symptom)
+C2016840  finger tissue pain with white discoloration
+C2016948  soft tissue pain in foot (symptom)
+C2016950  soft tissue pain in lateral aspect of left great toe
+C2016951  soft tissue pain in lateral aspect of right great toe (symptom)
+C2016952  soft tissue pain in left fifth toe
+C2016953  soft tissue pain at base of left fifth toe (symptom)
+C2016954  soft tissue pain in the lateral left fifth toe
+C2016955  soft tissue pain in the medial left fifth toe
+C2016956  soft tissue pain in left fourth toe (symptom)
+C2016957  soft tissue pain at base of left fourth toe (symptom)
+C2016958  soft tissue pain in the lateral left fourth toe
+C2016959  soft tissue pain in the medial left fourth toe
+C2016960  soft tissue pain in left great toe (symptom)
+C2016961  soft tissue pain in left second toe
+C2016962  soft tissue pain at base of left second toe (symptom)
+C2016963  soft tissue pain in the lateral left second toe
+C2016964  soft tissue pain in the medial left second toe
+C2016965  soft tissue pain in left third toe (symptom)
+C2016966  soft tissue pain at base of left third toe
+C2016967  soft tissue pain in the lateral left third toe
+C2016968  soft tissue pain in the medial left third toe
+C2016970  soft tissue pain in medial aspect of left great toe (symptom)
+C2016971  soft tissue pain in medial aspect of right great toe (symptom)
+C2016972  soft tissue pain in one foot (symptom)
+C2016973  soft tissue pain in right fifth toe (symptom)
+C2016974  soft tissue pain at base of right fifth toe
+C2016975  soft tissue pain in the lateral right fifth toe
+C2016976  soft tissue pain in the medial right fifth toe
+C2016977  pain in the right foot
+C2016978  soft tissue pain in right fourth toe
+C2016979  soft tissue pain at base of right fourth toe (symptom)
+C2016980  soft tissue pain in the lateral right fourth toe
+C2016981  soft tissue pain in the medial right fourth toe
+C2016982  soft tissue pain in right great toe (symptom)
+C2016983  soft tissue pain in right second toe (symptom)
+C2016984  soft tissue pain at base of right second toe (symptom)
+C2016985  soft tissue pain in the lateral right second toe
+C2016986  soft tissue pain in the medial right second toe
+C2016987  soft tissue pain in right third toe (symptom)
+C2016988  soft tissue pain at base of right third toe
+C2016989  soft tissue pain in the lateral right third toe
+C2016990  soft tissue pain in the medial right third toe
+C2016992  soft tissue pain of finger
+C2016993  soft tissue pain of fingers of left hand (symptom)
+C2016994  soft tissue pain of finger of right hand
+C2016995  soft tissue pain of index finger of left hand (symptom)
+C2016996  soft tissue pain of distal phalanx of index finger of left hand
+C2016997  soft tissue pain of middle phalanx of index finger of left hand (symptom)
+C2016998  soft tissue pain of proximal phalanx of index finger of left hand
+C2016999  soft tissue pain of little finger of left hand
+C2017000  soft tissue pain of distal phalanx of little finger of left hand
+C2017001  soft tissue pain of middle phalanx of little finger of left hand (symptom)
+C2017002  soft tissue pain of proximal phalanx of little finger of left hand (symptom)
+C2017003  soft tissue pain of middle finger of left hand
+C2017004  soft tissue pain of distal phalanx of middle finger of left hand (symptom)
+C2017005  soft tissue pain of middle phalanx of middle finger of left hand (symptom)
+C2017006  soft tissue pain of proximal phalanx of middle finger of left hand (symptom)
+C2017007  soft tissue pain of ring finger of left hand
+C2017008  soft tissue pain of distal phalanx of ring finger of left hand (symptom)
+C2017009  soft tissue pain of middle phalanx of ring finger of left hand (symptom)
+C2017010  soft tissue pain of proximal phalanx of ring finger of left hand (symptom)
+C2017016  soft tissue pain of left thumb
+C2017017  soft tissue pain of distal phalanx of left thumb (symptom)
+C2017018  soft tissue pain of proximal phalanx of left thumb
+C2017019  soft tissue pain of index finger of right hand (symptom)
+C2017020  soft tissue pain of distal phalanx of index finger of right hand (symptom)
+C2017021  soft tissue pain of middle phalanx of index finger of right hand
+C2017022  soft tissue pain of proximal phalanx of index finger of right hand
+C2017023  soft tissue pain of little finger of right hand (symptom)
+C2017024  soft tissue pain of distal phalanx of little finger of right hand
+C2017025  soft tissue pain of middle phalanx of little finger of right hand (symptom)
+C2017026  soft tissue pain of proximal phalanx of little finger of right hand (symptom)
+C2017027  soft tissue pain of middle finger of right hand (symptom)
+C2017028  soft tissue pain of distal phalanx of middle finger of right hand (symptom)
+C2017029  soft tissue pain of middle phalanx of middle finger of right hand (symptom)
+C2017030  soft tissue pain of proximal phalanx of middle finger of right hand (symptom)
+C2017031  soft tissue pain of ring finger of right hand (symptom)
+C2017032  soft tissue pain of distal phalanx of ring finger of right hand
+C2017033  soft tissue pain of middle phalanx of ring finger of right hand (symptom)
+C2017034  soft tissue pain of proximal phalanx of ring finger of right hand
+C2017040  soft tissue pain of right thumb (symptom)
+C2017041  soft tissue pain of distal phalanx of right thumb
+C2017042  soft tissue pain of proximal phalanx of right thumb (symptom)
+C2017043  soft tissue pain in toes (symptom)
+C2017044  soft tissue pain in toes just when cold (symptom)
+C2017045  soft tissue pain in toes when wearing shoes (symptom)
+C2017046  soft tissue pain in the left index finger distal phalanx along the extensor surface
+C2017047  soft tissue pain in the left index finger distal phalanx along the flexor surface
+C2017048  soft tissue pain L index finger mid phalanx extensor surface
+C2017049  soft tissue pain L index finger mid phalanx flexor surface
+C2017050  soft tissue pain in the left index finger proximal phalanx along the extensor surface
+C2017051  soft tissue pain in the left index finger proximal phalanx along the flexor surface
+C2017052  soft tissue pain in the left little finger distal phalanx along the extensor surface
+C2017053  soft tissue pain in the left little finger distal phalanx along the flexor surface
+C2017054  soft tissue pain in the left little finger middle phalanx along the extensor surface
+C2017055  soft tissue pain L little finger mid phalanx flexor surface
+C2017056  soft tissue pain in the left little finger proximal phalanx along the extensor surface
+C2017057  soft tissue pain in the left little finger proximal phalanx along the flexor surface
+C2017058  soft tissue pain in the left middle finger distal phalanx along the extensor surface
+C2017059  soft tissue pain in the left middle finger distal phalanx along the flexor surface
+C2017060  soft tissue pain in the left middle finger middle phalanx along the extensor surface
+C2017061  soft tissue pain L middle finger mid phalanx flexor surface
+C2017062  soft tissue pain in the left middle finger proximal phalanx along the extensor surface
+C2017063  soft tissue pain in the left middle finger proximal phalanx along the flexor surface
+C2017064  soft tissue pain in the left ring finger distal phalanx along the extensor surface
+C2017065  soft tissue pain L ring finger distal phalanx flexor surface
+C2017066  soft tissue pain in the left ring finger middle phalanx along the extensor surface
+C2017067  soft tissue pain L ring finger middle phalanx flexor surface
+C2017068  soft tissue pain in the left ring finger proximal phalanx along the extensor surface
+C2017069  soft tissue pain in the left ring finger proximal phalanx along the flexor surface
+C2017070  soft tissue pain in the left thumb distal phalanx along the extensor surface
+C2017071  soft tissue pain in the left thumb distal phalanx along the flexor surface
+C2017072  soft tissue pain L thumb proximal phalanx extensor surface
+C2017073  soft tissue pain in the left thumb proximal phalanx along the flexor surface
+C2017074  pain in the right foot on the bottom
+C2017075  pain on bottom of right forefoot center
+C2017076  pain on bottom of right forefoot center radiating to 4th toe
+C2017077  pain on bottom of right forefoot center radiating to 2nd toe
+C2017078  pain on bottom of right forefoot center radiating to 3rd toe
+C2017079  pain on bottom of right forefoot
+C2017080  right forefoot pain on bottom better after rest
+C2017081  right forefoot pain on bottom increases with activity
+C2017082  pain on bottom of right forefoot lateral
+C2017083  pain on bottom of right forefoot medial
+C2017084  right foot pain on top over center forefoot
+C2017085  pain in the right foot on top
+C2017086  right foot pain on top over forefoot
+C2017087  right foot pain on top over lateral forefoot
+C2017088  right foot pain on top over medial forefoot
+C2017089  right foot pain on top over midfoot
+C2017090  soft tissue pain in the right index finger distal phalanx along the extensor surface
+C2017091  soft tissue pain in the right index finger distal phalanx along the flexor surface
+C2017092  soft tissue pain R index finger mid phalanx extensor surface
+C2017093  soft tissue pain R index finger mid phalanx flexor surface
+C2017094  soft tissue pain in the right index finger proximal phalanx along the extensor surface
+C2017095  soft tissue pain in the right index finger proximal phalanx along the flexor surface
+C2017096  soft tissue pain in the right little finger distal phalanx along the extensor surface
+C2017097  soft tissue pain in the right little finger distal phalanx along the flexor surface
+C2017098  soft tissue pain in the right little finger middle phalanx along the extensor surface
+C2017099  soft tissue pain R little finger mid phalanx flexor surface
+C2017100  soft tissue pain in the right little finger proximal phalanx along the extensor surface
+C2017101  soft tissue pain in the right little finger proximal phalanx along the flexor surface
+C2017102  soft tissue pain in the right middle finger distal phalanx along the extensor surface
+C2017103  soft tissue pain in the right middle finger distal phalanx along the flexor surface
+C2017104  soft tissue pain in the right middle finger middle phalanx along the extensor surface
+C2017105  soft tissue pain R middle finger mid phalanx flexor surface
+C2017106  soft tissue pain in the right middle finger proximal phalanx along the extensor surface
+C2017107  soft tissue pain in the right middle finger proximal phalanx along the flexor surface
+C2017108  soft tissue pain in the right ring finger distal phalanx along the extensor surface
+C2017109  soft tissue pain R ring finger distal phalanx flexor surface
+C2017110  soft tissue pain in the right ring finger middle phalanx along the extensor surface
+C2017111  soft tissue pain R ring finger middle phalanx flexor surface
+C2017112  soft tissue pain in the right ring finger proximal phalanx along the extensor surface
+C2017113  soft tissue pain in the right ring finger proximal phalanx along the flexor surface
+C2017114  soft tissue pain in the right thumb distal phalanx along the extensor surface
+C2017115  soft tissue pain in the right thumb distal phalanx along the flexor surface
+C2017116  soft tissue pain R thumb proximal phalanx extensor surface
+C2017117  soft tissue pain in the right thumb proximal phalanx along the flexor surface
+C2029213  cyanosis of hand or foot (symptom)
+C2029231  hanging, extra skin
+C2032150  dorsal pain in both feet
+C2032192  left heel pain worse while jumping
+C2032193  left heel pain worse while running
+C2032194  left heel pain worse while standing
+C2032253  right heel pain worse while jumping
+C2032254  right heel pain worse while running
+C2032255  right heel pain worse while standing
+C2032294  non-joint foot pain disproportionate to injury
+C2032295  foot pain occurring often at night (symptom)
+C2032296  non-joint foot pain precipitated
+C2032297  non-joint foot pain precipitated by cold weather
+C2032298  factors relieving foot pain (symptom)
+C2032299  foot pain relieved by medication (symptom)
+C2032300  non-joint foot pain relieved by sitting down with feet elevated
+C2032301  non-joint foot pain relieved by sitting down with feet hanging
+C2032302  non-joint foot pain worsens
+C2032303  non-joint foot pain worse with lying down
+C2032304  pain in fingertip (symptom)
+C2032349  left heel pain
+C2032350  dorsal left foot pain
+C2032352  lateral left heel pain
+C2032353  medial left heel pain
+C2032354  left heel pain occurring after rest
+C2032355  left heel pain occuring at night
+C2032356  plantar left heel pain
+C2032357  plantar-lateral left heel pain
+C2032358  plantar-medial left heel pain
+C2032359  posterior left heel pain
+C2032360  unrelenting left heel pain
+C2032361  pain in left heel worse with weightbearing (symptom)
+C2032362  left heel pain worst with first few steps
+C2032418  right heel pain
+C2032419  medial right foot pain
+C2032421  lateral right heel pain
+C2032422  medial right heel pain
+C2032423  right heel pain occuring after rest
+C2032424  right heel pain occuring at night
+C2032425  plantar right heel pain
+C2032426  plantar-lateral right heel pain
+C2032427  plantar-medial right heel pain
+C2032428  posterior right heel pain
+C2032429  right heel pain relieved by dangling the feet
+C2032430  unrelenting right heel pain
+C2032431  right heel pain worse with foot elevation
+C2032432  pain in right heel worse with weightbearing
+C2032433  right heel pain worst with first few steps
+C2032580  pain of left arch
+C2032581  pain of right arch (symptom)
+C2032582  pain in the left foot on the bottom
+C2032583  shooting plantar left foot pain
+C2032584  pain on bottom of left forefoot (symptom)
+C2032585  central plantar left forefoot pain
+C2032586  pain on bottom of left forefoot center radiating to fourth toe (symptom)
+C2032587  pain on bottom of left forefoot center radiating to 2nd toe
+C2032588  pain on bottom of left forefoot center radiating to 3rd toe
+C2032589  lateral plantar left forefoot pain
+C2032590  medial plantar left forefoot pain
+C2032591  pain on bottom of left midfoot
+C2032592  diffuse plantar left midfoot pain
+C2032593  shooting plantar right foot pain
+C2032594  pain on bottom of right midfoot (symptom)
+C2032595  diffuse plantar right midfoot pain
+C2032596  pain on bottoms of both feet
+C2032707  pain shooting from inside of left ankle into left foot (symptom)
+C2032708  pain shooting from inside of right ankle into right foot
+C2032709  pain shooting from inside of ankle into foot
+C2032731  painful genital lesion (symptom)
+C2032736  painful skin area without rash or sore
+C2036419  stretch marks in skin (symptom)
+C2037194  foot pain sudden onset
+C2037201  duration of sudden redness of skin
+C2037202  frequency of sudden redness of skin
+C2037203  sudden redness of skin lasting several hours (symptom)
+C2037204  sudden redness of skin lasting several minutes (symptom)
+C2037205  flushing precipitated by stressful situations
+C2037206  flushing precipitated
+C2037207  flushing precipitated by alcohol
+C2037208  flushing precipitated by food
+C2037209  flushing precipitated by minimal exertion
+C2037210  sudden redness of skin several times a day (symptom)
+C2037211  sudden redness of skin several times a month
+C2037212  sudden redness of skin several times a week (symptom)
+C2037303  superficial skin pain (symptom)
+C2037304  superficial skin pain of lower leg
+C2039340  symptoms involving nails
+C2045658  cyanosis with cold temperature
+C2045659  cyanosis with exertion (symptom)
+C2045660  change in color of skin to gray or ashen
+C2045661  circumoral pallor
+C2045674  callus on bottom of foot (symptom)
+C2047122  hot flashes after recent gynecological surgery (symptom)
+C2047123  hot flashes after recent orchiectomy (symptom)
+C2047124  hot flashes after recent treatment for prostate cancer
+C2047125  gradual onset of hot flashes
+C2047126  sudden onset of hot flashes
+C2047127  hot flashes with recent cessation of estrogen therapy (symptom)
+C2048807  increase in hair growth on back of hand
+C2048808  increase in hair growth on forearm (symptom)
+C2048809  increase in hair growth on top of foot (symptom)
+C2051864  peeling of skin between toes (symptom)
+C2052727  crusted penile lesion (symptom)
+C2057725  change in color of skin to metallic gray or blue color (symptom)
+C2074685  chronic dry skin
+C2077829  arm (upper) is blue (cyanosis) intermittent
+C2079572  persistent cyanosis (symptom)
+C2108380  itching after warm bath or shower
+C2108381  itching between toes (symptom)
+C2108382  itching causing awakening from sleep
+C2108384  itching of both breasts
+C2108385  itching of abdomen (symptom)
+C2108386  itching of both ears
+C2108387  itching of left ear (symptom)
+C2108388  itching of palms and soles
+C2108389  itching of right ear (symptom)
+C2108390  itching of soles
+C2108391  itching of teeth (symptom)
+C2114690  currently nursing with pain in left breast during lactation
+C2114691  currently nursing with pain in right breast during lactation
+C2116330  tingling from waist down (symptom)
+C2116331  tingling of feet
+C2116332  tingling in perianal region (symptom)
+C2116333  tingling in perineum
+C2116334  factors exacerbating tingling (symptom)
+C2116335  tingling made worse by exercise
+C2116336  tingling made worse by heat (symptom)
+C2116337  tingling made worse by stress
+C2116338  tingling of arms
+C2116339  tingling of arms or legs during exercise
+C2116340  tingling of both arms (symptom)
+C2116341  tingling of both arms and both legs (symptom)
+C2116342  tingling of both feet
+C2116343  tingling of both forearms
+C2116344  tingling of dorsum of both forearms (symptom)
+C2116345  tingling of inner aspect of both forearms (symptom)
+C2116346  tingling of outer aspect of both forearms (symptom)
+C2116347  tingling of volar aspect of both forearms (symptom)
+C2116348  tingling of both hands
+C2116349  tingling of both legs
+C2116350  tingling of hands
+C2116351  tingling of left arm (symptom)
+C2116352  tingling of left first and second toes (symptom)
+C2116353  tingling of left fourth and fifth toes (symptom)
+C2116354  tingling of left fourth toe (symptom)
+C2116355  tingling of left great toe
+C2116356  tingling of left hand (symptom)
+C2116357  tingling of left leg
+C2116358  tingling of left little toe
+C2116359  tingling of left middle toe
+C2116360  tingling of left second and third toes (symptom)
+C2116361  tingling of left second toe (symptom)
+C2116362  tingling of left third and fourth toes
+C2116363  tingling of thumb, index, and middle fingers of left hand (symptom)
+C2116364  tingling of legs (symptom)
+C2116365  tingling of one entire side (symptom)
+C2116366  tingling of right first and second toes
+C2116367  tingling of right fourth and fifth toes
+C2116368  tingling of right fourth toe
+C2116369  tingling of right great toe
+C2116370  tingling of right hand (symptom)
+C2116371  tingling of right little toe
+C2116372  tingling of right middle toe (symptom)
+C2116373  tingling of right second and third toes (symptom)
+C2116374  tingling of right second toe (symptom)
+C2116375  tingling of right third and fourth toes (symptom)
+C2116376  tingling of shoulder
+C2116377  tingling of ankle (symptom)
+C2116378  tingling of back of both arms
+C2116379  tingling of back of left arm (symptom)
+C2116380  tingling of left calf (symptom)
+C2116381  tingling of back of right arm (symptom)
+C2116382  tingling of right calf (symptom)
+C2116383  tingling of back of left thigh (symptom)
+C2116384  tingling of back of right thigh
+C2116385  tingling of chin
+C2116386  tingling of both sides of chin (symptom)
+C2116387  tingling of left side of chin (symptom)
+C2116388  tingling of right side of chin
+C2116389  left-sided hemiparesthesia
+C2116390  right-sided hemiparesthesia
+C2116391  tingling of forearm (symptom)
+C2116392  tingling of forehead (symptom)
+C2116393  tingling of left side of forehead (symptom)
+C2116394  tingling of right side of forehead (symptom)
+C2116395  tingling of front of both arms
+C2116396  tingling of front of left arm
+C2116397  tingling of front of left thigh (symptom)
+C2116398  tingling of front of right arm (symptom)
+C2116399  tingling of right shin (symptom)
+C2116400  tingling of hands at night (symptom)
+C2116401  tingling of inner aspect of left arm (symptom)
+C2116402  tingling of inner aspect of left lower leg (symptom)
+C2116403  tingling of inner aspect of right lower leg (symptom)
+C2116404  tingling of inner aspect of right thigh (symptom)
+C2116405  tingling of left ankle (symptom)
+C2116406  tingling of left buttock (symptom)
+C2116407  tingling of left cheek
+C2116408  tingling of left foot only
+C2116409  tingling of left forearm
+C2116410  tingling of dorsum of left forearm (symptom)
+C2116411  tingling of inner aspect of left forearm (symptom)
+C2116412  tingling of outer aspect of left forearm (symptom)
+C2116413  tingling of volar aspect of left forearm
+C2116414  tingling of left groin
+C2116415  tingling of index finger of left hand (symptom)
+C2116416  tingling of little finger of left hand (symptom)
+C2116417  tingling of middle finger of left hand
+C2116418  tingling of ring and little fingers of left hand (symptom)
+C2116419  tingling of ring finger of left hand (symptom)
+C2116420  tingling of left shoulder
+C2116421  tingling of left thumb (symptom)
+C2116422  tingling of thumb and index finger of left hand (symptom)
+C2116423  tingling of lower lip (symptom)
+C2116424  tingling of medial aspect of left ankle (symptom)
+C2116425  tingling of medial aspect of left ankle into arch
+C2116426  tingling of medial aspect of right ankle (symptom)
+C2116427  tingling of medial aspect of right ankle into arch
+C2116428  tingling of outer aspect of both arms
+C2116429  tingling of outer aspect of left arm
+C2116430  tingling of outer aspect of left lower leg (symptom)
+C2116431  tingling of outer aspect of left thigh
+C2116432  tingling of outer aspect of right arm (symptom)
+C2116433  tingling of outer aspect of right lower leg (symptom)
+C2116434  tingling of outer aspect of right thigh (symptom)
+C2116435  tingling of right ankle
+C2116436  tingling of right arm (symptom)
+C2116437  tingling of right buttock
+C2116438  tingling of right cheek
+C2116439  tingling of right foot only
+C2116440  tingling of right forearm
+C2116441  tingling of dorsum of right forearm (symptom)
+C2116442  tingling of inner aspect of right forearm
+C2116443  tingling of outer aspect of right forearm (symptom)
+C2116444  tingling of volar aspect of right forearm (symptom)
+C2116445  tingling of right groin (symptom)
+C2116446  tingling of index finger of right hand (symptom)
+C2116447  tingling of right leg
+C2116448  tingling of little finger of right hand (symptom)
+C2116449  tingling of middle finger of right hand (symptom)
+C2116450  tingling of ring and little fingers of right hand (symptom)
+C2116451  tingling of ring finger of right hand
+C2116452  tingling of right shoulder (symptom)
+C2116453  tingling of thumb and index finger of right hand
+C2116454  tingling of right thumb
+C2116455  tingling of thumb, index and middle fingers of right hand (symptom)
+C2116456  tingling of tongue on both sides
+C2116457  tingling of tongue on left side (symptom)
+C2116458  tingling of tongue on right side (symptom)
+C2116459  tingling of upper lip (symptom)
+C2116460  tingling of toes
+C2116461  tingling of toes of both feet
+C2116462  tingling of toes of left foot (symptom)
+C2116463  tingling of toes of right foot (symptom)
+C2116464  tingling on both buttocks
+C2116465  tingling on one entire side of face (symptom)
+C2116466  tingling of back of left hand (symptom)
+C2116467  tingling of back of right hand (symptom)
+C2116468  left-sided hemifacial tingling
+C2116469  right-sided hemifacial tingling
+C2116470  tingling of left shin (symptom)
+C2116471  tingling of front of right thigh
+C2116472  tingling of inner aspect of both arms
+C2116473  tingling of inner aspect of left thigh
+C2116474  tingling of inner aspect of right arm
+C2116475  tingling of sole of left foot (symptom)
+C2116476  tingling of sole of right foot (symptom)
+C2116477  tingling of top of left foot
+C2116478  tingling of top of right foot
+C2116479  tingling started with legs and progressed upward
+C2126030  yellow skin or eyes seems due to medication (symptom)
+C2126031  yellow skin or eyes seems due to bacterial infection (symptom)
+C2126177  numbness on palm of right hand (symptom)
+C2126178  numbness on palm of left hand
+C2126185  anal sore with bleeding (symptom)
+C2126186  anal soreness after hard bowel movement (symptom)
+C2126197  numbness of toes of right foot
+C2126198  numbness of right third and fourth toes (symptom)
+C2126199  numbness of toes of left foot (symptom)
+C2126200  numbness of left third and fourth toes (symptom)
+C2126201  numbness of toes of both feet
+C2126203  foot pain feels like walking on a pebble
+C2126262  a pimple as symptom
+C2126267  multiple sores on skin (symptom)
+C2126268  skin: multiple crusts [as symptom]
+C2126366  skin crust: red [as symptom]
+C2126367  red skin crust blanches with pressure [as symptom]
+C2126368  skin crust: yellow [as symptom]
+C2126369  amber-colored skin crust
+C2126370  skin crust: black [as symptom]
+C2126371  skin crust: brown [as symptom]
+C2126424  pain in both feet
+C2126929  burning sensation between third and fourth toes of right foot (symptom)
+C2126930  burning sensation between third and fourth toes of left foot (symptom)
+C2127013  skin lesion on skin of lip
+C2127014  skin lesion on vermilion border of lip
+C2127140  burning sensation in front of right thigh (symptom)
+C2127141  burning sensation in back of right thigh (symptom)
+C2127142  burning sensation in left thigh
+C2127143  burning sensation in front of left thigh (symptom)
+C2127144  burning sensation in left inner thigh
+C2127145  burning sensation in left groin
+C2127146  burning sensation in left outer thigh (symptom)
+C2127147  burning sensation in back of left thigh (symptom)
+C2127179  right breast
+C2127180  left breast symptoms (symptom)
+C2127304  bilateral ocular pruritus
+C2127314  foreign body sensation in right eye (symptom)
+C2127315  foreign body sensation in left eye (symptom)
+C2127316  foreign body sensation binocular
+C2127405  numbness of right forearm (symptom)
+C2127406  numbness of inner aspect of right forearm
+C2127407  numbness of outer aspect of right forearm
+C2127408  numbness of left forearm (symptom)
+C2127409  numbness of inner aspect of left forearm
+C2127410  numbness of outer aspect of left forearm (symptom)
+C2127411  numbness of both forearms
+C2127412  numbness of inner aspect of both forearms (symptom)
+C2127413  numbness of outer aspect of both forearms (symptom)
+C2128139  numbness of forearm (symptom)
+C2128203  excessive hair on face
+C2128204  excessive hair on the body
+C2128218  unrelenting foot pain (symptom)
+C2128230  loss of skin lines (symptom)
+C2128231  loss of skin lines on back of hand (symptom)
+C2128232  loss of skin lines on forearm
+C2128233  numbness of right side of chin (symptom)
+C2128234  numbness of left side of chin (symptom)
+C2128235  numbness of both sides of chin
+C2128236  numbness of upper lip (symptom)
+C2128237  numbness of lower lip (symptom)
+C2128259  upper arm is blue
+C2128260  cyanosis of right arm
+C2128261  cyanosis of left arm
+C2128262  both arms (upper) are blue (cyanosis)
+C2128337  dorsal left forefoot pain
+C2128338  medial dorsal left forefoot pain
+C2128339  central dorsal left forefoot pain
+C2128340  lateral dorsal left forefoot pain
+C2128341  dorsal left midfoot pain
+C2128350  right foot pain on top over midfoot diffuse
+C2128351  diffuse dorsal left midfoot pain
+C2128357  right forefoot pain top center worse w/ same activity level
+C2128358  right forefoot pain top center worse with decreased activity level (symptom)
+C2128359  left forefoot pain top center worse w/ same activity level
+C2128360  central dorsal left forefoot pain slowly worsens with decreased level of activity
+C2128361  plantar left forefoot pain increases with activity
+C2128362  pain on bottom of left forefoot better after rest
+C2128487  burning sensation in ankle
+C2128488  burning sensation in medial aspect of right ankle (symptom)
+C2128489  burning sensation in medial aspect of right ankle into arch (symptom)
+C2128490  burning sensation in left ankle
+C2128491  burning sensation in medial aspect of left ankle
+C2128492  burning sensation in medial aspect of left ankle into arch
+C2128524  rubbing of clothing is uncomfortable
+C2128556  numbness from waist down to anterior thigh
+C2128557  numbness from the waist down to the anterior right thigh
+C2128558  numbness from the waist down to the anterior left thigh
+C2128559  numbness from waist down to knee (symptom)
+C2128560  numbness from the waist down to the right knee
+C2128561  numbness from the waist down to the left knee
+C2128562  numbness from waist down to posterior leg (symptom)
+C2128563  numbness from the waist down to the posterior right leg
+C2128564  numbness from the waist down to the posterior left leg
+C2128565  numbness from waist down posterior right leg to ankle
+C2128566  numbness from waist down posterior right leg to foot (symptom)
+C2128567  numbness from waist down posterior right leg to medial foot
+C2128568  numbness from waist down posterior right leg to lateral foot
+C2128569  numbness from waist down posterior left leg to ankle
+C2128570  numbness from waist down posterior left leg to foot
+C2128571  numbness from waist down posterior left leg to medial foot (symptom)
+C2128572  numbness from waist down posterior left leg to lateral foot (symptom)
+C2128573  intermittent numbness from the waist down
+C2128574  continuous numbness from waist down
+C2128597  pain in the left foot on the inner side
+C2128650  foot pain shooting up inside of leg
+C2128651  right foot pain shooting up the inner leg
+C2128652  left foot pain shooting up the inner leg
+C2128656  foot pain relieved by rest (symptom)
+C2128657  foot pain precipitated by wearing shoes (symptom)
+C2128659  pain in the feet worsens with weightbearing
+C2128660  pain in the feet worsens with weightbearing standing
+C2128661  pain in the feet worsens with weightbearing walking
+C2128662  foot pain worsens with running (symptom)
+C2128663  foot pain worsens with jumping
+C2128664  shooting foot pain (symptom)
+C2128817  skin: a single crust [as symptom]
+C2129016  pain in the feet relieved by cessation of activity
+C2129017  foot pain relieved by taking off shoes (symptom)
+C2129018  foot pain relieved by sitting down
+C2129047  wart on the scrotum
+C2129049  scrotal lesion crusted
+C2129103  number of multiple sores on skin (#___) (symptom)
+C2129218  rectal itching at night (symptom)
+C2129525  numbness on front of right thigh toward outer side (symptom)
+C2129526  numbness on front of left thigh toward outer side (symptom)
+C2129607  numbness of right second and third toes
+C2129608  numbness of right fourth and fifth toes (symptom)
+C2129609  numbness of left second and third toes (symptom)
+C2129610  numbness of left fourth and fifth toes
+C2129637  red streaking going up limb
+C2129638  red streaking going up right hand
+C2129639  red streaking going up left hand (symptom)
+C2129640  red streaking going up right arm
+C2129641  red streaking going up left arm (symptom)
+C2129642  red streaking going up right foot (symptom)
+C2129643  red streaking going up left foot
+C2129644  red streaking going up right leg (symptom)
+C2129645  red streaking going up left leg (symptom)
+C2129652  itching in the legs
+C2129655  vulvar itching on the right
+C2129656  vulvar itching on the left
+C2130189  deformity of toenail causing pain (symptom)
+C2130190  burning sensation between first and second toes of right foot
+C2130191  burning sensation between second and third toes of right foot (symptom)
+C2130192  burning sensation between fourth and fifth toes of right foot
+C2130193  burning sensation between first and second toes of left foot (symptom)
+C2130194  burning sensation between second and third toes of left foot
+C2130195  burning sensation between fourth and fifth toes of left foot (symptom)
+C2130196  numbness of right great toe (symptom)
+C2130197  numbness of right second toe (symptom)
+C2130198  numbness of right middle toe (symptom)
+C2130199  numbness of right fourth toe (symptom)
+C2130200  numbness of right little toe
+C2130201  numbness of right first and second toes (symptom)
+C2130202  numbness of left great toe
+C2130203  numbness of left second toe (symptom)
+C2130204  numbness of left middle toe (symptom)
+C2130205  numbness of left fourth toe (symptom)
+C2130206  numbness of left little toe (symptom)
+C2130207  numbness of left first and second toes (symptom)
+C2130208  burning sensation in fingers of right hand (symptom)
+C2130209  burning sensation in index finger of right hand
+C2130210  burning sensation in little finger of right hand (symptom)
+C2130211  burning sensation in fingers of left hand
+C2130212  burning sensation in index finger of left hand
+C2130213  burning sensation in middle finger of left hand (symptom)
+C2130214  burning sensation in left ring finger
+C2130215  burning sensation in little finger of left hand
+C2130216  numbness of right index finger (symptom)
+C2130217  numbness of right ring finger (symptom)
+C2130218  numbness of right little finger
+C2130219  numbness of left index finger (symptom)
+C2130220  numbness of left ring finger (symptom)
+C2130221  numbness of left little finger
+C2130222  localized change in color of skin to red with irregular border (symptom)
+C2130249  breast lump fluctuates with menses (symptom)
+C2141243  left foot pain
+C2141909  left heel pain worst with first few steps improves as walking continues
+C2141910  left heel pain worst with first few steps returns as time on feet increases
+C2142807  pruritus of left eye (symptom)
+C2142808  pruritus of right eye (symptom)
+C2144095  deformity of toenail limiting walking
+C2169390  rash appeared after fever went away
+C2169391  rash appeared third to 6th febrile day (symptom)
+C2184179  localized blue or brown patches on legs or arms (symptom)
+C2184216  localized skin discoloration
+C2188222  unusual darkening of skin color (symptom)
+C2199191  dry skin localized to both feet (symptom)
+C2199192  dry skin localized to both hands (symptom)
+C2199193  dry skin localized to both shins (symptom)
+C2199194  dry skin localized to creases of elbows, wrists, knees (symptom)
+C2199195  dry skin localized to face (symptom)
+C2199196  dry skin localized to feet (symptom)
+C2199197  dry skin localized to hand
+C2199198  dry skin localized to left foot
+C2199199  dry skin localized to left hand (symptom)
+C2199200  dry skin localized to left shin
+C2199201  dry skin localized to right foot
+C2199202  dry skin localized to right hand (symptom)
+C2199203  dry skin localized to right shin (symptom)
+C2199204  dry skin localized to shins
+C2199205  dry skin with cracking
+C2202095  right heel pain worst with first few steps improves as walking continues
+C2202096  right heel pain worst with first few steps returns as time on feet increases
+C2219662  pain in the feet occurs with exercise
+C2219709  single genital lesion (symptom)
+C2219711  genital lesion foul-smelling
+C2219725  breast lump comes and goes (symptom)
+C2219726  breast lump feels warm
+C2219736  facial tingling
+C2219737  burning sensation in left arm or hand
+C2219738  burning sensation in both arms or hands
+C2219739  burning sensation in left leg or foot (symptom)
+C2219740  burning sensation in both legs or feet (symptom)
+C2219741  burning sensation in hands and feet
+C2219742  numbness of one entire side
+C2219743  numbness of entire right side (symptom)
+C2219744  numbness of entire left side (symptom)
+C2219745  numbness of right arm (symptom)
+C2219746  numbness of inner aspect of right arm (symptom)
+C2219747  numbness of outer aspect of right arm
+C2219748  numbness of left arm (symptom)
+C2219749  numbness of inner side of left arm (symptom)
+C2219750  numbness of outer side of left arm (symptom)
+C2219751  numbness of both arms (symptom)
+C2219752  numbness of inner aspect of both arms (symptom)
+C2219753  numbness of outer aspect of both arms
+C2219754  numbness of right hand
+C2219755  numbness of right thumb (symptom)
+C2219756  numbness of right thumb and index finger (symptom)
+C2219757  numbness of right thumb, index and middle fingers (symptom)
+C2219758  numbness of right middle finger (symptom)
+C2219759  numbness of right ring and little fingers (symptom)
+C2219760  numbness on back of right hand (symptom)
+C2219761  numbness of left hand
+C2219762  numbness of left thumb (symptom)
+C2219763  numbness of left thumb and index finger (symptom)
+C2219764  numbness of left thumb, index and middle fingers (symptom)
+C2219765  numbness of left middle finger
+C2219766  numbness of left ring and little fingers
+C2219767  numbness on back of left hand (symptom)
+C2219768  numbness of both hands
+C2219769  numbness from the waist down
+C2219770  numbness of right leg (symptom)
+C2219771  numbness on front of right thigh
+C2219772  numbness of inner aspect of right thigh (symptom)
+C2219773  numbness of right groin (symptom)
+C2219774  numbness of outer aspect of right thigh
+C2219775  numbness of back of right thigh (symptom)
+C2219776  numbness of right buttock
+C2219777  numbness of front of right lower leg
+C2219778  numbness of back of right lower leg
+C2219779  left leg numbness
+C2219780  numbness of front of left thigh (symptom)
+C2219781  numbness of inner aspect of left thigh
+C2219782  numbness of left groin
+C2219783  numbness of outer aspect of left thigh
+C2219784  numbness of back of left thigh (symptom)
+C2219785  numbness of left buttock (symptom)
+C2219786  numbness on front of left lower leg (symptom)
+C2219787  numbness of left calf
+C2219788  numbness of both legs
+C2219789  numbness of both buttocks (symptom)
+C2219790  numbness of both arms and both legs (symptom)
+C2219791  numbness of right foot (symptom)
+C2219792  numbness on top of right foot (symptom)
+C2219793  numbness on sole of right foot (symptom)
+C2219794  numbness of left foot (symptom)
+C2219795  numbness on top of left foot (symptom)
+C2219796  numbness on sole of left foot
+C2219797  numbness of both feet
+C2219798  numbness started with legs and progressed upward
+C2219799  numbness of arms or legs during exercise (symptom)
+C2219800  numbness of perianal region
+C2219801  numbness in the perineum
+C2219803  anesthesia from the neck down
+C2219804  anesthesia from the chest down
+C2219805  anesthesia from the waist down
+C2219806  anesthesia in the legs
+C2219834  excessive sweating 2-3 hours after eating
+C2219837  skin lesion comes and goes (symptom)
+C2219840  episodic pallor
+C2219841  feet and legs are blue (cyanosis)
+C2219842  the skin has acquired a light lemon yellow color
+C2219843  anal pruritus worse at night
+C2219916  brownish skin discoloration localized on lower legs (symptom)
+C2219974  burning sensation in fingers (symptom)
+C2219984  skin stretch marks occurred after pregnancy
+C2219985  skin stretch marks occurred after losing weight
+C2219986  skin stretch marks occurred spontaneously
+C2219988  skin lesion comes and goes with fever (symptom)
+C2219994  numbness of tongue on right side (symptom)
+C2219995  numbness of tongue on left side
+C2219996  numbness of tongue on both sides
+C2219997  numbness on one entire side of face (symptom)
+C2219998  right-sided hemifacial numbness
+C2219999  left-sided hemifacial numbness
+C2220000  numbness of forehead (symptom)
+C2220001  numbness of right side of forehead (symptom)
+C2220002  numbness of left side of forehead
+C2220003  numbness of right cheek (symptom)
+C2220004  numbness of left cheek
+C2220005  numbness of chin
+C2220006  right shoulder numbness
+C2220007  left shoulder numbness
+C2220077  numbness made worse by
+C2220078  numbness made worse by heat
+C2220079  numbness made worse by exercise (symptom)
+C2220080  numbness made worse by stress (symptom)
+C2220114  skin lesion appeared after fever with other symptoms resolved
+C2220116  skin lesion has gotten much worse (symptom)
+C2220150  skin lesion on right side of nose
+C2220151  skin lesion on left side of nose
+C2220152  skin lesion on both sides of nose (symptom)
+C2220160  skin lesion on upper lip
+C2220161  skin lesion on right side of upper lip (symptom)
+C2220162  skin lesion on left side of upper lip
+C2220163  skin lesion on both sides of upper lip (symptom)
+C2220164  skin lesion on lower lip (symptom)
+C2220165  skin lesion on right side of lower lip (symptom)
+C2220166  skin lesion on left side of lower lip
+C2220167  skin lesion on both sides of lower lip (symptom)
+C2220232  skin lesion on right ear (symptom)
+C2220233  skin lesion on left ears
+C2220246  excessive sweating 15-30 minutes after eating (symptom)
+C2228527  excessive malodorous sweating (symptom)
+C2228528  excessive sweating of armpits (symptom)
+C2228529  excessive sweating of hands (symptom)
+C2229942  shooting pain on bottom of left foot going down bottom of foot (symptom)
+C2229943  shooting plantar left foot pain going up into the leg
+C2229944  shooting pain on bottom of right foot going down bottom of foot
+C2229945  shooting plantar right foot pain going up into the leg
+C2231481  blister on the upper gums
+C2231482  blister on the lower gums
+C2231893  skin crust shape [as symptom]
+C2231894  skin crust circular in shape [as symptom]
+C2231895  skin crust coin-shaped [as symptom]
+C2231896  circular skin crust spreading outward with surrounding red ring (symptom)
+C2231897  skin crust circular in shape at site of tick bite [as symptom]
+C2231898  skin crust lacy [as symptom]
+C2231899  skin crust polygonal [as symptom]
+C2231900  skin crusts generalized [as symptom]
+C2231901  skin crusts generalized including palms and soles [as symptom]
+C2231902  skin crusts generalized excluding palms and soles [as symptom]
+C2231903  skin crusts generalized including the palms [as symptom]
+C2231904  skin crusts generalized excluding the palms [as symptom]
+C2231905  skin crusts generalized including soles of feet [as symptom]
+C2231906  skin crusts generalized excluding soles of feet [as symptom]
+C2231907  skin crusts generalized including the eyelid(s) [as symptom]
+C2231908  skin crusts generalized including interior surfaces [as symptom]
+C2231909  generalized skin crust including interior of nose (symptom)
+C2231910  generalized skin crust including interior of mouth (symptom)
+C2231911  generalized skin crust including interior of genitalia (symptom)
+C2231912  generalized skin crust including interior of rectum
+C2231913  skin crust localized to [as symptom]
+C2231914  skin crust on scalp
+C2231915  skin crust on anterior surface of scalp (symptom)
+C2231916  skin crust on top of scalp (symptom)
+C2231917  skin crust on lateral surface of right side of scalp (symptom)
+C2231918  skin crust on lateral surface of left side of scalp (symptom)
+C2231919  skin crust on posterior surface of scalp
+C2231920  skin crust on scalp at hair line
+C2231921  skin crust on ears (symptom)
+C2231922  skin crust on right ear (symptom)
+C2231923  skin crust on left ear (symptom)
+C2231924  skin crust on face (symptom)
+C2231925  skin crust on forehead
+C2231926  skin crust on right side of forehead
+C2231927  skin crust on left side of forehead
+C2231928  skin crust on entire forehead (symptom)
+C2231929  skin crust between forehead and ear (symptom)
+C2231930  skin crust between forehead and right ear
+C2231931  skin crust between forehead and left ear
+C2231932  skin crust between forehead and both ears
+C2231933  skin crust on cheek (symptom)
+C2231934  skin crust on right cheek (symptom)
+C2231935  skin crust on left cheeks (symptom)
+C2231936  skin crust on both cheeks (symptom)
+C2231937  skin crust at junction of nose and cheek (symptom)
+C2231938  skin crust at junction of nose and right cheek (symptom)
+C2231939  skin crust at junction of nose and left cheek
+C2231940  skin crust at junction of nose and both cheeks
+C2231941  skin crust on nose (symptom)
+C2231942  skin crust on right side of nose (symptom)
+C2231943  skin crust on left side of nose
+C2231944  skin crust on both sides of nose (symptom)
+C2231945  skin crust around mouth (circumoral) (symptom)
+C2231946  skin crust around right side of mouth (symptom)
+C2231947  skin crust around left side of mouth (symptom)
+C2231948  skin crust around both sides of mouth
+C2231949  skin crust around nose and mouth (symptom)
+C2231950  skin crust around right side of nose and mouth
+C2231951  skin crust around left side of nose and mouth (symptom)
+C2231952  skin crust around both sides of nose and mouth (symptom)
+C2231953  skin crust on lip
+C2231954  skin crust on skin of lip
+C2231955  skin crust on vermilion border of lip (symptom)
+C2231956  skin crust on upper lip (symptom)
+C2231957  skin crust on right side of upper lip (symptom)
+C2231958  skin crust on left side of upper lip
+C2231959  skin crust on both sides of upper lip
+C2231960  skin crust on lower lip (symptom)
+C2231961  skin crust on right side of lower lip
+C2231962  skin crust on left side of lower lip (symptom)
+C2231963  skin crust on both sides of lower lip (symptom)
+C2231964  skin crust on chin (symptom)
+C2231965  skin crust on right side of chin (symptom)
+C2231966  skin crust on left side of chin
+C2231967  skin crust on both sides of chin
+C2231968  skin crust along jawline
+C2231969  skin crust along right side of jawline
+C2231970  skin crust along left side of jawline (symptom)
+C2231971  skin crust along both sides of jawline (symptom)
+C2231972  skin crust on neck
+C2231973  skin crust on right side of neck
+C2231974  skin crust on anterior surface of right side of neck (symptom)
+C2231975  skin crust on posterior surface of right side of neck (symptom)
+C2231976  skin crust on left side of neck
+C2231977  skin crust on left anterior neck
+C2231978  skin crust on posterior surface of left side of neck (symptom)
+C2231979  skin crust on both sides of neck (symptom)
+C2231980  skin crust on anterior surface of both sides of neck
+C2231981  skin crust on posterior surface of both sides of neck (symptom)
+C2231982  skin crust of shoulder
+C2231983  skin crust on right shoulder
+C2231984  skin crust on front of right shoulder
+C2231985  skin crust on top of right shoulder
+C2231986  skin crust on back of right shoulder (symptom)
+C2231987  skin crust on left shoulder (symptom)
+C2231988  skin crust on anterior surface of left shoulder
+C2231989  skin crust on superior surface of left shoulder (symptom)
+C2231990  skin crust on posterior surface of left shoulder (symptom)
+C2231991  skin crust on both shoulders (symptom)
+C2231992  skin crust on anterior surface of both shoulders
+C2231993  skin crust on superior surface of both shoulders (symptom)
+C2231994  skin crust on posterior surface of both shoulders (symptom)
+C2231995  skin crust of armpit (symptom)
+C2231996  skin crust of axillary vault (symptom)
+C2231997  skin crust of axillary fold (symptom)
+C2231998  skin crust of anterior axillary fold (symptom)
+C2231999  skin crust of posterior axillary fold (symptom)
+C2232000  skin crust within right armpit (symptom)
+C2232001  skin crust within left armpit
+C2232002  skin crust within both armpits (symptom)
+C2232003  skin crust on upper extremity (symptom)
+C2232004  skin crust on upper arm
+C2232005  skin crust on right upper arm
+C2232006  skin crust on left upper arm (symptom)
+C2232007  skin crust on both upper arms (symptom)
+C2232008  skin crust on elbow (symptom)
+C2232009  skin crust on right elbow
+C2232010  skin crust on medial surface of right elbow
+C2232011  skin crust on lateral surface of right elbow
+C2232012  skin crust on anterior surface of right elbow
+C2232013  skin crust on posterior surface of right elbow (symptom)
+C2232014  skin crust on left elbow
+C2232015  skin crust on medial surface of left elbow
+C2232016  skin crust on lateral surface of left elbow
+C2232017  skin crust on anterior surface of left elbow
+C2232018  skin crust on posterior surface of left elbow (symptom)
+C2232019  skin crust on both elbows
+C2232020  skin crust on medial surface of both elbows
+C2232021  skin crust on lateral surface of both elbows (symptom)
+C2232022  skin crust on anterior surface of both elbows (symptom)
+C2232023  skin crust on posterior surface of both elbows
+C2232024  skin crust on forearm (symptom)
+C2232025  skin crust on right forearm (symptom)
+C2232026  skin crust on proximal surface of right forearm
+C2232027  skin crust on distal surface of right forearm
+C2232028  skin crust on anterior surface of right forearm
+C2232029  skin crust on posterior surface of right forearm
+C2232030  skin crust on ulnar surface of right forearm (symptom)
+C2232031  skin crust on radial surface of right forearm (symptom)
+C2232032  skin crust on left forearm
+C2232033  skin crust on proximal surface of left forearm
+C2232034  skin crust on distal surface of left forearm
+C2232035  skin crust on anterior surface of left forearm
+C2232036  skin crust on posterior surface of left forearm (symptom)
+C2232037  skin crust on ulnar surface of left forearm
+C2232038  skin crust on radial surface of left forearm
+C2232039  skin crust on wrist (symptom)
+C2232040  skin crust on right wrist
+C2232041  skin crust on anterior surface of right wrist (symptom)
+C2232042  skin crust on posterior surface of right wrist (symptom)
+C2232043  skin crust on ulnar surface of right wrist
+C2232044  skin crust on radial surface of right wrist (symptom)
+C2232045  skin crust on left wrist
+C2232046  skin crust on anterior surface of left wrist
+C2232047  skin crust on posterior surface of left wrist (symptom)
+C2232048  skin crust on ulnar surface of left wrist (symptom)
+C2232049  skin crust on radial surface of left wrist (symptom)
+C2232050  skin crust on both wrists (symptom)
+C2232051  skin crust on anterior surface of both wrists
+C2232052  skin crust on posterior surface of both wrists (symptom)
+C2232053  skin crust on ulnar surface of both wrists (symptom)
+C2232054  skin crust on radial surface of both wrists (symptom)
+C2232055  skin crust on hand (symptom)
+C2232056  skin crust on right hand (symptom)
+C2232057  skin crust on dorsal surface of right hand
+C2232058  skin crust on palmar surface of right hand (symptom)
+C2232059  skin crust on left hand (symptom)
+C2232060  skin crust on dorsal surface of left hand (symptom)
+C2232061  skin crust on palmar surface of left hand (symptom)
+C2232062  skin crust on both hands
+C2232063  skin crust on dorsal surface of both hands (symptom)
+C2232064  skin crust on palmar surface of both hands
+C2232065  skin crust on finger
+C2232066  skin crust on thumb of right hand
+C2232067  skin crust on proximal surface of thumb of right hand (symptom)
+C2232068  skin crust on distal surface of thumb of right hand (symptom)
+C2232069  skin crust on palmar surface of thumb of right hand (symptom)
+C2232070  skin crust on dorsal surface of thumb of right hand (symptom)
+C2232071  skin crust on medial surface of thumb of right hand
+C2232072  skin crust on lateral surface of thumb of right hand (symptom)
+C2232073  skin crust on index finger of right hand (symptom)
+C2232074  skin crust on proximal surface of index finger of right hand
+C2232075  skin crust on distal surface of index finger of right hand (symptom)
+C2232076  skin crust on palmar surface of index finger of right hand (symptom)
+C2232077  skin crust on dorsal surface of index finger of right hand
+C2232078  skin crust on medial surface of index finger of right hand
+C2232079  skin crust on lateral surface of index finger of right hand
+C2232080  skin crust on middle finger of right hand (symptom)
+C2232081  skin crust on proximal surface of middle finger of right hand (symptom)
+C2232082  skin crust on distal surface of middle finger of right hand
+C2232083  skin crust on palmar surface of middle finger of right hand (symptom)
+C2232084  skin crust on dorsal surface of middle finger of right hand (symptom)
+C2232085  skin crust on medial surface of middle finger of right hand (symptom)
+C2232086  skin crust on lateral surface of middle finger of right hand (symptom)
+C2232087  skin crust on ring finger of right hand
+C2232088  skin crust on proximal surface of ring finger of right hand (symptom)
+C2232089  skin crust on distal surface of ring finger of right hand (symptom)
+C2232090  skin crust on palmar surface of ring finger of right hand
+C2232091  skin crust on dorsal surface of ring finger of right hand
+C2232092  skin crust on medial surface of ring finger of right hand (symptom)
+C2232093  skin crust on lateral surface of ring finger of right hand (symptom)
+C2232094  skin crust on little finger of right hand
+C2232095  skin crust on proximal surface of little finger of right hand
+C2232096  skin crust on distal surface of little finger of right hand (symptom)
+C2232097  skin crust on palmar surface of little finger of right hand
+C2232098  skin crust on dorsal surface of little finger of right hand
+C2232099  skin crust on medial surface of little finger of right hand
+C2232100  skin crust on lateral surface of little finger of right hand (symptom)
+C2232101  skin crust on thumb of left hand
+C2232102  skin crust on proximal surface of thumb of left hand (symptom)
+C2232103  skin crust on distal surface of thumb of left hand
+C2232104  skin crust on palmar surface of thumb of left hand
+C2232105  skin crust on dorsal surface of thumb of left hand (symptom)
+C2232106  skin crust on medial surface of thumb of left hand (symptom)
+C2232107  skin crust on lateral surface of thumb of left hand (symptom)
+C2232108  skin crust on index finger of left hand (symptom)
+C2232109  skin crust on proximal surface of index finger of left hand (symptom)
+C2232110  skin crust on distal surface of index finger of left hand
+C2232111  skin crust on palmar surface of index finger of left hand
+C2232112  skin crust on dorsal surface of index finger of left hand
+C2232113  skin crust on medial surface of index finger of left hand
+C2232114  skin crust on lateral surface of index finger of left hand (symptom)
+C2232115  skin crust on middle finger of left hand
+C2232116  skin crust on proximal surface of middle finger of left hand (symptom)
+C2232117  skin crust on distal surface of middle finger of left hand (symptom)
+C2232118  skin crust on palmar surface of middle finger of left hand (symptom)
+C2232119  skin crust on dorsal surface of middle finger of left hand
+C2232120  skin crust on medial surface of middle finger of left hand
+C2232121  skin crust on lateral surface of middle finger of left hand (symptom)
+C2232122  skin crust on ring finger of left hand
+C2232123  skin crust on proximal surface of ring finger of left hand (symptom)
+C2232124  skin crust on distal surface of ring finger of left hand
+C2232125  skin crust on palmar surface of ring finger of left hand (symptom)
+C2232126  skin crust on dorsal surface of ring finger of left hand
+C2232127  skin crust on medial surface of ring finger of left hand (symptom)
+C2232128  skin crust on lateral surface of ring finger of left hand
+C2232129  skin crust on little finger of left hand
+C2232130  skin crust on proximal surface of little finger of left hand (symptom)
+C2232131  skin crust on distal surface of little finger of left hand
+C2232132  skin crust on palmar surface of little finger of left hand (symptom)
+C2232133  skin crust on dorsal surface of little finger of left hand
+C2232134  skin crust on medial surface of little finger of left hand (symptom)
+C2232135  skin crust on lateral surface of little finger of left hand
+C2232136  skin crust of multiple fingers of both hands
+C2232137  skin crust involving knuckle
+C2232138  skin crust sparing knuckle (symptom)
+C2232139  skin crust around fingernail
+C2232140  skin crust on trunk (symptom)
+C2232141  skin crust of breast (symptom)
+C2232142  skin crust of right breast (symptom)
+C2232143  skin crust of right upper outer breast (symptom)
+C2232144  skin crust of right lower outer breast
+C2232145  skin crust of right upper inner breast (symptom)
+C2232146  skin crust of right lower inner breast (symptom)
+C2232147  skin crust of left breast (symptom)
+C2232148  skin crust of left upper outer breast
+C2232149  skin crust of left lower outer breast
+C2232150  skin crust of left upper inner breast (symptom)
+C2232151  skin crust of left lower inner breast
+C2232152  skin crust of chest (symptom)
+C2232153  skin crust of right upper chest (symptom)
+C2232154  skin crust of left upper chest (symptom)
+C2232155  skin crust of right lower chest (symptom)
+C2232156  skin crust of left lower chest
+C2232157  skin crust of entire chest (symptom)
+C2232158  skin crust of abdomen
+C2232159  skin crust of right upper abdomen (symptom)
+C2232160  skin crust of left upper abdomen
+C2232161  skin crust of right lower abdomen (symptom)
+C2232162  skin crust of left lower abdomen
+C2232163  skin crust of middle abdomen
+C2232164  skin crust of entire abdomen (symptom)
+C2232165  skin crust of back
+C2232166  skin crust of right upper back (symptom)
+C2232167  skin crust of left upper back (symptom)
+C2232168  skin crust of right lower back
+C2232169  skin crust of left lower back
+C2232170  skin crust of mid back
+C2232171  skin crust of entire upper back (symptom)
+C2232172  skin crust of groin
+C2232173  skin crust of right side of groin
+C2232174  skin crust of left side of groin (symptom)
+C2232175  skin crust of entire groin area (symptom)
+C2232176  skin crust of diaper area (symptom)
+C2232177  skin crust of diaper area in front
+C2232178  skin crust of diaper area involving buttocks
+C2232179  skin crust of vulva (symptom)
+C2232180  skin crust of right side of vulva
+C2232181  skin crust of left side of vulva (symptom)
+C2232182  skin crust of entire vulvar area
+C2232183  skin crust of buttocks (symptom)
+C2232184  skin crust of right buttock (symptom)
+C2232185  skin crust of left buttock
+C2232186  skin crust of midline buttocks (symptom)
+C2232187  skin crust of both buttocks (symptom)
+C2232188  skin crust of intragluteal cleft
+C2232189  skin crust of perianal region (symptom)
+C2232190  skin crust of lower extremities (symptom)
+C2232191  skin crust of thighs (symptom)
+C2232192  skin crust of right thigh (symptom)
+C2232193  skin crust of anterior aspect of right thigh (symptom)
+C2232194  skin crust of posterior aspect of right thigh (symptom)
+C2232195  skin crust of medial aspect of right thigh
+C2232196  skin crust of lateral aspect of right thigh (symptom)
+C2232197  skin crust of left thigh
+C2232198  skin crust of anterior aspect of left thigh
+C2232199  skin crust of posterior aspect of left thigh (symptom)
+C2232200  skin crust of medial aspect of left thigh (symptom)
+C2232201  skin crust of lateral aspect of left thigh
+C2232202  skin crust of both thighs (symptom)
+C2232203  skin crust of anterior aspect of both thighs (symptom)
+C2232204  skin crust of posterior aspect of both thighs (symptom)
+C2232205  skin crust of medial aspect of both thighs (symptom)
+C2232206  skin crust of lateral aspect of both thighs
+C2232207  skin crust of knee (symptom)
+C2232208  skin crust of right knee (symptom)
+C2232209  skin crust of anterior aspect of right knee
+C2232210  skin crust of posterior aspect of right knee
+C2232211  skin crust of medial aspect of right knee
+C2232212  skin crust of lateral aspect of right knee (symptom)
+C2232213  skin crust of left knee (symptom)
+C2232214  skin crust of anterior aspect of left knee (symptom)
+C2232215  skin crust of posterior aspect of left knee
+C2232216  skin crust of medial aspect of left knee (symptom)
+C2232217  skin crust of lateral aspect of left knee
+C2232218  skin crust of both knees (symptom)
+C2232219  skin crust of anterior aspect of both knees (symptom)
+C2232220  skin crust of posterior aspect of both knees (symptom)
+C2232221  skin crust of medial aspect of both knees
+C2232222  skin crust of lateral aspect of both knees (symptom)
+C2232223  skin crust of shin (symptom)
+C2232224  skin crust of right shin
+C2232225  skin crust of left shin
+C2232226  skin crust of both shins (symptom)
+C2232227  skin crust of calf (symptom)
+C2232228  skin crust of right calf (symptom)
+C2232229  skin crust of left calf (symptom)
+C2232230  skin crust of both calves
+C2232231  skin crust of ankle
+C2232232  skin crust of right ankle
+C2232233  skin crust of anterior aspect of right ankle (symptom)
+C2232234  skin crust of posterior aspect of right ankle (symptom)
+C2232235  skin crust of medial aspect of right ankle
+C2232236  skin crust of lateral aspect of right ankle
+C2232237  skin crust of left ankle
+C2232238  skin crust of anterior aspect of left ankle (symptom)
+C2232239  skin crust of posterior aspect of left ankle (symptom)
+C2232240  skin crust of medial aspect of left ankle
+C2232241  skin crust of lateral aspect of left ankle (symptom)
+C2232242  skin crust of both ankles
+C2232243  skin crust of anterior aspect of both ankles
+C2232244  skin crust of posterior aspect of both ankles (symptom)
+C2232245  skin crust of medial aspect of both ankles
+C2232246  skin crust of lateral aspect of both ankles (symptom)
+C2232247  skin crust of foot (symptom)
+C2232248  skin crust of right foot
+C2232249  skin crust of top of right foot
+C2232250  skin crust of sole of right foot
+C2232251  skin crust of medial aspect of right foot (symptom)
+C2232252  skin crust of lateral aspect of right foot (symptom)
+C2232253  skin crusts of right foot with moccasin distribution (symptom)
+C2232254  skin crust of left foot (symptom)
+C2232255  skin crust of top of left foot
+C2232256  skin crust of sole of left foot
+C2232257  skin crust of medial aspect of left foot
+C2232258  skin crust of lateral aspect of left foot
+C2232259  skin crusts of left foot with moccasin distribution
+C2232260  skin crust of both feet
+C2232261  skin crust of top of both feet
+C2232262  skin crust of soles of both feet
+C2232263  skin crust of medial aspect of both feet
+C2232264  skin crust of lateral aspect of both feet
+C2232265  skin crusts of both feet with moccasin distribution (symptom)
+C2232266  skin crust of toe
+C2232267  skin crust of toe of right foot (symptom)
+C2232268  skin crust of great toe of right foot
+C2232269  skin crust of second toe of right
+C2232270  skin crust of third toe of right foot (symptom)
+C2232271  skin crust of fourth toe of right foot (symptom)
+C2232272  skin crust of little toe of right foot
+C2232273  skin crust of toe of left foot (symptom)
+C2232274  skin crust of great toe of left foot
+C2232275  skin crust of second toe of left foot (symptom)
+C2232276  skin crust of third toe of left foot (symptom)
+C2232277  skin crust of fourth toe of left foot
+C2232278  skin crust of little toe of left foot
+C2232279  skin crust between toes (symptom)
+C2232280  skin crust between toes of right foot (symptom)
+C2232281  skin crust between toes of left foot
+C2232282  skin crust between toes of both feet (symptom)
+C2232709  brown spots on the gums
+C2232712  numbness of right upper lip (symptom)
+C2232713  numbness of left upper lip (symptom)
+C2232714  numbness of entire upper lip
+C2232715  numbness of right lower lip (symptom)
+C2232716  numbness of left lower lip (symptom)
+C2232717  numbness of entire lower lip (symptom)
+C2232743  numbness of dorsum of right forearm (symptom)
+C2232744  numbness of volar aspect of right forearm (symptom)
+C2232745  numbness of dorsum of left forearm
+C2232746  numbness of volar aspect of left forearm
+C2232747  numbness of dorsum of both forearms
+C2232748  numbness of volar aspect of both forearms
+C2232749  numbness of outer aspect of lower right leg
+C2232750  numbness of inner aspect of lower right leg (symptom)
+C2232751  numbness of outer aspect of lower left leg
+C2232752  numbness of inner aspect of lower left leg (symptom)
+C2232754  numbness of eyebrow region (symptom)
+C2232755  numbness of right eyebrow region
+C2232756  numbness of left eyebrow region (symptom)
+C2232757  numbness of eyebrow region on both sides (symptom)
+C2233386  skin rash of right breast (symptom)
+C2233387  skin rash of right upper outer breast
+C2233388  skin rash of right lower outer breast
+C2233389  skin rash of right upper inner breast (symptom)
+C2233390  skin rash of right lower inner breast
+C2233391  skin rash of left breast (symptom)
+C2233392  skin rash of left upper outer breast (symptom)
+C2233393  skin rash of left lower outer breast
+C2233394  skin rash of left upper inner breast
+C2233395  skin rash of left lower inner breast
+C2233396  skin rash of right upper chest (symptom)
+C2233397  skin rash of left upper chest (symptom)
+C2233398  skin rash of right lower chest
+C2233399  skin rash of left lower chest (symptom)
+C2233400  skin rash of entire chest
+C2233401  skin rash of right upper abdomen (symptom)
+C2233402  skin rash of left upper abdomen
+C2233403  skin rash of right lower abdomen
+C2233404  skin rash of left lower abdomen (symptom)
+C2233405  skin rash of middle abdomen (symptom)
+C2233406  skin rash of entire abdomen
+C2233623  eyebrows are bleeding
+C2242996  Tingling sensation
+C2243108  symptoms of the nails of toes
+C2609319  Papulopustular rash
+C2711130  [D]Subungual swelling (context-dependent category)
+C2985318  Pregnancy Related Skin Change
+C3266098  Numbness of saddle area (finding)
+C3469466  tingling of the lateral left ankle (symptom)
+C3469467  tingling of the lateral right ankle (symptom)
+C3472693  Numbness and tingling sensation of skin
+C3506376  skin wound red
+C3506377  skin wound tender to touch

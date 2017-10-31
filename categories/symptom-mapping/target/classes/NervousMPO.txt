@@ -1,0 +1,753 @@
+C0001721  Affect
+C0001762  Afterimage
+C0002957  Anger
+C0003467  Anxieties
+C0004056  Aspiration (Psychology)
+C0004083  Association
+C0004084  Association Learning
+C0004268  Attention
+C0004271  Attitude
+C0004272  Attitude of Health Personnel
+C0004273  Attitude to Computer
+C0004274  Attitude to Death
+C0004309  Auditory Perception
+C0004350  Authoritarianism
+C0004369  Autokinetic Effects
+C0004442  Avoidance Learning
+C0004448  Awareness
+C0005119  Bereavement
+C0005891  Body Image
+C0006019  Boredom
+C0007239  Career Choice
+C0007421  Catharses
+C0007440  Cathexis
+C0007952  Character
+C0008892  clairvoyance (symptom)
+C0009240  Cognition
+C0009242  Cognitive Dissonance
+C0009395  Color Perception
+C0009603  Computer Literacies
+C0009636  Concept Formation
+C0009647  Conditioning
+C0009649  Classical Conditioning
+C0009651  Operant conditioning
+C0009928  Contrast Sensitivity
+C0010297  creativity
+C0011018  Day Dream
+C0011109  Decision Making
+C0011142  Defense Mechanisms
+C0011194  Deja Vu
+C0011546  Dependency
+C0011586  Depth Perception
+C0012632  Discrimination
+C0012633  Discrimination Learning
+C0012725  Displacement
+C0012752  Distance Perception
+C0013117  Dream
+C0013126  Drive
+C0013727  Eidetic Imageries
+C0013987  Emotion
+C0015347  Extinction (Psychology)
+C0015373  Perception, extrasensory
+C0015382  Extraversion
+C0015630  Fantasies
+C0015726  Fear
+C0016073  Dependence-Independence, Field
+C0016079  Figural aftereffects
+C0016563  Contour Perception
+C0016770  Frustration
+C0017249  Gender Identities
+C0017324  Generalization
+C0017325  Generalization, Response
+C0017326  Stimulus generalization
+C0018235  Grief reaction
+C0018379  Guilt feelings
+C0018467  Habituation, Psychophysiological
+C0018592  Happiness
+C0018616  Hate
+C0018897  Helplessness, Learned
+C0020039  Hostile behavior
+C0020792  Identification
+C0020793  Crises, Identity
+C0020913  Imagination
+C0021118  Imprinting (Psychology)
+C0021228  Difference, Individual
+C0021229  Individuation
+C0021467  Inhibition
+C0021704  Intelligence
+C0021924  Introversion
+C0022371  Jealousies
+C0022397  Job Satisfaction
+C0022423  Judgments
+C0023013  Development, Language
+C0023185  Learning
+C0023618  Libido
+C0024021  Loudness Perception
+C0024028  Love
+C0024409  Machiavellianism
+C0025260  Memory
+C0025265  Immediate Memories
+C0025353  Health, Mental
+C0025361  Human Information Processing
+C0026516  Moods
+C0026527  Development, Moral
+C0026598  Motion Perception
+C0026605  Motivation
+C0028325  Communication, Nonverbal
+C0029139  Optical illusion
+C0029266  Orientation
+C0029948  Overlearning
+C0030210  Learning, Paired-Associate
+C0030709  Pattern Recognition, Visual
+C0030971  Perception
+C0030972  Closure, Perceptual
+C0030974  Defense, Perceptual
+C0030976  Distortion, Perceptual
+C0030977  Masking, Perceptual
+C0031208  Personalities
+C0031210  Development, Personality
+C0031996  Discrimination, Pitch
+C0031997  Perception, Pitch
+C0032893  Practice (Psychology)
+C0033199  Inhibition, Proactive
+C0033205  Learning, Probability
+C0033211  Problem Solving
+C0033363  Projection, thought
+C0034634  Rage
+C0034692  Rationalization
+C0034763  Reality Testing
+C0034770  Recall
+C0034936  Conditioned Reflex
+C0035007  Reinforcement
+C0035010  Reinforcement, Verbal
+C0035143  Repression
+C0035144  Repression Sensitization
+C0035280  Retention
+C0035397  Reward
+C0036591  Assessment, Self
+C0036594  Concept, Self
+C0036597  Esteem, Self
+C0036602  Self Stimulation
+C0036717  Learning, Serial
+C0036849  Set
+C0036938  Shame
+C0037228  Perception, Size
+C0037322  Sleep, paradoxical
+C0037427  Perception, Social
+C0037710  Direction finding
+C0037744  Perception, Space
+C0037820  Discrimination, Speech
+C0037826  Perception, Speech
+C0038272  Stereotyping
+C0038548  Sublimation
+C0038550  Perception, Subliminal
+C0039456  Telepathy
+C0039474  Temperament
+C0039869  Thinking
+C0040226  Perception, Time
+C0040671  Transfer
+C0041453  Personalities, Type A
+C0041654  Unconscious
+C0042531  Learning, Verbal
+C0042794  Binocular Vision
+C0042830  Perception, Visual
+C0042950  Volition
+C0043097  Perception, Weight
+C0080101  Regrets
+C0085380  Anxieties, Dental
+C0086045  Concentration
+C0086064  Coronary Prone Personality
+C0086644  Mourning
+C0087156  Cortical Vigilance
+C0150035  Anticipatory grieving
+C0150450  Altered state of consciousness
+C0152057  Compensation
+C0162340  Comprehension
+C0162425  Intention
+C0175631  imagery
+C0178494  avoidance behavior
+C0178500  behavioral habituation/sensitization
+C0178609  id ego superego
+C0178643  form/pattern perception
+C0178734  love and affection
+C0178794  patient care personnel attitude
+C0178842  sensory feedback
+C0178875  type A/type B personality
+C0206100  Signal Detection Analysis
+C0221171  Hypnotic state
+C0229992  Mind
+C0233413  Attentiveness
+C0233421  Selective inattention
+C0233423  Suggestibility
+C0233453  Emotivity
+C0233455  Emotional Immaturity
+C0233493  Exaltation
+C0233495  Ambivalence
+C0233496  Aversion
+C0233498  Demoralization
+C0233571  Excitement
+C0233630  Logical thinking
+C0233631  Lateral thinking
+C0233792  Recent memory
+C0233793  Memory of past events
+C0233816  Critical judgement
+C0233820  INSIGHT
+C0233821  Intellectual insight
+C0233822  True insight
+C0233828  Intuition
+C0233832  Learning ability
+C0233833  Insight learning
+C0233834  Latent learning
+C0233904  Genital psychosexual phase
+C0233977  Erotic stimulus
+C0233978  Non-erotic stimulus
+C0233991  Normal libido
+C0233992  Libido control
+C0234403  Stimulus, unconditioned
+C0234404  Conditioned stimulus
+C0234408  Conditioned Suppression
+C0234421  Consciousness
+C0234426  Apperception
+C0234459  REM dreaming
+C0234628  Peripheral vision
+C0234747  Sound discrimination
+C0235128  FEELING REMOTE
+C0235146  Euphoria
+C0237105  Emotional Stability
+C0237428  Optimism
+C0237450  Self Actualization
+C0237460  Perceptual Aftereffect
+C0237473  Learning Serial Anticipation
+C0237482  Contextual Associations
+C0237497  Emotional Bonding
+C0237516  Physical Comfort
+C0237524  Avoidance Conditioning
+C0237525  Escape Conditioning
+C0237526  Verbal Conditioning
+C0237529  Self Confidence
+C0237539  Cognitive Contiguity
+C0237607  Practice Experience
+C0237613  Learning Extinction
+C0237614  Conditioning Fading
+C0237633  Sensory Gating
+C0237634  Cognitive Generalization
+C0237635  Learning Generalization
+C0237637  Learning Generation Effect
+C0237647  Attitudes Toward Handicapped
+C0237661  Conceptual Imagery
+C0237674  Retroactive Inhibition
+C0237691  Defense Mechanism Isolation
+C0237710  Perceptual Localization
+C0237730  Attitudes Toward Mental Retardation
+C0237761  Perceptual Orientation
+C0237778  Attitudes Toward Physical Illness
+C0237816  Learning Recall
+C0237818  Learning Recognition
+C0237819  Learning Reconstruction
+C0237834  Resistance
+C0237891  Learning Spontaneous Recovery
+C0237955  Withdrawal (Defense Mechanism)
+C0242114  Suspicion
+C0242393  Immediate Recalls
+C0242428  satisfaction
+C0242498  Perception, Self
+C0242996  Learning, Maze
+C0260156  Prenatal influences
+C0262373  AIDS ANXIETY
+C0278069  Acceptance of illness
+C0278081  Thought association
+C0278109  Normal enjoyment of sex, NOS
+C0312418  Sensitivity
+C0376364  Delayed Memories
+C0376366  Memories, Repressed
+C0376487  Mind-Body Relations (Non-Physiology)
+C0392336  CER (Conditioning)
+C0392342  Extrinsic motivation
+C0392347  Hope
+C0392348  Ideation, NOS
+C0392350  Intrinsic motivation
+C0392365  Suppression - ment defen mech
+C0423896  Content
+C0423909  long-term memory
+C0424090  Enthusiasm
+C0424093  Initiative
+C0424134  Pessimistic about future
+C0424157  Fear of going crazy
+C0424169  Fear of public speaking
+C0424191  Fear of infection
+C0424215  Personal Identity
+C0459920  Abstract thought
+C0476477  [D]Unhappiness (context-dependent category)
+C0497237  Fear of heart attack
+C0497238  Fear of hypertension
+C0520937  Normal motivation
+C0520938  Abnormal motivation
+C0520939  Increased motivation
+C0520942  Personal motivation
+C0520944  Increased stress tolerance
+C0520945  Decreased stress tolerance
+C0522165  Feeling of relaxation
+C0522177  Archaic-paralogical thinking
+C0522179  Fear of death
+C0522182  Fear of disease
+C0522185  Fear contracting HIV infection
+C0524637  Recognition
+C0542180  ALARM
+C0542301  Bitterness
+C0542310  Omnipotence - ment defen mech
+C0542312  Semantic memory
+C0542316  Visual memory
+C0543488  interest
+C0544671  Overanxious reaction of childhood
+C0546816  Persistence
+C0555358  Morbid thoughts
+C0556380  Attitude to drinking
+C0557904  emotional adjustment
+C0557908  Feeling a failure
+C0558080  Unwilling
+C0558081  Resigned tolerance
+C0558082  Not keen
+C0558083  Eager
+C0561766  Explicit memory
+C0561770  Verbal memory
+C0561843  Autobiographical memory
+C0561845  False memories
+C0562342  Empowered
+C0563201  Has imaginary friend
+C0564404  Feeling stressed
+C0564494  Delus project - ment def mech
+C0564495  Devaluation - ment defen mech
+C0564496  Humor - mental defence mechan
+C0564497  Idealisation - ment defen mech
+C0564499  Pass aggress - ment defen mech
+C0564500  Phobic avoidance - ment defen
+C0564501  Primit idealisat - ment defen
+C0564502  Psychotic denial - ment defen
+C0564503  Reversal - mental defenc mech
+C0564505  Splitting - mental defen mech
+C0564506  Turn against self - ment def
+C0564507  Undoing - mental defence mech
+C0577602  Parental anxiety
+C0578522  Empty nest syndrome
+C0582173  Discrimination between rough and smooth
+C0582587  visual learning
+C0584925  Out of body experience
+C0589098  Focused attention
+C0589099  Sustained attention
+C0589101  Divided attention
+C0589102  Visual attention
+C0589139  Rigidity of thinking
+C0589154  Prospective memory
+C0589510  Intellectual awareness
+C0589511  Emergent awareness
+C0589512  Anticipatory awareness
+C0589514  Object constancy
+C0589518  Route recognition
+C0589555  Figure ground perception
+C0596130  attribution
+C0596134  auditory feedback
+C0596475  early experience
+C0596545  experience
+C0596887  mathematical ability
+C0597314  psychological aspect of cancer
+C0597315  psychological concentration
+C0597432  self organization
+C0597436  sensory discrimination
+C0597440  sensory signal detection
+C0597441  sequential perception
+C0597498  speech recognition
+C0597644  vibration perception
+C0598761  rehearsal
+C0598851  memory retention
+C0599452  horizontal perception
+C0599453  vertical perception
+C0599544  time orientation
+C0599621  object recognition
+C0600291  pattern discrimination
+C0600564  Self Efficacy
+C0678156  Ecstasy
+C0678970  personality as an Cause of Alcohol or Other Drug Use, Abuse and Dependence
+C0678971  Alcohol or Other Drugs personality
+C0678972  pre-Alcohol or Other Drugs personality
+C0678973  clinical Alcohol or Other Drugs personality
+C0678974  Effects of Alcohol or Other Drug Use, Abuse and Dependence on personality
+C0678983  egocentrism
+C0678985  insincereness
+C0678987  behavioral/cognitive approach to personality
+C0678991  neo-Freudian approach to personality
+C0678995  intellectual development
+C0679011  diminished awareness
+C0679015  precognition
+C0679022  perceptual constancy
+C0679023  perceptual discrimination
+C0679024  spatial ability
+C0679025  visual discrimination
+C0679026  visual contrast
+C0679027  Hearing acuity
+C0679030  odor discrimination
+C0679031  somesthetic perception
+C0679033  texture perception
+C0679035  cognitive development
+C0679036  cognitive accommodation
+C0679042  cognitive assimilation
+C0679043  cognitive mapping
+C0679044  serial ordering
+C0679045  association (psychology)
+C0679046  attention span
+C0679049  short-term and long-term memory
+C0679050  memory by content
+C0679051  sensory memory
+C0679052  memory process
+C0679053  memory span
+C0679054  chunking
+C0679055  mnemonics
+C0679057  memory consolidation
+C0679058  encoding
+C0679059  characteristic of memory
+C0679060  state-dependent memory
+C0679061  memory retrieval
+C0679062  remembering
+C0679063  memory recall
+C0679064  redintegration
+C0679065  relearning
+C0679066  Learning Interference
+C0679067  learning to learn
+C0679068  unconditioned and conditioned stimulus
+C0679069  unconditioned and conditioned response
+C0679070  unconditioned reflex
+C0679074  punishment (conditioning)
+C0679075  covert conditioning
+C0679076  behavior shaping
+C0679079  extinction (conditioning)
+C0679081  observational learning
+C0679082  social learning
+C0679084  simulation (learning)
+C0679085  sequential learning
+C0679086  Intellectualization
+C0679087  Introjection - ment defen mech
+C0679088  Reaction-form - ment def mech
+C0679089  emotional closure
+C0679095  needs and drives
+C0679097  affiliation motivation
+C0679098  achievement motivation
+C0679099  aggression and violence motivation
+C0679100  revenge motivation
+C0679103  emotional development
+C0679104  emotional stability and instability
+C0679105  pleasure
+C0679107  displeasure
+C0679109  emotional vulnerability
+C0679110  anxiolysis (emotion)
+C0679111  resentment
+C0679112  Embarrassment
+C0679113  forgiving, forgiveness
+C0679114  intense emotion
+C0679115  fervor
+C0679141  role perception
+C0679142  role expectation
+C0679201  inference
+C0681119  employee attitude
+C0681120  employee motivation
+C0681121  employee morale
+C0683263  reinforcement and learning
+C0683270  human needs
+C0683283  disgust
+C0683285  humiliation
+C0683287  sympathy
+C0683296  pride
+C0684321  Regression
+C0684328  reasoning
+C0699864  Vigilance
+C0700301  Information Processing
+C0728721  suppression
+C0814053  relational model
+C0814060  Helplessness
+C0814061  vulnerabilities in self development and self esteem
+C0814062  troubled self-object relation
+C0814063  affect deficits
+C0814069  visual spatial ability
+C0814073  discouragement (conditioning)
+C0814074  omission training
+C0814075  general conditioning concepts
+C0814076  reinforcer or punisher
+C0814077  primary reinforcer or punisher
+C0814078  conditioned reinforcer or punisher
+C0814079  cue reactivity
+C0814080  associative bias
+C0814081  blocking (conditioning)
+C0814082  conditioning by type of stimulus
+C0814083  place conditioning
+C0814084  taste conditioning
+C0814085  generalization vs discrimination in learning
+C0814086  inductive learning
+C0814087  spatial memory
+C0814089  intrinsic vs extrinsic motivation
+C0814110  inductive vs deductive reasoning
+C0814347  attitude toward prevention
+C0815105  conditioned taste aversion
+C0870088  Academic Achievement Motivation
+C0870100  adolescent attitudes
+C0870105  Adult Attitudes
+C0870114  AIDS attitude
+C0870124  alienation
+C0870130  Anagram Problem Solving
+C0870135  anger controling
+C0870145  Animal Motivation
+C0870157  Apparent Distance
+C0870158  Apparent Movement
+C0870181  Autoshaping
+C0870186  Avoidance
+C0870212  body awareness
+C0870225  Brain Self Stimulation
+C0870231  Brightness Constancy
+C0870232  Brightness Contrast
+C0870233  brightness perception
+C0870254  Cat Learning
+C0870265  Child Attitudes
+C0870275  Childrearing Attitudes
+C0870289  attitudes patient
+C0870311  Color Constancy
+C0870315  Community Attitudes
+C0870339  connotations
+C0870354  Cooperative Learning
+C0870361  Counselor Attitudes
+C0870383  Cued Recall
+C0870422  Direction Perception
+C0870427  disappointment
+C0870433  Dissatisfied
+C0870435  Divergent Thinking
+C0870444  doubting
+C0870456  Early Memories
+C0870467  Educational Aspirations
+C0870469  Educational Incentives
+C0870477  Ego Development
+C0870501  Environmental Attitudes
+C0870534  Eye Fixation
+C0870546  Birth Control Attitudes
+C0870552  Fear of Success
+C0870559  Figure Ground Discrimination
+C0870563  Fine Motor Skill Learning
+C0870573  foreign languages learning
+C0870583  Foveal Vision
+C0870586  Free Recall
+C0870618  Gross Motor Skill Learning
+C0870620  Group Decision Making
+C0870650  Higher Order Conditioning
+C0870686  Impression Formation
+C0870688  Incidental Learning
+C0870698  Inductive Deductive Reasoning
+C0870718  Intentional Learning
+C0870748  Introjection
+C0870751  Irrational Beliefs
+C0870752  isolation effect
+C0870756  Job Applicant Attitudes
+C0870771  Kinesthetic Perception
+C0870784  inhibition latent
+C0870814  Like
+C0870819  Listening Comprehension
+C0870822  Lower Class Attitudes
+C0870835  Management Decision Making
+C0870846  Marriage Attitudes
+C0870851  Mastery Learning
+C0870853  Matching to Sample
+C0870858  Mathematics Anxiety
+C0870872  Memory Decay
+C0870873  Memory Trace
+C0870889  Middle Class Attitudes
+C0870906  Mnemonic Learning
+C0870918  Motion Parallax
+C0870923  Perceptual Motor Learning
+C0870930  Music Perception
+C0870942  Need Satisfaction
+C0870970  Nonreversal Shift Learning
+C0870971  Nonsense Syllable Learning
+C0870976  nonverbal learning
+C0870986  attitude obesity
+C0870994  career aspirations
+C0870995  Occupational Attitudes
+C0871059  Perceptual Style
+C0871091  Political Attitudes
+C0871100  Positive Transfer
+C0871117  precondition
+C0871139  Probability Judgment
+C0871142  procrastination (symptom)
+C0871154  Projective Identification
+C0871183  Psychologist Attitudes
+C0871188  Psychotherapist Attitudes
+C0871203  Racial and Ethnic Attitudes
+C0871247  reminiscence
+C0871268  Reversal Shift Learning
+C0871298  learning school
+C0871340  Sentence Comprehension
+C0871342  Separation Individuation
+C0871344  Serial Recall
+C0871350  Sex Role Attitudes
+C0871352  sexual attitudes
+C0871356  sexual satisfaction
+C0871367  Size Constancy
+C0871368  Size Discrimination
+C0871370  learning skills
+C0871382  Social Comparison
+C0871392  Class Attitudes
+C0871397  Spatial Imagery
+C0871400  Spatial Organization
+C0871423  State Dependent Learning
+C0871435  Stereotyped Attitudes
+C0871437  Stimulus Discrimination
+C0871447  attitude students
+C0871481  Teacher Attitudes
+C0871485  Teacher Expectations
+C0871501  temptation
+C0871504  test anxiety
+C0871519  therapist attitudes
+C0871550  Trial and Error Learning
+C0871560  Upper Class Attitudes
+C0871570  Verbal Comprehension
+C0871639  adult learning
+C0871641  Affection
+C0871681  Choice Shift
+C0871688  Cognitive Hypothesis Testing
+C0871692  Color Contrast
+C0871709  Delayed Alternation
+C0871719  Drug Usage Attitudes
+C0871725  ego identity
+C0871727  Emotional Control
+C0871729  Employer Attitudes
+C0871740  Face Perception
+C0871777  Iconic Memory
+C0871789  Intersensory Processes
+C0871804  Loudness Discrimination
+C0871806  lucid dream
+C0871826  Negative Transfer
+C0871835  Number Comprehension
+C0871836  Numerosity Perception
+C0871874  Rat Learning
+C0871888  Role Satisfaction
+C0871938  outs time
+C0871970  attitudes eating
+C0872002  fantasy sexual
+C0872011  Visual Spatial Memory
+C0872236  shape object
+C0920396  behavioral habituation
+C0920397  behavioral sensitization
+C0920632  pattern perception
+C0920647  reverse tolerance
+C0920724  prenatal experience
+C0935548  Computer Anxiety
+C0935565  Interpersonal Relationship Satisfaction
+C0935584  Function, Executive
+C0935620  emotional state
+C1113697  attitude towards own illness or disability
+C1113698  attitude towards illness or disability in others
+C1113699  attitude toward AOD addict or abuser
+C1113701  attitude towards illness or disability
+C1113702  attitude toward self and others
+C1154338  learning or memory
+C1154340  olfactory learning
+C1154342  anesthesia-resistant memory
+C1262620  Bad attitude
+C1284843  Entire psyche (body structure)
+C1285655  Characteristic of immediate recall (observable entity)
+C1288289  Fearful mood
+C1299415  Readiness to learn
+C1325846  nonassociative learning
+C1325847  Sensitization
+C1328751  Environmental Comfort
+C1328752  Social Comfort
+C1331418  Comfort
+C1387807  nocturnal; anxiety, dream anxiety
+C1387813  dream anxiety
+C1395207  depressive; sensation
+C1449634  Pattern Recognition, Physiological
+C1449635  Recognition, Tactile Pattern
+C1449636  Auditory Pattern Recognition
+C1510523  Animal Learning
+C1510524  Case Based Reasoning
+C1510535  Conditioned Fear
+C1510539  Emotional Intelligence
+C1510548  Implicit Learning
+C1510560  Organizational Learning
+C1510578  Sports (Attitudes Toward)
+C1510627  Phonological Awareness
+C1510634  Self Regulated Learning
+C1527305  Feeling
+C1704726  Confidence
+C1827413  Fear of abuse
+C1827681  Conflicting stages of grief
+C1828036  Conflicting stages of grief among family members (finding)
+C1882997  Self-conscious
+C1998979  Anxiety Before Death
+C2135323  fear of possible disease (symptom)
+C2239195  Anxious mood
+C2347948  Reluctance
+C2350520  olfactory perception
+C2350521  Taste Perceptions
+C2350522  Perceptions, Touch
+C2364106  Spiritual beliefs conflicting with healthcare plan
+C2370875  Shifting attention
+C2370876  Sharing attention
+C2370877  Attention functions, other specified
+C2370878  Memory functions, other specified
+C2370883  Appropriateness of emotion
+C2370884  Regulation of emotion
+C2370885  Range of emotion
+C2370886  Emotional functions, other specified
+C2370887  Visuospatial perception
+C2370888  Perceptual functions, other specified
+C2370889  Pace of thought
+C2370890  Thought functions, other specified
+C2370892  Cognitive flexibility
+C2370996  Continuity of consciousness
+C2370998  Consciousness functions, other specified
+C2370999  Orientation to place
+C2371000  Orientation to self
+C2371001  Orientation to others
+C2371002  Orientation to person, other specified
+C2371003  Orientation to person, unspecified
+C2371004  Orientation functions, other specified
+C2371005  Orientation functions, unspecified
+C2371298  Solving simple problems
+C2371299  Solving complex problems
+C2371300  Solving problems, other specified
+C2371301  Solving problems, unspecified
+C2371920  Regulation of states of wakefulness
+C2371921  Orientation to objects
+C2371922  Orientation to space
+C2371929  Retrieval and processing of memory
+C2372001  Focusing attention on the human touch, face and voice
+C2372002  Focusing attention to changes in the environment
+C2372003  Focusing attention, other specified
+C2372004  Focusing attention, unspecified
+C2372005  Pretending
+C2372006  Speculating
+C2372007  Hypothesizing
+C2372008  Thinking, other specified
+C2372009  Thinking, unspecified
+C2584294  Content of thought
+C2584305  Learning Imitation
+C2585388  Level of agitation
+C2700617  Irritation
+C2702875  senile psychotic condition (diagnosis)
+C2712312  Good self-esteem
+C2911691  Feedback
+C2911692  Response
+C2936181  visual feedback
+C2936352  Reserve, Cognitive
+C2936607  Information Literacies
+C2936631  Evaluations, Diagnostic Self
+C2936636  Psychological Anticipation
+C2936637  Learning Curve
+C2987186  Jittery
+C2987187  Pleasant
+C2987395  Helpessness
+C2987481  Strain
+C3146231  Secure
+C3156335  middle-term memory
+C3178983  Coherence Sense
+C3179029  Priming, Repetition
+C3179495  Making, Shared Decision
+C3269227  dishabituation
+C3274767  Delayed Reward Discounting
+C3532510  Freudian phase of psychosexual development (finding)
+C3532511  Phallic psychosexual phase (finding)
+C3532512  Latent psychosexual phase

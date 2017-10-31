@@ -1,0 +1,697 @@
+C0003126  Sense of smell, absent
+C0003580  Apnea, drug induced
+C0008033  Chest pain, pleuritic
+C0008035  CHEST WALL PAIN
+C0008039  Cheyne Stokes Respiration
+C0010200  Cough
+C0010201  Cough, chronic
+C0013404  Breathlessness
+C0013456  Earache
+C0017672  Painful tongue
+C0018520  Bad breath
+C0019079  Hemoptyses
+C0019825  Hoarseness
+C0020440  Carbon dioxide, increased level
+C0026635  Breathings, Mouth
+C0027424  Nasal congestion
+C0030214  Palatal myoclonus
+C0032781  Postnasal drip
+C0034642  Crackle
+C0035508  Rhonchi
+C0037090  Signs and Symptoms, Respiratory
+C0037195  Sinus headache
+C0037384  Snoring
+C0038450  Stridor
+C0040460  Toothache
+C0043144  Wheezing
+C0043352  Salivary secretion, decreased
+C0085619  Orthopnea
+C0151826  CHEST PAIN SUBSTERNAL
+C0152029  SINUS CONGESTION
+C0152228  Diplacusis
+C0155533  Subjective tinnitus
+C0155534  Objective tinnitus
+C0155542  Otogenic pain
+C0221161  Shallow breathing
+C0231803  Dyspnea, class I
+C0231804  Dyspnea, class II
+C0231805  Dyspnea, class III
+C0231806  Dyspnea, class IV
+C0231807  DOE
+C0231808  Dyspnea after eating
+C0231809  Dyspnea leaning over
+C0231810  Dyspnea raising arms
+C0231813  Ataxic breathing
+C0231815  Frog breathing
+C0231816  Hysteresis, pulmonary
+C0231818  Airway constriction
+C0231819  Air trapping
+C0231835  TACHYPNEA
+C0231837  BRADYPNEA
+C0231840  Apneusis
+C0231841  Stertorous respiration
+C0231846  Cluster breathing
+C0231851  Fish-mouthing
+C0231852  Paradoxical respiration
+C0231855  Breath sounds, normal
+C0231856  Abnormal breath sounds
+C0231857  Breath sounds, vesicular
+C0231859  Harsh breath sounds
+C0231860  Amphoric breath sounds
+C0231862  Rhonchi, sibilant
+C0231863  Rhonchi, sonorous
+C0231867  Medium rales
+C0231871  Whispered pectoriloquy
+C0231873  Bronchial breathing
+C0231874  Inspiratory wheezing
+C0231875  Expiratory wheezing
+C0231876  Coin sign
+C0231880  Superficial crackling rales
+C0231882  Hyperresonance
+C0231890  Fremitus
+C0231891  Fremitus, vocal
+C0231893  Fremitus, pleural friction
+C0231894  Fremitus, tussive
+C0231895  Fremitus, rhonchal
+C0231912  Cough, nocturnal
+C0231913  Cough, early morning
+C0231914  Cough at rest
+C0231916  Cough after eating
+C0231917  Cough, postural
+C0231918  NASAL SYMPTOMS
+C0231929  Acute hypoventilation
+C0231930  Chronic hypoventilation
+C0232286  Precordial pain
+C0232513  Premature tooth loss
+C0232514  Tooth chattering
+C0232517  Gurgling
+C0232608  Nasal regurgitation
+C0232958  Stomatomenia
+C0234259  Hyperosmia
+C0234261  Sensitivity to individual odor
+C0234849  Hypernasality of vowels and voiced consonants
+C0234852  Nasal grimacing
+C0234863  Wheezing stridor
+C0235234  THROAT DRY
+C0235282  EAR ROARING
+C0235283  EAR BUZZING
+C0235285  EAR HISSING
+C0235568  BRONCHORRHEA
+C0235744  BREATH HOLDING
+C0236000  JAW BONE PAIN
+C0238997  Dullness, percussive
+C0239134  Loose cough
+C0239206  EAR CRACKLING
+C0239223  External ear pain
+C0239548  Fasciculation of tongue
+C0239739  GINGIVAL PAIN
+C0240211  Swelling lips
+C0240311  maxillary pain (symptom)
+C0240564  Pain of nose
+C0240578  Nose tender
+C0241235  Expectoration of purulent sputum
+C0241426  Burning tongue
+C0241439  Paraesthesia of tongue
+C0241457  teeth sensitive to cold (symptom)
+C0241462  teeth sensitive to heat (symptom)
+C0241700  Decreased vocal loudness
+C0241902  Grunt
+C0242429  Sore Throat
+C0262451  DIMINISHED HEARING
+C0264272  Purulent nasal discharge
+C0264274  Catarrhal nasal discharge
+C0264345  Cigarette cough
+C0264588  SPASTIC DYSPHONIAS
+C0264599  Aphonia paralytica
+C0264601  Flaccid dysphonia
+C0264602  Spastic pseudobulbar dysphonia
+C0264609  Dysphonia of essential tremor
+C0266952  Loosening of tooth
+C0267028  Cheilodynia
+C0271411  Referred otogenic pain
+C0277856  Expiratory dyspnea
+C0277863  Atelectatic rales
+C0277864  Asthmatoid wheeze
+C0277873  Flaring of alae nasi
+C0277876  PULMONARY SIGNS AND SYMPTOMS
+C0277980  Onion breath
+C0277981  Garlic breath
+C0277984  Halitus saturninus
+C0277986  Gingival edema
+C0277990  Expectoration of currant jelly sputum
+C0311212  Migrating cheilosis
+C0392194  TREPOPNEA
+C0395959  Tinnitus of vascular origin
+C0399410  Teeth staining due to metals
+C0399411  Teeth staining due to drugs
+C0399590  Drug-induced xerostomia
+C0422833  ENT symptoms
+C0423479  Ear symptoms
+C0423517  Blood discharge from ear
+C0423600  Feeling of lump in throat
+C0423625  Bilateral earache
+C0423626  Unilateral earache
+C0423628  Painful teething
+C0423633  Parasternal chest pain
+C0423636  Cardiac chest pain, NOS
+C0423729  Painful respiration
+C0424489  Chapped lips
+C0425449  GASPING
+C0425477  Crowing inspiration
+C0425481  Sighing
+C0425485  Whoop
+C0425508  Night cough present
+C0425510  TOF - Trach oesoph fist cough
+C0425650  Cardiorespiratory murmur
+C0426410  Nasal symptoms OS
+C0426466  Nose bleed symptom NOS
+C0426471  Sinus catarrh
+C0426481  Tooth symptom NOS
+C0426484  Throat symptom NOS
+C0426498  Dry tongue
+C0439029  Deafness symptom
+C0439035  Wheezing symptom
+C0451632  Sore nostril
+C0454545  Hyperkinetic dysphonia
+C0458226  Arthralgia - sternoclav joint
+C0472514  Edema of uvula
+C0476273  DISTRESS RESPIRATORY
+C0476277  [D]Sputum abnormal - odor (context-dependent category)
+C0476278  Anterior chest wall pain
+C0495696  Hypernasality and hyponasality
+C0520559  Numbness of tongue
+C0520825  Platypnea
+C0521588  Abnormal jaw movement, NOS
+C0521787  Clicking sound in ear
+C0521788  Crackling sound in ear
+C0521789  Nervous tinnitus
+C0521790  Non-vibratory tinnitus
+C0521791  Vibratory tinnitus
+C0521800  Central cyanosis
+C0522046  Cough suppression
+C0522047  Photoptarmosis
+C0522251  Pain in sinuses
+C0522347  Ear pressure sensation
+C0522370  Hearing loss remits during vertigo attacks
+C0546947  Sense of suffocation
+C0547002  Death rattle
+C0549250  jaw stiffness (symptom)
+C0553668  RESPIRATION LABORED
+C0555056  Expectoration of blood stained sputum
+C0558944  [D]Choking due to airways obstruction (context-dependent category)
+C0559687  Congestion of pharynx
+C0562483  Persistent cough
+C0574066  Increased SOB
+C0574068  Rib pain
+C0575010  Stiff temporomandibular joint
+C0576836  Pinna tender
+C0576837  General tenderness in pinna
+C0576838  Focal tenderness in pinna
+C0577562  Mass of respiratory structure
+C0577586  Swelling of respiratory structure
+C0577978  Expectoration of mucoid sputum
+C0577979  Expectoration of frothy sputum
+C0577982  Expectoration of rusty sputum
+C0578044  Pain of ear structure
+C0578045  Pain of respiratory structure
+C0578046  Maxillary sinus pain
+C0578047  Frontal sinus pain
+C0578078  Tenderness of ear structure
+C0578079  Tenderness of resp struct
+C0578391  Expiratory polyphonic wheeze
+C0581866  Costal margin chest pain
+C0581867  Tongue symptoms
+C0586750  Cough after exercise
+C0677600  Inhalatory stridor
+C0700184  Irritation of the throat, NOS
+C0743554  recurrent epistaxis
+C0745015  HOARSENESS CHRONIC
+C0751466  Phonophobia
+C0847233  pulling at ears (symptom)
+C0847554  lump in throat
+C0848220  Pain;mastoid area
+C0850060  pruritus of nose
+C0850149  Dry cough
+C0858529  Cardialgia
+C0877495  tingling of tongue (symptom)
+C0877717  burning sensation in mouth (symptom)
+C0878638  tongue abnormalities
+C1148477  Sudden Deafness
+C1168185  difficulty breathing only when lying down (symptom)
+C1260880  RHINORRHEA
+C1260922  Abnormal breathing
+C1268587  Tympanic plexus neuralgia syndrome
+C1277295  Cough with fever (finding)
+C1290643  Extrinsic staining of teeth associated with inadequate oral hygiene (disorder)
+C1290644  Extrinsic staining of teeth associated with oral habits (disorder)
+C1290771  edema of oral vestibule
+C1313952  Periodic respiration
+C1319921  Unable to complete a sentence in one breath (finding)
+C1321587  BREATHING ABNORMALLY DEEP
+C1384488  Restrained breathing
+C1386209  breath; fetid
+C1395353  diaphragm; spasm
+C1395965  dyspnea; hyperventilation
+C1396733  cough; epidemic
+C1399715  cough; larynx
+C1399716  cough; nervous
+C1404297  labored; respiratory
+C1404372  mottling of tooth enamel (diagnosis)
+C1404891  ear; neuralgia
+C1405035  pain; pericardial
+C1406293  disorder; smell, complete (anosmia)
+C1408810  whistling in the ear
+C1409399  periodic; respiratory
+C1527347  Difficulty speaking
+C1536053  TONGUE DESQUAMATION
+C1610642  Apparent life threatening event
+C1704205  Pharyngeal swelling
+C1735643  Chronic wheezing
+C1956415  Dyspnea, paroxysmal nocturnal
+C1997818  Rhinitis due to alpha-adrenergic blocking agent
+C2008828  mouth breather
+C2008880  frothy saliva (symptom)
+C2012694  spots on gums
+C2012695  black spots on the gums
+C2012696  blue spots on the gums
+C2012697  gray spots on gums
+C2012698  multiple spots on gums
+C2012699  single spot on gums (symptom)
+C2012700  white spots on gums
+C2012701  gums symptoms (symptom)
+C2013427  oral cavity symptoms
+C2017774  sore throat comes and goes
+C2017775  fluctuating sore throat getting better and worse
+C2017776  sore throat getting progressively worse (symptom)
+C2017777  sore throat lasting more than two weeks (symptom)
+C2017778  sore throat on left side only (symptom)
+C2017779  sore throat on right side only (symptom)
+C2017780  sore throat radiating to ear (symptom)
+C2017781  recurrent sore throat
+C2017782  sore throat recurring daily (symptom)
+C2017783  sudden onset of sore throat (symptom)
+C2017784  sore throat triggered by swallowing (symptom)
+C2017785  sore throat worse early AM, late PM
+C2017786  sore throat worse in evening (symptom)
+C2017787  sore throat worse in AM
+C2017788  soreness or pain in salivary gland (symptom)
+C2017789  soreness or pain of mouth
+C2017790  soreness or pain on left side of mouth (symptom)
+C2017791  soreness or pain on right side of mouth
+C2017792  soreness or pain on roof of mouth (symptom)
+C2017793  soreness or pain of mouth under tongue (symptom)
+C2017794  soreness or pain of mouth without visible sores or cuts
+C2017795  soreness or pain of tongue
+C2017796  soreness or pain of bottom of tongue
+C2017797  soreness or pain of left side of tongue
+C2017798  soreness or pain of right side of tongue (symptom)
+C2017799  soreness or pain of tip of tongue (symptom)
+C2017800  soreness or pain of top of tongue (symptom)
+C2017801  sores on bottom of tongue (symptom)
+C2017802  sores on left side of tongue (symptom)
+C2017803  sores on right side of tongue (symptom)
+C2017804  sores on tip of tongue (symptom)
+C2017805  sores on top of tongue (symptom)
+C2019022  spots in mouth (symptom)
+C2019023  black spots in mouth (symptom)
+C2019024  gray spots in mouth (symptom)
+C2019025  multiple spots in mouth (symptom)
+C2019026  pink or salmon-colored spots in mouth
+C2019027  red spots in the mouth
+C2019028  single spot in mouth (symptom)
+C2019029  white spots in mouth
+C2032140  pain in back of throat (symptom)
+C2032332  pain in temporomandibular joints on both sides (symptom)
+C2032363  pain in left temporomandibular joint (symptom)
+C2032377  pain in left side of jaw (symptom)
+C2032434  pain in right temporomandibular joint
+C2032447  pain in right side of jaw (symptom)
+C2039130  bottom of tongue swollen
+C2039131  left side of tongue swollen (symptom)
+C2039132  right side of tongue swollen (symptom)
+C2039133  tip of tongue swollen (symptom)
+C2039134  top of tongue swollen
+C2039135  swooshing sound in ears
+C2045677  change in symmetry of nose (symptom)
+C2046451  breaking hoarseness
+C2046452  breathy hoarseness (symptom)
+C2046453  catching hoarseness
+C2046454  hoarseness comes and goes
+C2046455  complete hoarseness (symptom)
+C2046456  constant hoarseness
+C2046457  fluctuating hoarseness getting better and worse (symptom)
+C2046458  hoarseness getting progressively worse
+C2046459  harsh hoarseness (symptom)
+C2046460  hoarseness lasting more than two weeks (symptom)
+C2046461  occurrence of hoarseness (symptom)
+C2046462  quality of hoarseness
+C2046463  hoarseness recurs daily
+C2046464  hoarseness worse in evening (symptom)
+C2046465  hoarseness worse in morning (symptom)
+C2047334  humming sounds in ears (symptom)
+C2054361  teeth chip easily (symptom)
+C2054480  teeth moved (symptom)
+C2054481  multiple teeth moved (symptom)
+C2054482  single tooth moved
+C2054487  teeth sensitive to both cold and heat
+C2054488  teeth sensitive to cold or heat
+C2057703  jaw click
+C2058109  thick phlegm in throat (symptom)
+C2073255  chest pain along left costal margin (symptom)
+C2073256  chest pain along right costal margin (symptom)
+C2073258  chest pain below left clavicle (symptom)
+C2073259  chest pain below right clavicle
+C2073260  chest pain between left eighth and ninth ribs
+C2073261  chest pain between left fifth and sixth ribs
+C2073262  chest pain between left fourth and fifth ribs
+C2073263  chest pain between left ninth and tenth ribs (symptom)
+C2073264  chest pain between left second and third ribs
+C2073265  chest pain between left seventh and eighth ribs
+C2073266  chest pain between left sixth and seventh ribs (symptom)
+C2073267  chest pain between left third and fourth ribs
+C2073268  chest pain between right eighth and ninth ribs
+C2073269  chest pain between right fifth and sixth ribs
+C2073270  chest pain between right fourth and fifth ribs
+C2073271  chest pain between right ninth and tenth ribs
+C2073272  chest pain between right second and third ribs (symptom)
+C2073273  chest pain between right seventh and eighth ribs
+C2073274  chest pain between right sixth and seventh ribs
+C2073275  chest pain between right third and fourth ribs
+C2073293  chest pain localizing to the chest wall in the center
+C2073294  chest pain localizing to chest wall center anteriorly
+C2073295  chest pain localizing to chest wall in center posteriorly (symptom)
+C2073296  chest pain localizing to the chest wall on the left
+C2073297  chest pain localizing to the chest left wall anteriorly
+C2073298  chest pain localizing to chest wall on left laterally (symptom)
+C2073299  chest pain localizing to chest wall on left posteriorly (symptom)
+C2073300  chest pain localizing to the chest wall on the right
+C2073301  chest pain localizing to the chest right wall anteriorly
+C2073302  chest pain localizing to chest wall on right laterally (symptom)
+C2073303  chest pain localizing to the right chest wall posteriorly
+C2073304  chest pain localizing to deep within chest wall (symptom)
+C2073309  chest pain made worse by breathing (symptom)
+C2073323  chest pain over the left eighth rib
+C2073324  chest pain over left fifth rib (symptom)
+C2073325  chest pain over left fourth rib (symptom)
+C2073326  chest pain over left ninth rib
+C2073327  chest pain over left second rib
+C2073328  chest pain over left seventh rib (symptom)
+C2073329  chest pain over left sixth rib (symptom)
+C2073330  chest pain over left third rib (symptom)
+C2073331  chest pain over right eighth rib
+C2073332  chest pain over right fifth rib (symptom)
+C2073333  chest pain over right fourth rib (symptom)
+C2073334  chest pain over right ninth rib
+C2073335  chest pain over right second rib (symptom)
+C2073336  chest pain over right seventh rib (symptom)
+C2073337  chest pain over right sixth rib (symptom)
+C2073338  chest pain over right third rib (symptom)
+C2073927  choking on liquid
+C2074638  chronic cough lasting > 3 months per year for > 2 years
+C2074679  chronic discharge from both ears (symptom)
+C2074680  chronic discharge from ears (symptom)
+C2074681  chronic discharge from the left ear
+C2074682  chronic discharge from the right ear
+C2075667  clear discharge from both ears (symptom)
+C2075668  clear discharge from the ears (serous)
+C2075669  clear discharge from left ear
+C2075670  clear discharge from right ear (symptom)
+C2077828  intermittent cough (symptom)
+C2107748  constantly clearing the throat
+C2108064  continuous cough
+C2108444  jaw pain during exercise
+C2108445  Jaw symptoms/complaints
+C2108861  left sternoclavicular joint pain
+C2108892  right sternoclavicular joint pain
+C2109045  stiffness of temporomandibular joint on both sides (symptom)
+C2109050  left TMJ stiffness
+C2109051  stiffness of right temporomandibular joint (symptom)
+C2111962  popping noise in the ears
+C2115920  excruciating throat pain
+C2115921  throat pain on swallowing
+C2115922  throat pain on left side only (symptom)
+C2115923  throat pain on right side only
+C2115924  throat pain radiating to the ear
+C2115925  throat pain radiating to tongue
+C2116456  tingling of tongue on both sides
+C2116457  tingling of tongue on left side (symptom)
+C2116458  tingling of tongue on right side (symptom)
+C2116483  tinnitus occurring
+C2116485  tinny sound in ears
+C2126059  intermittent deepening of voice (symptom)
+C2126086  cough worse at night (symptom)
+C2126128  intermittent tinnitus
+C2126129  constant ringing in the ears
+C2126130  nosebleeds from right nostril (symptom)
+C2126131  nosebleeds from left nostril (symptom)
+C2126134  nosebleeds from both nostrils (symptom)
+C2126135  nosebleeds with both anterior and posterior drainage (symptom)
+C2126136  nosebleeds starting spontaneously (symptom)
+C2126137  nosebleeds after nosepicking
+C2126138  blockage of nasal passage on right side only (symptom)
+C2126139  blockage of nasal passage on left side only (symptom)
+C2126148  lump in gums
+C2126149  lump in the right upper gum
+C2126150  lump on anterior lingual surface of right upper gum (symptom)
+C2126151  lump on posterior lingual surface of right upper gum
+C2126152  lump in the left upper gum
+C2126153  lump on anterior lingual surface of left upper gum
+C2126154  lump left upper gum inside back
+C2126155  lump in right lower gum
+C2126156  lump on anterior lingual surface of right lower gum (symptom)
+C2126157  lump on posterior lingual surface of right lower gum (symptom)
+C2126158  lump in left lower gum (symptom)
+C2126159  lump on anterior lingual surface of left lower gum (symptom)
+C2126160  lump on posterior lingual surface of left lower gum (symptom)
+C2126161  lump on anterior buccal surface of right upper gum
+C2126162  lump right upper gum outside back
+C2126163  lump on anterior buccal surface of left upper gum
+C2126164  lump on posterior buccal surface of left upper gum (symptom)
+C2126165  lump right lower gum outside front
+C2126166  lump on posterior buccal surface of right lower gum
+C2126167  lump on anterior buccal surface of left lower gum (symptom)
+C2126168  lump left lower gum outside back
+C2126173  lump in mouth on right
+C2126174  lump in mouth on left (symptom)
+C2126175  lump in mouth on top
+C2126176  lump in mouth on floor (symptom)
+C2126212  coughing up watery sputum (symptom)
+C2126213  coughing up mucoid sputum
+C2126214  coughing up thick sputum
+C2126215  coughing up white sputum (symptom)
+C2126216  coughing up yellow sputum
+C2126217  coughing up green sputum
+C2126227  mucinous discharge from ear (symptom)
+C2126228  mucinous discharge from right ear
+C2126229  mucinous discharge from left ear (symptom)
+C2126230  mucinous discharge from both ears (symptom)
+C2126994  nasal discharge recurs frequently (symptom)
+C2127105  cough occurs when eating (symptom)
+C2127106  cough occurs while lying down (symptom)
+C2127111  fluctuating loss of hearing (symptom)
+C2127177  right ear symptoms (symptom)
+C2127178  left ear
+C2127305  bitter taste in mouth (symptom)
+C2128828  difficulty understanding speech with hearing aid in place (symptom)
+C2128950  snoring is relieved
+C2128951  snoring relieved by changing position
+C2128952  snoring relieved by nasal decongestants (symptom)
+C2128953  snoring relieved by nasal dilator (symptom)
+C2128954  snoring is exacerbated
+C2128955  snoring exacerbated by alcohol
+C2128956  snoring exacerbated by nasal congestion
+C2128957  snoring witnessed (symptom)
+C2128969  new cough with sudden onset
+C2128970  new cough with rapid progression
+C2128971  coughing up sputum with plugs (symptom)
+C2128972  coughing up sputum with clots (symptom)
+C2128976  wheezing occurs only with exercise intermittently
+C2128977  wheezing worsens with exercise
+C2128978  wheezing responding to bronchodilators (symptom)
+C2129116  right-sided anosmia
+C2129117  left-sided anosmia
+C2129118  bilateral anosmia
+C2130281  coughing up black sputum carbonaceous
+C2138214  cough causes awakening from sleep (symptom)
+C2138215  cough causing vomiting (symptom)
+C2138216  cough during day
+C2138217  cough occurs only with exertion (symptom)
+C2138218  cough occurs periodically
+C2138219  cough occurs when swallowing liquids (symptom)
+C2138220  cough quality
+C2138221  occurrence of cough (symptom)
+C2138222  cough with repeated spells every few minutes (symptom)
+C2138223  cough worse in morning (symptom)
+C2138224  coughing up black sputum
+C2138231  coughing up reddish brown sputum (symptom)
+C2138234  coughing up sputum which looks like anchovy paste
+C2138235  coughing up purulent sputum
+C2138248  cracked lips in corners (symptom)
+C2138249  cracked lips throughout
+C2140578  left ear feels full (symptom)
+C2140579  left ear feels pressured (symptom)
+C2143163  pulling at both ears
+C2143164  pulling at left ear (symptom)
+C2143165  pulling at the right ear
+C2144547  change in tongue surface appearance
+C2144584  tongue has become smooth (symptom)
+C2144729  tooth pain induced by chewing
+C2144730  tooth pain induced by tapping on tooth (symptom)
+C2144731  tooth pain in the left lower jaw
+C2144732  tooth pain in posterior left lower jaw (symptom)
+C2144733  tooth pain in anterior left lower jaw (symptom)
+C2144734  tooth pain in left upper jaw
+C2144735  tooth pain in posterior left upper jaw
+C2144736  tooth pain in anterior left upper jaw (symptom)
+C2144737  pain in multiple teeth (symptom)
+C2144738  tooth pain in right lower jaw
+C2144739  tooth pain in posterior right lower jaw (symptom)
+C2144740  tooth pain in anterior right lower jaw
+C2144741  tooth pain in right upper jaw (symptom)
+C2144742  tooth pain in posterior right upper jaw (symptom)
+C2144743  tooth pain in anterior right upper jaw (symptom)
+C2144744  pain in single tooth (symptom)
+C2146655  acid taste in mouth (symptom)
+C2168114  pain behind the left ear
+C2169816  red gums (symptom)
+C2183422  difficulty hearing over background noise
+C2183432  difficulty moving tongue to left
+C2183433  difficulty moving tongue to right (symptom)
+C2183453  difficulty understanding speech (symptom)
+C2183783  discharge from both ears (symptom)
+C2183784  discharge from left ear
+C2183785  discharge from right ear (symptom)
+C2183966  lip abnormalities (symptom)
+C2185931  loss of hearing for a month or more (symptom)
+C2185932  loss of hearing getting progressively worse
+C2185934  loss of hearing on one side only
+C2185936  temporary hearing loss
+C2188830  using ___extra pillows or sleeping upright (orthopnea)
+C2189399  hyperacusis
+C2198874  distressed respirations (diagnosis)
+C2198875  bilateral anosmia (diagnosis)
+C2198876  anosmia on left
+C2198877  anosmia on right
+C2199080  drip or drainage down throat from above (symptom)
+C2199543  laterality of ear symptoms
+C2199590  earache at night
+C2199591  left earache
+C2199592  right earache (symptom)
+C2199600  ears feel full (symptom)
+C2199601  ears feel pressured with desire but inability to 'pop'
+C2200100  lump in jaw
+C2200101  lump in mouth
+C2201205  right ear feels full (symptom)
+C2201206  right ear feels pressured (symptom)
+C2202981  watery nasal discharge
+C2202983  weak cough (symptom)
+C2202986  breaking weak voice (symptom)
+C2202987  breathy weak voice (symptom)
+C2202988  catching weak voice
+C2202989  weak voice comes and goes (symptom)
+C2202990  constant weak voice (symptom)
+C2202991  weak voice getting progressively worse (symptom)
+C2202992  weak voice recurs daily
+C2203179  wheezing is worse with a cold (symptom)
+C2203180  wheezing occurs only with exercise (symptom)
+C2203182  wheezing recurs from time to time (symptom)
+C2203183  wheezing recurs intermittently
+C2203184  wheezing related to body position
+C2203206  wheezing worse at night (symptom)
+C2203207  wheezing worse during cold weather (symptom)
+C2203208  wheezing worse in morning
+C2203209  wheezy cough
+C2203645  yellow nasal discharge (symptom)
+C2219289  right postauricular pain
+C2219321  ringing in both ears (symptom)
+C2219322  ringing in ears sounds like
+C2219323  pulsating tinnitus
+C2219324  ringing in left ear only (symptom)
+C2219325  ringing in right ear only
+C2219640  nasal discharge blood-tinged
+C2219641  nasal discharge drips down throat causing coughing (symptom)
+C2219642  nasal discharge lasting more than 3 weeks (symptom)
+C2219643  blockage of nasal passage gets better or worse
+C2219644  blockage of nasal passage varies with change in environment
+C2219645  blockage of nasal passage changes with seasons
+C2219646  blockage of nasal passage changes with stress (symptom)
+C2219647  blockage of nasal passage on one side only
+C2219649  small dark spots on lips (symptom)
+C2219650  small bumps on lips (symptom)
+C2219651  small bumps on tongue (symptom)
+C2219652  metallic taste in mouth
+C2219654  excruciating sore throat
+C2219732  sense of smell lost (anosmia) just on one side
+C2219850  snoring loudly (symptom)
+C2219994  numbness of tongue on right side (symptom)
+C2219995  numbness of tongue on left side
+C2219996  numbness of tongue on both sides
+C2220025  foul-smelling discharge from ears (symptom)
+C2220033  new cough
+C2220043  bloody discharge from the right ear
+C2220044  bloody discharge from left ear (symptom)
+C2220093  bloody discharge from both ears
+C2220094  foul-smelling discharge from right ear (symptom)
+C2220095  foul-smelling discharge from left ear
+C2220096  foul-smelling discharge from both ears
+C2220097  mucinous nasal discharge (symptom)
+C2220248  severe ear pain (symptom)
+C2220249  severe pain in right ear
+C2220250  severe pain in left ear (symptom)
+C2220251  severe pain in both ears (symptom)
+C2220252  both ears feel full
+C2220253  both ears feel pressured
+C2220254  blockage of nasal passage relieved by medication (symptom)
+C2220390  mouth pain occurring recently with fruit juices
+C2229208  mixed brown and black spots in mouth
+C2231402  anterior wall chest pain with respiration
+C2231481  blister on the upper gums
+C2231482  blister on the lower gums
+C2232701  brown spots in mouth
+C2232702  small bumps on right side of tongue (symptom)
+C2232703  small bumps on left side of tongue (symptom)
+C2232704  small bumps on tip of tongue (symptom)
+C2232705  small bumps on top of tongue (symptom)
+C2232706  small bumps on bottom of tongue (symptom)
+C2232708  chipped tooth multiple
+C2232709  brown spots on the gums
+C2233551  blockage of nasal passage increased
+C2233552  onset of nosebleeds (symptom)
+C2233553  epistaxis stops
+C2233554  nosebleeds stop spontaneously (symptom)
+C2233555  nosebleeds stop with manual pressure
+C2233556  nosebleeds stop with nasal packing
+C2233557  nosebleeds after blood-thinning medication
+C2233558  brown nasal discharge
+C2233559  frontal sinus pain on right (symptom)
+C2233560  frontal sinus pain on the left
+C2233561  bilateral frontal sinus pain (symptom)
+C2233562  ethmoid sinus pain
+C2233563  ethmoid sinus pain on the right
+C2233564  ethmoid sinus pain on left
+C2233565  bilateral ethmoid sinus pain (symptom)
+C2233566  maxillary sinus pain on right
+C2233567  maxillary sinus pain on the left
+C2233568  bilateral maxillary sinus pain
+C2242814  Acute sore throat, NOS
+C2316035  postauricular pain
+C2366919  constant chronic cough (symptom)
+C2367500  nocturnal difficulty breathing causing awakening from sleep
+C2367634  temporomandibular joint symptoms (symptom)
+C2367671  unremitting difficulty breathing
+C2367672  recurrent chronic cough
+C2367673  unremitting chronic wheezing
+C2702700  pain in jaw both sides (symptom)
+C2712054  Breathless - at rest
+C2728871  angina pectoris equivalent
+C2827629  Respiratory System Signs and Symptoms
+C2921686  coughing up milk
+C2939427  Hypoaesthesia of tongue
+C2957231  maxillary pain right side
+C2957232  maxillary pain left side
+C2957233  maxillary pain bilaterally
+C3203733  Precordial catch syndrome
+C3469395  shortness of breath causing difficulty speaking
+C3511482  still short of breath after inhaler or nebulizer (symptom)
+C3532891  Pain in chin
+C3532941  Anterior pleuritic pain (finding)

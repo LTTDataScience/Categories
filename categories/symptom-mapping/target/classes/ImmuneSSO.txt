@@ -1,0 +1,265 @@
+C0000727  Abdomen, Acute
+C0001416  Adenitides
+C0005409  Bilharzial pigment deposition
+C0007940  Chancre, sporotrichotic
+C0007942  Chancre, trypanosomal
+C0007943  Chancre, tuberculous
+C0009806  Constipation
+C0013395  Indigestion
+C0015970  Fever of Unknown Origin
+C0018834  Heartburn
+C0018926  Hematemeses
+C0019086  Hemorrhagic ascites
+C0019209  Hepatomegaly
+C0019214  Hepatosplenomegaly
+C0020450  Hyperemesis Gravidarum
+C0022353  Jaundice, Neonatal
+C0027497  Nausea
+C0027498  Nausea and vomiting
+C0034886  RECTUM PAIN
+C0041834  Erythema
+C0042963  Emesis
+C0042964  Anticipatory Vomiting
+C0043066  Waterbrash
+C0150019  Simple constipation
+C0151791  NAUSEA VOMITING AND DIARRHEA
+C0152165  Vomiting, persistent
+C0221151  Vomiting, projectile
+C0221490  DISTRESS EPIGASTRIC
+C0232597  Acute vomiting
+C0232598  Chronic vomiting
+C0232601  Concealed vomiting
+C0232602  Dry heaves
+C0232603  Violent retching
+C0235250  HYPEREMESIS
+C0235295  ABDOMINAL DISTRESS
+C0235309  STOMACH UPSET
+C0240273  Tender gland
+C0240352  Morning nausea
+C0240608  Osler's node
+C0241229  Spleen tender
+C0263355  RASH SCARLATINIFORM
+C0264272  Purulent nasal discharge
+C0266836  Colic infantile
+C0267373  Intestinal haemorrhage NOS
+C0267633  Appendiceal colic
+C0270274  VOMITING NEONATAL
+C0312416  Morning sickness
+C0340979  Cryoglobulinaemic purpura
+C0343731  Penile warts
+C0362040  Enlarg submand lymph gland
+C0392513  Inanition
+C0401148  Acute constipation
+C0401149  Chronic constipation
+C0401150  Chronic constipation without overflow
+C0401157  Intermittent vomiting
+C0401158  Vomiting after GIT surgery
+C0405584  Sucrose intolerance
+C0406146  Meningococcal rash
+C0406218  Persistent light reaction
+C0406402  Erythema fugax
+C0406672  Proctodynia
+C0406833  Wound erythema
+C0424818  Gland symptom
+C0426632  Flatulent dyspepsia
+C0457950  Acute back pain - lumbar
+C0473129  Diarrhea following gastrointestinal surgery
+C0473131  Diarrhea due to ingestion of unabsorbable substances
+C0474495  Constipation alternates with diarrhea
+C0474496  D&V - Diarrhea and vomiting
+C0474512  Blood in faeces symptom
+C0520904  Postoperative nausea
+C0520905  Postoperative vomiting
+C0520906  Increased nausea and vomiting
+C0520907  Decreased nausea and vomiting
+C0520909  Postoperative nausea and vomiting
+C0541938  EPIGASTRIC BURNING
+C0548823  DISTRESS GASTROINTESTINAL
+C0567522  Nipple discharge - pus
+C0577588  Swelling lymphoreticul struct
+C0578050  Pain of lymph node
+C0578737  Brachial lymphadenopathy
+C0578738  Epitrochlear lymphadenopathy
+C0578739  Popliteal lymphadenopathy
+C0581358  Gastric spasm (disorder)
+C0740577  Acute abdominal pain
+C0743317  chronic difficulty swallowing (symptom)
+C0746779  chronic nausea (symptom)
+C0750323  Intractable vomiting
+C0849913  Localized erythema
+C0849916  generalized change in color of skin to red (erythema)
+C0878707  precipitous drop in hematocrit
+C1262535  Jaundice, hepatocellular
+C1279511  Malarial pigment deposition
+C1280008  INTESTINAL ANGINA
+C1291077  Bloating
+C1304408  Urticarial vasculitis
+C1319537  O/E - right eye background diabetic retinopathy (disorder)
+C1319538  O/E - left eye background diabetic retinopathy (disorder)
+C1319539  O/E - right eye preproliferative diabetic retinopathy (disorder)
+C1319540  O/E - left eye preproliferative diabetic retinopathy (disorder)
+C1319541  O/E - right eye proliferative diabetic retinopathy (disorder)
+C1319542  O/E - left eye proliferative diabetic retinopathy (disorder)
+C1319543  O/E - right eye diabetic maculopathy (disorder)
+C1319544  O/E - left eye diabetic maculopathy (disorder)
+C1386344  inguinal; adenopathy
+C1386346  mediastinal; adenopathy
+C1386351  mesenteric; adenopathy
+C1386353  adenopathy; tracheobronchial
+C1388945  atonic; dyspepsia
+C1393776  constipation; drug, correct substance properly administered
+C1394864  abdominal rigidity; severe abdominal pain
+C1398734  glandular; hypertrophy
+C1399101  cervical gland; hyperplasia
+C1399104  cervical gland; swelling
+C1399669  hilus gland; hypertrophy
+C1401678  glands; swelling, localized
+C1411946  abdominal; pain, severe
+C1443044  bilious; attack
+C1446312  Erythematous mucosa (disorder)
+C1510416  Coffee ground emesis
+C1565887  Physiologic jaundice in newborn, NOS
+C1611181  stercoral; vomiting
+C1719857  Hepatomegaly associated with AIDS (disorder)
+C1740793  Post-tussive vomiting
+C1955516  Dysphagia, pharyngeal phase
+C1955517  Dysphagia, pharyngoesophageal phase
+C2008807  frequent heartburn
+C2008822  frequent vomiting just after eating
+C2009901  gagging on food
+C2009902  gagging on regurgitated food (symptom)
+C2009903  gagging on foreign body (symptom)
+C2009904  gagging on vomitus (symptom)
+C2012602  swelling of lymph nodes in both sides of groin
+C2029945  heartburn after meals (symptom)
+C2029946  heartburn related to certain foods caffeine
+C2029947  heartburn associated with certain foods (symptom)
+C2029948  heartburn related to certain foods fatty foods
+C2029949  heartburn related to non-steroidal anti-inflammatory drugs (NSAIDs)
+C2029950  heartburn related to certain foods tomatoes
+C2029951  heartburn at night in bed (symptom)
+C2029952  heartburn causing awakening
+C2029953  infrequent heartburn (monthly)
+C2029954  heartburn occurs during pregnancy (symptom)
+C2029955  heartburn related to alcohol (symptom)
+C2029956  heartburn related to anxiety
+C2029957  heartburn related to beer (symptom)
+C2029958  heartburn related to bending
+C2029959  heartburn related to biphosphonates
+C2029960  heartburn related to birth control pills
+C2029961  heartburn related to body position (symptom)
+C2029962  heartburn related to calcium channel blockers (symptom)
+C2029963  heartburn related to chocolate (symptom)
+C2029964  heartburn related to citrus (symptom)
+C2029965  heartburn related to corticosteroids
+C2029966  heartburn related to emotions (symptom)
+C2029967  heartburn related to exercise (symptom)
+C2029968  heartburn related to fear (symptom)
+C2029969  heartburn related to iron (symptom)
+C2029970  heartburn related to lifting (symptom)
+C2029971  heartburn related to nitroglycerin (symptom)
+C2029972  heartburn related to peppermint (symptom)
+C2029973  heartburn related to red wine (symptom)
+C2029974  heartburn related to squatting
+C2029975  heartburn related to theophylline (symptom)
+C2029976  heartburn related to tight clothing (symptom)
+C2029977  heartburn related to vitamins
+C2029978  heartburn relieved by antacids
+C2029979  heartburn relieved by medication (symptom)
+C2029980  heartburn seems related to certain medications
+C2029981  heartburn starts with smoking (symptom)
+C2029982  heartburn with regurgitation (symptom)
+C2074633  chronic constipation with less than one stool a week
+C2074634  chronic constipation with more than three hard stools a week (symptom)
+C2074635  chronic constipation with one to three stools a week
+C2107751  constipation accompanied by feeling of incomplete evacuation
+C2107752  obstructed defecation
+C2107753  constipation occurs when traveling
+C2107754  constipation seems associated with medications
+C2107755  constipation seems related to menstrual cycle (symptom)
+C2107756  self-treatment for constipation
+C2107757  constipation is self-treated with fiber supplements
+C2107758  self-treatment for constipation with finger disimpaction
+C2107759  self-treatment for constipation with laxatives
+C2107760  self-treatment for constipation with suppositories (symptom)
+C2107761  constipation with straining
+C2107762  constipation within one month of abdominal surgery (symptom)
+C2126009  location where food sticks associated with difficulty swallowing (symptom)
+C2126010  difficulty swallowing with food sticking in throat (symptom)
+C2126011  difficulty swallowing with food sticking in middle chest (symptom)
+C2126018  nausea seems associated with medications (symptom)
+C2126019  nausea occurs with body motion while traveling
+C2126020  vomiting 8-12 hours after eating
+C2126021  vomiting with remote abdominal surgery
+C2126049  rectal pain accompanied by bleeding (symptom)
+C2126050  rectal pain accompanied by discharge of pus (symptom)
+C2126051  rectal pain worsens during bowel movements
+C2126052  rectal pain worsens with acidic foods (symptom)
+C2126053  rectal pain after anal sex
+C2126054  rectal sore with bleeding (symptom)
+C2126055  rectal sore after hard bowel movement (symptom)
+C2126068  vomiting with prior abdominal surgery
+C2126225  constant rectal pain (symptom)
+C2126226  intermittent rectal pain (symptom)
+C2127098  difficulty swallowing precipitates coughing
+C2127123  vomiting blood (hematemesis) in large amounts
+C2127299  difficulty swallowing thin liquids
+C2127300  dysphagia with hard dry foods
+C2127301  difficulty swallowing mixed texture foods (symptom)
+C2127302  difficulty swallowing medium texture foods (symptom)
+C2127303  dysphagia is worse with some types of foods
+C2129047  wart on the scrotum
+C2129178  difficulty swallowing with food sticking in lower chest (symptom)
+C2129179  dysphagia with food passing through after ___ sec
+C2129180  dysphagia with relief only after food regurgitated
+C2129184  nausea during episodes of abdominal pain (symptom)
+C2129185  vomiting food particles eaten many hours earlier (symptom)
+C2129186  vomiting blood at beginning of vomiting
+C2129187  vomiting blood after several episodes of vomiting (symptom)
+C2129217  rectal pain worsens after prolonged sitting (symptom)
+C2129318  vomiting in morning
+C2130222  localized change in color of skin to red with irregular border (symptom)
+C2143935  purulent discharge from both ears
+C2143943  purulent discharge from left ear
+C2143944  purulent discharge from right ear
+C2183296  diarrhea within one month of abdominal surgery
+C2183427  difficulty initiating swallow (symptom)
+C2183443  difficulty swallowing accompanied by pain (symptom)
+C2183444  difficulty swallowing followed by regurgitation
+C2183445  difficulty swallowing getting worse (symptom)
+C2183448  recent onset dysphagia
+C2183449  difficulty swallowing very hot or cold foods (symptom)
+C2183450  difficulty swallowing with nasal regurgitation (symptom)
+C2189665  violent and prolonged vomiting (symptom)
+C2198702  bloating after meals
+C2198703  bloating after medications
+C2198704  abdominal bloating after specific foods (symptom)
+C2202704  coffee ground emesis in large amounts
+C2202706  vomiting characteristics (symptom)
+C2202707  vomiting clear (nonbilious)
+C2202709  vomiting 'coffee grounds' material
+C2202710  vomiting followed by vigorous coughing (symptom)
+C2202711  vomiting food particles up to an hour after eating
+C2202713  vomiting preceded by vigorous coughing
+C2202714  vomiting stool (symptom)
+C2202716  vomiting worms
+C2203647  yellow skin or eyes during pregnancy, subsiding afterwards
+C2203648  jaundice following a blood transfusion
+C2203649  yellow skin or eyes occurs intermittently (symptom)
+C2203650  yellow skin or eyes during first week after surgery (symptom)
+C2219665  occurrence of nausea (symptom)
+C2219666  nausea 15-30 minutes after eating (symptom)
+C2219980  fever recurring daily (symptom)
+C2219981  fever recurring every few days
+C2219982  fever recurs every week or so
+C2219990  nausea related to menstrual cycle
+C2220015  excessive vomiting during early pregnancy
+C2236754  abdominal pain of childhood (diagnosis)
+C2367674  gagging initiated by liquids (symptom)
+C2728517  neonatal bilious vomiting
+C2919655  Acute exacerbation of chronic abdominal pain (finding)
+C2921781  rectal pain accompanied by discharge of pus seems related to menstrual cycle
+C2981133  Evening colic
+C3468370  constipation self-treated with enema
+C3506376  skin wound red
+C3509788  neonatal jaundice due to excessive hemolysis (diagnosis)

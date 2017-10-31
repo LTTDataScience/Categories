@@ -1,0 +1,27 @@
+C0001416  Adenitides
+C0019209  Hepatomegaly
+C0019214  Hepatosplenomegaly
+C0240273  Tender gland
+C0241229  Spleen tender
+C0340979  Cryoglobulinaemic purpura
+C0362040  Enlarg submand lymph gland
+C0406218  Persistent light reaction
+C0424818  Gland symptom
+C0577588  Swelling lymphoreticul struct
+C0578050  Pain of lymph node
+C0578737  Brachial lymphadenopathy
+C0578738  Epitrochlear lymphadenopathy
+C0578739  Popliteal lymphadenopathy
+C0878707  precipitous drop in hematocrit
+C1304408  Urticarial vasculitis
+C1386344  inguinal; adenopathy
+C1386346  mediastinal; adenopathy
+C1386351  mesenteric; adenopathy
+C1386353  adenopathy; tracheobronchial
+C1398734  glandular; hypertrophy
+C1399101  cervical gland; hyperplasia
+C1399104  cervical gland; swelling
+C1399669  hilus gland; hypertrophy
+C1401678  glands; swelling, localized
+C1719857  Hepatomegaly associated with AIDS (disorder)
+C2012602  swelling of lymph nodes in both sides of groin

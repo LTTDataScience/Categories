@@ -1,0 +1,1582 @@
+C0001925  Albuminuria
+C0004968  Bence Jones proteinuria
+C0017979  Glycosuria
+C0018965  urine blood
+C0027080  Myoglobinurias
+C0031538  Phimoses
+C0033687  Protein, urine, abnormal presence
+C0042023  Urinary frequency
+C0080274  Bladder retention of urine
+C0085606  Urgency, urinary
+C0149707  HEMATOSPERMIA
+C0149774  SCROTAL MASS
+C0150043  Reflex incontinence
+C0150044  Total incontinence
+C0151579  CRYSTALLURIA
+C0151609  SCROTAL EDEMA
+C0151780  METHEMOGLOBINURIA
+C0156247  Small kidney of unknown cause
+C0159076  Biliuria
+C0184571  Renal alteration
+C0231365  Alteration in patterns of urinary elimination
+C0232805  Normal renal function
+C0232806  Increased renal function
+C0232807  Decreased renal function
+C0232814  Increased renal clearance
+C0232815  Decreased renal clearance
+C0232831  HYPOSTHENURIA
+C0232846  Abnormal bladder continence
+C0232853  Abnormal urinary stream
+C0232892  ABNORMAL URINARY PRODUCTS
+C0232893  Melanuria
+C0235093  BLADDER PARALYSIS
+C0235627  ISOSTHENURIA
+C0235639  URINE ABNORMALITY
+C0235643  Aggravated prostatism
+C0238775  Mass of urinary bladder
+C0239277  Mass of epididymis
+C0239778  green urine
+C0240109  Kidney palpable
+C0240691  Penile Mass
+C0240719  swollen perineum (physical finding)
+C0241351  Cyst of testes
+C0241353  TESTICULAR MASS
+C0241577  Raised urine catecholamines
+C0241584  Maple syrup urine odor
+C0241589  Raised urine VMA
+C0241716  VULVAR MASS
+C0262613  RENAL MASS
+C0268991  Adherent prepuce
+C0269009  Atrophy of penis
+C0269011  Hypertrophy of penis
+C0278027  Alkaluria
+C0278029  Inequality in size of kidneys
+C0278031  Normal urine color
+C0278033  Black urine
+C0278034  Cloudy urine
+C0278035  Chylous urine
+C0278037  Febrile urine
+C0278038  Gouty urine
+C0278039  Diabetic urine
+C0278040  Dyspeptic urine
+C0278041  Crude urine
+C0278042  Abnormal composition of urine, NOS
+C0278044  Normal urine odor
+C0278045  Abnormal urine odor
+C0312413  Paradoxic incontinence
+C0340655  Renal artery haemorrhage
+C0341730  Extravas urine from ureter
+C0341738  High compliance bladder
+C0341789  Sebaceous cyst of scrotum
+C0392096  Kidney transplant status
+C0392178  LIPIDURIA
+C0403616  Escape of urine from ureter
+C0403617  Escape of urine from Tx ureter
+C0403640  Leucoplakia of bladder
+C0403645  Atony of bladder
+C0403712  Asymptomatic bacteriuria in pregnancy - not delivered
+C0403722  Asymptomatic proteinuria
+C0403723  Candiduria
+C0403769  Penis bent
+C0404701  Cystocele + obstetric care
+C0404702  Rectocele + obstetric care
+C0404705  Cystocele - baby delivered
+C0404976  Abortive preg.+oliguria
+C0423595  Sensation as bladder not empty
+C0423596  Persist abd sensn after mictn
+C0423597  Persist perin sensn after mict
+C0424873  Delayed toilet training
+C0426337  Position male urethral meatus
+C0426339  Foreskin deficient
+C0426341  Tight frenulum of foreskin
+C0426349  Tightly retracted foreskin
+C0426357  Urinary tract observations
+C0426361  Lack of desire for urination
+C0426362  Has to make self urinate
+C0426364  Diffic initiat bladder empty
+C0426365  Must strain to pass urine
+C0426366  Must adopt partic posture urin
+C0426367  Unable to urinate lying down
+C0426368  Control of micturition normal
+C0426371  Passive incontinence
+C0426372  Lack awareness need to urinate
+C0426374  Must urin repeatly to empty bl
+C0426375  Micturition frequency normal
+C0426377  Infrequent urination
+C0426378  Oliguria as a complication of care
+C0426379  Anuria as a complication of care
+C0426382  Micturition stream normal
+C0426385  Urine stops and starts
+C0426386  Urine flows in spurts
+C0426387  Sudden stoppage of urine flow
+C0426389  Terminal dribbling of urine
+C0426393  Urine looks normal
+C0426395  Urine looks pale
+C0426398  Urethral observation
+C0426399  Urethral discharge symptom
+C0426403  Urethral meatus observation
+C0426405  A sore at urethral meatus
+C0426703  Renal Findings
+C0426704  Lower pole of kidney palpable
+C0426705  Kidney not palpable
+C0426706  Absent kidney
+C0426708  Bladder observation
+C0426709  Bladder palpable
+C0426710  Bladder not palpable
+C0426732  Large prostate
+C0427723  Urine protein test = trace
+C0427730  Urine: trace non-haemol. blood
+C0427738  Urine urobilinogen = trace
+C0427739  Urine urobilinogen = +
+C0427740  Urine urobilinogen = ++
+C0427741  Urine urobilinogen = +++
+C0427742  Urine urobilinogen = ++++
+C0427745  Urine glucose test = trace
+C0427752  Urine ketone test = trace
+C0427754  Urine ketone test = ++
+C0427755  Urine ketone test = +++
+C0427820  Urine = normal on inspection
+C0427859  Urine microscopy = NAD
+C0427860  Urine microscopy = abnormality
+C0428588  Presen of urin reduc substance
+C0428607  Urine specific gravity normal
+C0428608  Urine specific gravity low
+C0428609  Urine specific gravity high
+C0429756  Urological test observation
+C0429776  24 Hour urinary volume
+C0429777  Single voided urinary volume
+C0429778  Urinary loss
+C0429794  Bladder test observation
+C0429797  Bladder neck descent at rest
+C0429798  Bladder neck descent on stress
+C0429800  Bladder neck incompetence at rest
+C0429801  Bladder neck incompet stress
+C0429804  Bladder sensation
+C0429811  Urethral test observation
+C0429817  Urethral overactivity
+C0429818  Urethral underactivity
+C0429822  Incompetent urethral clos mech
+C0429825  Mechanical urinary obstruction
+C0429826  Dysfunctional voiding of urine
+C0429832  Penile arterial insufficiency
+C0429835  Urinary fistula type
+C0429837  Micturition observations
+C0429957  Bladder - assessment observns
+C0429961  Bladder: occasional accident
+C0429962  Bladder: fully continent
+C0433688  Retained tampon
+C0436460  I-V pyelography normal
+C0436516  I-V pyelography abnormal
+C0436528  Renal arteriogram abnormal
+C0436556  C/O perineal pain
+C0437016  O/E - PR - prostatic swelling
+C0437033  O/E - left kidney palpable
+C0437034  O/E - right kidney palpable
+C0437036  O/E - bladder palpable
+C0437038  O/E - bladder just palpable
+C0437039  O/E - bladder readily palpable
+C0437040  O/E -bladder half to umbilicus
+C0437041  O/E - bladder up to umbilicus
+C0437046  O/E - scrotal swelling
+C0437048  O/E -scrotal swelling-transill
+C0437049  O/E -scrotal swell.no transill
+C0437050  O/E - testicular swelling
+C0437051  O/E - epididymal swelling
+C0437055  O/E - penile abnormality
+C0437056  O/E - discharge - penis
+C0437454  O/E - micturition reflex
+C0437455  O/E -micturition reflex normal
+C0437456  O/E - mict.refl.abn.-retention
+C0437457  O/E-mict.refl.abn-ret+overflow
+C0437458  O/E - automatic micturition
+C0438018  O/E: phosphate -staghorn-stone
+C0438019  O/E: uric acid renal calculus
+C0438024  O/E - ureteric calculus
+C0438025  O/E - urethral calculus
+C0438028  O/E-vesical uric acid calculus
+C0438029  O/E-vesical phosphate calculus
+C0438141  Urinalysis = no abnormality
+C0438142  Abn urine test finding NOS
+C0438143  MSU = no abnormality
+C0438144  MSU = abnormal
+C0438253  Urine electrolytes normal
+C0438254  URINE ELECTROLYTES ABNORM
+C0438255  Urine protein normal
+C0438256  Urine protein abnormal
+C0438297  Urinary stoma bag adjusted
+C0438298  Urinary stoma bag changed
+C0455907  Deposit in urine
+C0455908  Gravel in urine
+C0455909  Stone in urine
+C0455910  Mucus in urine
+C0455911  Good stream of urine
+C0457206  Malodorous urine
+C0473124  Perinephric haematoma
+C0473237  Frank haematuria
+C0474571  Urine: trace haemolysed blood
+C0476313  Groin swelling
+C0476343  Raised urine indoleace.acid
+C0476377  Bladder filling defect
+C0476378  Kidney filling defect
+C0476379  [D]Ureter filling defect (context-dependent category)
+C0476447  Excessive urine level of heavy metal
+C0477762  Persist proteinuria, unspec
+C0481713  Has nephrostomy
+C0495036  Isolated proteinuria with minor glomerular abnormality
+C0495723  Isolated proteinuria
+C0495724  Elevated urine levels of drugs, medicaments and biological substances
+C0522117  Normal renin secretion
+C0522118  Abnormal renin secretion
+C0522119  Increased renin secretion
+C0522120  Decreased renin secretion
+C0522121  Absence of renin secretion
+C0522124  Normal micturition
+C0522125  URETHRAL SPASM
+C0522138  Urinary crystal, ammonium urate
+C0522153  DISCOLORATION URINE
+C0541940  Decreased erection of penis
+C0541988  GLOBULINURIA
+C0542089  METAMEPHRINE URINARY ELEVATED
+C0542190  REDUCING TEST URINE FALSE POSITIVE
+C0542252  URINE FORMED ELEMENTS ABNORMAL (NOS)
+C0542518  Enlarged kidney
+C0549447  URINE ODOR FOUL
+C0555120  Urine micr.:leucocytes present
+C0555162  Urine porphyrins
+C0555703  O/E - scrotal edema
+C0555733  Prostate enlarged on PR
+C0558983  Bladder control - child
+C0564624  MSU = equivocal (finding)
+C0574056  Short urethra
+C0577166  Kidney present
+C0577167  Obs of appearance of kidney
+C0577168  Observation of size of kidney
+C0577169  Obs of sensation of kidney
+C0577170  Kidney tender
+C0577172  Obs of measures of kidney
+C0577173  Ureter observation
+C0577174  Ureter present
+C0577175  Obs of appearance of ureter
+C0577176  Bladder absent
+C0577177  Observation of size of bladder
+C0577178  Enlarged bladder
+C0577179  Small bladder
+C0577180  Lesion of bladder
+C0577181  Observation of tone of bladder
+C0577182  Bladder tender
+C0577184  Normal bladder compliance
+C0577185  Obs of bladder emptying
+C0577186  Bladder emptying efficient
+C0577187  Bladder emptying inefficient
+C0577188  Obs of bladd neck competence
+C0577189  Obs of measures of bladder
+C0577190  Obs of appear of urethra
+C0577192  Obs of measures of urethra
+C0577193  Obs of pattern of urination
+C0577196  Obs of measures of urination
+C0577197  Observation of urine output
+C0577198  Obs of measures urine output
+C0577200  Faeces in urine
+C0577245  Edema of prepuce
+C0577246  Mass of prepuce
+C0577292  Ischiorectal lump
+C0578514  CSU = no abnormality (finding)
+C0578515  CSU = abnormal (finding)
+C0579152  Bladder problem
+C0580180  Bladder neck incompetence
+C0580570  Urine 17 ketogen ster lev norm
+C0580571  Urine 17 ketog ster lev abnorm
+C0580574  Urine VMA normal
+C0580577  Urine calcium normal
+C0580578  Urine calcium abnormal
+C0580949  O/E - renal angle tenderness
+C0582421  Poor urethral support
+C0584717  Occlusion of renal artery bypass graft
+C0584722  Thrombosis of renal artery bypass graft
+C0587255  Blocked ureteric stent
+C0587256  Displacement nephrostomy tube
+C0587953  Urine cytology
+C0587955  Urine cytology abnormal
+C0589370  Bladder scarring
+C0595994  Ureter absent
+C0677491  Kidney transplanted
+C0743155  DIALYSIS CAPD CATHETER NONFUNCTIONAL
+C0745523  KIDNEY SIZE SMALL BILATERAL
+C0745524  KIDNEY SIZE SMALL CM
+C0745525  KIDNEY SIZE SMALL FUNCTIONING
+C0745526  KIDNEY TEST ABNORMAL
+C0748195  PYELONEPHRITIS ASCENDING
+C0748196  PYELONEPHRITIS E COLI
+C0748198  PYELONEPHRITIS NOT PRESENT
+C0748200  PYELONEPHRITIS REQUIRING HOSPITALIZATION
+C0748202  PYELONEPHRITIS TREATED PARTIALLY
+C0748263  RENAL ARTERY BRUIT
+C0748266  RENAL CALCULUS CALCIFIED
+C0748267  RENAL CALCULUS CALCIUM OXALATE
+C0748269  RENAL CALCULUS OBSTRUCTION
+C0748270  RENAL CALCULUS PASSED
+C0748276  RENAL CALCULUS UPPER POLE
+C0748279  RENAL CYST BENIGN
+C0748281  RENAL CYST CLASS II
+C0748282  RENAL CYST CM
+C0748283  RENAL CYST COMPLEX
+C0748284  RENAL CYST COMPLEX BENIGN
+C0748287  RENAL CYSTIC MASS
+C0748292  RENAL DISEASE FIRST DIAGNOSED
+C0748307  RENAL FAILURE MODERATE
+C0748308  RENAL FAILURE MULTIFACTORIAL
+C0748309  RENAL FAILURE NEW
+C0748313  RENAL INSUFFICIENCY BASELINE
+C0748318  Progressive renal failure
+C0748320  RENAL LESION MULTIPLE
+C0748321  RENAL MASS BENIGN
+C0748325  RENAL OUTPUT DECREASED
+C0748326  RENAL PELVIS DILATED
+C0748327  RENAL PELVIS DILATED FETUS
+C0748335  RENAL TUBULAR ACIDOSIS TYPE
+C0748336  Ultrasound kidney abnormal
+C0748337  Ultrasound kidney normal
+C0850720  Bruit;renal
+C0866132  chronic glomerulonephritis mixed membranous & proliferative
+C0876938  Continent of urine
+C0878668  Lactosuria
+C0948206  Haematinuria
+C1142312  blood in urine with clots
+C1167655  Hydroxyproline urine increased
+C1263994  Methemalbuminuria (finding)
+C1264001  Sulfhemoglobinuria (finding)
+C1264002  Carboxyhaemoglobinuria
+C1269607  Finding of urological device (finding)
+C1272244  O/E - right scrotal swelling (finding)
+C1272245  O/E - left scrotal swelling (finding)
+C1274106  Urine leucocyte test one plus
+C1274107  Urine leukocyte test two plus (finding)
+C1281555  Urostomy present (finding)
+C1281880  Vulval superficial dyspareunia (finding)
+C1286370  Urine odor, NOS
+C1287094  Finding of urine appearance
+C1287096  Finding of consistency of urine
+C1287097  Finding of contents of urine
+C1287098  Two glass urine test, first glass appearance finding (finding)
+C1287099  Two glass urine test, second glass appearance finding (finding)
+C1287298  Urine volume
+C1287346  Urine electrolytes
+C1287788  Finding of position of kidney
+C1287790  Finding of bladder appearance
+C1287791  Finding of bladder compliance
+C1287792  Finding of bladder neck position
+C1287793  Finding of bladder neck descent
+C1287794  Finding of bladder volume
+C1287795  Finding of urethral function
+C1287796  Finding of urethral sphincter function
+C1287797  Finding of urethral closure mechanism
+C1287798  Finding related to ability to pass urine (finding)
+C1287799  Finding related to awareness of bladder function (finding)
+C1287801  Finding of flow of urine
+C1287802  Finding of form of stream of urine
+C1287803  Finding of strength of stream of urine
+C1287804  Finding of urinary flow rate
+C1287805  Finding of rate of bladder filling
+C1291658  Uninary function finding
+C1291659  Urinary system finding related to kidney AND/OR ureter (finding)
+C1291660  Abnormal ureteral peristalsis (finding)
+C1291661  Absence of ureteral peristalsis (finding)
+C1291662  Lower urinary tract finding (finding)
+C1291663  Mannoheptulosuria (finding)
+C1291664  Urinary crystal, calcium hydrogen phosphate (finding)
+C1291665  Urinary crystal, Weddelite
+C1291666  Urinary crystal, Whewellite
+C1291668  Urinary crystal, calcium phosphate, carbonate form (finding)
+C1291669  Urinary crystal, calcium hydroxyapatite
+C1291670  Urinary crystal, Brushite
+C1291671  Urinary crystal, Whitlockite
+C1291672  Urinary crystal, sodium acid urate (finding)
+C1291674  Urinary crystal, Newberyite
+C1291675  Urinary crystal, calcium bilirubinate (finding)
+C1291677  Urinary crystal, phosphate (finding)
+C1291678  Urinary crystal, amorphous phosphate (finding)
+C1291679  Acholuria (finding)
+C1295573  Increased ureteral peristalsis -RETIRED-
+C1295574  Decreased ureteral peristalsis -RETIRED-
+C1299952  Pelvic bladder (finding)
+C1304534  Urine leukocyte test three plus (finding)
+C1313921  Urinoma
+C1321100  Timed urine volume (observable entity)
+C1321405  24 hour voided urinary volume (observable entity)
+C1321908  Desire for urination
+C1336707  Epidermoid cyst of testis (disorder)
+C1384691  Ureterostomy
+C1384702  Elevated urine levels of 17-ketosteroids
+C1385798  abnormal; urine, microbiological examination
+C1385799  abnormal; urine, substances chiefly nonmedicinal as to source
+C1391778  calciuria
+C1398767  globinuria
+C1399338  hematuria; intermittent
+C1401362  correct substance properly administered; Tommaselli
+C1401423  Obstruction of suprapubic catheter (disorder)
+C1403053  lithuria
+C1408030  urine; examination, substances chiefly nonmedicinal as to source
+C1408031  urine; examination, heavy metals
+C1410853  biological substances; urine level elevated
+C1410855  increased; urine level of drugs
+C1410856  increased; urine level of medicaments
+C1410858  Elevated urine levels of steroids
+C1411955  abnormal; urine, histological examination
+C1562750  Urine dipstick test finding (finding)
+C1562946  Penile sclerosing lipogranuloma due to injected substance (disorder)
+C1688618  On examination - renal bruit (finding)
+C1690503  On examination - kidney palpable (finding)
+C1696706  Ureteric Perforation
+C1697751  Urethral Perforation
+C1697974  Bladder Anastomotic Leakage
+C1698193  Urostomy Leakage
+C1698675  Ureteric Anastomotic Leakage
+C1699207  Urethral Anastomotic Leakage
+C1699736  Kidney Anastomotic Leakage
+C1700247  Renal scarring (finding)
+C1828219  Abnormal amount of urine output
+C1848888  Painless testicular mass
+C1856133  Duplicated ureter
+C1969817  Secondary nocturnal enuresis
+C2006972  carbuncle of anterior aspect of scrotum (physical finding)
+C2006973  carbuncle of left side of scrotum (physical finding)
+C2006974  carbuncle of posterior aspect of scrotum
+C2006975  carbuncle of right side of scrotum (physical finding)
+C2008994  scrotum laceration left full thickness
+C2009848  furuncle of anterior aspect of scrotum
+C2009849  furuncle of left side of scrotum (physical finding)
+C2009850  furuncle of posterior aspect of scrotum (physical finding)
+C2009851  furuncle of right side of scrotum (physical finding)
+C2010437  scrotum gangrene bilaterally
+C2010438  left scrotal gangrene
+C2010439  gangrene of right scrotum
+C2011062  injury of glans penis
+C2011063  injury of shaft of penis (physical finding)
+C2012025  glans penis condyloma acuminatum (physical finding)
+C2012026  glans penis condyloma latum (physical finding)
+C2012027  penis laceration glans depth
+C2012028  penis laceration glans edges
+C2012029  penis laceration glans edges ragged
+C2012030  penis laceration glans full thickness
+C2012031  penis laceration glans jagged
+C2012032  penis laceration glans L-shaped
+C2012033  penis laceration glans orientation
+C2012034  penis laceration glans orientation longitudinal
+C2012035  penis laceration glans orientation transverse
+C2012036  postsuture edges of laceration on the glans penis were adequately approximated
+C2012037  penis laceration glans edges postsuture approximation
+C2012038  penis laceration glans postsuture edges poorly approximated
+C2012039  penis laceration glans postsuture edges well-approximated
+C2012040  penis laceration glans shape
+C2012041  penis laceration glans straight line
+C2012042  penis laceration glans superficial (epidermal only)
+C2012043  penis laceration glans V-shaped
+C2012044  penis laceration glans Y-shaped
+C2012463  grade of cystocele (1-4)
+C2012467  vagina rectocele grade ___/4
+C2012468  urethral urethrocele grade ___/4
+C2012596  urethra discharge green
+C2018159  hemorrhage of spermatic cord on both sides (diagnosis)
+C2018160  hemorrhage of spermatic cord on left (diagnosis)
+C2018161  hemorrhage of spermatic cord on right
+C2021804  abdominal MRI kidney mass
+C2021805  abdominal MRI mass in right kidney
+C2021806  abdominal MRI mass in left kidney
+C2021807  abdominal MRI masses in both kidneys
+C2021808  abdominal MRI mass in renal pelvis
+C2026015  cellulitis of anterior scrotum
+C2026016  cellulitis of left scrotum (physical finding)
+C2026017  cellulitis of posterior scrotum (physical finding)
+C2026018  cellulitis of right scrotum
+C2029236  hard irregular mass of ventral shaft of penis
+C2030931  vesicovaginal fistula high
+C2033993  penis lesion papules shaft dorsal distal
+C2033994  penis lesion papules shaft lateral distal
+C2033995  papules on distal part of left lateral shaft of penis
+C2033996  papules on distal part of right lateral shaft of penis (physical finding)
+C2033997  papules on distal part of ventral shaft of penis
+C2033998  penis lesion papules foreskin dorsal
+C2033999  penis lesion papules glans dorsal
+C2034000  papules on dorsal shaft of penis (physical finding)
+C2034001  penis lesion papules foreskin
+C2034002  penis lesion papules glans
+C2034003  papules on lateral foreskin of penis
+C2034004  penis lesion papules glans lateral
+C2034005  papules on lateral shaft of penis
+C2034006  papules on left lateral foreskin of penis
+C2034007  papules on left lateral glans penis
+C2034008  papules on proximal part of dorsal shaft of penis
+C2034009  papules on proximal part of lateral shaft of penis
+C2034010  penis lesion papules shaft lateral proximal left side
+C2034011  papules on proximal part of right lateral shaft of penis
+C2034012  papules on proximal part of ventral shaft of penis (physical finding)
+C2034013  papules on right lateral foreskin of penis
+C2034014  papules on right lateral glans penis
+C2034015  penis lesion papules foreskin ventral
+C2034016  papules on ventral glans penis (physical finding)
+C2034017  papules on ventral shaft of penis (physical finding)
+C2037501  suprapubic catheter present with clean, nonerythematous skin and a pink, moist mucosa
+C2037502  skin surrounding suprapubic catheter
+C2037503  erythematous skin surrounding suprapubic catheter (physical finding)
+C2037504  fluctuant skin surrounding suprapubic catheter
+C2037505  purulent discharge of skin surrounding suprapubic catheter (physical finding)
+C2037506  tender skin surrounding suprapubic catheter (physical finding)
+C2046122  chest computerized tomography arterial embolus
+C2046169  chest computerized tomography embolus of left pulmonary artery
+C2046170  chest computerized tomography embolus of lower lobe branch of left pulmonary artery
+C2046171  chest computerized tomography embolus of lower lobe branch of right pulmonary artery
+C2046172  chest computerized tomography embolus of middle lobe branch of right pulmonary artery
+C2046173  chest computerized tomography embolus of right pulmonary artery
+C2046174  chest computerized tomography embolus of right pulmonary artery upper lobe branch
+C2046175  chest computerized tomography embolus of upper lobe branch of left pulmonary artery
+C2046754  Hollenhorst plaque of left eye (physical finding)
+C2046755  Hollenhorst plaque of right eye (physical finding)
+C2046756  Hollenhorst plaques of both eyes
+C2047544  hypertension secondary to renal disease as complication in pregnancy antepartum condition or prior complication delivered
+C2047546  hypertension secondary to renal disease as complication in pregnancy delivered with postpartum complication
+C2047547  hypertension secondary to renal disease as complication in pregnancy postpartum condition or prior complication delivered
+C2047799  penis hypospadias penile shaft
+C2047840  hysteroscopy foreign body (___ cm)
+C2047841  hysteroscopy foreign body cervix (___ cm)
+C2047842  hysteroscopy foreign body fundus (___ cm)
+C2047843  hysteroscopy foreign body lower uterine segment (___ cm)
+C2051871  computed tomography of pelvis: calculus of bladder (procedure)
+C2051872  computed tomography of pelvis: multiple calculi of bladder (procedure)
+C2051873  computed tomography of pelvis: solitary calculus of bladder
+C2051874  computed tomography of pelvis: enlarged bladder
+C2051875  computed tomography of pelvis: extravasation of bladder (procedure)
+C2051876  pelvic computed tomography bladder mass ___cm
+C2051878  computed tomography of pelvis: polyp of bladder (procedure)
+C2051879  computed tomography of pelvis: solitary polyp of bladder
+C2051915  pelvic computed tomography multiple bladder masses ___cm
+C2051916  computed tomography of pelvis: multiple polyps of bladder
+C2051955  computed tomography of pelvis: enlarged prostate (procedure)
+C2051966  pelvic computed tomography solitary bladder mass ___cm
+C2052802  penis lesion papules shaft
+C2052804  penile shaft ulcer (physical finding)
+C2052809  penile swelling on exam
+C2052812  penile ulcer with erythematous border (physical finding)
+C2052813  penis lesion ulcer indurated edge
+C2052814  penis lesion ulcer with a necrotic base
+C2052815  penile ulcer with undermined edge (physical finding)
+C2052819  penis lesion ulcer with beefy red base (physical finding)
+C2052823  penis laceration shaft depth
+C2052824  penis laceration shaft edges
+C2052825  penis laceration shaft edges ragged
+C2052826  penis laceration shaft full thickness
+C2052827  penis laceration shaft jagged
+C2052828  penis laceration shaft L-shaped
+C2052829  penis laceration shaft orientation
+C2052830  penis laceration shaft orientation longitudinal
+C2052831  penis laceration shaft orientation transverse
+C2052832  laceration of shaft of penis with adequately approximated postsuture edges
+C2052833  penis laceration shaft edges postsuture approximation
+C2052834  penis laceration shaft postsuture edges poorly approximated
+C2052835  penis laceration shaft postsuture edges well-approximated
+C2052836  penis laceration shaft shape
+C2052837  penis laceration shaft straight line
+C2052838  penis laceration shaft superficial (epidermal only)
+C2052839  penis laceration shaft V-shaped
+C2052840  penis laceration shaft Y-shaped
+C2055656  tender left vulvar mass
+C2055659  penis lesion ulcer tender
+C2055665  tender right vulvar mass (physical finding)
+C2057549  size of testicular nodule
+C2057586  tuberculosis of testis bacteriology and histology not done
+C2057587  tuberculosis of testis bacteriology and histology unknown (diagnosis)
+C2057588  tuberculosis of testis in sputum: (+) culture (-) microscopy (diagnosis)
+C2057591  tuberculosis of testis TB (+) histology, (-) bacteriology
+C2057592  tuberculosis of testis TB in sputum: (+) microscopy (diagnosis)
+C2059329  intravenous pyelography solitary mass lesion of kidney ___cm
+C2059330  intravenous pyelography multiple mass lesions of kidney ___cm
+C2059331  intravenous pyelography: solitary cyst of kidney (procedure)
+C2059332  intravenous pyelography: multiple cysts of kidney
+C2059333  intravenous pyelography: extravasation from kidney
+C2059334  intravenous pyelography: extravasation from ureter (procedure)
+C2059335  retrograde pyelogram kidney mass lesion solitary ___cm
+C2059336  retrograde pyelogram: multiple mass lesions
+C2059337  retrograde pyelogram: solitary cyst of kidney
+C2059338  retrograde pyelogram: multiple cysts of kidney (procedure)
+C2059339  retrograde pyelogram: solitary calculus of kidney (procedure)
+C2059340  retrograde pyelogram: multiple calculi of kidney
+C2059341  retrograde pyelogram: solitary calculus of ureter
+C2059342  retrograde pyelogram: multiple calculi of ureter (procedure)
+C2059348  abdominal computed tomography kidney cysts multiple
+C2063016  pregnancy complicated by hypertension secondary to renal disease (diagnosis)
+C2063666  post ureterostomy
+C2064500  location of neoplasm of bladder
+C2064504  location of urethral carcinoma
+C2070073  embolus of retinal artery of right eye
+C2070074  retinal arterial embolus of left eye (physical finding)
+C2070075  retinal arterial embolus of both eyes (physical finding)
+C2072905  chest computerized tomography multiple emboli
+C2072938  chest computerized tomography saddle embolus of main pulmonary artery
+C2075676  clear penile discharge
+C2075677  urethral discharge clear
+C2076561  inflammation of Skene's gland left
+C2076580  inflammation of right Skene's gland (physical finding)
+C2078840  intravenous pyelogram dilated terminal collecting ducts
+C2078842  intravenous pyelography: absence of kidney (procedure)
+C2078843  intravenous pyelography: absence of both kidneys (procedure)
+C2078844  intravenous pyelography: absence of left kidney (procedure)
+C2078845  intravenous pyelography: absence of right kidney
+C2078846  intravenous pyelography: bilateral enlarged kidneys
+C2078847  intravenous pyelography: bilateral small kidneys (procedure)
+C2078848  intravenous pyelography: bladder cyst (procedure)
+C2078849  intravenous pyelography: bladder cyst with calcification of wall (procedure)
+C2078850  intravenous pyelography: multiple cysts of bladder (procedure)
+C2078851  intravenous pyelography: solitary cyst of bladder
+C2078852  intravenous pyelography bladder mass ___cm
+C2078853  intravenous pyelography bladder mass calcified ___cm
+C2078854  intravenous pyelography bladder mass multiple ___cm
+C2078855  intravenous pyelography bladder mass solitary ___cm
+C2078856  intravenous pyelography: bladder polyp (procedure)
+C2078857  intravenous pyelography: multiple polyps of bladder (procedure)
+C2078858  intravenous pyelography: solitary polyp of bladder (procedure)
+C2078859  intravenous pyelography: calculi
+C2078864  intravenous pyelography: displacement of both ureters
+C2078865  intravenous pyelography: displacement of left ureter only (procedure)
+C2078866  intravenous pyelography: displacement of right ureter only
+C2078867  intravenous pyelography: ectopic kidney (procedure)
+C2078868  intravenous pyelography: enlarged bladder (procedure)
+C2078869  intravenous pyelography: enlarged kidney (procedure)
+C2078870  intravenous pyelography: extravasation (procedure)
+C2078871  intravenous pyelography: extravasation bladder
+C2078872  intravenous pyelography: extravasation of both kidneys
+C2078873  intravenous pyelography: extravasation of both ureters
+C2078874  intravenous pyelography: extravasation of left kidney only (procedure)
+C2078875  intravenous pyelography: extravasation of left ureter only (procedure)
+C2078876  intravenous pyelography: extravasation of right kidney only (procedure)
+C2078877  intravenous pyelography: extravasation of right ureter only (procedure)
+C2078878  intravenous pyelography: extrinsic compression of bladder (procedure)
+C2078879  intravenous pyelography: extrinsic compression of bladder from above
+C2078880  intravenous pyelography: extrinsic compression of bladder from below
+C2078881  intravenous pyelography: extrinsic compression of bladder to left (procedure)
+C2078882  intravenous pyelography: extrinsic compression of bladder to right (procedure)
+C2078883  intravenous pyelography: extrinsic compression of both kidneys (procedure)
+C2078884  intravenous pyelography: extrinsic compression of kidney (procedure)
+C2078885  intravenous pyelography: extrinsic compression of kidney from above
+C2078886  intravenous pyelography: extrinsic compression of kidney from below (procedure)
+C2078887  intravenous pyelography: extrinsic compression of kidney right kidney only (procedure)
+C2078888  intravenous pyelography: extrinsic compression of left kidney only (procedure)
+C2078889  intravenous pyelography: filling defect
+C2078890  intravenous pyelography: fusion of kidneys
+C2078891  intravenous pyelography: kidney cyst
+C2078892  intravenous pyelography: kidney cyst calcification of wall
+C2078893  intravenous pyelography: kidney mass lesion
+C2078894  intravenous pyelography kidney mass lesion calcified ___cm
+C2078895  intravenous pyelography: left kidney enlarged only
+C2078896  intravenous pyelography: multiple bladder calculi (procedure)
+C2078897  intravenous pyelography: multiple cysts of both kidneys
+C2078898  intravenous pyelography: multiple cysts of left kidney (procedure)
+C2078899  intravenous pyelography: multiple cysts of right kidney
+C2078900  intravenous pyelography: multiple kidney calculi
+C2078901  intravenous pyelography: multiple kidney calculi in both kidneys
+C2078902  intravenous pyelography: multiple kidney calculi left only
+C2078903  intravenous pyelography: multiple kidney calculi right only
+C2078904  intravenous pyelography multiple mass lesions of both kidneys ___cm
+C2078905  intravenous pyelography multiple mass lesions of left kidney only ___cm
+C2078906  intravenous pyelography multiple mass lesions of right kidney only ___cm
+C2078907  intravenous pyelography: multiple ureter calculi (procedure)
+C2078908  intravenous pyelography: multiple ureter calculi in both ureters
+C2078909  intravenous pyelography: multiple ureter calculi in left ureter only
+C2078910  intravenous pyelography: multiple ureter calculi in right ureter only (procedure)
+C2078911  intravenous pyelography: multiple urethral calculi (procedure)
+C2078912  intravenous pyelography: nephrocalcinosis
+C2078913  intravenous pyelography: nephrocalcinosis of both kidneys (procedure)
+C2078914  intravenous pyelography: nephrocalcinosis of left kidney only
+C2078915  intravenous pyelography: nephrocalcinosis of right kidney only (procedure)
+C2078916  both kidneys are not visualized
+C2078917  intravenous pyelography: nonvisualization of kidney
+C2078918  the left kidney is not visualized
+C2078919  the right kidney is not visualized
+C2078920  intravenous pyelography: obstructive pattern
+C2078921  intravenous pyelography: obstructive pattern bilateral (procedure)
+C2078922  intravenous pyelography: obstructive pattern left only (procedure)
+C2078923  intravenous pyelography: obstructive pattern right only (procedure)
+C2078924  intravenous pyelography: papillary necrosis
+C2078925  intravenous pyelography: papillary necrosis of both kidneys (procedure)
+C2078926  intravenous pyelography: papillary necrosis of left kidney only (procedure)
+C2078927  intravenous pyelography: papillary necrosis of right kidney only
+C2078928  intravenous pyelography: right kidney enlarged only
+C2078929  intravenous pyelography: small kidney
+C2078930  intravenous pyelography: small kidney on left only
+C2078931  intravenous pyelography: small kidney on right only (procedure)
+C2078932  intravenous pyelography: solitary bladder calculus (procedure)
+C2078933  intravenous pyelography: solitary calculus in both kidneys (procedure)
+C2078934  intravenous pyelography: solitary calculus of both ureters (procedure)
+C2078935  intravenous pyelography: solitary calculus of left kidney only
+C2078936  intravenous pyelography: solitary calculus of left ureter only
+C2078937  intravenous pyelography: solitary calculus of right kidney only (procedure)
+C2078938  intravenous pyelography: solitary calculus of right ureter only
+C2078939  intravenous pyelography: solitary cyst of both kidneys (procedure)
+C2078940  intravenous pyelography: solitary cyst of left kidney (procedure)
+C2078941  intravenous pyelography: solitary cyst of right kidney
+C2078942  intravenous pyelography: solitary kidney calculus (procedure)
+C2078943  intravenous pyelography solitary mass lesion of both kidneys ___cm
+C2078944  intravenous pyelography solitary mass lesion of left kidney ___cm
+C2078945  intravenous pyelography solitary mass lesion of right kidney ___cm
+C2078946  intravenous pyelography: solitary ureter calculus (procedure)
+C2078947  intravenous pyelography: solitary urethral calculus (procedure)
+C2078948  intravenous pyelography: ureteral displacement (procedure)
+C2097684  abdominal computed tomography kidney small
+C2097685  abdominal computed tomography kidney small on the right only
+C2097686  abdominal computed tomography kidney small on the left only
+C2097687  abdominal CT bilateral small kidney
+C2097737  ultrasound renal kidney ___cm mass echogenicity
+C2104288  tuberculosis of kidney bacteriology and histology not done
+C2104294  tuberculosis of bladder bacteriology and histology not done (diagnosis)
+C2104295  tuberculosis of bladder bacteriology and histology unknown (diagnosis)
+C2104300  tuberculosis of ureter bacteriology and histology not done
+C2104301  tuberculosis of ureter bacteriology and histology unknown
+C2104318  tuberculous epididymitis bacteriology and histology not done (diagnosis)
+C2104319  tuberculous epididymitis bacteriology and histology unknown (diagnosis)
+C2104320  tuberculous epididymitis TB in sputum: (+) microscopy
+C2104321  tuberculous epididymitis TB (+) culture (-) microscopy (diagnosis)
+C2104322  tuberculous epididymitis TB (+) histology, (-) bacteriology (diagnosis)
+C2104323  tuberculous epididymitis TB (+) other way (-) bacteriology (-) histology
+C2106085  closed renal bx post-procedural hematoma (length) (___ cm)
+C2106086  closed renal bx post-procedural hematoma (width) (___ cm)
+C2106976  CT of abdomen number of kidney mass
+C2108228  radionuclide scan of bladder: extravasation of bladder (procedure)
+C2108285  radionuclide scan of kidney: absent kidney (procedure)
+C2108286  radionuclide scan of kidney: both kidneys absent
+C2108287  radionuclide scan of kidney: absent left kidney only (procedure)
+C2108288  radionuclide scan of kidney: absent right kidney only
+C2108293  radionuclide scan of kidney: ectopic (procedure)
+C2108294  radionuclide scan of kidney: both kidneys ectopic (procedure)
+C2108295  radionuclide scan of kidney: ectopic left kidney only
+C2108296  radionuclide scan of kidney: ectopic right kidney only
+C2109360  kidney MRA bilateral renal arteries stenosis
+C2110865  the bladder is absent
+C2110866  KUB x-ray: absent kidney
+C2110867  KUB x-ray: absent kidney bilateral
+C2110868  KUB x-ray: absent kidney left only
+C2110869  KUB x-ray: absent kidney right only (procedure)
+C2110870  KUB x-ray: calculi
+C2110871  KUB x-ray: ectopic kidney
+C2110872  KUB x-ray: ectopic kidney bilateral
+C2110873  KUB x-ray: ectopic kidney left only
+C2110874  KUB x-ray: ectopic kidney right only
+C2110875  KUB x-ray: enlarged bladder
+C2110876  KUB x-ray: fusion of kidneys
+C2110877  KUB x-ray: large kidney (procedure)
+C2110878  KUB x-ray: large kidney bilateral (procedure)
+C2110879  KUB x-ray: large kidney left only (procedure)
+C2110880  KUB x-ray: large kidney right only
+C2110881  KUB x-ray: multiple bladder calculi (procedure)
+C2110882  KUB x-ray: multiple kidney calculi (procedure)
+C2110883  KUB x-ray: multiple kidney calculi in both kidneys (procedure)
+C2110884  KUB x-ray: multiple kidney calculi in left kidney only
+C2110885  KUB x-ray: multiple kidney calculi in right kidney only (procedure)
+C2110886  KUB x-ray: multiple renal cysts
+C2110887  KUB x-ray: multiple renal cysts bilateral (procedure)
+C2110888  KUB x-ray: multiple renal cysts left only (procedure)
+C2110889  KUB x-ray: multiple renal cysts right only
+C2110890  KUB x-ray: multiple ureter calculi
+C2110891  KUB x-ray: multiple ureter calculi in both ureters
+C2110892  KUB x-ray: multiple ureter calculi in left ureter only (procedure)
+C2110893  KUB x-ray: multiple ureter calculi in right ureter only (procedure)
+C2110894  KUB x-ray: renal calcification
+C2110895  KUB x-ray: small kidney
+C2110896  KUB x-ray: small kidney bilateral
+C2110897  KUB x-ray: small kidney left only (procedure)
+C2110898  KUB x-ray: small kidney right only (procedure)
+C2110899  KUB x-ray: solitary bladder calculus
+C2110900  KUB x-ray: solitary kidney calculus (procedure)
+C2110901  KUB x-ray: solitary kidney calculus both kidneys (procedure)
+C2110902  KUB x-ray: solitary kidney calculus left kidney only (procedure)
+C2110903  KUB x-ray: solitary kidney calculus right kidney only
+C2110904  KUB x-ray: solitary renal cyst (procedure)
+C2110905  KUB x-ray: solitary renal cyst bilateral
+C2110906  KUB x-ray: solitary renal cyst left only
+C2110907  KUB x-ray: solitary renal cyst right only
+C2110908  KUB x-ray: solitary ureter calculus
+C2110909  KUB x-ray: solitary ureter calculus in both ureters (procedure)
+C2110910  KUB x-ray: solitary ureter calculus left only (procedure)
+C2110911  KUB x-ray: solitary ureter calculus right only (procedure)
+C2110953  penis laceration shaft lateral distal
+C2110954  laceration of distal part of left lateral shaft of penis (physical finding)
+C2110955  penis laceration shaft lateral distal right side
+C2110960  penis laceration foreskin dorsal
+C2110961  laceration of dorsal glans penis
+C2110962  laceration of dorsal shaft of penis (physical finding)
+C2110963  penis laceration glans
+C2110972  penis laceration foreskin lateral
+C2110973  penis laceration glans lateral
+C2110976  laceration of lateral shaft of penis (physical finding)
+C2110981  penis laceration foreskin lateral left side
+C2110982  laceration of left lateral glans penis
+C2110990  penis laceration with active bleeding
+C2110991  laceration of penis with purulent drainage (physical finding)
+C2110993  penis laceration shaft lateral proximal
+C2110994  laceration of proximal part of left lateral shaft of penis (physical finding)
+C2110995  laceration of proximal part of right lateral shaft of penis
+C2111004  laceration of right lateral foreskin
+C2111005  laceration of right lateral glans penis
+C2111006  laceration of shaft of penis (physical finding)
+C2111009  laceration of ventral foreskin of penis
+C2111010  laceration of ventral glans penis (physical finding)
+C2111011  penis laceration shaft ventral (___ cm)
+C2113848  pregnancy complicated by chronic hypertension with renal disease (diagnosis)
+C2119265  tuberculous prostatitis bacteriology and histology not done
+C2119266  prostatitis tuberculous bacteriology and histology unknown
+C2119267  tuberculous prostatitis TB in sputum: (+) microscopy
+C2119268  tuberculous prostatitis TB in sputum: (+) culture (-) microscopy (diagnosis)
+C2119269  tuberculous prostatitis TB (+) histology, (-) bacteriology
+C2119270  tuberculous prostatitis TB (+) other way (-) bacteriology (-) histology (diagnosis)
+C2123525  MRA renal arteries stenosis
+C2123526  MRA renal arteries stenosis right (___ %)
+C2123527  MRA renal arteries stenosis left (___ %)
+C2123532  voiding cystourethrogram kidney enlarged (procedure)
+C2129050  scrotal swelling localized
+C2129051  localized right scrotal swelling
+C2129052  scrotal swelling localized left
+C2129054  feelings of sudden urinary urgency
+C2140574  left costovertebral angle tenderness
+C2140575  left cryptorchidism (physical finding)
+C2140788  left ectopic testis (physical finding)
+C2140789  left ectopic testis in high scrotal position
+C2140790  left ectopic testis in inguinal region (physical finding)
+C2140791  left ectopic testis in perineum (physical finding)
+C2141003  epididymis mass left
+C2142132  scrotum hydrocele on the left
+C2143949  penis discharge pus
+C2145478  translucent mass of epididymis (physical finding)
+C2145479  translucent testicular mass
+C2163222  culdocentesis urine (procedure)
+C2163844  cystoscopy diverticulum of bladder
+C2163845  cystoscopy diverticulum of anterior wall of bladder (procedure)
+C2163846  cystoscopy diverticula of anterior wall of bladder bilaterally (procedure)
+C2163847  cystoscopy diverticulum of left anterior wall of bladder
+C2163848  cystoscopy diverticulum of right anterior wall of bladder
+C2163849  cystoscopy diverticulum of dome of bladder
+C2163850  cystoscopy diverticulum of lateral wall of bladder
+C2163851  cystoscopy diverticula of lateral wall of bladder bilaterally (procedure)
+C2163852  cystoscopy diverticulum of left lateral wall of bladder
+C2163853  cystoscopy diverticulum of right lateral wall of bladder
+C2163854  cystoscopy diverticulum of posterior wall of bladder (procedure)
+C2163855  cystoscopy diverticula of posterior wall of bladder bilaterally (procedure)
+C2163856  cystoscopy diverticulum of left posterior wall of bladder
+C2163857  cystoscopy diverticulum of right posterior wall of bladder (procedure)
+C2163858  cystoscopy diverticulum of trigone of bladder (procedure)
+C2163859  cystoscopy diverticulum of ureteral orifice (procedure)
+C2163860  cystoscopy diverticula of ureteral orifice bilaterally
+C2163861  cystoscopy diverticulum of ureteral orifice on left
+C2163862  cystoscopy diverticulum of ureteral orifice on right (procedure)
+C2163863  cystoscopy fistula of bladder (procedure)
+C2163864  cystoscopy fistula of anterior wall of bladder
+C2163865  cystoscopy fistulae of anterior wall of bladder bilaterally
+C2163866  cystoscopy fistula of left anterior wall of bladder
+C2163867  cystoscopy fistula of right anterior wall of bladder (procedure)
+C2163868  cystoscopy fistula of dome of bladder (procedure)
+C2163869  cystoscopy inflamed fistula of bladder (procedure)
+C2163870  cystoscopy fistula of lateral wall of bladder
+C2163871  cystoscopy fistulae of lateral wall of bladder bilaterally (procedure)
+C2163872  cystoscopy fistula of left lateral wall of bladder (procedure)
+C2163873  cystoscopy fistula of right lateral wall of bladder (procedure)
+C2163874  cystoscopy fistula of posterior wall of bladder
+C2163875  cystoscopy fistulae of posterior wall of bladder bilaterally (procedure)
+C2163876  cystoscopy fistula of left posterior wall of bladder (procedure)
+C2163877  cystoscopy fistula of right posterior wall of bladder (procedure)
+C2163878  cystoscopy fistula of trigone of bladder
+C2163879  cystoscopy foreign object of bladder
+C2163880  cystoscopy bladder stone (procedure)
+C2163881  cystoscopy stone of anterior wall of bladder
+C2163882  cystoscopy stone of anterior wall of bladder bilaterally
+C2163883  cystoscopy stone of left anterior wall of bladder (procedure)
+C2163884  cystoscopy stone of right anterior wall of bladder
+C2163885  cystoscopy stone of dome of bladder (procedure)
+C2163886  cystoscopy stone of lateral wall of bladder (procedure)
+C2163887  cystoscopy stone of lateral wall of bladder bilaterally
+C2163888  cystoscopy stone of left lateral wall of bladder (procedure)
+C2163889  cystoscopy stone of right lateral wall of bladder (procedure)
+C2163890  cystoscopy multiple bladder stones
+C2163891  cystoscopy bladder stone multiple largest (___ cm)
+C2163892  cystoscopy total number of multiple bladder stones
+C2163893  cystoscopy stone of posterior wall of bladder (procedure)
+C2163894  cystoscopy stone of posterior wall of bladder bilaterally
+C2163895  cystoscopy stone of left posterior wall of bladder (procedure)
+C2163896  cystoscopy stone of right posterior wall of bladder (procedure)
+C2163897  cystoscopy bladder stone single (___ cm)
+C2163898  cystoscopy stone of trigone of bladder (procedure)
+C2163899  cystoscopy bladder trabeculation ___ (0-3+)
+C2163900  cystoscopy: bladder tumor present
+C2163901  cystoscopy tumor of anterior wall of bladder
+C2163902  cystoscopy tumor of anterior wall of bladder bilaterally
+C2163903  cystoscopy tumor of left anterior wall of bladder
+C2163904  cystoscopy tumor of right anterior wall of bladder (procedure)
+C2163905  cystoscopy tumor of dome of bladder (procedure)
+C2163906  cystoscopy tumor of lateral wall of bladder (procedure)
+C2163907  cystoscopy tumor of lateral wall of bladder bilaterally
+C2163908  cystoscopy tumor of left lateral wall of bladder
+C2163909  cystoscopy tumor of right lateral wall of bladder
+C2163910  cystoscopy papillary tumor of bladder
+C2163911  cystoscopy multiple papillary tumors of bladder (procedure)
+C2163912  cystoscopy bladder tumor papillary multiple largest (___ cm)
+C2163913  cystoscopy total number of multiple papillary tumors of bladder
+C2163914  cystoscopy tumor of posterior wall of bladder
+C2163915  cystoscopy tumor of posterior wall of bladder bilaterally (procedure)
+C2163916  cystoscopy tumor of left posterior wall of bladder (procedure)
+C2163917  cystoscopy tumor of right posterior wall of bladder
+C2163918  cystoscopy sessile tumor of bladder (procedure)
+C2163919  cystoscopy multiple sessile tumors of bladder
+C2163920  cystoscopy bladder tumor sessile multiple largest (___ cm)
+C2163921  cystoscopy total number of multiple sessile tumors of bladder
+C2163922  cystoscopy bladder tumor sessile single (___ cm)
+C2163923  cystoscopy tumor of trigone of bladder (procedure)
+C2163924  cystoscopy ulcer of bladder
+C2163925  cystoscopy ulcer of anterior wall of bladder (procedure)
+C2163926  cystoscopy ulcer of anterior wall of bladder bilaterally
+C2163927  cystoscopy ulcer of left anterior wall of bladder (procedure)
+C2163928  cystoscopy ulcer of right anterior wall of bladder
+C2163929  cystoscopy ulcer of dome of bladder
+C2163930  cystoscopy of lateral wall of bladder (procedure)
+C2163931  cystoscopy of lateral wall of bladder bilaterally
+C2163932  cystoscopy of left lateral wall of bladder (procedure)
+C2163933  cystoscopy of right lateral wall of bladder (procedure)
+C2163934  cystoscopy multiple ulcers of bladder (procedure)
+C2163935  cystoscopy bladder ulcer multiple largest (___ cm)
+C2163936  cystoscopy total number of multiple ulcers of bladder
+C2163937  cystoscopy of posterior wall of bladder (procedure)
+C2163938  cystoscopy of posterior wall of bladder bilaterally
+C2163939  cystoscopy of left posterior wall of bladder (procedure)
+C2163940  cystoscopy of right posterior wall of bladder
+C2163941  cystoscopy bladder ulcer single (___ cm)
+C2163944  cystoscopy absence of ureteral orifice
+C2163945  cystoscopy absence of ureteral orifice on left
+C2163946  cystoscopy absence of ureteral orifice on right (procedure)
+C2163947  cystoscopy duplicated ureteral orifice (procedure)
+C2163948  cystoscopy duplicated ureteral orifice bilaterally
+C2163949  cystoscopy duplicated ureteral orifice on left (procedure)
+C2163950  cystoscopy duplicated ureteral orifice on right (procedure)
+C2163951  cystoscopy ectopic ureteral orifice (procedure)
+C2163952  cystoscopy ectopic ureteral orifice bilaterally (procedure)
+C2163953  cystoscopy ectopic ureteral orifice on left
+C2163954  cystoscopy ectopic ureteral orifice on right (procedure)
+C2163955  cystoscopy gaping of ureteral orifice bilaterally (procedure)
+C2163956  cystoscopy gaping of ureteral orifice on left
+C2163957  cystoscopy gaping of ureteral orifice on right
+C2163958  cystoscopy 'golf hole' of ureteral orifice bilaterally (procedure)
+C2163959  cystoscopy 'golf hole' of left ureteral orifice (procedure)
+C2163960  cystoscopy 'golf hole' of right ureteral orifice
+C2163961  cystoscopy morphology of ureteral orifice (procedure)
+C2163962  cystoscopy gaping of ureteral orifice
+C2163963  cystoscopy 'golf hole' of ureteral orifice
+C2163964  cystoscopy ureterocele of ureteral orifice (procedure)
+C2163965  cystoscopy ureterocele of ureteral orifice bilaterally (procedure)
+C2163966  cystoscopy ureterocele of left ureteral orifice
+C2163967  cystoscopy ureterocele of right ureteral orifice (procedure)
+C2163969  cystoscopy hypertrophy of anterior lobe of prostate with intravesical protrusion (procedure)
+C2163971  cystoscopy contracture of bladder neck
+C2163972  cystoscopy hypertrophy of bladder neck (procedure)
+C2163973  cystoscopy hypertrophy of median lobe of prostate with obstruction
+C2163976  cystoscopy hypertrophy of anterior lobe of prostate (procedure)
+C2163983  cystoscopy hypertrophy of median lobe of prostate
+C2163984  cystoscopy prostate lobes papillary tumor (___ cm)
+C2163985  cystoscopy hypertrophy of median lobe of prostate with intravesical protrusion (procedure)
+C2163986  cystoscopy single papillary tumor of bladder
+C2164000  cystoscopy stricture of urethra
+C2164001  cystoscopy stricture of bulbar urethra
+C2164003  cystoscopy stricture of membranous urethra (procedure)
+C2164005  cystoscopy stricture of pendulous urethra
+C2164006  cystoscopy bladder fistula vesicocolic
+C2166861  left scrotal edema (physical finding)
+C2166862  hematoma of left scrotum
+C2166863  laceration of left scrotum
+C2166864  scrotum laceration left depth
+C2166865  scrotum laceration left edges
+C2166866  scrotum laceration left edges ragged
+C2166867  scrotum laceration left to fascia
+C2166868  scrotum laceration left to fat
+C2166869  scrotum laceration left to muscle
+C2166870  scrotum laceration left extending into testicle
+C2166871  scrotum laceration left to tunica vaginalis
+C2166872  scrotum laceration left jagged
+C2166873  scrotum laceration left L-shaped
+C2166874  scrotum laceration left shape
+C2166875  scrotum laceration left straight line
+C2166876  scrotum laceration left superficial (epidermal only)
+C2166877  scrotum laceration L postsuture edge adequately approximated
+C2166878  scrotum laceration left edges postsuture approximation
+C2166879  scrotum laceration L postsuture edges poorly approximated
+C2166880  scrotum laceration left postsuture edges well-approximated
+C2166881  scrotum laceration left V-shaped
+C2166882  scrotum laceration left Y-shaped
+C2166884  mass in left scrotum
+C2167269  testicular atrophy on the left
+C2167270  left testicular mass
+C2167883  left ureterostomy by exam (physical finding)
+C2167884  ureterostomy left narrowed
+C2167885  ureterostomy left obstructed
+C2167886  left ureterostomy prolapsed by exam (physical finding)
+C2167887  left ureterostomy with blood by exam (physical finding)
+C2167888  varicocele on left side
+C2167897  left vulvar mass
+C2168309  length of laceration of distal part of dorsal shaft of penis in cm
+C2168310  length of laceration of distal part of ventral shaft of penis in centimeters
+C2168311  length of laceration of proximal part of dorsal shaft of penis in centimeters
+C2168312  penis laceration shaft ventral proximal (___ cm)
+C2170073  arteriography of kidney: absence of kidney (procedure)
+C2170074  arteriography of kidney: absence of both kidneys
+C2170075  arteriography of kidney: absence of left kidney only (procedure)
+C2170076  arteriography of kidney: absence of right kidney only (procedure)
+C2170077  arteriography of kidney: anomaly of renal artery (procedure)
+C2170078  arteriography of kidney: arterial dilation
+C2170079  arteriography of kidney: arterial dilation of both kidneys
+C2170080  arteriography of kidney: arterial dilation of left kidney only (procedure)
+C2170081  arteriography of kidney: arterial dilation of right kidney only (procedure)
+C2170082  arteriography of kidney: arterial stenosis (procedure)
+C2170083  arteriography of kidney: arterial stenosis of both kidneys (procedure)
+C2170084  arteriography of kidney: arterial stenosis of left kidney only
+C2170085  arteriography of kidney: arterial stenosis of right kidney only (procedure)
+C2170086  arteriography of kidney: both kidneys enlarged (procedure)
+C2170087  arteriography of kidney: bilateral nephrocalcinosis
+C2170088  arteriography of kidney: both kidneys small
+C2170089  arteriography of kidney: calcified kidney mass lesion (procedure)
+C2170094  arteriography of kidney: ectopic kidney (procedure)
+C2170095  arteriography of kidney: enlarged left kidney only (procedure)
+C2170096  arteriography of kidney: enlarged right kidney only (procedure)
+C2170097  arteriography of kidney: extravasation of kidney
+C2170098  arteriography of kidney: extravasation of both kidneys (procedure)
+C2170099  arteriography of kidney: extravasation of left kidney only (procedure)
+C2170100  arteriography of kidney: extravasation of right kidney only
+C2170107  arteriography of kidney: fusion of kidneys (procedure)
+C2170108  arteriography of kidney: cyst of kidney (procedure)
+C2170109  arteriography of kidney: kidney cyst calcification of wall
+C2170110  arteriography of kidney: mass lesion of kidney
+C2170111  tumor blush of a kidney mass lesion
+C2170112  the kidney is large
+C2170113  arteriography of kidney: multiple calculi of both kidneys (procedure)
+C2170114  arteriography of kidney: multiple calculi of left kidney only (procedure)
+C2170115  arteriography of kidney: multiple calculi of right kidney only (procedure)
+C2170116  arteriography of kidney: multiple cysts of both kidneys
+C2170117  arteriography of kidney: multiple cysts of left kidney only (procedure)
+C2170118  arteriography of kidney: multiple cysts of right kidney only (procedure)
+C2170119  arteriography of kidney: multiple calculi of kidney (procedure)
+C2170120  arteriography of kidney: multiple cysts of kidney (procedure)
+C2170121  arteriography of kidney: multiple mass lesions of kidney (procedure)
+C2170122  arteriography of kidney: multiple mass lesions of both kidneys
+C2170123  arteriography of kidney: multiple mass lesions of left kidney only
+C2170124  arteriography of kidney: multiple mass lesions of right kidney only
+C2170125  arteriography of kidney: nephrocalcinosis (procedure)
+C2170126  arteriography of kidney: nephrocalcinosis of left kidney only (procedure)
+C2170127  arteriography of kidney: nephrocalcinosis of right kidney only (procedure)
+C2170132  arteriography of kidney: obstructive pattern (procedure)
+C2170133  arteriography of kidney: obstructive pattern of both kidneys
+C2170134  arteriography of kidney: obstructive pattern of left kidney only
+C2170135  arteriography of kidney: obstructive pattern of right kidney only
+C2170136  arteriography of kidney: papillary necrosis (procedure)
+C2170137  arteriography of kidney: papillary necrosis of both kidneys
+C2170138  arteriography of kidney: papillary necrosis of left kidney only (procedure)
+C2170139  arteriography of kidney: papillary necrosis of right kidney only
+C2170140  the kidney is small
+C2170141  arteriography of kidney: small left kidney only (procedure)
+C2170142  arteriography of kidney: small right kidney only (procedure)
+C2170143  arteriography of kidney: solitary calculus of both kidneys
+C2170144  arteriography of kidney: solitary calculus of left kidney only
+C2170145  arteriography of kidney: solitary calculus of right kidney only (procedure)
+C2170146  arteriography of kidney: solitary cyst of left kidney only (procedure)
+C2170147  arteriography of kidney: solitary cyst of right kidney only (procedure)
+C2170148  arteriography of kidney: solitary cysts of both kidneys
+C2170149  arteriography of kidney: solitary calculus of kidney
+C2170150  arteriography of kidney: solitary cyst of kidney (procedure)
+C2170151  arteriography of kidney: solitary mass lesion of kidney
+C2170152  arteriography of kidney: solitary mass lesion of both kidneys (procedure)
+C2170153  arteriography of kidney: solitary mass lesion of left kidney only
+C2170154  arteriography of kidney: solitary mass lesion of right kidney only
+C2170165  renal artery bruit heard in left abdomen
+C2170166  renal artery bruit heard in left flank (physical finding)
+C2170167  renal artery bruit heard in right abdomen (physical finding)
+C2170168  renal artery bruit heard in right flank
+C2170216  renal function nonspecific abnormal findings (procedure)
+C2170329  ultrasound renal kidney cyst size (length) (___ cm)
+C2170330  renal ultrasound kidney cyst size width (___ cm)
+C2170331  ultrasound renal kidney mass lesion ___cm
+C2170332  ultrasound renal kidney mass lesion calcified ___cm
+C2170333  ultrasound renal kidney mass lesion multiple ___cm
+C2170334  ultrasound renal kidney mass lesion multiple bilateral ___cm
+C2170335  ultrasound renal kidney mass lesion multiple left only ___cm
+C2170336  renal ultrasound kidney mass lesion multiple right only (___ cm)
+C2170337  ultrasound renal kidney mass lesion solitary ___cm
+C2170338  ultrasound renal kidney mass lesion solitary bilateral ___cm
+C2170339  ultrasound renal kidney mass lesion solitary left only ___cm
+C2170340  renal ultrasound kidney mass lesion solitary right only (___ cm)
+C2170341  ultrasound renal ureteral mass left (___ cm)
+C2170347  renal ultrasound ureteral mass right ___ cm
+C2170348  renal ultrasound solitary calculus left lower pole ___ cm
+C2170349  renal ultrasound solitary calculus left mid pole ___ cm
+C2170350  renal ultrasound solitary calculus left upper pole (___ cm)
+C2170351  ultrasound renal solitary calculus right lower pole (___ cm)
+C2170352  ultrasound renal solitary calculus right mid pole (___ cm)
+C2170353  ultrasound renal solitary calculus right upper pole (___ cm)
+C2170354  ultrasound renal solitary kidney calculus left (___ cm)
+C2170355  renal ultrasound solitary kidney calculus right ___ cm
+C2170731  tuberculosis of seminal vesicle bacteriology and histology not done
+C2170732  tuberculosis of seminal vesicle bacteriology and histology unknown (diagnosis)
+C2170733  tuberculosis of seminal vesicle in sputum: (+) culture (-) microscopy (diagnosis)
+C2170734  tuberculosis of seminal vesicle TB (+) histology, (-) bacteriology
+C2170735  tuberculosis of seminal vesicle TB (+) other way (-) bacteriology (-) histology (diagnosis)
+C2170736  tuberculosis of seminal vesicle TB in sputum: (+) microscopy (diagnosis)
+C2170737  tuberculosis pf testes TB (+) other way (-) bacteriology (-) histology
+C2171593  ulcer of distal part of dorsal shaft of penis
+C2171594  ulcer of distal part of lateral shaft of penis (physical finding)
+C2171595  ulcer of distal part of left lateral shaft of penis (physical finding)
+C2171596  ulcer of distal part of right lateral shaft of penis (physical finding)
+C2171597  ulcer of distal part of ventral shaft of penis
+C2171598  ulcer of dorsal part of glans penis (physical finding)
+C2171599  ulcer of dorsal shaft of penis
+C2171744  penis lesion ulcer glans
+C2171785  penis lesion ulcer glans lateral
+C2171786  ulcer of lateral shaft of penis
+C2172180  ulcer of left lateral part of glans penis
+C2172600  ulcer of proximal part of dorsal shaft of penis
+C2172601  ulcer of proximal part of lateral shaft of penis
+C2172602  ulcer of proximal part of left lateral shaft of penis
+C2172603  ulcer of proximal part of right lateral shaft of penis
+C2172604  ulcer of proximal part of ventral shaft of penis (physical finding)
+C2173016  ulcer of right lateral part of glans penis (physical finding)
+C2173478  ulcer of ventral part of glans penis
+C2173479  penis lesion ulcer shaft ventral
+C2173668  ultrasound renal absent kidney
+C2173669  ultrasound renal absent kidney bilateral
+C2173670  ultrasound renal absent kidney left only
+C2173671  ultrasound renal absent kidney right only
+C2173677  ultrasound renal kidney cyst
+C2173678  ultrasound renal kidney cyst Bosniak score (1-4)
+C2173679  ultrasound renal kidney cyst calcification of wall
+C2173680  ultrasound renal kidney cyst lower pole
+C2173681  ultrasound renal kidney cyst mid pole
+C2173682  ultrasound renal kidney cyst no. ___
+C2173683  ultrasound renal kidney cyst right
+C2173684  ultrasound renal kidney cyst upper pole
+C2173686  ultrasound renal ectopic kidney
+C2173694  ultrasound renal fusion of kidneys
+C2173695  ultrasound renal horseshoe kidney
+C2173714  ultrasound renal kidney cyst multiple
+C2173715  ultrasound renal kidney cyst multiple bilateral
+C2173716  ultrasound renal kidney cyst multiple left only
+C2173717  ultrasound renal kidney cyst multiple right only
+C2173718  ultrasound renal nephrocalcinosis
+C2173719  ultrasound renal nephrocalcinosis bilateral
+C2173720  ultrasound renal nephrocalcinosis left only
+C2173721  ultrasound renal nephrocalcinosis right only
+C2173722  ultrasound renal kidney number of cysts
+C2173727  ultrasound renal papillary necrosis
+C2173728  ultrasound renal papillary necrosis bilateral
+C2173729  ultrasound renal papillary necrosis left only
+C2173730  ultrasound renal papillary necrosis right only
+C2173732  ultrasound renal small kidney
+C2173733  ultrasound renal small kidney bilateral
+C2173734  ultrasound renal small kidney left only
+C2173735  ultrasound renal small kidney right only
+C2173736  ultrasound renal kidney cyst solitary
+C2173737  ultrasound renal kidney cyst solitary bilateral
+C2173738  ultrasound renal kidney cyst solitary left only
+C2173739  ultrasound renal kidney cyst solitary right only
+C2173740  ultrasound renal solitary kidney calculus
+C2173741  ultrasound renal solitary kidney calculus bilateral
+C2173790  ultrasound renal kidney cyst left
+C2173910  ultrasound renal ureteral dilation
+C2173911  ultrasound renal ureteral dilation left
+C2173912  ultrasound renal ureteral dilation right
+C2173913  ultrasound renal ureteral mass
+C2174747  retinal arterial embolus of superior temporal aspect of right eye
+C2174748  retinal arterial embolus of superior nasal aspect of right eye
+C2174749  retinal arterial embolus of inferior temporal aspect of right eye
+C2174750  retinal arterial embolus of inferior nasal aspect of right eye
+C2174751  retinal arterial embolus of superior temporal aspect of left eye (physical finding)
+C2174752  retinal arterial embolus of superior nasal aspect of left eye
+C2174753  retinal arterial embolus of inferior temporal aspect of left eye (physical finding)
+C2174754  retinal arterial embolus of inferior nasal aspect of left eye
+C2180404  right costovertebral angle tenderness (physical finding)
+C2180405  white urethral discharge (symptom)
+C2180406  urethral discharge yellow
+C2180407  bloody urethral discharge (physical finding)
+C2180408  urethral discharge brown
+C2180413  size of soft mass in ventral shaft of penis in cm
+C2180414  penis mass ventral shaft firm (___ cm)
+C2180415  penis mass ventral shaft hard (___ cm)
+C2180416  mass on dorsal shaft of penis (physical finding)
+C2181630  urine tests nonspecific abnormal findings
+C2183182  cystoscopy prostate lobe anterior hypertrophy w/ obstruction
+C2184252  penis swelling localized
+C2185963  low vesicovaginal fistula
+C2187347  retrograde pyelogram: absence of kidney (procedure)
+C2187348  retrograde pyelogram: absence of both kidneys (procedure)
+C2187349  retrograde pyelogram: absence of left kidney only (procedure)
+C2187350  retrograde pyelogram: absence of right kidney only
+C2187351  retrograde pyelogram displacement of ureters (procedure)
+C2187352  retrograde pyelogram: displacement of both ureters (procedure)
+C2187353  retrograde pyelogram: displacement of ureters on left only
+C2187354  retrograde pyelogram: displacement of ureters on right only (procedure)
+C2187355  retrograde pyelogram ectopic kidney (procedure)
+C2187356  retrograde pyelogram: both kidneys ectopic
+C2187357  retrograde pyelogram: ectopic left kidney only (procedure)
+C2187358  retrograde pyelogram: ectopic right kidney only (procedure)
+C2187359  retrograde pyelogram enlarged kidney (procedure)
+C2187360  retrograde pyelogram: enlarged kidneys bilaterally (procedure)
+C2187361  retrograde pyelogram: enlarged kidney on left only (procedure)
+C2187362  retrograde pyelogram: enlarged kidney on right only
+C2187363  retrograde pyelogram extravasation of kidney (procedure)
+C2187364  retrograde pyelogram: extravasation of both kidneys (procedure)
+C2187365  retrograde pyelogram: extravasation of left kidney only (procedure)
+C2187366  retrograde pyelogram: extravasation of right kidney only
+C2187371  retrograde pyelogram: extrinsic compression of both kidneys (procedure)
+C2187372  retrograde pyelogram: extrinsic compression of kidney from above (procedure)
+C2187373  retrograde pyelogram: extrinsic compression of kidney from below
+C2187374  retrograde pyelogram: extrinsic compression of left kidney only (procedure)
+C2187375  retrograde pyelogram: extrinsic compression of right kidney only (procedure)
+C2187376  retrograde pyelogram extrinsic compression of kidney (procedure)
+C2187378  retrograde pyelogram fused kidneys
+C2187379  retrograde pyelogram: calculus of kidney (procedure)
+C2187380  retrograde pyelogram kidney calculi multiple, both kidneys
+C2187381  retrograde pyelogram kidney calculi multiple, left only
+C2187382  retrograde pyelogram kidney calculi multiple, right only
+C2187383  retrograde pyelogram kidney calculi solitary, both kidneys
+C2187384  retrograde pyelogram kidney calculi solitary, left only
+C2187385  retrograde pyelogram kidney calculi solitary, right only
+C2187386  retrograde pyelogram: cyst of kidney (procedure)
+C2187387  retrograde pyelogram: cyst of kidney with calcification of wall (procedure)
+C2187388  retrograde pyelogram kidney cyst multiple, both kidneys
+C2187389  retrograde pyelogram kidney cyst multiple, left kidney only
+C2187390  retrograde pyelogram kidney cyst multiple, right kidney only
+C2187391  retrograde pyelogram kidney cyst solitary, both kidneys
+C2187392  retrograde pyelogram kidney cyst solitary, left only
+C2187393  retrograde pyelogram kidney cyst solitary, right only
+C2187394  retrograde pyelogram kidney mass lesion ___cm
+C2187395  retrograde pyelogram kidney mass lesion calcified
+C2187396  retrograde pyelogram kidney mass lesion solitary, bilateral
+C2187397  retrograde pyelogram kidney mass lesion solitary, left only
+C2187398  retrograde pyelogram kidney mass lesion solitary, right only
+C2187399  retrograde pyelogram mass lesion multiple, in both kidneys
+C2187400  retrograde pyelogram mass lesion multiple, left kidney only
+C2187401  retrograde pyelogram mass lesion multiple, right kidney only
+C2187402  retrograde pyelogram nephrocalcinosis (procedure)
+C2187403  retrograde pyelogram obstructive pattern (procedure)
+C2187404  retrograde pyelogram: obstructive pattern bilaterally (procedure)
+C2187405  retrograde pyelogram: obstructive pattern on left only (procedure)
+C2187406  retrograde pyelogram: obstructive pattern on right only
+C2187407  retrograde pyelogram papillary necrosis (procedure)
+C2187408  retrograde pyelogram papillary necrosis bilateral
+C2187409  retrograde pyelogram papillary necrosis left only
+C2187410  retrograde pyelogram papillary necrosis right only
+C2187411  retrograde pyelogram small kidney (procedure)
+C2187412  retrograde pyelogram: small kidneys bilaterally
+C2187413  retrograde pyelogram: small kidney on left only (procedure)
+C2187414  retrograde pyelogram: small kidney on right only
+C2187415  retrograde pyelogram: calculus of ureter (procedure)
+C2187416  retrograde pyelogram ureter calculi multiple, both ureters
+C2187417  retrograde pyelogram ureter calculi multiple, left only
+C2187418  retrograde pyelogram ureter calculi multiple, right only
+C2187419  retrograde pyelogram ureter calculi solitary, both ureters
+C2187420  retrograde pyelogram ureter calculi solitary, left only
+C2187421  retrograde pyelogram ureter calculi solitary, right only
+C2187966  penis lesion papules umbilicated
+C2188177  penis lesion ulcer multiple, uniform size (___ cm)
+C2188323  ureterostomy
+C2188414  urinalysis results: WBC eosinophils
+C2188420  urinalysis results: WBCs with bacilli bacteria (___ per hpf)
+C2188421  urinalysis results: WBCs with bacteria (___ per hpf)
+C2188422  urinalysis results: WBCs with cocci bacteria (___ per hpf)
+C2188450  bladder incontinence
+C2188451  urinary incontinence by exam while standing (physical finding)
+C2188452  urinary incontinence by exam while supine (physical finding)
+C2188453  bladder incontinence with anatomy correction
+C2188454  urinary incontinence by exam with heavy cough
+C2188455  urinary incontinence by exam with Valsalva (physical finding)
+C2188722  urine leukocytes (3 glass) (lab test)
+C2188723  urinalysis results: leukocytes too numerous to count
+C2189374  verrucous papules of penis
+C2197028  bilateral costovertebral angle tenderness (physical finding)
+C2197691  penis hypospadias scrotal
+C2198730  abdominal computed tomography kidney enlargement bilateral
+C2198732  abdominal computed tomography kidney mass bilateral ___cm
+C2198735  abdominal computed tomography kidney nephrocalcinosis bilateral
+C2198742  abdominal computed tomography kidney mass calcified ___cm
+C2201204  right cryptorchidism (physical finding)
+C2201427  right ectopic testis (physical finding)
+C2201428  testes ectopic right in high scrotal position
+C2201429  right ectopic testis in inguinal region (physical finding)
+C2201430  right ectopic testis in perineum
+C2201543  epididymis mass right
+C2202206  hydrocele of right scrotum
+C2202701  bladder incontinence tested with ___ cc fluid in bladder
+C2210289  MRA renal artery stenosis right proximal (cm)
+C2210290  MRA renal artery stenosis right distal
+C2210291  MRA renal artery stenosis left proximal (cm)
+C2210292  MRA renal artery stenosis left distal
+C2210308  abdominal computed tomography kidney mass size (length) (___ cm)
+C2210309  abdominal computed tomography kidney mass size (width) (___cm)
+C2210310  CT of abdomen mass of upper pole of kidney
+C2210311  CT of abdomen mass of middle pole of kidney
+C2210312  CT of abdomen mass of lower pole of kidney
+C2210313  abdominal magnetic resonance imaging kidney mass length (___ cm)
+C2210314  abdominal magnetic resonance imaging kidney mass size (width) (___cm)
+C2210315  abdominal MRI kidney mass upper pole
+C2210316  abdominal MRI kidney mass mid pole
+C2210317  abdominal MRI kidney mass lower pole
+C2218507  right scrotal edema
+C2218508  hematoma of right scrotum
+C2218509  scrotum laceration right
+C2218510  scrotum laceration right depth
+C2218511  scrotum laceration right edges
+C2218512  scrotum laceration right edges ragged
+C2218513  scrotum laceration right to fascia
+C2218514  scrotum laceration right to fat
+C2218515  scrotum laceration right to muscle
+C2218516  scrotum laceration right extending into testicle
+C2218517  scrotum laceration right to tunica vaginalis
+C2218518  scrotum laceration right full thickness
+C2218519  scrotum laceration right jagged
+C2218520  scrotum laceration right L-shaped
+C2218521  scrotum laceration right shape
+C2218522  scrotum laceration right straight line
+C2218523  scrotum laceration right superficial (epidermal only)
+C2218524  scrotum laceration R postsuture edge adequately approximated
+C2218525  scrotum laceration right edges postsuture approximation
+C2218526  scrotum laceration R postsuture edges poorly approximated
+C2218527  scrotum laceration right postsuture edges well-approximated
+C2218528  scrotum laceration right V-shaped
+C2218529  scrotum laceration right Y-shaped
+C2218531  mass in right scrotum
+C2218796  atrophic right testis
+C2218797  testes mass right
+C2219168  right ureterostomy by exam (physical finding)
+C2219169  right ureterostomy narrowed by exam (physical finding)
+C2219170  right ureterostomy obstructed by exam (physical finding)
+C2219171  ureterostomy right prolapsed
+C2219172  right ureterostomy with blood by exam
+C2219173  right varicocele
+C2219180  right vulvar mass
+C2219518  sanguineous penile discharge (physical finding)
+C2220100  number of hours since child's last urination
+C2220565  CT of abdomen enlarged kidney
+C2220566  CT of abdomen enlarged kidney on left
+C2220567  CT of abdomen enlarged kidney on right
+C2220572  abdominal computed tomography kidney mass
+C2220573  CT of abdomen mass of renal pelvis
+C2220581  abdominal CT mass of left kidney
+C2220615  abdominal computed tomography kidney cysts multiple, bilateral
+C2220617  abdominal computed tomography kidney cysts multiple, left only
+C2220619  abdominal computed tomography kidney cysts multiple, right only
+C2220627  abdominal computed tomography kidney nephrocalcinosis
+C2220628  abdominal computed tomography kidney nephrocalcinosis left only
+C2220629  abdominal computed tomography kidney nephrocalcinosis right only
+C2222173  nephrostomy in the right flank
+C2222174  nephrostomy in the left flank
+C2222183  nephrostomy present with clean, nonerythematous skin and a pink, moist mucosa
+C2222184  skin surrounding nephrostomy
+C2222185  erythematous skin surrounding nephrostomy
+C2222186  fluctuant skin surrounding nephrostomy
+C2222187  purulent discharge of skin surrounding nephrostomy (physical finding)
+C2222188  tender skin surrounding nephrostomy (physical finding)
+C2222189  nephrostomy obstructed (physical finding)
+C2222191  abdominal suprapubic catheter (physical finding)
+C2225085  epididymis mass bilateral
+C2225089  sebaceous cysts of right scrotum
+C2225090  sebaceous cysts of left scrotum
+C2225091  sebaceous cysts of both scrotum (physical finding)
+C2225092  bilateral scrotal hematomas (physical finding)
+C2225093  laceration of scrotum bilaterally (physical finding)
+C2225097  bilateral varicoceles
+C2225105  size of largest of multiple penile ulcers of varying sizes in cm
+C2225106  size of mass in proximal part of ventral shaft of penis in centimeters
+C2225107  penis mass ventral shaft distal (___ cm)
+C2225108  penis mass ventral shaft irregular borders (___ cm)
+C2225109  size of mass in ventral shaft of penis that protrudes through skin in centimeters
+C2225110  size of fixed mass in ventral shaft of penis in cm
+C2225111  size of mass in proximal part of dorsal shaft of penis in centimeters
+C2225112  penis mass dorsal shaft distal (___ cm)
+C2225113  size of soft mass in dorsal shaft of penis in centimeters
+C2225114  penis mass dorsal shaft firm (___ cm)
+C2225115  penis mass dorsal shaft hard (___ cm)
+C2225116  penis mass dorsal shaft irregular borders (___ cm)
+C2225117  penis mass dorsal shaft protrudes through skin (___ cm)
+C2225118  penis mass dorsal shaft fixed (___ cm)
+C2225119  size of mass in lateral shaft of penis in centimeters
+C2225120  size of mass in proximal part of lateral shaft of penis in centimeters
+C2225121  size of mass in distal part of lateral shaft of penis in cm
+C2225122  size of soft mass in lateral shaft of penis in centimeters
+C2225123  size of firm mass in lateral shaft of penis in centimeters
+C2225124  size of hard mass in lateral shaft of penis in centimeters
+C2225125  size of irregular mass in lateral shaft of penis in cm
+C2225126  size of mass in lateral shaft of penis that protrudes through skin in centimeters
+C2225127  size of fixed mass in lateral shaft of penis in centimeters
+C2225128  size of mass in proximal part of right lateral shaft of penis in cm
+C2225129  penis mass lateral shaft proximal left side (___ cm)
+C2225130  size of mass in distal part of right lateral shaft of penis in centimeters
+C2225131  size of mass in distal part of left lateral shaft of penis in centimeters
+C2225132  size of mass in ventral glans penis in cm
+C2225133  penis mass glans dorsal (___ cm)
+C2225134  penis mass glans lateral (___ cm)
+C2225135  penis mass glans lateral right side (___ cm)
+C2225136  size of mass in left lateral glans penis in centimeters
+C2225137  size of mass in foreskin of penis in cm
+C2225138  size of mass in ventral foreskin of penis in centimeters
+C2225139  size of mass in dorsal foreskin of penis in cm
+C2225140  size of mass in lateral foreskin of penis in centimeters
+C2225141  size of mass in right lateral foreskin of penis in centimeters
+C2225142  size of mass in left lateral foreskin of penis in centimeters
+C2225170  bilateral scrotal masses
+C2225347  vesicovaginal fistula mid
+C2225511  mass of labia majora
+C2225512  mass of right labia majora
+C2225513  mass of left labia majora
+C2225514  mass of labia minora
+C2225515  mass of right labia minora (physical finding)
+C2225516  labia minora mass left
+C2227369  testes ectopic bilaterally
+C2227370  bilateral ectopic testes in perineum
+C2227371  bilateral ectopic testis in high scrotal position
+C2227372  bilateral ectopic testis in inguinal region
+C2227376  vulvar mass right fluctuant
+C2227377  vulvar mass right mobile
+C2227378  vulvar mass right fixed
+C2227379  vulvar mass left fluctuant
+C2227380  mobile left vulvar mass
+C2227381  fixed left vulvar mass
+C2227575  abdominal computed tomography kidney mass right (___ cm)
+C2228139  primary nocturnal enuresis (diagnosis)
+C2228769  penis mass ventral shaft
+C2229544  serpiginous penile ulcer
+C2230349  penis lesion ulcer single (___ cm)
+C2230350  multiple penile ulcers of varying sizes
+C2230351  size of mass in glans penis in cm
+C2234376  penis discharge mucinous
+C2234377  bloody penile discharge
+C2235074  penis laceration foreskin depth
+C2235075  penis laceration foreskin superficial (epidermal only)
+C2235076  penis laceration foreskin full thickness
+C2235077  penis laceration foreskin shape
+C2235078  penis laceration foreskin straight line
+C2235079  penis laceration foreskin V-shaped
+C2235080  penis laceration foreskin Y-shaped
+C2235081  penis laceration foreskin L-shaped
+C2235082  penis laceration foreskin jagged
+C2235083  penis laceration foreskin orientation
+C2235084  penis laceration foreskin orientation longitudinal
+C2235085  penis laceration foreskin orientation transverse
+C2235086  penis laceration foreskin edges
+C2235087  penis laceration foreskin edges ragged
+C2235088  penis laceration foreskin edges postsuture approximation
+C2235089  penis laceration foreskin postsuture edges well-approximated
+C2235090  postsuture edges of laceration on the foreskin were adequately approximated
+C2235091  postsuture edges of laceration on the foreskin were poorly approximated
+C2237475  bilateral renal artery bruit
+C2237595  bilateral scrotal edema (physical finding)
+C2237596  bilateral hydroceles (physical finding)
+C2237597  bilateral testicular masses
+C2315822  Retention of urine due to occlusion of Foley catheter (disorder)
+C2367058  seminal vesicles absent bilaterally
+C2367059  seminal vesicles absent on left (physical finding)
+C2367060  absent right seminal vesicle (physical finding)
+C2584331  Urinary continence
+C2584688  SWELLING OF TESTICLES
+C2584926  Suprapubic urinary catheter in situ (finding)
+C2585990  Increased AD7c neuronal thread protein concentration in urine
+C2586100  Urinary catheter in situ
+C2700122  Urinary Tract Anastomotic Leakage
+C2700124  Urinary Tract Perforation
+C2700125  Urinary Tract Stenosis
+C2711028  Catecholamine in urine specimen above reference range
+C2711267  Stress incontinence after prostatectomy
+C2711474  Altered bladder function (finding)
+C2732859  Indwelling urinary catheter bulb in urethra (finding)
+C2733025  Left kidney absent
+C2733026  Right kidney absent
+C2733184  Indwelling urinary catheter fell out (finding)
+C2919170  Cystic dilatation of paraurethral gland
+C2919640  Left kidney present (finding)
+C2919703  Right kidney present (finding)
+C2919741  Age related reduction of renal function (finding)
+C2921589  cath pulmonary artery embolus left branch (procedure)
+C2921590  cath pulmonary artery embolus left branch lower lobe (procedure)
+C2921591  cath pulmonary artery embolus left branch upper lobe
+C2921592  cath pulmonary artery embolus main
+C2921593  cath pulmonary artery embolus right branch
+C2921594  cath pulmonary artery embolus right branch lower lobe (procedure)
+C2921595  cath pulmonary artery embolus right branch middle lobe (procedure)
+C2921596  cath pulmonary artery embolus right branch upper lobe (procedure)
+C2921597  cath pulmonary artery embolus sadddle
+C2921719  cystoscopy urethra stricture navicular fossa
+C2945609  Urinary sediment, NOS
+C2957121  congenital anomalies of urinary system corrected (diagnosis)
+C2957169  cystoscopy bladder ureteral orifice bullous edema bilaterally
+C2957170  cystoscopy bladder ureteral orifice bullous edema left
+C2957171  cystoscopy bladder ureteral orifice bullous edema right (procedure)
+C2957172  cystoscopy bladder ureteral orifice morphology bullous edema
+C2957333  hypospadia corrected
+C2959436  Urinary bladder sand
+C2959980  Infection of epididymis due to Chlamydia trachomatis (disorder)
+C2960538  Hematoma of prepuce (disorder)
+C2960699  Residual ureterocele
+C3161659  urinary symptoms ipss score ___ (symptom)
+C3264505  Nodular prostate with lower urinary tract symptoms
+C3274336  Grade I Vesicoureteral Reflux
+C3274337  Grade II Vesicoureteral Reflux
+C3274338  Grade III Vesicoureteral Reflux
+C3274339  Grade IV Vesicoureteral Reflux
+C3274340  Grade V Vesicoureteral Reflux
+C3274487  Ureterovesical Obstruction
+C3469524  prostate cancer susceptibility
+C3472581  Non-organic primary nocturnal enuresis
+C3472582  Non-organic secondary nocturnal enuresis
+C3472583  Non-organic nocturnal enuresis (finding)
+C3472689  Acquired penile adhesion
+C3494767  Penile mid-shaft hypospadias (disorder)
+C3494768  Covered exstrophy of bladder (disorder)
+C3494805  Primary right vesicoureteral reflux
+C3494806  Primary right vesicoureteral reflux grade 1
+C3494807  Primary right vesicoureteral reflux grade 1 measured by radionuclide cystogram (disorder)
+C3494808  Primary right vesicoureteral reflux grade 2
+C3494809  Primary right vesico-ureteric reflux grade 3
+C3494810  Primary right vesicoureteral reflux grade 4 (disorder)
+C3494811  Primary right vesico-ureteric reflux grade 5
+C3494812  Primary right vesico-ureteric reflux grade 2 measured by radionuclide cystogram
+C3494813  Primary right vesicoureteral reflux grade 3 measured by radionuclide cystogram
+C3494814  Primary right vesicoureteral reflux grade 1 measured by voiding cystourethrography (disorder)
+C3494815  Primary right vesico-ureteric reflux grade 2 measured by voiding cystourethrography
+C3494816  Primary right vesicoureteral reflux grade 3 measured by VCUG - voiding cystourethrography
+C3494817  Primary right vesico-ureteric reflux grade 4 measured by voiding cystourethrography
+C3494818  Primary right vesicoureteral reflux grade 5 measured by voiding cystourethrography (disorder)
+C3494819  Primary left vesicoureteral reflux (disorder)
+C3494820  Primary left vesicoureteral reflux grade 1
+C3494821  Primary left vesicoureteral reflux grade 2
+C3494822  Primary left vesicoureteral reflux grade 3 (disorder)
+C3494823  Primary left vesico-ureteric reflux grade 4
+C3494824  Primary left vesicoureteral reflux grade 5 (disorder)
+C3494825  Primary left vesicoureteral reflux grade 1 measured by radionuclide cystogram
+C3494826  Primary left vesicoureteral reflux grade 2 measured by radionuclide cystogram
+C3494827  Primary left vesicoureteral reflux grade 3 measured by radionuclide cystogram
+C3494828  Primary left vesicoureteral reflux grade 1 measured by voiding urethrocystography
+C3494829  Primary left vesicoureteral reflux grade 2 measured by voiding urethrocystography
+C3494830  Primary left vesico-ureteric reflux grade 3 measured by voiding urethrocystography
+C3494831  Primary left vesicoureteral reflux grade 4 measured by voiding urethrocystography
+C3494832  Primary left vesico-ureteric reflux grade 5 measured by voiding urethrocystography
+C3494847  Secondary right vesicoureteral reflux grade 1 measured by radionuclide cystogram
+C3494848  Secondary right vesicoureteral reflux grade 2 measured by radionuclide cystogram (disorder)
+C3494849  Secondary right vesicoureteral reflux grade 3 measured by radionuclide cystogram (disorder)
+C3494850  Secondary left vesicoureteral reflux grade 1 measured by radionuclide cystogram (disorder)
+C3494851  Secondary left vesicoureteral reflux grade 3 measured by RNC - radionuclide cystogram
+C3494852  Secondary left vesico-ureteric reflux grade 2 measured by radionuclide cystogram
+C3494853  Secondary right vesicoureteral reflux grade 1 measured by voiding urethrocystography
+C3494854  Secondary right vesicoureteral reflux grade 2 measured by voiding urethrocytography (disorder)
+C3494855  Secondary right vesicoureteral reflux grade 3 measured by voiding urethrocystography (disorder)
+C3494856  Secondary right vesicoureteral reflux grade 4 measured by voiding urethrocystography
+C3494857  Secondary right vesicoureteral reflux grade 5 measured by voiding urethrocystography
+C3494858  Secondary left vesicoureteral reflux grade 1 measured by voiding urethrocytography (disorder)
+C3494859  Secondary left vesico-ureteric reflux grade 2 measured by voiding urethrocystography
+C3494860  Secondary left vesico-ureteric reflux grade 3 measured by voiding urethrocystography
+C3494861  Secondary left vesicoureteral reflux grade 4 measured by voiding urethrocystography (disorder)
+C3494862  Secondary left vesicoureteral reflux grade 5 measured by voiding urethrocystography (disorder)
+C3494931  Parapelvic renal cyst (finding)
+C3495000  Decreased urinary bladder capacity
+C3505992  urethra catheter in place leaking
+C3505993  urethra catheter in place - crystals in urine (physical finding)
+C3509545  isolated proteinuria with morphological lesion (diagnosis)
+C3509546  isolated proteinuria with diffuse cresentic glomerulonephritis
+C3531787  Malignant hypertensive end stage renal disease on dialysis (disorder)
+C3532029  Cystic dilatation of duct of bulbourethral gland (disorder)
+C3532629  Migration of suprapubic catheter
+C3532685  Normal renal function of transplanted kidney

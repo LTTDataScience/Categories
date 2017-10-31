@@ -1,0 +1,9 @@
+C0033038  Premature ejaculation
+C0033949  Inhibited male orgasm
+C0042266  Vaginismus
+C0154555  Psychogenic dysmenorrhea
+C0234014  Absolute impotence
+C0234015  Impotence, relative
+C0234016  Impotence, psychogenic
+C0520676  Premenstrual dysphoric disorder
+C2063828  male erectile disorder due to physical condition

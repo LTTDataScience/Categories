@@ -1,0 +1,1270 @@
+C0027947  Neutropenia
+C0038002  Splenomegaly
+C0040034  Thrombocytopenia
+C0151190  Palpable purpura
+C0151683  Neutrophilia, NOS
+C0221147  PLATELET PRODUCTION DECREASED
+C0221148  DESTRUCTION PLATELET INCREASED
+C0238580  blood type ABO incompatibility
+C0238658  purpura on ankle (physical finding)
+C0238829  purpura on breast
+C0239592  purpura on the fingers
+C0239655  purpura of foot
+C0239680  purpura on the face forehead
+C0239837  purpura on hand (physical finding)
+C0240207  purpura on lip (physical finding)
+C0241228  Spleen palpable
+C0241451  Exudate on tonsils
+C0241501  purpura of trunk
+C0272389  Cicatrix of tonsil
+C0272390  Cicatrix of adenoid
+C0332425  Lymphoma stage Ie
+C0332426  Lymphoma stage II
+C0332427  Lymphoma stage IIe
+C0332428  Lymphoma stage III
+C0332429  Lymphoma stage IIIs
+C0332430  Lymphoma stage IIIe
+C0332431  Lymphoma stage IIIse
+C0332432  Lymphoma stage III 1
+C0332433  Lymphoma stage III 2
+C0332434  Lymphoma stage IV
+C0333812  BASOPHILIA STIPPLING
+C0340978  May-Hegglin anomaly
+C0392386  PLATELETS DECREASED
+C0396028  Tonsillar caseous debris
+C0424820  Ulceration of lymph node
+C0426464  Remnant adenoids
+C0426506  Tonsil observations
+C0426509  Tonsils meet in middle
+C0426510  Tonsillar remnants
+C0426532  Bleeding from tonsillar bed
+C0426696  Spleen observation
+C0426698  Position of edge of spleen
+C0426699  Tip of spleen palpable
+C0426700  Splenic notch palpable
+C0426701  Spleen palpable on inspiration
+C0426702  Spleen palpable R lat position
+C0427543  MONOCYTOSIS
+C0427544  Monocytopenia
+C0436875  O/E - mouth - purpuric spots
+C0436961  O/E -liver moderately enlarged
+C0436962  O/E - liver grossly enlarged
+C0437619  O/E - adenopathy
+C0437621  O/E -cervical lymphadenopathy
+C0437622  O/E-sub-mental lymphadenopathy
+C0437623  O/E-supraclav.lymphadenopathy
+C0437624  O/E -axillary lymphadenopathy
+C0437625  O/E - inguinal lymphadenopathy
+C0437626  O/E -popliteal lymphadenopathy
+C0437627  O/E - lymph node character
+C0437628  O/E - lymph nodes firm
+C0437629  O/E - lymph nodes hard
+C0437630  O/E - lymph nodes tethered
+C0437631  O/E - lymph nodes discrete
+C0437632  O/E - lymph nodes fluctuant
+C0437633  O/E - lymph nodes tender
+C0437634  O/E - spleen enlarged
+C0437636  O/E - spleen just palpable
+C0437637  O/E - moderate splenomegaly
+C0437638  O/E - gross splenomegaly
+C0437639  O/E - painful splenomegaly
+C0437660  O/E - adenoid hypertrophy
+C0437704  O/E - follicular tonsillitis
+C0438258  Abnormal finding of blood chemistry, unspecified
+C0455901  Small tonsils
+C0455902  Healthy tonsils
+C0455934  Small adenoids
+C0455938  Large adenoids
+C0456552  Absent adenoids
+C0457505  Anticoagul excess w/out bleed
+C0475143  O/E - anaemia
+C0475145  O/E - equivocally anaemic
+C0475146  O/E - clinically anaemic
+C0475147  O/E - profoundly anaemic
+C0476321  Red cell volume abnormal
+C0497156  Lymphadenopathy
+C0542083  MATURATION ARREST PLATELET
+C0546403  Proteinaceous lymphadenopathy
+C0549123  Large tonsils
+C0553682  FIBRINOGEN PLASMA INCREASED
+C0553720  SPHEROCYTOSIS
+C0554996  Fungating tumor of lymph node
+C0555730  O/E - hepatomegaly
+C0558515  O/E - lymph nodes
+C0559684  Inflamed tonsils
+C0564610  Tonsil congested
+C0566917  Purpura of vulva
+C0576998  Tonsil present
+C0576999  Absent tonsils
+C0577000  Obs of appearance of tonsil
+C0577001  Normal sized tonsils
+C0577005  Obs of discharge of tonsil
+C0577287  Spleen present
+C0577288  Spleen absent
+C0577289  Obs of sensation of spleen
+C0577888  Observation of adenoids
+C0577889  Adenoids present
+C0578162  Observation of size of tonsil
+C0578532  Observation of lymph node
+C0578539  Observation of size of lymph node
+C0578734  Obs lymph node + lymphatics
+C0578767  Ulcerat cervical lymph node
+C0578768  Ulcerat axillary lymph node
+C0578769  Ulcerat inguinal lymph node
+C0578770  Ulcerat epitroch lymph node
+C0578771  Ulcerat popliteal lymph node
+C0581077  History of - splenectomy (context-dependent category)
+C0584836  Tonsil asymmetry
+C0702266  BASOPHILIA
+C0742175  enlarged posterior cervical lymph nodes
+C0742906  elevated C-reactive protein (diagnosis)
+C0744778  persistent fetal hemoglobin (diagnosis)
+C0747788  preauricular lymph nodes enlarged
+C0853697  Neutrophil count decreased
+C0919890  FIBRINOGEN INCREASED
+C0949157  carrier of genetic disease hemophilia A asymptomatic
+C0949158  symptomatic carrier of hemophilia A
+C1264017  Stress neutrophilia
+C1273955  O/E - post-auricular lymphadenopathy (disorder)
+C1287647  Finding of size of adenoids
+C1292124  Lymphoid system finding (finding)
+C1319030  Status of metastases in marker lymph node unknown (finding)
+C1333078  Collagen Fibrosis of the Bone Marrow
+C1334245  Intracranial Plasma Cell Granuloma
+C1334458  Lymphadenopathy with Polyclonal Hypergammaglobulinemia
+C1334688  Megaloblastic Erythroid Hyperplasia
+C1335067  Normoblastic Erythroid Hyperplasia
+C1335762  Bone marrow reticulin fibrosis
+C1399464  hepatomegaly; splenomegaly
+C1401677  glands; swelling, generalized
+C1512996  Marked Bone Marrow Fibrosis
+C1513005  Massive Sinusoidal Histiocytic Infiltrate
+C1513313  Minimal Reticulin Fibrosis of the Bone Marrow
+C1533098  Panleucopenia
+C1562854  Sickle cell-haemoglobin C disease without crisis
+C1562909  anemia hemolytic sickle Hb-E disease with crisis
+C1562946  Penile sclerosing lipogranuloma due to injected substance (disorder)
+C1562947  Sickle cell-haemoglobin E disease without crisis
+C1562978  Sickle cell-thalassaemia disease without crisis
+C1626924  On examination - spleen palpable (finding)
+C1706304  gland; hypertrophy
+C1709089  Multilocular Thymic Cyst
+C1719331  Basophilic leukopenia
+C1827289  Lymphadenopathy of head AND/OR neck
+C1858586  Mild anemia
+C1996951  Finding of sensation of lymph node
+C2004660  abnormal RBC morphology
+C2018785  tuberculosis of spleen bacteriology and histology not done (diagnosis)
+C2018786  tuberculosis of spleen bacteriology and histology unknown (diagnosis)
+C2021409  X-ray chest hilar lymphadenopathy bilateral symmetrical
+C2021410  X-ray chest hilar lymphadenopathy bilateral asymmetrical
+C2022946  echocardiography: enlargement of liver (procedure)
+C2022953  echocardiography: enlargement of spleen (procedure)
+C2026798  enlarged, fluctuant cervical lymph nodes bilaterally
+C2026799  enlarged, rubbery cervical lymph nodes bilaterally
+C2026800  enlarged, hard cervical lymph nodes bilaterally (physical finding)
+C2026801  enlarged, tender right cervical lymph node
+C2026802  enlarged, fixed cervical lymph nodes bilaterally (physical finding)
+C2026803  enlarged, mobile cervical lymph nodes bilaterally
+C2026804  enlarged, suppurative cervical lymph nodes bilaterally (physical finding)
+C2026805  buboes of cervical lymph nodes bilaterally
+C2026806  bubo of left cervical lymph node
+C2026807  consistency of enlarged left cervical lymph node (physical finding)
+C2026808  left cervical lymphadenopathy with draining sinus tract
+C2026809  enlarged, suppurative left cervical lymph node (physical finding)
+C2026810  cervical lymphadenopathy on left
+C2026811  enlarged right cervical lymph node
+C2026812  bubo of right cervical lymph node (physical finding)
+C2026813  consistency of enlarged right cervical lymph node (physical finding)
+C2026814  right cervical lymphadenopathy with draining sinus tract
+C2026815  enlarged, fixed right cervical lymph node (physical finding)
+C2026816  enlarged, mobile right cervical lymph node (physical finding)
+C2026817  enlarged, suppurative right cervical lymph node
+C2036927  enlarged, fluctuant submandibular lymph nodes bilaterally
+C2036928  enlarged, rubbery submandibular lymph nodes bilaterally
+C2036929  submandib lymph nodes enlarged and stony hard bilaterally
+C2036930  enlarged submandibular lymph nodes bilaterally
+C2036931  buboes of bubo submandibular lymph nodes (physical finding)
+C2036932  consistency of bilaterally enlarged submandibular lymph nodes (physical finding)
+C2036933  enlarged, fixed submandibular lymph nodes bilaterally
+C2036934  enlarged, mobile submandibular lymph nodes bilaterally (physical finding)
+C2036935  enlarged, suppurative submandibular lymph nodes bilaterally (physical finding)
+C2036936  enlarged, tender submandibular lymph nodes bilaterally
+C2036937  bubo of left submandibular lymph node
+C2036938  consistency of enlarged left submandibular lymph node
+C2036939  left submandibular lymphadenopathy with draining sinus tract
+C2036940  enlarged, fixed left submandibular lymph node
+C2036941  enlarged, mobile left submandibular lymph node (physical finding)
+C2036942  enlarged, suppurative left submandibular lymph node
+C2036943  enlarged, tender left submandibular lymph node (physical finding)
+C2036944  enlarged left submandibular lymph node (physical finding)
+C2036945  enlarged right submandibular lymph nodes (physical finding)
+C2036946  bubo of right submandibular lymph node
+C2036947  consistency of enlarged right submandibular lymph node (physical finding)
+C2036948  enlarged, fixed right submandibular lymph node
+C2036949  enlarged, mobile right submandibular lymph node
+C2036950  enlarged, suppurative right submandibular lymph node
+C2036951  enlarged, tender right submandibular lymph node (physical finding)
+C2036953  enlarged, fluctuant submental lymph node
+C2036954  enlarged, rubbery submental lymph node
+C2036955  enlarged, hard submental lymph node
+C2036956  bubo of submental lymph node (physical finding)
+C2036957  consistency of enlarged submental lymph nodes
+C2036958  submental lymphadenopathy with draining sinus tract
+C2036959  enlarged, fixed submental lymph node
+C2036960  enlarged, mobile submental lymph node (physical finding)
+C2036961  enlarged, suppurative submental lymph node (physical finding)
+C2036962  enlarged, tender submental lymph node (physical finding)
+C2036975  enlarged, fluctuant suboccipital lymph nodes bilaterally
+C2036976  enlarged, rubbery suboccipital lymph nodes bilaterally (physical finding)
+C2036977  enlarged, hard suboccipital lymph nodes bilaterally (physical finding)
+C2036978  bilateral suboccipital lymphadenopathy with draining sinus tract
+C2036979  enlarged suboccipital lymph nodes bilaterally
+C2036980  buboes of suboccipital lymph nodes bilaterally (physical finding)
+C2036981  consistency of bilaterally enlarged suboccipital lymph nodes (physical finding)
+C2036982  enlarged, fixed suboccipital lymph nodes bilaterally (physical finding)
+C2036983  enlarged, mobile suboccipital lymph nodes bilaterally (physical finding)
+C2036984  enlarged, suppurative suboccipital lymph nodes bilaterally
+C2036985  enlarged, tender suboccipital lymph nodes bilaterally
+C2036986  bubo of left suboccipital lymph node
+C2036987  consistency of enlarged left suboccipital lymph node (physical finding)
+C2036988  left suboccipital lymphadenopathy with draining sinus tract
+C2036989  enlarged, fixed left suboccipital lymph node (physical finding)
+C2036990  enlarged, mobile left suboccipital lymph node (physical finding)
+C2036991  enlarged, suppurative left suboccipital lymph node
+C2036992  enlarged, tender left suboccipital lymph node (physical finding)
+C2036993  enlarged left suboccipital lymph node (physical finding)
+C2036994  enlarged right suboccipital lymph node
+C2036995  bubo of right suboccipital lymph node (physical finding)
+C2036996  consistency of enlarged right suboccipital lymph node (physical finding)
+C2036997  right suboccipital lymphadenopathy with draining sinus tract
+C2036998  enlarged, fixed right suboccipital lymph node
+C2036999  enlarged, mobile right suboccipital lymph node (physical finding)
+C2037000  enlarged, suppurative right suboccipital lymph node (physical finding)
+C2037001  enlarged, tender right suboccipital lymph node (physical finding)
+C2037277  superficial femoral lymphadenopathy was seen
+C2037451  enlarged, fluctuant supraclavicular lymph nodes bilaterally
+C2037452  enlarged, rubbery supraclavicular lymph nodes bilaterally (physical finding)
+C2037453  enlarged supraclavicular lymph nodes bilaterally
+C2037454  buboes of supraclavicular lymph nodes bilaterally (physical finding)
+C2037455  consistency of bilaterally enlarged supraclavicular lymph nodes (physical finding)
+C2037456  enlarged, fixed supraclavicular lymph nodes bilaterally (physical finding)
+C2037457  enlarged, mobile supraclavicular lymph nodes bilaterally (physical finding)
+C2037458  enlarged, suppurative supraclavicular lymph nodes bilaterally (physical finding)
+C2037459  enlarged, tender supraclavicular lymph nodes bilaterally
+C2037460  bubo of left supraclavicular lymph node
+C2037461  consistency of enlarged left supraclavicular lymph node
+C2037462  enlarged, fixed left supraclavicular lymph node (physical finding)
+C2037463  enlarged, mobile left supraclavicular lymph node
+C2037464  enlarged, suppurative left supraclavicular lymph node (physical finding)
+C2037465  enlarged, tender left supraclavicular lymph node
+C2037466  enlarged left supraclavicular lymph node (physical finding)
+C2037467  multiple enlarged left supraclavicular lymph nodes
+C2037468  single enlarged left supraclavicular lymph node (physical finding)
+C2037469  enlarged right supraclavicular lymph node
+C2037470  multiple enlarged right supraclavicular lymph nodes (physical finding)
+C2037471  single enlarged right supraclavicular lymph node (physical finding)
+C2037472  bubo of right supraclavicular lymph node
+C2037473  consistency of enlarged right supraclavicular lymph node
+C2037474  enlarged, fixed right supraclavicular lymph node (physical finding)
+C2037475  enlarged, mobile right supraclavicular lymph node
+C2037476  enlarged, suppurative right supraclavicular lymph node
+C2037477  enlarged, tender right supraclavicular lymph node
+C2038659  swelling of both adenoids
+C2038763  swelling of left adenoid (physical finding)
+C2038809  swelling of left tonsil
+C2038928  swelling of right adenoid
+C2038977  swelling of right tonsil
+C2041211  echocardiography: infarction of spleen (procedure)
+C2051913  computed tomography of pelvis: lymph nodes calcified (procedure)
+C2051914  computed tomography of pelvis: lymph nodes enlarged (procedure)
+C2054287  a technetium liver scan showed hepatomegaly
+C2071391  tonsils enlargement asymmetrically
+C2071392  asymmetrical enlargement of tonsils with right greater than left (physical finding)
+C2071393  asymmetrical enlargement of tonsils with left greater than right (physical finding)
+C2071398  enlarged popliteal lymph node
+C2071399  enlarged right popliteal lymph node (physical finding)
+C2071400  enlarged left popliteal lymph node (physical finding)
+C2071401  enlarged popliteal lymph nodes bilaterally (physical finding)
+C2073423  X-ray chest hilar lymphadenopathy bilateral
+C2073514  X-ray chest hilar lymphadenopathy
+C2073708  X-ray chest hilar lymphadenopathy unilateral
+C2076571  inflammation of both adenoids
+C2076574  inflammation of left adenoid
+C2076579  inflammation of right adenoid (physical finding)
+C2076981  enlarged, fluctuant inguinal lymph nodes bilaterally
+C2076982  enlarged, rubbery inguinal lymph nodes bilaterally (physical finding)
+C2076983  enlarged, hard inguinal lymph nodes bilaterally
+C2076984  bilateral inguinal lymphadenopathy with draining sinus tract
+C2076985  enlarged inguinal lymph nodes bilaterally (physical finding)
+C2076986  buboes of inguinal lymph nodes bilaterally
+C2076987  consistency of bilaterally enlarged inguinal lymph nodes (physical finding)
+C2076988  enlarged, fixed inguinal lymph nodes bilaterally
+C2076989  enlarged, mobile inguinal lymph nodes bilaterally (physical finding)
+C2076990  enlarged, suppurative inguinal lymph nodes bilaterally (physical finding)
+C2076991  enlarged, tender inguinal lymph nodes bilaterally (physical finding)
+C2076992  bubo of left inguinal lymph node (physical finding)
+C2076993  consistency of enlarged left inguinal lymph node
+C2076994  left inguinal lymphadenopathy with draining sinus tract
+C2076995  enlarged, fixed left inguinal lymph node
+C2076996  enlarged, mobile left inguinal lymph node (physical finding)
+C2076997  enlarged, suppurative left inguinal lymph node
+C2076998  enlarged, tender left inguinal lymph node
+C2076999  enlarged left inguinal lymph node (physical finding)
+C2077000  multiple enlarged left inguinal lymph nodes (physical finding)
+C2077001  single enlarged left inguinal lymph node
+C2077002  enlarged right inguinal lymph node
+C2077003  multiple enlarged right inguinal lymph nodes (physical finding)
+C2077004  single enlarged right inguinal lymph node
+C2077005  bubo of right inguinal lymph node (physical finding)
+C2077006  consistency of enlarged right inguinal lymph node (physical finding)
+C2077007  right inguinal lymphadenopathy with draining sinus tract
+C2077008  enlarged, fixed right inguinal lymph node (physical finding)
+C2077009  enlarged, mobile right inguinal lymph node (physical finding)
+C2077010  enlarged, suppurative right inguinal lymph node
+C2077011  enlarged, tender right inguinal lymph node
+C2087489  severity of obstruction due to enlargement of tonsils
+C2087491  adenoids enlargement severity of hypertrophy ___(0-4+)
+C2087572  warmth and inflammation of tonsils
+C2087573  tonsillar induration
+C2087574  inflammation of right tonsil
+C2087575  inflammation of left tonsil (physical finding)
+C2087576  inflammation of both tonsils
+C2087577  bilateral swelling of tonsils
+C2087582  tonsils mass (___ cm)
+C2087583  tonsils mass fluctuant (___ cm)
+C2087584  tonsils mass rubbery (___ cm)
+C2087585  tonsils mass hard (___ cm)
+C2087586  tonsils mass right (___ cm)
+C2087587  tonsils mass left (___ cm)
+C2087588  tonsils mass bilateral (___ cm)
+C2087718  kissing tonsils (physical finding)
+C2087895  enlargement of anterior tonsillar pillar
+C2087896  anterior tonsillar pillar enlargement asymmetrically
+C2087897  ant tonsillar pillar enlargement asymmetrically right > left
+C2087898  ant tonsillar pillar enlargement asymmetrically left > right
+C2087899  ant tonsillar pillar enlargement severity obstruct ___(0-4+)
+C2087921  asymmetrical enlargement of posterior tonsillar pillar
+C2087922  post tonsillar pillar enlargement asymmetrically right>left
+C2087923  post tonsillar pillar enlargement asymmetrically left>right
+C2097026  the spleen was normal
+C2098234  biopsy brain lumbar spinal cord primary CNS lymphoma
+C2098442  large intestine biopsy benign lymphangioma
+C2098478  malignant medullary carcinoma metastatic to mediastinal node (procedure)
+C2098481  thyroid biopsy malignant lymphoma
+C2104174  tuberculous tracheobronchial adenopathy bacteriology and histology not done
+C2104175  tuberculous tracheobronchial adenopathy bacteriology and histology unknown (diagnosis)
+C2104180  tuberculous hilar adenopathy bacteriology and histology not done (diagnosis)
+C2104181  tuberculous hilar adenopathy bacteriology and histology unknown
+C2104186  tuberculous mediastinal adenopathy bacteriology and histology not done (diagnosis)
+C2104187  tuberculous mediastinal adenopathy bacteriology and histology unknown (diagnosis)
+C2104192  tuberculosis of intrathoracic lymph nodes bacteriology and histology not done
+C2104193  tuberculosis of intrathoracic lymph nodes bacteriology and histology unknown (diagnosis)
+C2107729  consistency of bilaterally enlarged cervical lymph nodes (physical finding)
+C2111917  enlarged, fluctuant popliteal lymph nodes bilaterally (physical finding)
+C2111918  enlarged, rubbery popliteal lymph nodes bilaterally (physical finding)
+C2111919  enlarged, hard popliteal lymph nodes bilaterally
+C2111920  bilateral popliteal lymphadenopathy with draining sinus tract
+C2111921  buboes of popliteal lymph nodes bilaterally (physical finding)
+C2111922  consistency of bilaterally enlarged popliteal lymph nodes
+C2111923  enlarged, fixed popliteal lymph nodes bilaterally (physical finding)
+C2111924  enlarged, mobile popliteal lymph nodes bilaterally
+C2111925  enlarged, suppurative popliteal lymph nodes bilaterally (physical finding)
+C2111926  enlarged, tender popliteal lymph nodes bilaterally
+C2111927  bubo of left popliteal lymph node
+C2111928  consistency of enlarged left popliteal lymph node (physical finding)
+C2111929  left popliteal lymphadenopathy with draining sinus tract
+C2111930  enlarged, fixed left popliteal lymph node
+C2111931  enlarged, mobile left popliteal lymph node (physical finding)
+C2111932  enlarged, suppurative left popliteal lymph node (physical finding)
+C2111933  enlarged, tender left popliteal lymph node
+C2111934  bubo of right popliteal lymph node
+C2111935  consistency of enlarged right popliteal lymph node (physical finding)
+C2111936  right popliteal lymphadenopathy with draining sinus tract
+C2111937  enlarged, fixed right popliteal lymph node (physical finding)
+C2111938  enlarged, mobile right popliteal lymph node (physical finding)
+C2111939  enlarged, suppurative right popliteal lymph node (physical finding)
+C2111940  enlarged, tender right popliteal lymph node
+C2112101  enlarged, fluctuant postauricular lymph nodes bilaterally (physical finding)
+C2112102  enlarged, rubbery postauricular lymph nodes bilaterally (physical finding)
+C2112103  enlarged, hard postauricular lymph nodes bilaterally
+C2112104  enlarged postauricular lymph nodes bilaterally (physical finding)
+C2112105  buboes of postauricular lymph nodes bilaterally
+C2112106  consistency of bilaterally enlarged postauricular lymph nodes
+C2112107  bilateral posterior auricular lymphadenopathy with draining sinus tract
+C2112108  enlarged, fixed postauricular lymph nodes bilaterally
+C2112109  enlarged, mobile postauricular lymph nodes bilaterally
+C2112110  enlarged, suppurative postauricular lymph nodes bilaterally (physical finding)
+C2112111  enlarged, tender postauricular lymph nodes bilaterally (physical finding)
+C2112112  bubo of left postauricular lymph node
+C2112113  consistency of enlarged left postauricular lymph node (physical finding)
+C2112114  left posterior auricular lymphadenopathy with draining sinus tract
+C2112115  enlarged, fixed left postauricular lymph node (physical finding)
+C2112116  enlarged, mobile left postauricular lymph node (physical finding)
+C2112117  enlarged, suppurative left postauricular lymph node
+C2112118  enlarged, tender left postauricular lymph node
+C2112119  enlarged left postauricular lymph node
+C2112120  enlarged right postauricular lymph node
+C2112121  bubo of right postauricular lymph node (physical finding)
+C2112122  consistency of enlarged right postauricular lymph node
+C2112123  postauric lymph nodes enlarged right draining sinus tract
+C2112124  enlarged, fixed right postauricular lymph node (physical finding)
+C2112125  enlarged, mobile right postauricular lymph node (physical finding)
+C2112126  enlarged, suppurative right postauricular lymph node
+C2112127  enlarged, tender right postauricular lymph node (physical finding)
+C2112215  enlarged posterior cervical lymph nodes bilaterally
+C2112216  enlarged left posterior cervical lymph nodes (physical finding)
+C2112217  enlarged right posterior cervical lymph nodes (physical finding)
+C2112915  enlarged, fluctuant preauricular lymph nodes bilaterally (physical finding)
+C2112916  enlarged, rubbery preauricular lymph nodes bilaterally (physical finding)
+C2112917  enlarged, hard preauricular lymph nodes bilaterally
+C2112918  bilateral preauricular lymphadenopathy with draining sinus tract
+C2112919  enlarged preauricular lymph nodes bilaterally (physical finding)
+C2112920  buboes of preauricular lymph nodes bilaterally (physical finding)
+C2112921  consistency of bilaterally enlarged preauricular lymph node
+C2112922  enlarged, fixed preauricular lymph nodes bilaterally (physical finding)
+C2112923  enlarged, mobile preauricular lymph nodes bilaterally
+C2112924  enlarged, suppurative preauricular lymph nodes bilaterally
+C2112925  enlarged, tender preauricular lymph nodes bilaterally (physical finding)
+C2112926  bubo of left preauricular lymph node (physical finding)
+C2112927  consistency of enlarged left preauricular lymph node
+C2112928  enlarged left preauricular lymph node with draining sinus tract (physical finding)
+C2112929  enlarged, fixed left preauricular lymph node (physical finding)
+C2112930  enlarged, mobile left preauricular lymph node
+C2112931  enlarged, suppurative left preauricular lymph node (physical finding)
+C2112932  enlarged, tender left preauricular lymph node (physical finding)
+C2112933  enlarged left preauricular lymph node
+C2112934  enlarged right preauricular lymph node (physical finding)
+C2112935  bubo of right preauricular lymph node (physical finding)
+C2112936  consistency of enlarged right preauricular lymph node
+C2112937  enlarged right preauricular lymph node with draining sinus tract (physical finding)
+C2112938  enlarged, fixed right preauricular lymph node (physical finding)
+C2112939  enlarged, mobile right preauricular lymph node
+C2112940  enlarged, suppurative right preauricular lymph node (physical finding)
+C2112941  enlarged, tender right preauricular lymph node (physical finding)
+C2133618  dosage failure excessive amount during blood transfusion
+C2139695  left anterior cervical lymphadenopathy
+C2140138  left axillary lymphadenopathy
+C2140139  enlarged, fluctuant left axillary lymph node
+C2140140  enlarged, rubbery left axillary lymph node
+C2140141  enlarged, hard left axillary lymph node (physical finding)
+C2140516  enlarged, fixed left cervical lymph node (physical finding)
+C2140517  enlarged, fluctuant left cervical lymph node
+C2140518  enlarged, mobile left cervical lymph node (physical finding)
+C2140519  enlarged, rubbery left cervical lymph node (physical finding)
+C2140520  enlarged, hard left cervical lymph node
+C2140521  enlarged, tender left cervical lymph node (physical finding)
+C2141005  enlarged, fluctuant left epitrochlear lymph node (physical finding)
+C2141006  enlarged, rubbery left epitrochlear lymph node
+C2141007  enlarged, hard left epitrochlear lymph node
+C2141132  enlarged, fluctuant left femoral lymph node
+C2141133  enlarged, rubbery left femoral lymph node (physical finding)
+C2141134  enlarged, hard left femoral lymph node (physical finding)
+C2142141  enlarged, fluctuant left inguinal lymph node
+C2142142  enlarged, rubbery left inguinal lymph node
+C2142143  enlarged, hard left inguinal lymph node (physical finding)
+C2143320  purpura along anterior jaw line (physical finding)
+C2143321  purpura along entire jaw line
+C2143322  purpura on the face along the jaw line
+C2143323  purpura along left jaw line (physical finding)
+C2143324  purpura along posterior jaw line
+C2143325  purpura along right jaw line
+C2143326  purpura on the face circumorally both
+C2143327  purpura around both sides of nose and mouth (physical finding)
+C2143328  purpura around left side of mouth (physical finding)
+C2143329  purpura around left side of nose and mouth
+C2143330  purpura around mouth (physical finding)
+C2143331  purpura on the face around nose and mouth
+C2143332  purpura around right side of mouth (physical finding)
+C2143333  purpura on the face around nose and mouth right
+C2143334  purpura between the toes left foot first-second
+C2143335  purpura between the toes right foot first-second
+C2143336  purpura between fourth and fifth toes on left foot
+C2143337  purpura between fourth and fifth toes on right foot
+C2143338  purpura between the toes left foot second-third
+C2143339  purpura between second and third toes on right foot
+C2143340  purpura between third and fourth toes on left foot (physical finding)
+C2143341  purpura between third and fourth toes on right foot (physical finding)
+C2143342  purpura between toes (physical finding)
+C2143343  purpura between toes on both feet (physical finding)
+C2143344  purpura between toes on left foot
+C2143345  purpura between the toes right foot
+C2143346  purpura 'blueberry muffin' rash (physical finding)
+C2143347  purpura was seen in the diaper area involving the buttocks
+C2143348  purpura was seen in the diaper area toward the front
+C2143349  purpura, looking papular, was seen in the diaper area
+C2143350  purpura, with peeling, was seen in the diaper area
+C2143351  raw-looking purpura was seen in the diaper area
+C2143352  purpura, with scabs present, was seen in the diaper area
+C2143353  purpura, looking smooth and red, was seen in the diaper area
+C2143354  purpura in diaper area (physical finding)
+C2143355  purpura in entire inguinal region (physical finding)
+C2143356  purpura in inguinal region (physical finding)
+C2143357  purpura in left inguinal region (physical finding)
+C2143358  purpura in right inguinal region (physical finding)
+C2143359  purpura on abdomen (physical finding)
+C2143360  purpura on the face nose ala nasi
+C2143361  purpura on the face nose alar groove
+C2143362  purpura on anal region
+C2143363  purpura on the feet soles left heel anterior
+C2143364  purpura on anterior heel of right foot (physical finding)
+C2143365  purpura on anterior neck
+C2143366  purpura on anterior scalp (physical finding)
+C2143367  purpura on the knees both anterior
+C2143368  purpura on anterior surface of both thighs (physical finding)
+C2143369  purpura on anterior surface of left knee (physical finding)
+C2143370  purpura on anterior surface of left thigh (physical finding)
+C2143371  purpura on the knees right anterior
+C2143372  purpura on anterior surface of right thigh (physical finding)
+C2143373  purpura on the feet soles left arch
+C2143374  purpura on the feet soles right arch
+C2143375  purpura on the chest areola
+C2143376  purpura on the arms
+C2143377  purpura on back
+C2143378  purpura on back of both shoulders
+C2143379  purpura on back of left shoulder (physical finding)
+C2143380  purpura on back of right shoulder
+C2143381  purpura on the shoulders back
+C2143382  purpura on both ala nasi
+C2143383  purpura on both alar grooves
+C2143384  purpura on both ankles
+C2143385  purpura on both areolae (physical finding)
+C2143386  purpura on both arms (physical finding)
+C2143387  purpura on both breasts (physical finding)
+C2143388  purpura on both buttocks (physical finding)
+C2143389  purpura on both calves (physical finding)
+C2143390  purpura on the face cheeks both
+C2143391  purpura on both ears
+C2143392  purpura on the elbows both
+C2143393  purpura on both eyebrows (physical finding)
+C2143394  purpura on the forearms both
+C2143395  purpura on both hands
+C2143396  purpura on the calves bilaterally inferior
+C2143397  purpura on both infraclavicular regions
+C2143398  purpura on both knees
+C2143399  purpura labia bilateral
+C2143400  purpura on both lateral ankles (physical finding)
+C2143401  purpura on the elbows both lateral
+C2143402  purpura on both lower shins
+C2143403  purpura on both medial ankles (physical finding)
+C2143404  purpura on both medial elbows
+C2143405  purpura on both nipples
+C2143406  purpura on the face nose nostril both
+C2143407  purpura on both outside elbows
+C2143408  purpura on both paranasal folds (physical finding)
+C2143409  purpura on the knees both popliteal fossae
+C2143410  purpura on the shins both
+C2143411  purpura on both sides of anterior neck (physical finding)
+C2143412  purpura on both sides of posterior neck sides (physical finding)
+C2143413  purpura on both superior calves (physical finding)
+C2143414  purpura on the chest supraclavicular bilateral
+C2143415  purpura on both temples (physical finding)
+C2143416  purpura on both thighs
+C2143417  purpura on both upper shins (physical finding)
+C2143418  purpura on buttock (physical finding)
+C2143419  purpura on the calves
+C2143420  purpura on the face eyelids canthus
+C2143421  purpura on cheek
+C2143422  purpura on chest
+C2143423  purpura on the face chin
+C2143424  purpura on the face nose columella
+C2143425  purpura on the thighs both distal
+C2143426  purpura on the forearms left distal
+C2143427  purpura on distal end of left fourth toe
+C2143428  purpura on distal end of left great toe (physical finding)
+C2143429  purpura on the fingers left index finger distal
+C2143430  purpura on the fingers left little finger distal
+C2143431  purpura on the left little toe distal
+C2143432  purpura on the fingers left middle finger distal
+C2143433  purpura on the fingers left ring finger distal
+C2143434  purpura on distal end of left second toe (physical finding)
+C2143435  purpura on distal end of left thigh (physical finding)
+C2143436  purpura on distal end of left third toe (physical finding)
+C2143437  purpura on the fingers left thumb distal
+C2143438  purpura on distal end of right forearm
+C2143439  purpura on the right fourth toe distal
+C2143440  purpura on the right great toe distal
+C2143441  purpura on the fingers right index finger distal
+C2143442  purpura on the fingers right little finger distal
+C2143443  purpura on distal end of right little toe (physical finding)
+C2143444  purpura on the fingers right middle finger distal
+C2143445  purpura on the fingers right ring finger distal
+C2143446  purpura on the right second toe distal
+C2143447  purpura on distal end of right thigh (physical finding)
+C2143448  purpura on the right third toe distal
+C2143449  purpura on distal end of right thumb
+C2143450  purpura on dorsal surface of both hands (physical finding)
+C2143451  purpura on the forearms left dorsal
+C2143452  purpura on the left fourth toe dorsal
+C2143453  purpura on the left great toe dorsal
+C2143454  purpura on dorsal surface of left hand (physical finding)
+C2143455  purpura on the fingers left index finger dorsal
+C2143456  purpura on the fingers left little finger dorsal
+C2143457  purpura on dorsal surface of left little toe (physical finding)
+C2143458  purpura on the fingers left middle finger dorsal
+C2143459  purpura on the fingers left ring finger dorsal
+C2143460  purpura on the left second toe dorsal
+C2143461  purpura on dorsal surface of left third toe (physical finding)
+C2143462  purpura on dorsal surface of left thumb
+C2143463  purpura on dorsal surface of right forearm (physical finding)
+C2143464  purpura on dorsal surface of right fourth toe
+C2143465  purpura on the right great toe dorsal
+C2143466  purpura on dorsal surface of right hand (physical finding)
+C2143467  purpura on the fingers right index finger dorsal
+C2143468  purpura on the fingers right little finger dorsal
+C2143469  purpura on dorsal surface of right little toe
+C2143470  purpura on the fingers right middle finger dorsal
+C2143471  purpura on the fingers right ring finger dorsal
+C2143472  purpura on the right second toe dorsal
+C2143473  purpura on dorsal surface of right third toe (physical finding)
+C2143474  purpura on dorsal surface of right thumb (physical finding)
+C2143475  purpura on dorsum of nose
+C2143476  purpura on the ear
+C2143477  purpura on elbow (physical finding)
+C2143478  purpura on entire abdomen (physical finding)
+C2143479  purpura on the chest entire
+C2143480  purpura on entire chin (physical finding)
+C2143481  purpura on entire forehead
+C2143482  purpura on entire lower back (physical finding)
+C2143483  purpura on the face lip lower entire
+C2143484  purpura on entire middle back (physical finding)
+C2143485  purpura on entire upper back
+C2143486  purpura on entire upper lip
+C2143487  purpura on eyebrow (physical finding)
+C2143488  purpura on the face eyelids
+C2143489  purpura on face
+C2143490  purpura on forearm
+C2143491  purpura on front of both shoulders (physical finding)
+C2143492  purpura on the shoulders front left
+C2143493  purpura on the shoulders front right
+C2143494  purpura on front of shoulder
+C2143495  purpura on the face forehead glabella
+C2143496  purpura on heel of left foot (physical finding)
+C2143497  purpura on heel of right foot
+C2143498  purpura on the breasts left inferior lateral quadrant
+C2143499  purpura on inferior lateral quadrant of right breast
+C2143500  purpura on inferior medial quadrant of left breast (physical finding)
+C2143501  purpura on inferior medial quadrant of right breast (physical finding)
+C2143502  purpura on the chest infraclavicular
+C2143503  purpura on knee (physical finding)
+C2143504  purpura on labia
+C2143505  purpura on lateral arch of left foot (physical finding)
+C2143506  purpura on lateral arch of right foot (physical finding)
+C2143507  purpura on the feet soles left heel lateral
+C2143508  purpura on lateral heel of right foot (physical finding)
+C2143509  purpura on lateral metatarsal area of sole of left foot (physical finding)
+C2143510  purpura on lateral metatarsal area of sole of right foot (physical finding)
+C2143511  purpura on lateral surface of both knees
+C2143512  purpura on lateral surface of both thighs (physical finding)
+C2143513  purpura on lateral surface of left forearm (physical finding)
+C2143514  purpura on lateral surface of left fourth toe
+C2143515  purpura on the left great toe lateral
+C2143516  purpura on the fingers left index finger lateral
+C2143517  purpura on lateral surface of left knee (physical finding)
+C2143518  purpura on the fingers left little finger lateral
+C2143519  purpura on lateral surface of left little toe
+C2143520  purpura on the fingers left middle finger lateral
+C2143521  purpura on the fingers left ring finger lateral
+C2143522  purpura on lateral surface of left second toe (physical finding)
+C2143523  purpura on lateral surface of left thigh
+C2143524  purpura on lateral surface of left third toe (physical finding)
+C2143525  purpura on lateral surface of left thumb
+C2143526  purpura on lateral surface of right forearm
+C2143527  purpura on the right fourth toe lateral
+C2143528  purpura on lateral surface of right great toe
+C2143529  purpura on the fingers right index finger lateral
+C2143530  purpura on lateral surface of right knee (physical finding)
+C2143531  purpura on the fingers right little finger lateral
+C2143532  purpura on lateral surface of right little toe
+C2143533  purpura on the fingers right middle finger lateral
+C2143534  purpura on the fingers right ring finger lateral
+C2143535  purpura on the right second toe lateral
+C2143536  purpura on the thighs right lateral
+C2143537  purpura on the right third toe lateral
+C2143538  purpura on the fingers right thumb lateral
+C2143539  purpura on left ala nasi (physical finding)
+C2143540  purpura on left alar groove
+C2143541  purpura on left ankle
+C2143542  purpura on left antecubital fossa
+C2143543  purpura on the ear left auricle antihelix
+C2143544  purpura on left antitragus (physical finding)
+C2143545  purpura on left areola (physical finding)
+C2143546  purpura on left arm (physical finding)
+C2143547  purpura on the ear left auricle
+C2143548  purpura on the breasts left
+C2143549  purpura on left buttock (physical finding)
+C2143550  purpura on left calf
+C2143551  purpura on left cheek
+C2143552  purpura on left chest (physical finding)
+C2143553  purpura on the ear left auricle concha
+C2143554  purpura on the arms left dorsal
+C2143555  purpura on left elbow
+C2143556  purpura on left extensor region of elbow
+C2143557  purpura on left external auditory canal (physical finding)
+C2143558  purpura on left eyebrow (physical finding)
+C2143559  purpura on left forearm
+C2143560  purpura on the left fourth toe
+C2143561  purpura on left great toe (physical finding)
+C2143562  purpura on left hand (physical finding)
+C2143563  purpura on left helix (physical finding)
+C2143564  purpura on the fingers left index finger
+C2143565  purpura on the calves on the left inferior
+C2143566  purpura on the chest infraclavicular left
+C2143567  purpura on left knee
+C2143568  purpura on left labia (physical finding)
+C2143569  purpura on left lateral ankle (physical finding)
+C2143570  purpura on left lateral arm
+C2143571  purpura on left lateral canthus
+C2143572  purpura on left lateral cheek (physical finding)
+C2143573  purpura on left lateral elbow (physical finding)
+C2143574  purpura on left lateral eyebrow
+C2143575  purpura on the fingers left little finger
+C2143576  purpura on the left little toe
+C2143577  purpura abdomen left lower (inferior)
+C2143578  purpura back lower left
+C2143579  purpura on left lower cheek
+C2143580  purpura on left lower chest (physical finding)
+C2143581  purpura on left lower eyelid (physical finding)
+C2143582  purpura on left lower forehead (physical finding)
+C2143583  purpura on left lower lip
+C2143584  purpura on left lower paranasal fold
+C2143585  purpura on the shins left inferior
+C2143586  purpura on left medial ankle
+C2143587  purpura on left medial arm (physical finding)
+C2143588  purpura on the face eyelids canthus left medial
+C2143589  purpura on the face cheeks left inner (medial)
+C2143590  purpura on the elbows left medial
+C2143591  purpura on the face eyebrows left inner (medial)
+C2143592  purpura on left middle back
+C2143593  purpura on the fingers left middle finger
+C2143594  purpura on left nipple (physical finding)
+C2143595  purpura on the face nose nostril left
+C2143596  purpura on left outside elbow (physical finding)
+C2143597  purpura on left paranasal fold
+C2143598  purpura on the knees left popliteal fossa
+C2143599  purpura on the fingers left ring finger
+C2143600  purpura on the ear left auricle scaphoid
+C2143601  purpura on left second toe (physical finding)
+C2143602  purpura on left shin
+C2143603  purpura on left side of anterior neck (physical finding)
+C2143604  purpura on left side of chin (physical finding)
+C2143605  purpura on left side of nose (physical finding)
+C2143606  purpura on left side of posterior neck
+C2143607  purpura on left side of scalp (physical finding)
+C2143608  purpura on left side of tip of nose (physical finding)
+C2143609  purpura on left superior calf
+C2143610  purpura on left supraclavicular region of chest (physical finding)
+C2143611  purpura on left temple
+C2143612  purpura on left thigh
+C2143613  purpura on left third toe
+C2143614  purpura on the fingers left thumb
+C2143615  purpura on left tragus
+C2143616  purpura on left upper abdomen
+C2143617  purpura on left upper back (physical finding)
+C2143618  purpura on left upper cheek (physical finding)
+C2143619  purpura on left upper chest (physical finding)
+C2143620  purpura on left upper forehead
+C2143621  purpura on left upper lip (physical finding)
+C2143622  purpura on left upper paranasal fold (physical finding)
+C2143623  purpura on left upper shin
+C2143624  purpura on left volar arm (physical finding)
+C2143625  purpura back lower
+C2143626  purpura on the face eyelids lower
+C2143627  purpura on lower lip (physical finding)
+C2143628  purpura on the face eyelids lower left margin
+C2143629  purpura on margin of right lower eyelid (physical finding)
+C2143630  purpura on the face eyelids upper left margin
+C2143631  purpura on margin of upper right eyelid
+C2143632  purpura on medial arch of left foot (physical finding)
+C2143633  purpura on medial arch of right foot (physical finding)
+C2143634  purpura on the feet soles left heel medial
+C2143635  purpura on medial heel of right foot
+C2143636  purpura on the soles left metatarsal area medial
+C2143637  purpura on medial metatarsal area of sole of right foot (physical finding)
+C2143638  purpura on medial surface both thighs (physical finding)
+C2143639  purpura on medial surface of both knees
+C2143640  purpura on medial surface of left forearm
+C2143641  purpura on medial surface of left fourth toe (physical finding)
+C2143642  purpura on medial surface of left great toe (physical finding)
+C2143643  purpura on the fingers left index finger medial
+C2143644  purpura on the knees left medial
+C2143645  purpura on the fingers left little finger medial
+C2143646  purpura on the left little toe medial
+C2143647  purpura on the fingers left middle finger medial
+C2143648  purpura on the fingers left ring finger medial
+C2143649  purpura on medial surface of left second toe (physical finding)
+C2143650  purpura on medial surface of left thigh (physical finding)
+C2143651  purpura on the left third toe medial
+C2143652  purpura on the fingers left thumb medial
+C2143653  purpura on the forearms right medial
+C2143654  purpura on the right fourth toe medial
+C2143655  purpura on medial surface of right great toe
+C2143656  purpura on the fingers right index finger medial
+C2143657  purpura on medial surface of right knee
+C2143658  purpura on the fingers right little finger medial
+C2143659  purpura on medial surface of right little toe
+C2143660  purpura on the fingers right middle finger medial
+C2143661  purpura on the fingers right ring finger medial
+C2143662  purpura on the right second toe medial
+C2143663  purpura on the thighs right medial
+C2143664  purpura on the right third toe medial
+C2143665  purpura on the fingers right thumb medial
+C2143666  purpura on metatarsal area of sole of left foot (physical finding)
+C2143667  purpura on metatarsal area of sole of right foot (physical finding)
+C2143668  purpura on middle back (physical finding)
+C2143669  purpura on midline of chin (physical finding)
+C2143670  purpura abdomen midline
+C2143671  purpura on the buttocks midline
+C2143672  purpura on midline region of chest
+C2143673  purpura on the fingers multiple fingers of both hands
+C2143674  purpura on nasolabial groove (physical finding)
+C2143675  purpura on the neck
+C2143676  purpura on nipple
+C2143677  purpura on nose (physical finding)
+C2143678  purpura on nostril (physical finding)
+C2143679  purpura on the hands both palmar
+C2143680  purpura on palmar surface of left hand (physical finding)
+C2143681  purpura on the fingers left index finger palmar
+C2143682  purpura on the fingers left little finger palmar
+C2143683  purpura on the fingers left middle finger palmar
+C2143684  purpura on the fingers left ring finger palmar
+C2143685  purpura on the fingers left thumb palmar
+C2143686  purpura on palmar surface of right hand (physical finding)
+C2143687  purpura on the fingers right index finger palmar
+C2143688  purpura on the fingers right little finger palmar
+C2143689  purpura on the fingers right middle finger palmar
+C2143690  purpura on the fingers right ring finger palmar
+C2143691  purpura on palmar surface of right thumb (physical finding)
+C2143692  purpura on paranasal fold
+C2143693  purpura abdomen periumbilical
+C2143694  purpura on the fingers left index finger periungual
+C2143695  purpura on the fingers left little finger periungual
+C2143696  purpura on the fingers left middle finger periungual
+C2143697  purpura on the fingers left ring finger periungual
+C2143698  purpura on the fingers left thumb periungual
+C2143699  purpura on the fingers right index finger periungual
+C2143700  purpura on the fingers right little finger periungual
+C2143701  purpura on the fingers right middle finger periungual
+C2143702  purpura on the fingers right ring finger periungual
+C2143703  purpura on the fingers right thumb periungual
+C2143704  purpura on the face philtrum
+C2143705  purpura on plantar surface of left fourth toe (physical finding)
+C2143706  purpura on plantar surface of left great toe
+C2143707  purpura on plantar surface of left little toe (physical finding)
+C2143708  purpura on the left second toe plantar
+C2143709  purpura on the left third toe plantar
+C2143710  purpura on plantar surface of right fourth toe (physical finding)
+C2143711  purpura on plantar surface of right great toe
+C2143712  purpura on plantar surface of right little toe
+C2143713  purpura on plantar surface of right second toe (physical finding)
+C2143714  purpura on the right third toe plantar
+C2143715  purpura on posterior heel of left foot
+C2143716  purpura on posterior heel of right foot (physical finding)
+C2143717  purpura on posterior neck (physical finding)
+C2143718  purpura on the scalp toward the back
+C2143719  purpura on posterior surface of both thighs
+C2143720  purpura on posterior surface of left thigh (physical finding)
+C2143721  purpura on the thighs right posterior
+C2143722  purpura on the thighs both proximal
+C2143723  purpura on proximal end of left forearm (physical finding)
+C2143724  purpura on the left fourth toe proximal
+C2143725  purpura on proximal end of left great toe
+C2143726  purpura on the fingers left index finger proximal
+C2143727  purpura on the fingers left little finger proximal
+C2143728  purpura on the left little toe proximal
+C2143729  purpura on the fingers left middle finger proximal
+C2143730  purpura on the fingers left ring finger proximal
+C2143731  purpura on proximal end of left second toe (physical finding)
+C2143732  purpura on proximal end of left thigh (physical finding)
+C2143733  purpura on proximal end of left third toe (physical finding)
+C2143734  purpura on proximal end of left thumb
+C2143735  purpura on the forearms right proximal
+C2143736  purpura on proximal end of right fourth toe
+C2143737  purpura on proximal end of right great toe (physical finding)
+C2143738  purpura on the fingers right index finger proximal
+C2143739  purpura on the fingers right little finger proximal
+C2143740  purpura on proximal end of right little toe (physical finding)
+C2143741  purpura on the fingers right middle finger proximal
+C2143742  purpura on the fingers right ring finger proximal
+C2143743  purpura on the right second toe proximal
+C2143744  purpura on the thighs right proximal
+C2143745  purpura on proximal end of right third toe
+C2143746  purpura on right ala nasi (physical finding)
+C2143747  purpura on the face nose alar groove right
+C2143748  purpura on the ankles right
+C2143749  purpura on the elbows right antecubital fossa
+C2143750  purpura on right antihelix (physical finding)
+C2143751  purpura on right antitragus
+C2143752  purpura on right areola (physical finding)
+C2143753  purpura on right arm
+C2143754  purpura on right auricle
+C2143755  purpura on right breast (physical finding)
+C2143756  purpura on the buttocks right
+C2143757  purpura on right calf (physical finding)
+C2143758  purpura on right cheek (physical finding)
+C2143759  purpura on the chest right
+C2143760  purpura on right concha
+C2143761  purpura on right dorsal arm
+C2143762  purpura on right elbow
+C2143763  purpura on the elbows right extensor
+C2143764  purpura on right external auditory canal (physical finding)
+C2143765  purpura on the face eyebrows right
+C2143766  purpura on right forearm
+C2143767  purpura on the right fourth toe
+C2143768  purpura on the right great toe
+C2143769  purpura on right hand
+C2143770  purpura on right helix
+C2143771  purpura on the fingers right index finger
+C2143772  purpura on the calves on the right inferior
+C2143773  purpura on right infraclavicular region
+C2143774  purpura on right knee (physical finding)
+C2143775  purpura on right labia (physical finding)
+C2143776  purpura on the ankles right lateral
+C2143777  purpura on right lateral arm
+C2143778  purpura on the face eyelids canthus right lateral
+C2143779  purpura on right lateral cheek
+C2143780  purpura on right lateral elbow
+C2143781  purpura on right lateral eyebrow
+C2143782  purpura on the fingers right little finger
+C2143783  purpura on right little toe
+C2143784  purpura on right lower abdomen
+C2143785  purpura back lower right
+C2143786  purpura on the face cheeks right lower (inferior)
+C2143787  purpura on the chest right lower (inferior)
+C2143788  purpura on right lower eyelid (physical finding)
+C2143789  purpura on right lower forehead
+C2143790  purpura on the face lip lower right
+C2143791  purpura on right lower paranasal fold (physical finding)
+C2143792  purpura on right lower shin
+C2143793  purpura on right medial ankle (physical finding)
+C2143794  purpura on right medial arm (physical finding)
+C2143795  purpura on right medial canthus (physical finding)
+C2143796  purpura on right medial cheek (physical finding)
+C2143797  purpura on right medial elbow (physical finding)
+C2143798  purpura on right medial eyebrow (physical finding)
+C2143799  purpura on right middle back (physical finding)
+C2143800  purpura on the fingers right middle finger
+C2143801  purpura on right nipple
+C2143802  purpura on right nostril
+C2143803  purpura on right outside elbow
+C2143804  purpura on right paranasal fold (physical finding)
+C2143805  purpura on right popliteal fossa (physical finding)
+C2143806  purpura on the fingers right ring finger
+C2143807  purpura on the ear right auricle scaphoid
+C2143808  purpura on the right second toe
+C2143809  purpura on right shin (physical finding)
+C2143810  purpura on the neck front right
+C2143811  purpura on right side of chin (physical finding)
+C2143812  purpura on the face nose right
+C2143813  purpura on right side of posterior neck
+C2143814  purpura on the scalp on the right side
+C2143815  purpura on the face nose tip right
+C2143816  purpura on right superior calf (physical finding)
+C2143817  purpura on right supraclavicular region of chest (physical finding)
+C2143818  purpura on the face on the temple right
+C2143819  purpura on the thighs right
+C2143820  purpura on right third toe
+C2143821  purpura on right thumb (physical finding)
+C2143822  purpura on right tragus
+C2143823  purpura on right upper abdomen (physical finding)
+C2143824  purpura on right upper back (physical finding)
+C2143825  purpura on the face cheeks right upper (superior)
+C2143826  purpura on the chest right upper (superior)
+C2143827  purpura on right upper forehead (physical finding)
+C2143828  purpura on right upper lip
+C2143829  purpura on right upper paranasal fold (physical finding)
+C2143830  purpura on the shins right superior
+C2143831  purpura on the arms right volar
+C2143832  purpura on scalp
+C2143833  purpura on the shins
+C2143834  purpura on shoulder (physical finding)
+C2143835  purpura on skin portion of lip (physical finding)
+C2143836  purpura on sole of foot
+C2143837  purpura on the feet soles bilaterally
+C2143838  purpura on superior lateral quadrant of left breast
+C2143839  purpura on superior lateral quadrant of right breast
+C2143840  purpura on superior medial quadrant of left breast (physical finding)
+C2143841  purpura on superior medial quadrant of right breast (physical finding)
+C2143842  purpura on supraclavicular region of chest (physical finding)
+C2143843  purpura on temple
+C2143844  purpura was seen on the antecubital fossae
+C2143845  purpura was seen on the face in a butterfly pattern
+C2143846  purpura was seen on the angular commissure
+C2143847  purpura was seen on the angular commissure on the left
+C2143848  purpura was seen on the angular commissure on the right
+C2143849  purpura on both sides of nose (physical finding)
+C2143850  purpura of lower extremity (physical finding)
+C2143851  purpura on the fingers right thumb proximal
+C2143852  purpura on toe
+C2143853  purpura was seen on the left lateral trunk
+C2143854  purpura was seen on the left lateral trunk inferiorly
+C2143855  purpura was seen on the left lateral trunk superiorly
+C2143856  purpura was seen on the right lateral trunk
+C2143857  purpura was seen on the right lateral trunk inferiorly
+C2143858  purpura was seen on the right lateral trunk superiorly
+C2143859  purpura of upper extremity (physical finding)
+C2143860  purpura of wrist (physical finding)
+C2143861  purpura was seen on both wrists
+C2143862  purpura was seen on the dorsal aspect of both wrists
+C2143863  purpura was seen on the radial aspect of both wrists
+C2143864  purpura was seen on the ulnar aspect of both wrists
+C2143865  purpura was seen on the volar aspect of both wrists
+C2143866  purpura was seen on the left wrist
+C2143867  purpura was seen on the left wrist dorsal aspect
+C2143868  purpura was seen on the left wrist radial aspect
+C2143869  purpura was seen on the left wrist ulnar aspect
+C2143870  purpura was seen on the left wrist volar aspect
+C2143871  purpura was seen on the right wrist
+C2143872  purpura was seen on the right wrist dorsal aspect
+C2143873  purpura was seen on the right wrist radial aspect
+C2143874  purpura was seen on the right wrist ulnar aspect
+C2143875  purpura was seen on the right wrist volar aspect
+C2143876  purpura on thigh
+C2143877  purpura on the face nose tip
+C2143878  purpura on top of both shoulders (physical finding)
+C2143879  purpura on top of foot (physical finding)
+C2143880  purpura on the feet top left
+C2143881  purpura on the feet top left anterior
+C2143882  purpura on top of left foot laterally (physical finding)
+C2143883  purpura on top of left foot medially
+C2143884  purpura on the feet top left posterior
+C2143885  purpura on the shoulders top left
+C2143886  purpura on top of right foot (physical finding)
+C2143887  purpura on top of right foot anteriorly (physical finding)
+C2143888  purpura on top of right foot laterally (physical finding)
+C2143889  purpura on the feet top right medial
+C2143890  purpura on top of right foot posteriorly
+C2143891  purpura on top of right shoulder (physical finding)
+C2143892  purpura on top of scalp (physical finding)
+C2143893  purpura on the shoulders top
+C2143894  purpura on the feet top bilateral
+C2143895  purpura abdomen umbilical
+C2143896  purpura on upper back
+C2143897  purpura on the face eyelids upper
+C2143898  purpura on the face eyelids upper left
+C2143899  purpura on the face lip upper
+C2143900  purpura on upper right eyelid (physical finding)
+C2143901  purpura on the face lip vermilion
+C2143902  purpura on the forearms left volar
+C2143903  purpura on volar surface of right forearm (physical finding)
+C2143904  purpura was seen in the perianal region
+C2143905  purpura was seen in the perineum
+C2143906  purpura was seen in the pubic area
+C2143907  purpura was seen in the pubic area bilaterally
+C2143908  purpura was seen in the pubic area on the left
+C2143909  purpura was seen in the pubic area on the right
+C2143910  purpura was seen on the scrotum
+C2143911  purpura of anterior aspect of scrotum
+C2143912  purpura of left side of scrotum
+C2143913  purpura of posterior aspect of scrotum (physical finding)
+C2143914  purpura of right side of scrotum (physical finding)
+C2143915  purpura was seen on the entire vulva
+C2143916  purpura of left side of vulva (physical finding)
+C2143917  purpura of right side of vulva
+C2143918  purpura within armpit
+C2143919  purpura was seen within both armpits
+C2143920  purpura was seen within the left armpit
+C2143921  purpura was seen on the left anterior axillary fold
+C2143922  purpura was seen in the left axillary vault
+C2143923  purpura was seen on the left posterior axillary fold
+C2143924  purpura was seen within the right armpit
+C2143925  purpura was seen on the right anterior axillary fold
+C2143926  purpura was seen in the right axillary vault
+C2143927  purpura was seen on the right posterior axillary fold
+C2144676  tonsils enlargement left (1-4+)
+C2144677  tonsils enlargement right (1-4+)
+C2144681  hemorrhage of both tonsils (physical finding)
+C2144682  hemorrhage of left tonsil (physical finding)
+C2144683  hemorrhage of right tonsil
+C2144684  induration of both tonsils
+C2144685  induration of left tonsil
+C2144686  induration of right tonsil (physical finding)
+C2164538  deep femoral lymphadenopathy was seen
+C2166828  enlarged, fluctuant left popliteal lymph node (physical finding)
+C2166829  enlarged, rubbery left popliteal lymph node
+C2166830  enlarged, hard left popliteal lymph node (physical finding)
+C2166831  enlarged, fluctuant left postauricular lymph node (physical finding)
+C2166832  enlarged, rubbery left postauricular lymph node
+C2166833  enlarged, hard left postauricular lymph node
+C2166841  enlarged, fluctuant left preauricular lymph node (physical finding)
+C2166842  enlarged, rubbery left preauricular lymph node
+C2166843  enlarged, hard left preauricular lymph node (physical finding)
+C2167166  enlarged, fluctuant left submandibular lymph node (physical finding)
+C2167167  enlarged, rubbery left submandibular lymph node (physical finding)
+C2167168  enlarged, hard left submandibular lymph node
+C2167169  enlarged, fluctuant left suboccipital lymph node (physical finding)
+C2167170  enlarged, rubbery left suboccipital lymph node (physical finding)
+C2167171  enlarged, hard left suboccipital lymph node (physical finding)
+C2167174  enlarged, fluctuant left supraclavicular lymph node
+C2167175  enlarged, rubbery left supraclavicular lymph node (physical finding)
+C2167176  enlarged, hard left supraclavicular lymph node (physical finding)
+C2167177  enlarged left supraclavicular lymph node with draining sinus tract (physical finding)
+C2168492  lesions along lymphatic vessels (physical finding)
+C2169832  red streaking of lymphatics
+C2170739  tuberculosis of thymus gland bacteriology and histology not done (diagnosis)
+C2170740  tuberculosis of thymus gland bacteriology and histology unknown (diagnosis)
+C2170746  tuberculosis of tonsils bacteriology and histology not done
+C2170747  tuberculosis of tonsils bacteriology and histology unknown (diagnosis)
+C2181192  ultrasound abdominal spleen infarct
+C2181193  abdominal ultrasound splenic mass
+C2181194  ultrasound abdominal spleen mass ___cm echogenicity
+C2181195  ultrasound abdominal spleen absent
+C2181196  ultrasound abdominal spleen multiple
+C2197467  right anterior cervical lymphadenopathy
+C2197468  bilateral anterior cervical lymphadenopathy
+C2197469  enlarged, rubbery right cervical lymph node (physical finding)
+C2197470  enlarged, fluctuant right cervical lymph node
+C2197471  enlarged, hard right cervical lymph node (physical finding)
+C2197472  enlarged, tender cervical lymph nodes bilaterally (physical finding)
+C2197473  bilateral cervical lymphadenopathy with draining sinus tract
+C2197474  enlarged, rubbery right submandibular lymph node (physical finding)
+C2197475  enlarged, fluctuant right submandibular lymph node (physical finding)
+C2197476  enlarged, hard right submandibular lymph node (physical finding)
+C2197477  submandib lymph nodes enlarged right draining sinus tract
+C2197478  enlarged submandibular lymph nodes bilaterally with draining sinus tract (physical finding)
+C2197479  enlarged, rubbery right supraclavicular lymph node
+C2197480  enlarged, fluctuant right supraclavicular lymph node (physical finding)
+C2197481  enlarged, hard right supraclavicular lymph node
+C2197482  enlarged right supraclavicular lymph node with draining sinus tract (physical finding)
+C2197483  enlarged, hard supraclavicular lymph nodes bilaterally (physical finding)
+C2197484  bilateral supraclavicular lymphadenopathy with draining sinus tract
+C2197485  enlarged, rubbery right preauricular lymph node
+C2197486  enlarged, fluctuant right preauricular lymph node
+C2197487  enlarged, hard right preauricular lymph node
+C2197488  enlarged, rubbery right postauricular lymph node
+C2197489  enlarged, fluctuant right postauricular lymph node
+C2197490  enlarged, hard right postauricular lymph node (physical finding)
+C2197491  enlarged, rubbery right suboccipital lymph node (physical finding)
+C2197492  enlarged, fluctuant right suboccipital lymph node
+C2197493  enlarged, hard right suboccipital lymph node
+C2197494  consistency of enlarged right axillary lymph node
+C2197495  enlarged, rubbery right axillary lymph node
+C2197496  enlarged, fluctuant right axillary lymph node
+C2197497  enlarged, hard right axillary lymph node
+C2197498  enlarged, mobile right axillary lymph node (physical finding)
+C2197499  enlarged, fixed right axillary lymph node (physical finding)
+C2197500  enlarged, tender right axillary lymph node
+C2197501  enlarged, suppurative right axillary lymph node (physical finding)
+C2197502  right axillary lymphadenopathy with draining sinus tract
+C2197503  consistency of enlarged left axillary lymph node
+C2197504  enlarged, mobile left axillary lymph node (physical finding)
+C2197505  enlarged, fixed left axillary lymph node (physical finding)
+C2197506  enlarged, tender left axillary lymph node (physical finding)
+C2197507  enlarged, suppurative left axillary lymph node (physical finding)
+C2197508  left axillary lymphadenopathy with draining sinus tract
+C2197509  consistency of bilaterally enlarged axillary lymph nodes (physical finding)
+C2197510  enlarged, rubbery axillary lymph nodes bilaterally
+C2197511  enlarged, fluctuant axillary lymph nodes bilaterally
+C2197512  enlarged, hard axillary lymph nodes bilaterally
+C2197513  enlarged, mobile axillary lymph nodes bilaterally (physical finding)
+C2197514  enlarged, fixed axillary lymph nodes bilaterally (physical finding)
+C2197515  enlarged, tender axillary lymph nodes bilaterally (physical finding)
+C2197516  enlarged, suppurative axillary lymph nodes bilaterally
+C2197517  bilateral axillary lymphadenopathy with draining sinus tract
+C2197518  consistency of enlarged right epitrochlear lymph node (physical finding)
+C2197519  enlarged, rubbery right epitrochlear lymph node
+C2197520  enlarged, fluctuant right epitrochlear lymph node (physical finding)
+C2197521  enlarged, hard right epitrochlear lymph node (physical finding)
+C2197522  enlarged, mobile right epitrochlear lymph node (physical finding)
+C2197523  enlarged, fixed right epitrochlear lymph node (physical finding)
+C2197524  enlarged, tender right epitrochlear lymph node (physical finding)
+C2197525  enlarged, suppurative right epitrochlear lymph node
+C2197526  right epitrochlear lymphadenopathy with draining sinus tract
+C2197527  consistency of enlarged left epitrochlear lymph node
+C2197528  enlarged, mobile left epitrochlear lymph node (physical finding)
+C2197529  enlarged, fixed left epitrochlear lymph node
+C2197530  enlarged, tender left epitrochlear lymph node (physical finding)
+C2197531  enlarged, suppurative left epitrochlear lymph node (physical finding)
+C2197532  left epitrochlear lymphadenopathy with draining sinus tract
+C2197533  consistency of bilaterally enlarged epitrochlear lymph nodes (physical finding)
+C2197534  enlarged, rubbery epitrochlear lymph nodes bilaterally (physical finding)
+C2197535  enlarged, fluctuant epitrochlear lymph nodes bilaterally
+C2197536  enlarged, hard epitrochlear lymph nodes bilaterally
+C2197537  enlarged, mobile epitrochlear lymph nodes bilaterally (physical finding)
+C2197538  enlarged, fixed epitrochlear lymph nodes bilaterally
+C2197539  enlarged, tender epitrochlear lymph nodes bilaterally (physical finding)
+C2197540  enlarged, suppurative epitrochlear lymph nodes bilaterally
+C2197541  bilateral epitrochlear lymphadenopathy with draining sinus tract
+C2197542  enlarged, rubbery right inguinal lymph node (physical finding)
+C2197543  enlarged, fluctuant right inguinal lymph node
+C2197544  enlarged, hard right inguinal lymph node
+C2197545  consistency of enlarged right femoral lymph node
+C2197546  enlarged, rubbery right femoral lymph node (physical finding)
+C2197547  enlarged, fluctuant right femoral lymph node (physical finding)
+C2197548  enlarged, hard right femoral lymph node (physical finding)
+C2197549  enlarged, mobile right femoral lymph node
+C2197550  enlarged, fixed right femoral lymph node (physical finding)
+C2197551  enlarged, tender right femoral lymph node
+C2197552  enlarged, suppurative right femoral lymph node
+C2197553  right femoral lymphadenopathy with draining sinus tract
+C2197554  consistency of enlarged left femoral lymph node
+C2197555  enlarged, mobile left femoral lymph node (physical finding)
+C2197556  enlarged, fixed left femoral lymph node
+C2197557  femoral lymph nodes enlarged left tender
+C2197558  enlarged, suppurative left femoral lymph node
+C2197559  left femoral lymphadenopathy with draining sinus tract
+C2197560  consistency of bilaterally enlarged femoral lymph nodes
+C2197561  enlarged, rubbery femoral lymph nodes bilaterally (physical finding)
+C2197562  enlarged, fluctuant femoral lymph nodes bilaterally
+C2197563  enlarged, hard femoral lymph nodes bilaterally
+C2197564  enlarged, mobile femoral lymph nodes bilaterally (physical finding)
+C2197565  enlarged, fixed femoral lymph nodes bilaterally (physical finding)
+C2197566  enlarged, tender femoral lymph nodes bilaterally
+C2197567  enlarged, suppurative femoral lymph nodes bilaterally (physical finding)
+C2197568  bilateral femoral lymphadenopathy with draining sinus tract
+C2197569  enlarged, rubbery right popliteal lymph node
+C2197570  enlarged, fluctuant right popliteal lymph node
+C2197571  enlarged, hard right popliteal lymph node (physical finding)
+C2200238  lymphatics palpably tender (physical finding)
+C2200239  lymphangitic red streaking extending up from a distal extremity
+C2200240  lymphangitic red streaking on left arm
+C2200241  lymphangitic red streaking on left forearm
+C2200242  lymphangitic red streaking on left leg above knee
+C2200243  lymphangitic red streaking on left leg below knee
+C2200244  lymphangitic red streaking on right arm
+C2200245  lymphangitic red streaking on right forearm
+C2200246  lymphangitic red streaking on right leg above knee
+C2200247  lymphangitic red streaking on right leg below knee
+C2200828  right axillary lymphadenopathy
+C2225539  single enlarged right cervical lymph node (physical finding)
+C2225540  multiple enlarged right cervical lymph nodes
+C2225541  single enlarged cervical lymph node on left
+C2225542  multiple enlarged left cervical lymph nodes (physical finding)
+C2225543  single enlarged right axillary lymph node (physical finding)
+C2225544  multiple enlarged right axillary lymph nodes (physical finding)
+C2225545  single enlarged left axillary lymph node (physical finding)
+C2225546  multiple enlarged left axillary lymph nodes (physical finding)
+C2228101  epitrochlear lymph nodes enlarged
+C2228103  left femoral lymphadenopathy
+C2228104  right femoral lymphadenopathy
+C2228111  postauricular lymph nodes enlarged
+C2228112  suboccipital lymph nodes enlarged
+C2228257  enlarged epitrochlear lymph nodes bilaterally (physical finding)
+C2228258  buboes of epitrochlear lymph nodes bilaterally (physical finding)
+C2228259  bubo of left epitrochlear lymph node
+C2228260  enlarged left epitrochlear lymph node (physical finding)
+C2228261  enlarged right epitrochlear lymph node (physical finding)
+C2228262  bubo of right epitrochlear lymph node (physical finding)
+C2228273  tonsils inflammation erythematous
+C2235042  bubo of right axillary lymph node
+C2235043  bubo of left axillary lymph node
+C2235044  buboes of axillary lymph nodes bilaterally (physical finding)
+C2235045  bubo of right femoral lymph node (physical finding)
+C2235046  bubo of left femoral lymph node (physical finding)
+C2235047  buboes of femoral lymph nodes bilaterally (physical finding)
+C2237500  bilaterally enlarged cervical lymph nodes (physical finding)
+C2237501  bilateral axillary lymphadenopathy
+C2237511  enlarged femoral lymph nodes bilaterally (physical finding)
+C2237692  X-ray abdominal flat plate splenic calcification
+C2238353  ultrasound abdominal liver enlarged
+C2317795  hereditary persistent fetal hemoglobin Hb-A
+C2317796  hereditary persistent fetal hemoglobin Hb-S (diagnosis)
+C2584441  carrier state for hemophilia B (factor IX deficiency)
+C2585250  Platelet count below reference range at birth (finding)
+C2711604  Swelling of tonsil (finding)
+C2959371  Reactive lymphadenopathy
+C2987486  Lymph node hyperplasia
+C3163751  Spleen in left sided position
+C3163752  Spleen in right sided position (disorder)
+C3468867  lymphatics red streaking extends up from left distal extremity
+C3468868  lymphatics red streaking extends up from right distal extremity

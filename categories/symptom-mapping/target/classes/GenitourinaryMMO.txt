@@ -1,0 +1,45 @@
+C0017494  Aphasia-angular gyrus syndrome
+C0033038  Premature ejaculation
+C0033948  Inhibited female orgasm
+C0033949  Inhibited male orgasm
+C0042266  Vaginismus
+C0154555  Psychogenic dysmenorrhea
+C0156850  Drug dependence-deliver
+C0156851  Drug dependen-del w p/p
+C0156852  Pregnancy and drug dependence
+C0156853  Drug dependence-postpart
+C0221074  Postpartum Depression
+C0234014  Absolute impotence
+C0234015  Impotence, relative
+C0234016  Impotence, psychogenic
+C0269685  Drug dependence in mother complicating pregnancy, childbirth or puerperium
+C0270329  Nocturnal and diurnal enuresis
+C0270594  Farrowing hysteria
+C0338457  Progressive aphasia
+C0338462  Semantic dementia
+C0342069  Mild postnatal depression
+C0342071  Severe postnatal depression
+C0342072  Mild postnatal psychosis
+C0342073  Severe postnatal psychosis
+C0392115  Neurogenic Urinary Bladder, Uninhibited
+C0404757  Mental disorder during pregnancy - baby delivered
+C0404759  Drug dependence during pregnancy, childbirth and the puerperium
+C0404760  Drug dependence in puerperium - baby previously delivered
+C0404761  Drug dependence during pregnancy - baby not yet delivered
+C0404762  Drug dependence in the puerperium - baby delivered
+C0404763  Drug dependence during pregnancy - baby delivered
+C0404764  Drug dependence - unspec whether during pregnancy/puerperium
+C0473130  Diarrhea due cathartic abuse
+C0520603  Postpartum neurosis, NOS
+C0520670  Major depressive disorder, single episode with postpartum onset
+C0520676  Premenstrual dysphoric disorder
+C0520678  POSTPARTUM PSYCHOSIS
+C0853401  brief psychotic disorder with postpartum onset
+C1391657  pregnancy complicated by mental disorder (diagnosis)
+C2063828  male erectile disorder due to physical condition
+C2104807  moderate postpartum depression
+C2104808  severe postpartum depression with psychotic behavior (diagnosis)
+C2104809  postpartum depression in partial or unspecified remission
+C2104810  postpartum depression in full remission (diagnosis)
+C2711637  Psychogenic disorder of the genitourinary system (disorder)
+C3251820  Baby blues

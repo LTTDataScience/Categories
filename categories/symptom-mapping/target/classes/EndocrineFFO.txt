@@ -1,0 +1,761 @@
+C0020461  Hyperkalemia
+C0020621  Hypokalemia
+C0020625  Sodium, decreased level
+C0020645  Hyposmolality and/or hyponatremia
+C0020649  Low blood pressure
+C0020651  Hypotension, Postural
+C0038835  Superovulation
+C0085608  Blood volume, decreased
+C0117002  Euthyroid
+C0150032  Potential fluid volume deficit
+C0151671  GLUCOSE TOLERANCE DECREASED
+C0151723  Hypomagnesemia syndrome
+C0154166  Hemorrhage and infarction of thyroid
+C0154211  Postablative ovarian failure
+C0158987  Late metabolic acidosis of newborn
+C0159069  Abnormal glucose tolerance test
+C0184536  Fluid volume excess risk
+C0232098  Decreased plasma volume
+C0232116  Decreased venous pulse pressure
+C0232788  Normal pancreatic secretion
+C0232789  Abnormal pancreatic secretion
+C0232790  Increased pancreatic secretion
+C0232791  Decreased pancreatic secretion
+C0234987  DIZZINESS POSTURAL
+C0235401  GLUCOSE TOLERANCE ABNORMAL
+C0235402  GLUCOSE TOLERANCE CURVE ABNORMAL
+C0235425  SALT DEPLETION
+C0237011  No measurable ovarian simple cysts
+C0239082  Common Bile Duct Obstruction
+C0239277  Mass of epididymis
+C0240611  OVARIAN MASS
+C0241351  Cyst of testes
+C0241353  TESTICULAR MASS
+C0241355  Small testicle
+C0241400  increased thyroid binding globulin (diagnosis)
+C0241401  thyroid bruit (physical finding)
+C0268017  Hypokalemia, inadequate intake
+C0271660  Previous AGT
+C0277897  Decreased central venous pulse pressure
+C0278090  Precocious pseudopuberty
+C0278091  Isosexual precocious pseudopuberty
+C0301631  Hypoosmolarity
+C0340870  Absolute hypovolaemia
+C0340871  Relative hypovolaemia
+C0340872  Isonatraemic dehydration
+C0342184  Thyroid-binding globulin high
+C0342348  Haemorrhage of parathyroid
+C0342420  Pituitary cyst
+C0342484  Adrenocortical haemorrhage
+C0342501  Adrenal cyst
+C0342526  Absent testes
+C0342531  Androgen receptor absent
+C0342533  Undervirilisation
+C0342540  Arrested puberty
+C0342576  Growth hormone receptor absent
+C0342577  GH receptor abnormality
+C0342581  Hyponat + decreased serum osmo
+C0342582  Hyponat+normal/incr serum osmo
+C0342586  Hyperkal + norm acid-base bal
+C0342592  Increased anion gap
+C0342593  Reduced anion gap
+C0342658  Hypomagnesaemic tetany
+C0347606  Thyroid gland haematoma
+C0347611  Parathyroid gland haematoma
+C0347638  Adrenal gland haematoma
+C0347836  O/E - delayed puberty
+C0392039  Hypertrophy of ovary
+C0403769  Penis bent
+C0403824  Teratozoospermia
+C0403825  Globozoospermia
+C0404550  Scanty or infrequent menstruation
+C0404733  Abnormal GTT in puerperium - baby previously delivered
+C0404734  Abnormal GTT during pregnancy - baby not yet delivered
+C0404735  Abnormal GTT during pregnancy - baby delivered
+C0404736  Abnormal GTT in puerperium - baby delivered
+C0410549  Osteoporotic vertebra collapse
+C0410961  Neonatal tetany no ca/mag def
+C0423413  Retinal microvasc anastomoses
+C0423852  Delayed growth 2ry sex hair
+C0425676  Thyroid flow murmur
+C0425772  Precocious breast development
+C0425875  Ovary felt at vaginal fornix
+C0425927  Diameter of ovary
+C0426322  Testicular observation
+C0426324  Testicles in scrotum
+C0426325  Absence of testicle in scrotum
+C0426326  Testicle out of place
+C0426329  Epididymis observation
+C0429467  Temp. chart: ? ovulation
+C0429469  Temp. chart: anovulatory
+C0429470  Ovulatory
+C0429471  Temp. chart: ovulatory
+C0429603  B1 - Breast stage 1
+C0429604  B2 - Breast stage 2
+C0429605  B3 - Breast stage 3
+C0429606  B4 - Breast stage 4
+C0429607  B5 - Breast stage 5
+C0436573  O/E - dehydrated
+C0436616  O/E - feminised male
+C0436671  O/E - short stature
+C0436782  O/E - BP unrecordable
+C0436783  O/E - BP reading very low
+C0436784  O/E - BP reading low
+C0436785  O/E - BP borderline low
+C0436792  O/E - BP reading:postural drop
+C0437050  O/E - testicular swelling
+C0437051  O/E - epididymal swelling
+C0437052  O/E - testicles normal
+C0437066  O/E - VE - ovarian swelling
+C0438273  GTT = renal glycosuria
+C0452223  Disturb sodium balance newborn
+C0452224  Disturb potass balance newborn
+C0455906  Testicle in inguinal canal
+C0455913  Large testicle
+C0456092  Neonatal overhydration
+C0475126  O/E - gynaecomastia
+C0475732  Infantile hypercalcaemia
+C0476454  Nonspecific low blood pressure reading
+C0520854  Decreased mean arterial pressure
+C0520862  Decreased jugular venous pressure
+C0541820  CARBOHYDRATE TOLERANCE DECREASED
+C0542079  MALE HORMONE IMBALANCE
+C0546884  Hypovolemia
+C0553704  Potassium, increased level
+C0555065  Frequent periods
+C0565877  Preg with abnorm gluc tol test
+C0567248  Ovary observations
+C0567249  Ovary present
+C0567250  Absent ovary
+C0567253  Obs arrangement of ovary
+C0567254  Lesion of ovary
+C0567255  Obs sensation of ovary
+C0567256  Ovary tender
+C0567259  Pain on movement of ovary
+C0567260  Obs measures of ovary
+C0567261  Normal ovary
+C0567262  Ovary problem
+C0577077  Observation of pancreas
+C0577205  Testis present
+C0577206  Obs of appear of testes
+C0577207  Normal sized testicle
+C0577208  Obs of consistency testes
+C0577209  Soft testes
+C0577210  Hard testes
+C0577211  Testes - transverse lie
+C0577212  Obs of sensation of testes
+C0577213  Testicular tenderness
+C0577214  Non-tender testes
+C0577215  Lesion of testis
+C0577216  Testis normal
+C0577217  Epididymis present
+C0577218  Epididymis absent
+C0577219  Obs of appear of epididymis
+C0577220  Epididymis enlarged
+C0577221  Craggy epididymis
+C0577223  Obs of sensation of epididym
+C0577224  Epididymis tender
+C0577226  Normal epididymis
+C0577276  Observation of ovulation
+C0577277  Ovulation present
+C0577278  Ovulation absent
+C0578700  Obs of size of testicle
+C0578743  Observation of thyroid gland
+C0578744  Observation of appearance of thyroid gland
+C0578745  Observation of size of thyroid gland
+C0578746  Small thyroid gland
+C0578747  Observation of movement of thyroid gland
+C0578748  Thyroid gland moves with swallowing
+C0578749  Observation of sensation of thyroid gland
+C0578751  Obs thyroid function
+C0578905  Observ of measures of testes
+C0580400  Random blood sugar raised
+C0580401  Random blood sugar low
+C0580544  Thyroid hormone tests abnormal
+C0580546  Blood glucose abnormal
+C0581855  O/E - blood pressure decreased
+C0581861  O/E - testes descended
+C0581919  O/E - testicles small
+C0585931  O/E-Right diabet foot at risk
+C0585932  O/E-Left diabet foot at risk
+C0587153  O/E - testicle
+C0587157  O/E - ovary
+C0588159  Normal testis consistency
+C0595885  POTASSIUM SERUM DECREASED
+C0750309  volume depletion of extracellular fluid
+C0853379  Abnormal epinephrine -RETIRED-
+C0853422  Abnormal norepinephrine -RETIRED-
+C0853626  Abnormal thyroxine -RETIRED-
+C0855487  Abnormal estriol -RETIRED-
+C0855744  Abnormal oxytocin -RETIRED-
+C0860767  Abnormal corticosterone -RETIRED-
+C0860768  Abnormal cortisol -RETIRED-
+C0860784  Abnormal prolactin -RETIRED-
+C0860811  ANTIDIURETIC HORMONE DISORDER
+C0860849  Estradiol abnormal NOS
+C0860853  Abnormal estrogen -RETIRED-
+C0860944  Abnormal testosterone -RETIRED-
+C0861017  Abnormal glucagon -RETIRED-
+C0877425  Mass of pancreas
+C0940691  Normal papilla major
+C0940692  Blood in the papilla major
+C0940700  Stenosis of the papilla major
+C0940703  Bulging papilla major
+C0940704  Congested papilla major
+C0940714  Normal papilla minor
+C0940716  Blood in the papilla minor
+C0940717  Pus in the papilla minor
+C0940718  Stent in the papilla minor
+C0940721  Lacerated papilla minor
+C0940731  normal pancreas
+C0940734  Complete pancreas divisum
+C0940735  Incomplete pancreas divisum
+C0940736  Pancreatic irregularity
+C0940740  Pancreatic dilatation
+C0940744  Attenuation of pancreatic branches
+C0940750  Pancreatic obstruction
+C0940762  Pancreatic chain of lakes
+C0940763  Pancreatic extravasation
+C0940771  Irregularity of the biliary system
+C0940774  Segmental irregularity of the biliary system
+C0940780  Attenuation of branches of the biliary system
+C0940806  Filling defect (other than stone) of the biliary system
+C0940810  Stent in the biliary system
+C0940812  Biliary system cavity
+C0941131  Extrinsic impression of biliary system stenosis
+C0941204  Lacerated papilla major
+C0941205  Segmental pancreatic irregularity
+C0941206  Segmental pancreatic dilatation
+C0941209  Pancreatic cavity
+C0941214  Biliary system extravasation
+C0941273  Congested papilla minor
+C0941274  Localized dilation of the biliary system
+C0949107  decrease in thyroid binding globulin
+C1096268  Abnormal pituitary gonadotropin -RETIRED-
+C1270969  Abnormal 11-deoxy, 17-hydroxycorticosterone -RETIRED-
+C1272092  [D]Impaired fasting glycaemia (context-dependent category)
+C1272330  Abnormal pituitary luteinizing hormone -RETIRED-
+C1276276  Abnormal pituitary follicle stimalating hormone
+C1287068  Finding of Tanner girls breast development
+C1287808  Finding of position of testicle
+C1287838  Finding of size of ovary
+C1291684  Induced spermatogenic arrest (finding)
+C1291754  Decreased 3,3' diiothyronine level (biological function) (finding)
+C1295586  Abnormal steroid hormone -RETIRED-
+C1295587  Abnormal polypeptide hormone -RETIRED-
+C1295589  Increased polypeptide hormone level -RETIRED-
+C1295591  Abnormal protein hormone -RETIRED-
+C1295594  Abnormal corticotropin releasing factor -RETIRED-
+C1295597  Abnormal human growth hormone -RETIRED-
+C1295600  Abnormal adrenocorticotropic hormone
+C1295603  Abnormal melanocyte stimulating hormone -RETIRED-
+C1295622  Abnormal vanillylmandelic acid -RETIRED-
+C1295625  Abnormal adrenal cortical hormone -RETIRED-
+C1295630  Abnormal 17-ketosteroids -RETIRED-
+C1295633  Abnormal progesterone -RETIRED-
+C1295636  Abnormal 11-deoxycorticosterone -RETIRED-
+C1295648  Abnormal pregnanediol -RETIRED-
+C1295657  Abnormal cortisone -RETIRED-
+C1295662  Abnormal thyroid hormone -RETIRED-
+C1295667  Abnormal triiodothyronine -RETIRED-
+C1295670  Abnormal 3,3' diiodothyronine -RETIRED-
+C1295671  Increased 3,3' diiothyronine level -RETIRED-
+C1295672  Abnormal human chorionic gonadotropin -RETIRED-
+C1295680  Abnormal secretin -RETIRED-
+C1295692  Abnormal serotonin -RETIRED-
+C1299574  HYPERANDROGENEMIA
+C1301337  malignant ovarian ovarian neoplasm tnm staging (diagnosis)
+C1301338  pM1 (IV): Distant metastasis (TNM category and FIGO stage) (ovary) (finding)
+C1301471  pT1 (I): Tumor limited to ovaries (one or both) (TNM category and FIGO stage) (ovary) (finding)
+C1301472  pT1a (IA): Tumor limited to one ovary; capsule intact, no tumor on ovarian surface. No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary) (finding)
+C1301473  pT1b (IB): Tumor limited to both ovaries; capsule intact, no tumor on ovarian surface. No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary) (finding)
+C1301474  pT1c (IC): Tumor limited to one or both ovaries with any of the following: capsule ruptured, tumor on ovarian surface, malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary) (finding)
+C1301475  pT2 (II): Tumor involves one or both ovaries with pelvic extension AND/OR implants (TNM category and FIGO stage) (ovary) (finding)
+C1301476  pT2a (IIA): Extension to AND/OR implants on uterus AND/OR tube(s). No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary) (finding)
+C1301477  pT2b (IIB): Extension to AND/OR implants on other pelvic tissues. No malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary) (finding)
+C1301478  pT2c (IIC): Pelvic extension AND/OR implants (T2a or T2b/IIA or IIB) with malignant cells in ascites or peritoneal washings (TNM category and FIGO stage) (ovary) (finding)
+C1301479  pT3 and/or N1 (III): Tumor involves one or both ovaries with microscopically confirmed peritoneal metastasis outside the pelvis (including liver capsule metastasis) and/or regional lymph node metastasis (TNM category and FIGO stage) (ovary) (finding)
+C1301480  pT3a (IIIA): Microscopic peritoneal metastasis beyond pelvis (no macroscopic tumour) (TNM category and FIGO stage) (ovary)
+C1301481  pT3b (IIIB): Macroscopic peritoneal metastasis beyond pelvis 2 cm or less in greatest dimension (TNM category and FIGO stage) (ovary) (finding)
+C1301482  pT3c AND/OR N1 (IIIC): Peritoneal metastasis beyond pelvis more than 2 cm in greatest dimension AND/OR regional lymph node metastasis (TNM category and FIGO stage) (ovary) (finding)
+C1301483  Any T/any N and M1 (IV): Growth involving one or both ovaries with distant metastasis. (TNM category and FIGO stage) (ovary) (finding)
+C1302427  Left fallopian tube not fused to left ovary (finding)
+C1302470  Right fallopian tube fused to right ovary (finding)
+C1302508  Right fallopian tube not fused to right ovary (finding)
+C1302664  Left fallopian tube fused to left ovary (finding)
+C1313905  Fluid volume deficit
+C1320489  pN1 (IIIC): Regional lymph node metastasis (TNM category and FIGO stage) (ovary) (finding)
+C1335411  Pineal gland cyst
+C1335412  Epidermoid Cyst of Pineal Gland
+C1335413  Glial Cyst of Pineal Gland
+C1336707  Epidermoid cyst of testis (disorder)
+C1336868  Unilocular Cyst of Ovary
+C1395828  hyposystolic; pressure
+C1396256  disorder; electrolyte(balance), newborn, transitory, potassium balance
+C1396257  disorder; electrolyte(balance), newborn, transitory, sodium balance
+C1397018  imbalance; electrolyte, neonatal, transitory, potassium
+C1397019  imbalance; electrolyte, neonatal, transitory, sodium
+C1398836  disorder; glucose tolerance
+C1401386  deficit; potassium
+C1401387  disorder; potassium balance
+C1404725  disorder; sodium balance
+C1406990  disorder; tolerance
+C1411840  disturbance; electrolyte(balance), newborn, transitory, potassium balance
+C1443229  Haemodialysis-associated hypotension
+C1527435  Postsurgical ovarian failure
+C1532440  O/E - left eye clinically significant macular oedema (disorder)
+C1532588  O/E - left eye stable treated proliferative diabetic retinopathy (disorder)
+C1532602  O/E - right eye clinically significant macular oedema (disorder)
+C1532604  O/E - right eye stable treated proliferative diabetic retinopathy (disorder)
+C1536623  Abnormal glucose tolerance test during pregnancy, childbirth and the puerperium
+C1562849  O/E - sight threatening diabetic retinopathy (disorder)
+C1699041  Oligo-ovulation
+C1709089  Multilocular Thymic Cyst
+C1827620  Carcinoma of ovary, stage 4
+C1848888  Painless testicular mass
+C1850544  Hypernatremic dehydration
+C1998376  Exertional hypotension
+C2016083  ovarian mass fluctuant (___ cm)
+C2016084  ovarian mass on the right (___ cm)
+C2016085  ovarian mass solid (___ cm)
+C2021142  X-ray foot osteopenia
+C2021237  ultrasound abdominal adrenal gland diffuse enlargement
+C2021238  ultrasound adrenal gland diffuse enlargement right only
+C2021239  ultrasound adrenal gland diffuse enlargement left only
+C2021240  ultrasound adrenal gland diffuse enlargement bilateral
+C2021241  ultrasound of abdomen: focal mass lesion of adrenal gland (procedure)
+C2021242  ultrasound adrenal gland focal mass lesion solitary, right
+C2021243  ultrasound adrenal gland focal mass lesion solitary, left
+C2021244  ultrasound of abdomen: solitary focal mass lesions of both adrenal glands
+C2021245  ultrasound adrenal gland focal mass lesion multiple, right
+C2021246  ultrasound adrenal gland focal mass lesion multiple, left
+C2021247  ultrasound of abdomen: multiple focal mass lesions of both adrenal glands (procedure)
+C2021248  ultrasound abdominal adrenal gland cyst
+C2021249  ultrasound abdominal adrenal gland cyst solitary, right only
+C2021250  ultrasound abdominal adrenal gland cyst solitary, left only
+C2021251  ultrasound abdominal adrenal gland cyst solitary, bilateral
+C2021252  ultrasound abdominal adrenal gland cyst multiple, right only
+C2021253  ultrasound abdominal adrenal gland cyst multiple, left only
+C2021254  ultrasound abdominal adrenal gland cyst multiple, bilateral
+C2021255  ultrasound abdominal adrenal gland calcification
+C2021256  ultrasound abdominal adrenal gland calcification right only
+C2021257  ultrasound abdominal adrenal gland calcification left only
+C2021258  ultrasound abdominal adrenal gland calcification bilateral
+C2021260  ultrasound abdominal pancreas mass ___cm
+C2021261  ultrasound of abdomen: mass of body of pancreas (procedure)
+C2021262  ultrasound of abdomen: mass of tail of pancreas
+C2021263  ultrasound of abdomen: mass of uncinate process of pancreas
+C2021274  ultrasound abdominal pancreatic duct dilated
+C2021275  ultrasound abdominal pancreatic duct calculi
+C2021731  abdominal MRI mass of pancreas
+C2021732  abdominal MRI mass of head of pancreas
+C2021733  abdominal MRI mass of body of pancreas
+C2021734  abdominal MRI mass of tail of pancreas
+C2021735  abdominal MRI mass of uncinate process of pancreas
+C2021935  endoscopic retrograde cholangiopancreatography (ERCP) pancreas mass ___cm
+C2021936  X-ray ERCP pancreas mass body ___cm
+C2021937  X-ray ERCP pancreas mass tail ___cm
+C2021938  X-ray ERCP pancreas mass uncinate process ___cm
+C2026257  CNS mass lesion in the pineal body
+C2033020  pancreatic endoscopic ultrasound mass ampulla of Vater ___cm
+C2044717  X-ray cervical spine osteopenia
+C2046214  X-ray hip osteopenia
+C2046215  X-ray hip osteopenia generalized
+C2046216  X-ray hip osteopenia juxta-articular
+C2046217  X-ray hip osteopenia left
+C2046218  X-ray hip osteopenia right
+C2047505  hyperkalemia hemolysis in vitro
+C2047799  penis hypospadias penile shaft
+C2047805  'delayed' orthostatic hypotension
+C2051885  pelvic computed tomography ovaries mass calcified ___cm
+C2051919  pelvic computed tomography ovaries mass ___cm
+C2051920  pelvic computed tomography ovaries mass bilateral ___cm
+C2051921  pelvic computed tomography ovaries mass left only ___cm
+C2051922  pelvic computed tomography ovaries mass right only ___cm
+C2051924  computed tomography of pelvis: absence of ovary
+C2051925  computed tomography of pelvis: absence of both ovaries
+C2051926  computed tomography of pelvis: absence of left ovary only (procedure)
+C2051927  computed tomography of pelvis: absence of right ovary only
+C2051932  computed tomography of pelvis: cystic lesion of ovary (procedure)
+C2051933  computed tomography of pelvis: cystic lesions of both ovaries (procedure)
+C2051934  computed tomography of pelvis: calcified cystic lesion of ovary
+C2051935  computed tomography of pelvis: cystic lesion of left ovary only
+C2051936  computed tomography of pelvis: cystic lesion of right ovary only
+C2051937  computed tomography of pelvis: enlargement of ovary (procedure)
+C2051938  computed tomography of pelvis: enlargement of both ovaries
+C2051939  computed tomography of pelvis: enlargement of left ovary only
+C2051940  computed tomography of pelvis: enlargement of right ovary only
+C2052175  ultrasound pelvic ovaries mass calcified ___cm
+C2052187  ultrasound pelvic ovaries ___cm mass echogenicity
+C2057549  size of testicular nodule
+C2057586  tuberculosis of testis bacteriology and histology not done
+C2057587  tuberculosis of testis bacteriology and histology unknown (diagnosis)
+C2057588  tuberculosis of testis in sputum: (+) culture (-) microscopy (diagnosis)
+C2057591  tuberculosis of testis TB (+) histology, (-) bacteriology
+C2057592  tuberculosis of testis TB in sputum: (+) microscopy (diagnosis)
+C2059325  ultrasound of abdomen: solitary focal mass of adrenal gland (procedure)
+C2059326  ultrasound of abdomen: multiple focal mass lesions of adrenal gland
+C2059327  ultrasound abdominal adrenal gland cyst solitary
+C2059328  ultrasound abdominal adrenal gland cyst multiple
+C2064653  large intestine biopsy malignant carcinoid tumor (procedure)
+C2089438  thyroid single nodule size ___cm
+C2097735  ultrasound adrenal gland ___cm mass echogenicity
+C2097736  ultrasound pancreatic mass echogenicity
+C2098464  thyroid biopsy benign thyroid adenoma
+C2098465  thyroid biopsy showing malignant neoplasm
+C2098468  thyroid biopsy papillary carcinoma metastatic to lymph nodes
+C2098469  malignant papillary carcinoma metastatic to cervical nodes (procedure)
+C2098470  malignant papillary carcinoma metastatic to superclavicular (procedure)
+C2098481  thyroid biopsy malignant lymphoma
+C2098482  thyroid biopsy showing secondary neoplasm
+C2104318  tuberculous epididymitis bacteriology and histology not done (diagnosis)
+C2104319  tuberculous epididymitis bacteriology and histology unknown (diagnosis)
+C2104320  tuberculous epididymitis TB in sputum: (+) microscopy
+C2104321  tuberculous epididymitis TB (+) culture (-) microscopy (diagnosis)
+C2104322  tuberculous epididymitis TB (+) histology, (-) bacteriology (diagnosis)
+C2104323  tuberculous epididymitis TB (+) other way (-) bacteriology (-) histology
+C2104324  tuberculous oophoritis bacteriology and histology not done (diagnosis)
+C2104325  tuberculous oophoritis bacteriology and histology unknown (diagnosis)
+C2104365  tuberculosis of adrenal gland bacteriology and histology not done (diagnosis)
+C2104366  tuberculosis of adrenal gland bacteriology and histology unknown
+C2104371  tuberculous Addison's disease bacteriology and histology not done (diagnosis)
+C2104372  tuberculous Addison's disease bacteriology and histology unknown (diagnosis)
+C2104373  tuberculous Addison's disease TB (+) microscopy
+C2104374  tuberculous Addison's disease TB (+) culture (-) microscopy (diagnosis)
+C2104375  tuberculous Addison's disease TB (+) histology (-) bacteriology (diagnosis)
+C2104376  tuberculous Addison's disease TB (+) other way (-) bacteriology (-) histology (diagnosis)
+C2104756  recurrent jaundice of pregnancy with baby delivered
+C2104757  recurrent jaundice of pregnancy as antepartum condition (diagnosis)
+C2116010  bilateral thyroid bruit (physical finding)
+C2116011  thyroid bruit on left (physical finding)
+C2116012  thyroid bruit on right
+C2116022  firm nodule of thyroid (physical finding)
+C2116023  firm nodule of left lobe of thyroid
+C2116024  firm nodule of right lobe of thyroid
+C2116025  fixed nodule of thyroid (physical finding)
+C2116026  fixed nodule of left lobe of thyroid
+C2116027  fixed nodule of right lobe of thyroid
+C2116034  hard, small, and smooth nodule of thyroid
+C2116035  hard, small, and smooth nodule of left lobe of thyroid (physical finding)
+C2116036  hard, small, and smooth nodule of right lobe of thyroid (physical finding)
+C2116073  the thyroid had multiple nodules on both sides
+C2116074  the thyroid had multiple nodules on the left
+C2116075  the thyroid had multiple nodules midline
+C2116076  the thyroid had multiple nontender nodules
+C2116077  the thyroid had multiple nodules on the right
+C2116078  the thyroid had multiple tender nodules
+C2116079  thyroid multiple nodules with a dominant nodule
+C2116080  thyroid multiple nodules with a dominant nodule on the left
+C2116081  thyroid multiple nodules with a dominant nodule on the right
+C2116082  thyroid nodule
+C2116147  single nodule of thyroid (physical finding)
+C2116148  single hard nodule of thyroid (physical finding)
+C2116149  single nodule of thyroid with increase in size since prior exam (physical finding)
+C2116150  single nodule of midline thyroid
+C2116151  single nodule of left lobe of thyroid (physical finding)
+C2116152  single nodule of right lobe of thyroid
+C2116153  single tender nodule of thyroid (physical finding)
+C2116159  soft nodule of thyroid (physical finding)
+C2116160  soft nodule of left lobe of thyroid (physical finding)
+C2116161  soft nodule of right lobe of thyroid (physical finding)
+C2116170  thyroid tender on both sides (physical finding)
+C2116171  thyroid tender on left side
+C2116172  thyroid tender on right side
+C2116241  thyroid ultrasound solid mass ___cm
+C2119609  X-ray shoulder osteopenia
+C2119610  X-ray shoulder osteopenia juxta-articular
+C2119611  X-ray shoulder osteopenia generalized
+C2119638  X-ray shoulder osteopenia right
+C2119639  X-ray shoulder osteopenia left
+C2119783  X-ray foot osteopenia juxta-articular
+C2119784  X-ray foot osteopenia diffuse
+C2119863  X-ray toes osteopenia
+C2119864  X-ray toes osteopenia juxta-articular
+C2119865  X-ray toes osteopenia diffuse
+C2119866  X-ray toes osteopenia 1st interphalangeal joint
+C2119867  X-ray toes osteopenia 1st interphalangeal joint proximal end
+C2119868  X-ray toes osteopenia 1st interphalangeal joint distal end
+C2119869  X-ray toes osteopenia 2nd distal interphalangeal joint
+C2119870  osteopenia 2nd distal interphalangeal joint proximal end
+C2119871  toes osteopenia 2nd distal interphalangeal joint distal end
+C2119872  X-ray toes osteopenia 3rd distal interphalangeal joint
+C2119873  osteopenia 3rd distal interphalangeal joint proximal end
+C2119874  osteopenia 3rd distal interphalangeal joint distal end
+C2119875  X-ray toes osteopenia 4th distal interphalangeal joint
+C2119876  osteopenia 4th distal interphalangeal joint proximal end
+C2119877  osteopenia 4th distal interphalangeal joint distal end
+C2119878  X-ray toes osteopenia 5th distal interphalangeal joint
+C2119879  osteopenia 5th distal interphalangeal joint proximal end
+C2119880  osteopenia 5th distal interphalangeal joint distal end
+C2119881  X-ray toes osteopenia 2nd proximal interphalangeal joint
+C2119882  osteopenia 2nd proximal interphalangeal joint proximal end
+C2119883  osteopenia 2nd proximal interphalangeal joint distal end
+C2119884  X-ray toes osteopenia 3rd proximal interphalangeal joint
+C2119885  osteopenia 3rd proximal interphalangeal joint proximal end
+C2119886  osteopenia 3rd proximal interphalangeal joint distal end
+C2119887  X-ray toes osteopenia 4th proximal interphalangeal joint
+C2119888  osteopenia 4th proximal interphalangeal joint proximal end
+C2119889  osteopenia 4th proximal interphalangeal joint distal end
+C2119890  X-ray toes osteopenia 5th proximal interphalangeal joint
+C2119891  osteopenia 5th proximal interphalangeal joint proximal end
+C2119892  osteopenia 5th proximal interphalangeal joint distal end
+C2119920  X-ray toes osteopenia 1st metatarsal phalangeal joint
+C2119921  osteopenia 1st metatarsal phalangeal joint proximal end
+C2119922  osteopenia 1st metatarsal phalangeal joint metatatarsal head
+C2119923  X-ray toes osteopenia 2nd metatarsal phalangeal joint
+C2119924  osteopenia 2nd metatarsal phalangeal joint proximal end
+C2119925  osteopenia 2nd metatarsal phalangeal joint metatarsal head
+C2119926  X-ray toes osteopenia 3rd metatarsal phalangeal joint
+C2119927  osteopenia 3rd metatarsal phalangeal joint proximal end
+C2119928  osteopenia 3rd metatarsal phalangeal joint metatarsal head
+C2119929  X-ray toes osteopenia 4th metatarsal phalangeal joint
+C2119930  osteopenia 4th metatarsal phalangeal joint proximal end
+C2119931  osteopenia 4th metatarsal phalangeal joint metatarsal head
+C2119932  X-ray toes osteopenia 5th metatarsal phalangeal joint
+C2119933  osteopenia 5th metatarsal phalangeal joint proximal end
+C2119934  osteopenia 5th metatarsal phalangeal joint metatarsal head
+C2120094  X-ray toes osteopenia right
+C2120095  X-ray toes osteopenia left
+C2120108  X-ray fingers osteopenia juxta-articular
+C2120111  X-ray fingers osteopenia juxta-articular right
+C2120201  X-ray foot osteopenia 1st tarsometatarsal joint
+C2120202  X-ray fingers osteopenia juxta-articular left
+C2120204  X-ray foot osteopenia 1st tarsometatarsal joint base
+C2120205  X-ray foot osteopenia 2nd tarsometatarsal joint
+C2120206  X-ray foot osteopenia 2nd tarsometatarsal joint base
+C2120208  X-ray foot osteopenia 3rd tarsometatarsal joint
+C2120209  X-ray foot osteopenia 3rd tarsometatarsal joint base
+C2120210  X-ray foot osteopenia 4th tarsometatarsal joint
+C2120211  X-ray foot osteopenia 4th tarsometatarsal joint base
+C2120213  X-ray foot osteopenia 5th tarsometatarsal joint
+C2120214  X-ray foot osteopenia 5th tarsometatarsal joint base
+C2120215  X-ray foot osteopenia intertarsal joints
+C2120219  X-ray foot osteopenia intertarsal joints calcaneus
+C2120220  X-ray foot osteopenia intertarsal joints talus
+C2120221  X-ray foot osteopenia intertarsal joints cuboid
+C2120222  X-ray foot osteopenia intertarsal joints navicular
+C2120223  X-ray foot osteopenia intertarsal joints medial cuneiform
+C2120224  X-ray foot osteopenia intertarsal joints middle cuneiform
+C2120225  X-ray foot osteopenia intertarsal joints lateral cuneiform
+C2120226  X-ray foot osteopenia subtalar joint
+C2120227  X-ray foot osteopenia subtalar joint posterior facet
+C2120228  X-ray foot osteopenia subtalar joint medial facet
+C2120229  X-ray foot osteopenia subtalar joint anterior facet
+C2120230  X-ray foot osteopenia tibiotalar joint
+C2120231  X-ray foot osteopenia tibiotalar joint talar dome
+C2120232  X-ray foot osteopenia tibiotalar joint medial malleolus
+C2120233  X-ray foot osteopenia distal fibula
+C2120527  X-ray fingers osteopenia juxta-articular right 1st IP joint
+C2120528  X-ray fingers osteopenia juxta-articular right 2nd DIP joint
+C2120529  X-ray fingers osteopenia juxta-articular right 3rd DIP joint
+C2120530  X-ray fingers osteopenia juxta-articular right 4th DIP joint
+C2120531  X-ray fingers osteopenia juxta-articular right 5th DIP joint
+C2120532  X-ray fingers osteopenia juxta-articular right 2nd PIP joint
+C2120533  X-ray fingers osteopenia juxta-articular right 3rd PIP joint
+C2120534  X-ray fingers osteopenia juxta-articular right 4th PIP joint
+C2120535  X-ray fingers osteopenia juxta-articular right 5th PIP joint
+C2120536  X-ray fingers osteopenia juxta-articular right 1st MCP joint
+C2120537  X-ray fingers osteopenia juxta-articular right 2nd MCP joint
+C2120538  X-ray fingers osteopenia juxta-articular right 3rd MCP joint
+C2120539  X-ray fingers osteopenia juxta-articular right 4th MCP joint
+C2120540  X-ray fingers osteopenia juxta-articular right 5th MCP joint
+C2120541  X-ray fingers osteopenia juxta-articular left 1st IP joint
+C2120542  X-ray fingers osteopenia juxta-articular left 2nd DIP joint
+C2120543  X-ray fingers osteopenia juxta-articular left 3rd DIP joint
+C2120544  X-ray fingers osteopenia juxta-articular left 4th DIP joint
+C2120545  X-ray fingers osteopenia juxta-articular left 5th DIP joint
+C2120546  X-ray fingers osteopenia juxta-articular left 2nd PIP joint
+C2120547  X-ray fingers osteopenia juxta-articular left 3rd PIP joint
+C2120548  X-ray fingers osteopenia juxta-articular left 4th PIP joint
+C2120549  X-ray fingers osteopenia juxta-articular left 5th PIP joint
+C2120550  X-ray fingers osteopenia juxta-articular left 1st MCP joint
+C2120551  X-ray fingers osteopenia juxta-articular left 2nd MCP joint
+C2120552  X-ray fingers osteopenia juxta-articular left 3rd MCP joint
+C2120553  X-ray fingers osteopenia juxta-articular left 4th MCP joint
+C2120554  X-ray fingers osteopenia juxta-articular left 5th MCP joint
+C2121483  ultrasound of abdomen: mass of head of pancreas (procedure)
+C2121484  endoscopic retrograde cholangiopancreatography (ERCP) pancreas mass head ___cm
+C2123109  magnetic resonance cholangiopancreatography pancreatic mass ___cm
+C2123110  magnetic resonance cholangiopancreatography pancreatic mass ___cm head
+C2123111  magnetic resonance cholangiopancreatography pancreatic mass ___cm body
+C2123112  MRCP pancreas mass tail ___cm
+C2123113  magnetic resonance cholangiopancreatography pancreatic mass ___cm uncinate process
+C2123115  MRCP pancreas ____cm cyst
+C2123116  magnetic resonance cholangiopancreatography pancreatic cyst ____cm head
+C2123117  magnetic resonance cholangiopancreatography pancreatic cyst ____cm body
+C2123118  MRCP pancreas ____cm cyst tail
+C2123119  magnetic resonance cholangiopancreatography pancreatic cyst ____cm uncinate process
+C2123120  MRCP pancreas pseudocyst ____cm
+C2133618  dosage failure excessive amount during blood transfusion
+C2140575  left cryptorchidism (physical finding)
+C2140788  left ectopic testis (physical finding)
+C2140789  left ectopic testis in high scrotal position
+C2140790  left ectopic testis in inguinal region (physical finding)
+C2140791  left ectopic testis in perineum (physical finding)
+C2141003  epididymis mass left
+C2142132  scrotum hydrocele on the left
+C2145478  translucent mass of epididymis (physical finding)
+C2145479  translucent testicular mass
+C2166762  ovarian mass on the left (___ cm)
+C2167269  testicular atrophy on the left
+C2167270  left testicular mass
+C2167273  tenderness of left testis
+C2170702  tuberculosis of pancreas bacteriology and histology not done (diagnosis)
+C2170703  tuberculosis of pancreas bacteriology and histology unknown
+C2170709  TB parathyroid glands bacteriology / histology not done
+C2170710  TB parathyroid glands bacteriology / histology unknown
+C2170723  tuberculosis of pituitary gland bacteriology and histology not done
+C2170724  tuberculosis of pituitary gland bacteriology and histology unknown (diagnosis)
+C2170737  tuberculosis pf testes TB (+) other way (-) bacteriology (-) histology
+C2175066  edema of macula of right eye (physical finding)
+C2175067  edema of upper macula of right eye (physical finding)
+C2175068  edema of lower macula of right eye (physical finding)
+C2175069  edema of outer macula of right eye (physical finding)
+C2175070  edema of inner macula of right eye (physical finding)
+C2175071  edema of central aspect of macula of right eye (physical finding)
+C2175090  macular edema of left eye
+C2175091  edema of upper macula of left eye (physical finding)
+C2175092  edema of lower macula of left eye (physical finding)
+C2175093  edema of outer macula of left eye
+C2175094  edema of inner macula of left eye (physical finding)
+C2175095  edema of central aspect of macula of left eye
+C2181178  abdominal ultrasound mass of hepatopancreatic duct
+C2181180  endoscopic retrograde cholangiopancreatography (ERCP) pancreatic mass ampulla of Vater ___cm
+C2181182  CT of abdomen mass of ampulla of Vater
+C2181184  abdominal MRI mass of ampulla of Vater
+C2181186  MRCP pancreas mass ampulla of Vater ___cm
+C2181187  MRCP pancreas ____cm cyst ampulla of Vater
+C2181480  endoscopic ultrasound pancreas mass (___ cm)
+C2181481  endoscopic ultrasound pancreas mass uncinate ___cm
+C2181482  endoscopic ultrasound pancreas mass head ___cm
+C2181483  endoscopic ultrasound pancreas mass body ___cm
+C2181484  endoscopic ultrasound pancreas mass tail ___cm
+C2181485  endoscopic ultrasound pancreatic ___cm mass echogenicity
+C2181499  MRCP common bile duct stricture middle
+C2197691  penis hypospadias scrotal
+C2198976  the flow was absent to the left ovary
+C2198977  the flow was absent to the right ovary
+C2198978  the flow was increased to the left ovary
+C2198979  the flow was increased to the right ovary
+C2198980  color duplex Doppler ultrasound of ovaries: abnormal flow of ovaries
+C2201204  right cryptorchidism (physical finding)
+C2201427  right ectopic testis (physical finding)
+C2201428  testes ectopic right in high scrotal position
+C2201429  right ectopic testis in inguinal region (physical finding)
+C2201430  right ectopic testis in perineum
+C2201543  epididymis mass right
+C2202206  hydrocele of right scrotum
+C2207229  X-ray foot osteopenia subtalar joint sinus tarsi
+C2210340  thyroid biopsy showing follicular neoplasm
+C2216476  crown male pattern baldness
+C2216477  frontal male pattern baldness (physical finding)
+C2216478  frontal and midscalp male pattern baldness
+C2216479  frontal to occipital male pattern baldness (physical finding)
+C2218796  atrophic right testis
+C2218797  testes mass right
+C2218800  tender right testis
+C2220605  abdominal CT mass of body of pancreas
+C2220606  abdominal CT mass of head of pancreas
+C2220607  abdominal CT mass in pancreas
+C2220608  abdominal CT mass in tail of pancreas
+C2220609  CT of abdomen mass of uncinate process of pancreas
+C2225085  epididymis mass bilateral
+C2225171  tenderness of both testes
+C2227369  testes ectopic bilaterally
+C2227370  bilateral ectopic testes in perineum
+C2227371  bilateral ectopic testis in high scrotal position
+C2227372  bilateral ectopic testis in inguinal region
+C2227715  X-ray abdominal flat plate pancreatic mass calcified ___cm
+C2227735  X-ray abdominal flat plate pancreatic mass non-calcified ___
+C2227740  X-ray abdominal flat plate pancreatic mass ___cm
+C2237596  bilateral hydroceles (physical finding)
+C2237597  bilateral testicular masses
+C2237861  X-ray UGI Ba swallow- duodenal biliary fistula
+C2237977  thyroid biopsy benign follicular adenoma (procedure)
+C2237978  thyroid biopsy follicular carcinoma metastatic to lung (procedure)
+C2237979  thyroid biopsy follicular thyroid carcinoma (procedure)
+C2237980  thyroid biopsy showing benign neoplasm
+C2238173  computed tomography of neck: diffuse enlargement of thyroid
+C2238175  computed tomography of neck: focal enlargement of thyroid (procedure)
+C2238181  computed tomography of neck: multiple cysts of thyroid
+C2238182  neck computed tomography multiple thyroid ___cm masses
+C2238188  computed tomography of neck: solitary cyst of thyroid (procedure)
+C2238189  neck computed tomography solitary thyroid ___cm mass
+C2238191  computed tomography of neck: absence of thyroid
+C2238192  computed tomography of neck: cyst of thyroid (procedure)
+C2238193  computed tomography of neck: thyroid enlargement (procedure)
+C2238194  neck computed tomography thyroid ___cm mass
+C2238195  computed tomography of neck: post-surgical change of thyroid (procedure)
+C2238617  head computed tomography pineal calcification
+C2367675  thyroid multiple nodules no. ___
+C2584688  SWELLING OF TESTICLES
+C2586313  On examination - testes abnormal
+C2702713  solitary thyroid mass on exam
+C2702714  multiple thyroid masses on exam (physical finding)
+C2702715  total number of thyroid masses palpated (physical finding)
+C2702716  thyroid mass multiple no. ___ (physical finding)
+C2702717  size of multiple thyroid masses
+C2702718  soft thyroid mass (physical finding)
+C2702719  firm thyroid mass
+C2702720  hard thyroid mass (physical finding)
+C2702721  cystic thyroid mass
+C2702722  tender thyroid mass
+C2702723  fixed thyroid mass (physical finding)
+C2702724  thyroid mass fixed to underlying tissue
+C2702725  thyroid mass fixed to overlying skin
+C2711012  Random blood glucose abnormal
+C2711615  Hypertrophy of ovary (disorder)
+C2728317  thyroid single mass size ___cm
+C2728323  early rejection of transplanted pancreas
+C2728508  solitary thyroid mass on left
+C2728509  thyroid single mass on the right
+C2728991  late rejection of transplanted pancreas (treatment)
+C2733295  Dominant nodule of thyroid (finding)
+C2827431  Recurrent Intrahepatic Cholestasis
+C2910064  Transitory disorders of carbohydrate metabolism specific to newborn
+C2919206  Colloid cyst of pituitary gland
+C2919432  Glucose in blood specimen above reference range (finding)
+C2957333  hypospadia corrected
+C2957612  postsurgical state acquired absence of organ pancreas (diagnosis)
+C2957613  postsurgical state acquired absence of organ pancreas partial (diagnosis)
+C2957614  postsurgical state acquired absence of organ pancreas total
+C2959980  Infection of epididymis due to Chlamydia trachomatis (disorder)
+C3250435  inappropriate change in quantitative hcg in early pregnancy
+C3250613  malignant ovarian neoplasm tnm staging primary tumor (t)
+C3250614  malig ovarian neoplasm tnm staging primary tumor (t) tx (diagnosis)
+C3250615  malig ovarian neoplasm tnm staging primary tumor (t) tis (diagnosis)
+C3250616  malig ovarian neoplasm tnm staging primary tumor (t) t1
+C3250617  malig ovarian neoplasm tnm staging primary tumor (t) t1a
+C3250618  malig ovarian neoplasm tnm staging primary tumor (t) t1b
+C3250619  malig ovarian neoplasm tnm staging primary tumor (t) t1c
+C3250620  malig ovarian neoplasm tnm staging primary tumor (t) t2 (diagnosis)
+C3250621  malig ovarian neoplasm tnm staging primary tumor (t) t2a
+C3250622  malig ovarian neoplasm tnm staging primary tumor (t) t2b
+C3250623  malig ovarian neoplasm tnm staging primary tumor (t) t2c (diagnosis)
+C3250628  malig ovarian neoplasm tnm staging regional lymph nodes (n)
+C3250629  malig ovarian neoplasm tnm stage regional lymph node (n) nx
+C3250630  malig ovarian neoplasm tnm stage regional lymph node (n) n0
+C3250631  malig ovarian neoplasm tnm stage regional lymph node (n) n1
+C3250632  malig ovarian neoplasm tnm staging distant metastasis (m) (diagnosis)
+C3250633  malig ovarian neoplasm tnm staging distant metastasis (m) m0 (diagnosis)
+C3250634  malig ovarian neoplasm tnm staging distant metastasis (m) m1
+C3263685  Hormone disturbance, NOS
+C3274301  TPN- Associated Cholestasis
+C3468209  bilateral ovarian enlargement (physical finding)
+C3468587  fixed left ovary (physical finding)
+C3468588  fixed ovaries (physical finding)
+C3468589  fixed right ovary
+C3468855  left ovarian diameter (___ cm)
+C3468856  left ovarian enlargement (physical finding)
+C3468857  left ovarian tenderness
+C3468870  right ovarian diameter (___ cm) (physical finding)
+C3468872  right ovarian tenderness (physical finding)
+C3468873  right ovarian enlargement (physical finding)
+C3469523  ovarian cancer susceptibility (diagnosis)
+C3469525  pancreatic cancer susceptibility
+C3472700  Moderate dehydration (disorder)
+C3472705  Mild dehydration
+C3494767  Penile mid-shaft hypospadias (disorder)
+C3495440  Break-through bleeding
+C3496302  epiphyseal arrest leg
+C3506378  home blood sugar check before breakfast over 250

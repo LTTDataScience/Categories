@@ -1,0 +1,287 @@
+C0005687  BLADDER DISTENTION
+C0008983  Clitoral erection, painful
+C0013428  Dysuria
+C0014394  Enuresis
+C0016199  FLANK PAIN
+C0016708  Frequency of urination and polyuria
+C0028961  Urine volume, decreased
+C0028962  Oliguria and anuria
+C0032617  Urine volume, increased
+C0039591  TESTICULAR PAIN
+C0149671  DRIBBLING
+C0150045  Urge incontinence
+C0151830  URETHRAL PAIN
+C0152032  URINARY HESITANCY
+C0152169  Renal colic
+C0152447  Urethral discharge
+C0156308  Edema of penis
+C0156317  Edema of male genital organs
+C0159075  Chyluria
+C0232726  TENESMUS
+C0232847  Enuresis, primary
+C0232848  Enuresis, secondary
+C0232849  BLADDER PAIN
+C0232852  Normal urinary stream
+C0232854  Slowing of urinary stream
+C0232855  Splitting of urinary stream
+C0232857  Psychogenic dysuria
+C0232858  Dysuria, spastic
+C0232861  PENILE DISCHARGE
+C0232894  Pneumatouria
+C0232955  Menouria
+C0233973  Painful penile erection
+C0235612  URETHRAL BURNING ON MICTURITION
+C0235633  URETERAL PAIN
+C0235634  COSTOVERTEBRAL ANGLE TENDERNESS
+C0235808  PERINEAL PAIN MALE
+C0238637  Anal pain
+C0239278  Epididymal pain
+C0239783  PAIN GROIN
+C0240715  Perineal lump
+C0240717  [D] Perineal pain
+C0241562  Urethral meatal pain
+C0241705  URINATION DIFFICULTY
+C0241718  Pain of vulva
+C0242453  Prostatism
+C0268988  Itching of penis
+C0270327  Enuresis, nocturnal
+C0278028  SIGNS AND SYMPTOMS OF THE URINARY SYSTEM
+C0282005  Swelling of Scrotum
+C0341742  ARU - Acute retention of urine
+C0343731  Penile warts
+C0392071  Prostatorrhea
+C0401155  Double incont - urine + stool
+C0406671  Burning scrotum
+C0423640  Right flank pain
+C0423641  Left flank pain
+C0423701  Urinary tract pain
+C0423735  Tenesmus, urinary
+C0423736  Burning on urination
+C0423739  Tenesmus - anal
+C0426359  Urinary symptoms
+C0426373  INCOMPLETE URINATION
+C0426390  Spasm of bladder
+C0426396  Dark urine
+C0439019  C/O - ureteric colic
+C0439042  C/O - renal pain
+C0451941  Itching of scrotum
+C0455880  Micturition stream poor
+C0455981  C/O - ureteric pain
+C0458090  Ureteric neuromusc incoordin
+C0473234  Painful haematuria
+C0473235  Painless haematuria
+C0473236  Traumatic haematuria
+C0473238  Clot haematuria
+C0473240  Chemical haematuria
+C0473249  Idiopathic scrotal edema
+C0476299  Deficient urine secretion
+C0476300  [D]Suppressed urine secretion (context-dependent category)
+C0476303  Extrarenal uraemia
+C0478659  Pelvic and perineal pain
+C0497481  PENILE PAIN
+C0521628  Itching of male genital organs
+C0521629  Leukoplakia of male genital organs
+C0522123  Renal angle pain
+C0555976  Vulva sore
+C0558489  KIDNEY PAIN
+C0559208  Anal stump pain
+C0559753  Daytime enuresis
+C0560252  Post-vasectomy epididymal pain
+C0560253  Persistent testicular pain
+C0574785  LUTS-Lower urinary tract sympt
+C0577256  Prostate swelling
+C0577294  Perianal lump
+C0577568  Mass of urinary tract structure
+C0577591  Swelling urological struct
+C0577592  Swelling male genital struct
+C0577593  Epididymal swelling
+C0578085  Urinary tract tenderness
+C0585134  Perianal pain
+C0849752  unable (to) urinate
+C0849986  localized penile swelling of foreskin (symptom)
+C0854148  Cells in urine
+C0869256  urge and stress incontinence
+C1282799  Swelling of Penis
+C1288081  Inflammatory testicular mass
+C1385682  abdominal; pain, lower abdomen, pelvic or perineal
+C1386619  discharge; urinary, excessive
+C1388133  sulfonamide; anuria, correct substance properly administered
+C1392633  chyluria; nonfilarial
+C1397829  frequency; micturition, and painful
+C1399331  hematuria; idiopathic
+C1399340  hematuria; paroxysmal
+C1401309  ischuria
+C1403039  lipuria
+C1404807  nephralgia
+C1405030  pain; micturition, and frequent
+C1405032  lower abdomen; pain, pelvic or perineal
+C1407990  ureteralgia
+C1408032  excessive; urine secretion
+C1408330  renal calculus; colic
+C1408695  insufficient; urine secretion
+C2008825  frequent small amounts of urine (symptom)
+C2010797  generalized scrotal swelling (symptom)
+C2012599  swelling of inguinal lymph nodes
+C2012600  swelling of lymph node in left groin (symptom)
+C2012601  swelling of lymph node in right groin (symptom)
+C2012602  swelling of lymph nodes in both sides of groin
+C2012603  groin pain progressive with decreased level of activity
+C2012604  groin pain progressive with same level of activity (symptom)
+C2012605  groin pain radiating to testicle (symptom)
+C2012606  radiating groin pain
+C2012607  groin pain worsens then abates
+C2012608  bilateral inguinal swelling
+C2012609  groin swelling on left
+C2012610  groin symptoms (symptom)
+C2032191  pain in left groin (symptom)
+C2032252  pain in right groin
+C2032305  bilateral flank pain
+C2032306  flank pain disproportionate to injury
+C2032307  radiating flank pain
+C2032308  pain in the flank which radiates to a testicle
+C2032732  painful inability to urinate
+C2035062  passage of food particles in the urine
+C2035063  passage of stones or gravel in urine (symptom)
+C2035064  passage of stool in urine
+C2035065  passage of tissue during urination (symptom)
+C2037198  sudden onset of testicular pain (symptom)
+C2038642  swelling in right groin (symptom)
+C2045681  change in urinary habits
+C2045682  change in appearance of urine
+C2045683  change in volume of urine (symptom)
+C2052709  bloody penile discharge not related to urination (symptom)
+C2052710  green penile discharge
+C2052711  profuse yellow to yellow-green penile discharge (symptom)
+C2052806  generalized penile swelling
+C2052807  localized penile swelling of shaft (symptom)
+C2052808  localized penile swelling of tip
+C2053183  perineal bruising
+C2053301  perineal symptoms
+C2055363  temporary loss of urinary control with cough (symptom)
+C2055364  temporary loss of urinary control with physical exercise
+C2055365  temporary loss of urinary control with sneeze (symptom)
+C2055366  temporary loss of urinary control with sudden movement (symptom)
+C2057731  blue-green urine (symptom)
+C2057732  bright orange urine
+C2074632  chronic constant flank pain (symptom)
+C2074698  chronic flank pain recurring frequently (symptom)
+C2077052  initiating urination requires straining (symptom)
+C2106468  blood in the urine color
+C2114519  previously continent child unable to restrain urination (symptom)
+C2114753  progressive groin pain (symptom)
+C2126116  urinary incontinence with loss of consciousness
+C2126180  anal pain accompanied by bleeding (symptom)
+C2126181  anal pain accompanied by discharge of pus
+C2126182  anal pain worse with bowel movements
+C2126183  anal pain worsens with acidic foods
+C2126184  anal pain after anal sex (symptom)
+C2126223  constant anal pain (symptom)
+C2126224  intermittent anal pain (symptom)
+C2126233  urinary incontinence preceded by sudden urge
+C2126234  urinary incontinence before reaching bathroom (symptom)
+C2127284  urinary incontinence without sensory awareness
+C2127285  smaller urinary stream with post-void dribbling (symptom)
+C2127286  urinary incontinence with continuous leakage (symptom)
+C2127311  'tom cat' urine odor (symptom)
+C2127347  burning sensation during urination
+C2128316  dull or aching groin pain (symptom)
+C2129024  hematuria throughout urination
+C2129025  hematuria only at the end of urination
+C2129026  blood in the urine with clots string-like
+C2129027  blood in urine with clots in clumps (symptom)
+C2129028  bright red blood in urine (symptom)
+C2129029  dark red blood in urine
+C2129030  brownish blood in urine
+C2129031  testicular pain right
+C2129032  left testicular pain
+C2129033  bilateral testicular pain
+C2129035  right testicular lump
+C2129036  left testicular lump (symptom)
+C2129037  lumps in both testes
+C2129055  smaller urinary stream with dribbles at end of urination (symptom)
+C2129056  frequency of urination during night (symptom)
+C2129628  number of incontinence diapers used per day (#___)
+C2129629  uses incontinence devices infrequently
+C2129630  uses incontinence devices continuously (symptom)
+C2129631  loss of urinary control significantly affects lifestyle (symptom)
+C2130182  vulvar pain on the right
+C2130183  vulvar pain on the left
+C2130250  anal pain accompanied by discharge (symptom)
+C2130251  anal pain accompanied by foul-smelling discharge (symptom)
+C2130253  sharp or stabbing groin pain
+C2164465  urinary stream is smaller
+C2170206  renal colic of both kidneys
+C2170207  renal colic of left kidney (diagnosis)
+C2170208  renal colic of right kidney
+C2187991  frequency of urinary incontinence at night while asleep
+C2187992  frequency of urinary incontinence during day (symptom)
+C2188437  duration between urinations
+C2188438  frequency of urination during day
+C2188439  decrease in urinary frequency (symptom)
+C2188456  urinary incontinence occurring at least twice a week (symptom)
+C2188457  urinary incontinence without sensory awareness of fullness (symptom)
+C2188458  urinary incontinence without sensory awareness of wetness (symptom)
+C2188459  loss of urinary control with physical activity (symptom)
+C2188502  urinary volume of infant
+C2188545  urine ceased for 2 days or more (symptom)
+C2188551  urine content abnormalities (symptom)
+C2188569  the urine is dark but not cloudy
+C2188715  urine is frothy or foamy
+C2188716  smoke-colored urine
+C2188793  spraying or splitting of urine stream (symptom)
+C2188849  using incontinence devices (symptom)
+C2188850  number of incontinence mini-pads used per day (#___)
+C2188851  number of regular incontinence pads used per day (#___) (symptom)
+C2188852  using a penile clamp for incontinence
+C2188853  using incontinence tissues (symptom)
+C2188854  using a urethral plug for incontinence
+C2219704  blood in urine initially only (symptom)
+C2219705  blood in urine only at night or early morning (symptom)
+C2219706  blood in urine recurring over a period of years (symptom)
+C2219707  blood in urine occurs after exposure to cold (symptom)
+C2219708  hematuria initiated with exercise
+C2220099  number of wet diapers per day (symptom)
+C2228138  primary diurnal enuresis (diagnosis)
+C2228140  primary nocturnal and diurnal enuresis (diagnosis)
+C2228141  secondary diurnal enuresis (diagnosis)
+C2232753  brown penile discharge
+C2233585  flank pain emanating from spine (symptom)
+C2233586  flank pain crossing midline (symptom)
+C2233587  migratory flank pain
+C2233588  gradual onset of flank pain
+C2233589  abrupt onset of flank pain
+C2233590  flank pain severity
+C2233591  flank pain intermittent
+C2233592  quality of flank pain
+C2233593  flank pain quality sharp
+C2233594  stabbing flank pain
+C2233595  dull flank pain
+C2233596  positional flank pain
+C2233597  flank pain unrelated to meals
+C2233598  factors exacerbating flank pain (symptom)
+C2233599  flank pain worsened by sneezing or coughing (symptom)
+C2233600  flank pain worsened by bowel movement (symptom)
+C2233601  flank pain worsened by urinating (symptom)
+C2233602  flank pain worsened by breathing deeply (symptom)
+C2233603  flank pain worsened by bending forward (symptom)
+C2233604  flank pain worsened by twisting (symptom)
+C2233605  flank pain worsened by curling up on one's side
+C2233606  factors relieving flank pain
+C2233607  flank pain lessened by sneezing or coughing
+C2233608  flank pain lessened by bowel movement
+C2233609  flank pain lessened by urinating
+C2233610  flank pain lessened by breathing deeply (symptom)
+C2233611  flank pain lessened by bending forward (symptom)
+C2233612  flank pain lessened by twisting (symptom)
+C2233613  flank pain lessened by curling up on one's side (symptom)
+C2233614  flank pain lessened by applying heat (symptom)
+C2233615  flank pain lessened by applying cold
+C2233616  flank pain lessened by massage
+C2233617  flank pain not made better by anything (symptom)
+C2233637  location of pain in flank
+C2233638  timing of flank pain
+C2233639  flank pain increasing in frequency
+C2233640  flank pain decreasing in frequency (symptom)
+C2233641  flank pain gradually resolves on its own
+C2367668  urinary urgency with straining
+C2921780  pain during urination (dysuria) seems related to menstrual cycle

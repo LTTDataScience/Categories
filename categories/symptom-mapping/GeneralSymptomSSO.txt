@@ -1,0 +1,325 @@
+C0004093 Sign or Symptom
+C0012833 Sign or Symptom
+C0015672 Sign or Symptom
+C0022107 Finding
+C0023380 Sign or Symptom
+C0024528 Sign or Symptom
+C0027804 Mental or Behavioral Dysfunction
+C0039070 Sign or Symptom
+C0041657 Finding
+C0042571 Sign or Symptom
+C0085632 Sign or Symptom
+C0086525 Sign or Symptom
+C0220870 Sign or Symptom
+C0221477 Finding
+C0231165 Finding
+C0231218 Sign or Symptom
+C0231221 Finding
+C0231227 Finding
+C0231230 Sign or Symptom
+C0231234 Sign or Symptom
+C0231236 Sign or Symptom
+C0233403 Mental or Behavioral Dysfunction
+C0233404 Sign or Symptom
+C0233465 Finding
+C0233480 Sign or Symptom
+C0233484 Finding
+C0234431 Mental or Behavioral Dysfunction
+C0234432 Mental or Behavioral Dysfunction
+C0234433 Mental or Behavioral Dysfunction
+C0234750 Sign or Symptom
+C0234964 Finding
+C0234987 Finding
+C0234988 Finding
+C0235113 Finding
+C0235115 Finding
+C0235117 Finding
+C0235118 Finding
+C0235242 Sign or Symptom
+C0235245 Mental or Behavioral Dysfunction
+C0235702 Finding
+C0235721 Sign or Symptom
+C0241981 Sign or Symptom
+C0277794 Sign or Symptom
+C0278126 Sign or Symptom
+C0312422 Sign or Symptom
+C0339780 Sign or Symptom
+C0344329 Finding
+C0392674 Sign or Symptom
+C0392701 Sign or Symptom
+C0395923 Sign or Symptom
+C0424095 Finding
+C0424117 Finding
+C0424535 Sign or Symptom
+C0424547 Finding
+C0424551 Finding
+C0424576 Finding
+C0424577 Finding
+C0424578 Finding
+C0424585 Finding
+C0424586 Finding
+C0424587 Finding
+C0424588 Finding
+C0424589 Finding
+C0424592 Finding
+C0424593 Finding
+C0424594 Finding
+C0424991 Finding
+C0427108 Finding
+C0427109 Finding
+C0427110 Finding
+C0427111 Finding
+C0427112 Finding
+C0427115 Finding
+C0427116 Finding
+C0427117 Finding
+C0427118 Finding
+C0427119 Finding
+C0429977 Finding
+C0429978 Finding
+C0436586 Finding
+C0436587 Finding
+C0436588 Finding
+C0436589 Finding
+C0436590 Finding
+C0436591 Finding
+C0436596 Finding
+C0437362 Finding
+C0439032 Finding
+C0439033 Finding
+C0439053 Sign or Symptom
+C0439054 Finding
+C0439055 Finding
+C0455769 Finding
+C0456754 Finding
+C0456820 Mental or Behavioral Dysfunction
+C0458075 Finding
+C0459686 Finding
+C0476206 Sign or Symptom
+C0476207 Sign or Symptom
+C0476457 Sign or Symptom
+C0497293 Sign or Symptom
+C0518031 Finding
+C0521005 Sign or Symptom
+C0522228 Finding
+C0522229 Finding
+C0522349 Sign or Symptom
+C0522353 Sign or Symptom
+C0522354 Sign or Symptom
+C0522355 Sign or Symptom
+C0522357 Finding
+C0522358 Sign or Symptom
+C0522359 Sign or Symptom
+C0522360 Sign or Symptom
+C0522361 Sign or Symptom
+C0522362 Sign or Symptom
+C0522363 Sign or Symptom
+C0522364 Sign or Symptom
+C0522365 Sign or Symptom
+C0522366 Sign or Symptom
+C0522367 Sign or Symptom
+C0522368 Sign or Symptom
+C0522369 Sign or Symptom
+C0522370 Sign or Symptom
+C0522371 Sign or Symptom
+C0541879 Mental Process
+C0542051 Finding
+C0542239 Sign or Symptom
+C0542267 Sign or Symptom
+C0554992 Finding
+C0555696 Finding
+C0555699 Finding
+C0557273 Finding
+C0557875 Sign or Symptom
+C0558195 Finding
+C0558486 Sign or Symptom
+C0560188 Finding
+C0560191 Finding
+C0560193 Finding
+C0560194 Finding
+C0560197 Finding
+C0560199 Finding
+C0560200 Finding
+C0562278 Finding
+C0562279 Finding
+C0562281 Finding
+C0562283 Finding
+C0562284 Finding
+C0562286 Finding
+C0575090 Sign or Symptom
+C0578015 Finding
+C0578016 Finding
+C0578757 Finding
+C0581519 Sign or Symptom
+C0581862 Finding
+C0581879 Sign or Symptom
+C0581911 Finding
+C0581912 Finding
+C0595963 Sign or Symptom
+C0598937 Mental or Behavioral Dysfunction
+C0686739 Finding
+C0686740 Finding
+C0686741 Finding
+C0686742 Finding
+C0686743 Finding
+C0686744 Finding
+C0686745 Finding
+C0686746 Finding
+C0686747 Finding
+C0686748 Finding
+C0686749 Finding
+C0686750 Finding
+C0686751 Finding
+C0686752 Finding
+C0686753 Finding
+C0686754 Finding
+C0686755 Finding
+C0700200 Sign or Symptom
+C0751535 Sign or Symptom
+C0751536 Sign or Symptom
+C0849970 Sign or Symptom
+C0857087 Finding
+C0878578 Sign or Symptom
+C1096625 Sign or Symptom
+C1282984 Finding
+C1287053 Finding
+C1332836 Sign or Symptom
+C1337102 Finding
+C1386058 Sign or Symptom
+C1388861 Mental or Behavioral Dysfunction
+C1388865 Mental or Behavioral Dysfunction
+C1391734 Mental or Behavioral Dysfunction
+C1397022 Sign or Symptom
+C1397263 Sign or Symptom
+C1404888 Mental or Behavioral Dysfunction
+C1404896 Mental or Behavioral Dysfunction
+C1404897 Mental or Behavioral Dysfunction
+C1405433 Mental or Behavioral Dysfunction
+C1406074 Sign or Symptom
+C1406671 Sign or Symptom
+C1406730 Mental or Behavioral Dysfunction
+C1406736 Finding
+C1446235 Finding
+C1510453 Sign or Symptom
+C1563012 Finding
+C1720231 Sign or Symptom
+C1720342 Sign or Symptom
+C1744587 Finding
+C1883552 Sign or Symptom
+C1998149 Sign or Symptom
+C2010734 Finding
+C2018708 Sign or Symptom
+C2018709 Sign or Symptom
+C2024889 Finding
+C2024890 Finding
+C2024891 Finding
+C2024892 Finding
+C2024893 Finding
+C2024894 Finding
+C2024895 Finding
+C2024896 Finding
+C2024897 Finding
+C2030955 Sign or Symptom
+C2030956 Sign or Symptom
+C2037120 Sign or Symptom
+C2046405 Finding
+C2049683 Finding
+C2049684 Finding
+C2051408 Finding
+C2051413 Finding
+C2063083 Finding
+C2063393 Mental or Behavioral Dysfunction
+C2080658 Finding
+C2096293 Finding
+C2096294 Finding
+C2096295 Finding
+C2096296 Finding
+C2103682 Finding
+C2103683 Finding
+C2103684 Finding
+C2113593 Sign or Symptom
+C2116487 Sign or Symptom
+C2126090 Sign or Symptom
+C2126115 Sign or Symptom
+C2126117 Sign or Symptom
+C2126118 Sign or Symptom
+C2127291 Sign or Symptom
+C2127292 Sign or Symptom
+C2127293 Sign or Symptom
+C2127294 Sign or Symptom
+C2127295 Sign or Symptom
+C2127296 Sign or Symptom
+C2127297 Finding
+C2128352 Sign or Symptom
+C2130133 Sign or Symptom
+C2138920 Finding
+C2148125 Finding
+C2169798 Sign or Symptom
+C2169801 Sign or Symptom
+C2183875 Sign or Symptom
+C2183876 Sign or Symptom
+C2188004 Sign or Symptom
+C2188005 Sign or Symptom
+C2197399 Finding
+C2197400 Finding
+C2197401 Finding
+C2198887 Sign or Symptom
+C2198888 Sign or Symptom
+C2198889 Sign or Symptom
+C2198890 Sign or Symptom
+C2198891 Sign or Symptom
+C2198892 Sign or Symptom
+C2198893 Sign or Symptom
+C2198894 Sign or Symptom
+C2198895 Sign or Symptom
+C2198896 Sign or Symptom
+C2198897 Sign or Symptom
+C2198898 Sign or Symptom
+C2198899 Sign or Symptom
+C2198900 Sign or Symptom
+C2198901 Sign or Symptom
+C2219727 Sign or Symptom
+C2219728 Sign or Symptom
+C2219729 Sign or Symptom
+C2219835 Sign or Symptom
+C2219836 Sign or Symptom
+C2219845 Sign or Symptom
+C2219846 Sign or Symptom
+C2219960 Sign or Symptom
+C2219961 Sign or Symptom
+C2219962 Sign or Symptom
+C2219963 Sign or Symptom
+C2219964 Sign or Symptom
+C2219965 Sign or Symptom
+C2219966 Sign or Symptom
+C2219967 Sign or Symptom
+C2219968 Sign or Symptom
+C2219969 Sign or Symptom
+C2219970 Sign or Symptom
+C2219983 Sign or Symptom
+C2220057 Sign or Symptom
+C2220247 Sign or Symptom
+C2231398 Sign or Symptom
+C2232724 Sign or Symptom
+C2232725 Sign or Symptom
+C2232726 Sign or Symptom
+C2232727 Sign or Symptom
+C2232728 Sign or Symptom
+C2232737 Sign or Symptom
+C2234330 Finding
+C2234331 Finding
+C2367212 Sign or Symptom
+C2367442 Sign or Symptom
+C2367443 Sign or Symptom
+C2367594 Sign or Symptom
+C2367595 Sign or Symptom
+C2711755 Mental or Behavioral Dysfunction
+C2732413 Finding
+C2919620 Finding
+C2937246 Finding
+C3161955 Finding
+C3266106 Sign or Symptom
+C3266107 Sign or Symptom
+C3272263 Finding
+C3531740 Finding
+C3532678 Sign or Symptom

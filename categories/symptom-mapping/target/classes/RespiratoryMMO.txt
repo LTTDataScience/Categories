@@ -1,0 +1,8 @@
+C0017650  Globus Hystericus
+C0149715  HYPERVENTILATION SYNDROME
+C0241424  Biting of oral mucosa - tongue
+C0264633  Voice disorder due to transsexualism
+C0338948  Psychogenic yawning
+C2143022  psychophysiological hyperventilation (diagnosis)
+C2143029  psychophysiological respiratory malfunction (diagnosis)
+C2702809  psychophysiological aerophagy

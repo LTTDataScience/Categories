@@ -1,0 +1,3490 @@
+C0000727  Abdomen, Acute
+C0000729  ABDOMINAL CRAMP
+C0000737  Abdominal Pain
+C0003107  Anogenital pruritus
+C0003126  Sense of smell, absent
+C0003564  Loss of voice
+C0004093  Asthenia
+C0004134  Ataxia
+C0004158  Athetoses
+C0004317  Aural headache
+C0005747  Blepharospasm
+C0005874  Blush
+C0007758  Ataxia, Cerebellar
+C0007859  Cervicalgia
+C0008983  Clitoral erection, painful
+C0009024  Clonus
+C0009090  Cluttering
+C0009193  Coccygodynia
+C0009951  Convulsion
+C0010263  Cramp in limb
+C0010520  Cyanoses
+C0011124  Libido, Decreased
+C0011364  Dental headache
+C0012766  Disturbance of skin sensation
+C0012833  Dizziness
+C0013196  Drug pigmentation
+C0013421  Dystonia
+C0013428  Dysuria
+C0014394  Enuresis
+C0014724  Burping
+C0015468  Facial Pain
+C0015644  Muscular fasciculation
+C0015672  Tiredness
+C0015970  Fever of Unknown Origin
+C0016199  FLANK PAIN
+C0016204  Flatulence
+C0016205  Flatulence, eructation, and gas pain
+C0016382  Flushing
+C0018681  Headache
+C0018834  Heartburn
+C0018991  Hemiplegia
+C0019559  HIP PAIN
+C0020429  Hyperpathia
+C0020453  Hyperesthesia
+C0020530  Hypersomnia with sleep apnea
+C0021177  Libido, Increased
+C0021712  Intention myoclonus
+C0023218  LEG CRAMP
+C0023380  Lethargy
+C0024031  Back Pain, Low
+C0024528  Malaise and fatigue
+C0025287  Meningism
+C0026821  MUSCLE CRAMPS
+C0026826  Hypertonia, Muscle
+C0026837  Muscle Rigidity
+C0026838  Muscle Spasticity
+C0027066  Jerking, Myoclonic
+C0027427  Nasal headache
+C0027769  Nervousness
+C0027796  Neuralgias
+C0028643  Numbness
+C0028838  Ocular headache
+C0029089  Oculomotor Paralysis
+C0030197  Pain in or around eye
+C0030214  Palatal myoclonus
+C0030218  Palate paralysis
+C0030232  Pallor
+C0030552  Paresis
+C0030554  PARESTHESIAS
+C0030794  Pelvic Pain
+C0032810  Postseizure headache
+C0033774  Itching
+C0033775  Pruritus Ani
+C0033776  Pruritus gravidarum
+C0033777  Pruritus of genital organs
+C0033778  Pruritus Vulvae
+C0034880  Loudness Recruitment
+C0034886  RECTUM PAIN
+C0034933  Abnormal Reflex
+C0036356  Language, Schizophrenic
+C0036396  Sciatic neuralgia
+C0036572  Seizure
+C0037195  Sinus headache
+C0037317  Unspecified sleep disturbance
+C0037763  Spasm
+C0037771  Parapareses, Spastic
+C0039070  Faintness
+C0039591  TESTICULAR PAIN
+C0040416  Adie's pupil
+C0040460  Toothache
+C0040485  Wry neck
+C0040822  Tremors
+C0040827  Tremor, saturnine
+C0041834  Erythema
+C0042256  VAGINAL ITCHING
+C0042571  Vertigo
+C0042818  Visual discomfort
+C0043066  Waterbrash
+C0085594  Chills and fever
+C0085620  Flaccid paralysis
+C0085624  Burning sensation
+C0085625  Hypalgesia
+C0085631  Agitation
+C0085632  Apathy
+C0085635  Photopsia
+C0085636  Photophobia
+C0086439  Decreased activity
+C0086525  Lassitude
+C0087169  Symptom, Withdrawal
+C0149793  TRANSIENT MONOCULAR BLINDNESS
+C0149840  Senile tremor
+C0151206  Scalp tenderness
+C0151315  Neck stiffness
+C0151564  COGWHEEL RIGIDITY
+C0151767  LIVER TENDERNESS
+C0151827  OCULAR PAIN
+C0151830  URETHRAL PAIN
+C0151838  CIRCUMORAL PARESTHESIA
+C0151908  DRY SKIN
+C0152030  IRRITATION SKIN
+C0152116  Spasmodic torticollis
+C0152149  Mittelschmerz
+C0152169  Renal colic
+C0154693  Flaccid hemiplegia
+C0154694  Spastic hemiplegia
+C0154729  Atypical face pain
+C0155001  Subjective visual disturbances
+C0155002  Sudden visual loss
+C0155004  Visual distortions of shape and size
+C0155344  Spasm of conjugate gaze
+C0155347  Anomalies of divergence
+C0155382  Deficiencies of smooth pursuit movements
+C0155533  Subjective tinnitus
+C0155534  Objective tinnitus
+C0159030  Insomnia with sleep apnea
+C0159034  Transient paralysis of limb
+C0159040  Changes in skin texture
+C0175848  Sacrocoxalgia
+C0178419  CRAMPS IN THE CALVES
+C0178422  FOOT CRAMPS
+C0184566  Comfort alteration
+C0184567  Acute pain
+C0220870  Lightheadedness
+C0221100  HANGOVER EFFECT
+C0221150  ODYNOPHAGIA
+C0221166  PARAPARESIS
+C0221169  HEMIBALLISMUS
+C0221170  MUSCLE STIFFNESS
+C0221512  ACHE STOMACH
+C0221539  Transient alteration of awareness
+C0221727  ESOPHAGEAL PAIN
+C0221730  NUMBNESS PERIORAL
+C0221776  MOUTH PAIN
+C0231218  Malaise
+C0231230  FATIGABILITY
+C0231234  Senile asthenia
+C0231270  Artificial fever
+C0231272  Fever, hysterical
+C0231384  Alteration in comfort: pain
+C0231385  Alteration in comfort: chronic pain
+C0231514  Local spasm
+C0231515  Diffuse spasm
+C0231521  Decorticate rigidity
+C0231530  TWITCHING
+C0231531  Fibrillation, muscular
+C0231613  Occipital headache
+C0231623  Femoral neuralgia
+C0231661  Flail elbow
+C0231697  Intermittent double-step gait
+C0231700  Double step gait
+C0231701  Drag-to gait
+C0231702  Four-point gait
+C0231703  Swing-through gait
+C0231704  Three-point gait
+C0231705  Oppenheim's gait
+C0231706  Circling
+C0231712  Duck gait
+C0231715  Extensor lurch
+C0231725  Short-leg limp
+C0231772  Burning feet
+C0231773  Calcaneal gait
+C0231779  Heel-toe gait
+C0231785  CARPOPEDAL SPASM
+C0232085  Diaphragmatic spastic contraction
+C0232292  CHEST TIGHTNESS OF
+C0232487  ABDOMINAL DISCOMFORT
+C0232488  Colic
+C0232491  CHRONIC ABDOMINAL PAIN
+C0232492  ABDOMINAL PAIN UPPER
+C0232493  EPIGASTRIC ABDOMINAL PAIN
+C0232494  Burning epigastric pain
+C0232495  ABDOMINAL PAIN LOWER
+C0232496  Midabdominal crampy pain
+C0232497  Abdominal involuntary guarding
+C0232498  Abdominal tenderness
+C0232500  Abdominal hyperesthesia
+C0232504  Umbilical pain
+C0232533  Esophageal chest pain
+C0232537  Esophageal colic
+C0232593  Cardiac sphincter, hypertensive spasm
+C0232695  Bowel sounds, decreased
+C0232726  TENESMUS
+C0232766  ASTERIXIS
+C0232847  Enuresis, primary
+C0232848  Enuresis, secondary
+C0232849  BLADDER PAIN
+C0232857  Psychogenic dysuria
+C0232858  Dysuria, spastic
+C0232954  Myelomenia
+C0233467  Inappropriate affect
+C0233470  Constricted affect
+C0233473  Unpleasurable affect
+C0233480  Hyperirritability
+C0233536  Overlying behavior
+C0233562  Disturbance in motor activity, NOS
+C0233565  Slow physical movement
+C0233576  Mannerism
+C0233608  Catatonic rigidity
+C0233612  Cerea flexibilitas
+C0233647  Neologism
+C0233759  Elementary hallucination
+C0233762  Auditory Hallucinations
+C0233763  HALLUCINATION VISUAL
+C0233765  Hallucination, olfactory
+C0233766  Gustatory hallucination
+C0233769  Hallucination, lilliputian
+C0233773  Hypnagogic Hallucinations
+C0233775  Mood-congruent hallucination
+C0233776  Mood-incongruent hallucination
+C0233844  CLUMSINESS
+C0233973  Painful penile erection
+C0234038  Painful sexual act of male
+C0234131  Motor dysfunction, NOS
+C0234132  Pyramidal sign
+C0234133  Extrapyramidal sign
+C0234163  Dysmetria, rebound
+C0234165  Hypometria
+C0234166  Hyperexplexia
+C0234178  Kernig's sign
+C0234179  Brudzinski's sign
+C0234184  Dyserethism
+C0234188  Tactile anesthesia
+C0234190  Thermal hypesthesia
+C0234191  Thermal anesthesia
+C0234202  Absence of tickle sensation
+C0234213  Denervation, sensory
+C0234215  Discomfort
+C0234235  Tissue sensitivity
+C0234241  Indifference to pain
+C0234246  Abdominal rebound pain
+C0234248  Neuralgia, reminiscent
+C0234259  Hyperosmia
+C0234261  Sensitivity to individual odor
+C0234357  ADIADOKOKINESIS
+C0234362  Synkinesia
+C0234363  Post-hemiplegic chorea
+C0234367  Ataxia, single limb
+C0234369  Involuntary trembling
+C0234370  Persistent tremor
+C0234371  Continuous tremor
+C0234372  Intermittent tremor
+C0234373  Fine tremor
+C0234374  Coarse tremor
+C0234375  Massive tremor
+C0234376  Action tremor
+C0234377  Passive tremor
+C0234378  Static tremor
+C0234379  Rest tremor
+C0234380  Post-hemiplegic tremor
+C0234381  Darkness tremor
+C0234382  Toxic tremor, NOS
+C0234383  Tremor opiophagorum
+C0234542  Aura, epileptic
+C0234544  Paralysis, Todd's
+C0234614  MISCELLANEOUS CNS SIGNS AND SYMPTOMS
+C0234615  Cord sign
+C0234616  Empty delta sign
+C0234655  Burning sensation in eye
+C0234656  PERIORBITAL PAIN
+C0234660  Eyes tire easily
+C0234666  Ocular crisis
+C0234706  Chromatic aberration of vision
+C0234750  Objective vertigo
+C0234757  Brain stem vertigo
+C0234853  Facial grimacing
+C0234943  ANESTHESIA APPLICATION SITE
+C0234944  ANESTHESIA INJECTION SITE
+C0234979  DYSDIADOCHOKINESIS
+C0235002  HEAD DISCOMFORT
+C0235004  HEAD PRESSURE
+C0235005  HEAD TIGHTNESS
+C0235006  HYPERESTHESIA SKIN
+C0235014  FONTANEL BULGING
+C0235018  NUMBNESS LOCALIZED
+C0235031  NEUROLOGIC SYMPTOMS
+C0235044  PARESTHESIA DISTAL
+C0235045  PARESTHESIA MUCOSAL
+C0235046  PARESTHESIA SKIN
+C0235049  TINGLING MUCOSAL
+C0235050  TINGLING SKIN
+C0235055  PARALYSIS SKELETAL MUSCLE
+C0235056  PARALYSIS MUSCLE GENERAL SKELETAL
+C0235057  PARALYSIS MUSCLE LOCAL SKELETAL
+C0235060  PARALYSIS LOWER MOTOR NEURON TYPE
+C0235068  Flittering scotoma
+C0235076  TONGUE SLUGGISH
+C0235078  TREMOR PERIORAL
+C0235081  TREMOR LIMB
+C0235082  TREMOR MUSCLE
+C0235083  TREMOR NERVE
+C0235108  FEELING TENSE
+C0235160  SLEEP RESTLESS
+C0235162  SLEEP DIFFICULT
+C0235169  EXCITABILITY
+C0235242  SYNCOPE EXERTIONAL
+C0235282  EAR ROARING
+C0235283  EAR BUZZING
+C0235285  EAR HISSING
+C0235290  TASTE BITTER
+C0235293  TASTE PECULIAR
+C0235296  EPIGASTRIC PAIN NOT FOOD-RELATED
+C0235299  RUQ ABDOMINAL PAIN
+C0235307  EPIGASTRIC FOOD-RELATED PAIN
+C0235318  FULLNESS ABDOMINAL
+C0235612  URETHRAL BURNING ON MICTURITION
+C0235632  LOIN PAIN
+C0235633  URETERAL PAIN
+C0235634  COSTOVERTEBRAL ANGLE TENDERNESS
+C0235698  Abdom.distension, gaseous
+C0235710  CHEST DISCOMFORT
+C0235721  HEAVINESS IN LIMBS
+C0235777  CYANOSIS NEONATAL
+C0235778  DYSKINESIA NEONATAL
+C0235808  PERINEAL PAIN MALE
+C0235843  TREMOR NEONATAL
+C0235956  ABSCENCES
+C0236000  JAW BONE PAIN
+C0236078  SCROTAL PAIN
+C0236080  Discomfort of vagina
+C0236082  Vaginal pain
+C0238551  LLQ ABDOMINAL PAIN
+C0238552  LUQ ABDOMINAL PAIN
+C0238637  Anal pain
+C0238973  cheek pain (symptom)
+C0239206  EAR CRACKLING
+C0239278  Epididymal pain
+C0239375  EXTREMITY NUMBNESS
+C0239430  pain with eye movement
+C0239435  TENDERNESS EYE
+C0239511  Numbness of face
+C0239512  one-sided facial pain
+C0239517  FACIAL PARESTHESIA
+C0239532  Facial tenderness
+C0239548  Fasciculation of tongue
+C0239575  Remittent fever
+C0239649  Numbness of foot
+C0239739  GINGIVAL PAIN
+C0239779  Grimace
+C0239783  PAIN GROIN
+C0239832  Numbness of hand
+C0239836  HAND PARESTHESIA
+C0239886  Frontal headache
+C0239889  excruciating headache
+C0240194  Blue lips
+C0240311  maxillary pain (symptom)
+C0240327  TASTE METALLIC
+C0240564  Pain of nose
+C0240717  [D] Perineal pain
+C0240735  Personality change, NOS
+C0240812  PAIN PROSTATIC
+C0240940  Scalp pain
+C0240941  Scalp pruritus
+C0240958  nerve pain sciatic
+C0240991  Sensory ataxia
+C0241057  BURNING SKIN
+C0241136  Pain of skin
+C0241164  Skin tenderness
+C0241165  Thickening of skin
+C0241310  Suprapubic pain
+C0241413  burning sensation in toes
+C0241439  Paraesthesia of tongue
+C0241538  UPPER EXTREMITY NUMBNESS
+C0241562  Urethral meatal pain
+C0241705  URINATION DIFFICULTY
+C0241709  Burning sensation of vulva
+C0241718  Pain of vulva
+C0241981  Loss of balance
+C0242429  Sore Throat
+C0262527  INTERMITTENT ABDOMINAL PAIN
+C0262578  NIGHT CRAMPS
+C0263355  RASH SCARLATINIFORM
+C0264588  SPASTIC DYSPHONIAS
+C0264598  Spastic aphonia
+C0264599  Aphonia paralytica
+C0264601  Flaccid dysphonia
+C0264602  Spastic pseudobulbar dysphonia
+C0264609  Dysphonia of essential tremor
+C0266836  Colic infantile
+C0267169  Gastric tympany
+C0267633  Appendiceal colic
+C0268988  Itching of penis
+C0270327  Enuresis, nocturnal
+C0270541  Rebound insomnia
+C0270697  Headache following lumbar puncture
+C0270777  Edema of spinal cord
+C0270795  Monoparesis
+C0270844  Tonic seizures
+C0271185  Metamorphopsia
+C0271188  Visual Halos
+C0277794  Prostration
+C0277799  Intermittent fever
+C0277820  Clasp-knife effect
+C0277821  Extrapyramidal rigidity
+C0277845  Retropulsion
+C0277852  Stocking anesthesia
+C0277969  Abdominal pain through to back
+C0277970  Abdominal pain worse on motion
+C0277972  Abdominal voluntary guarding
+C0277998  Absent palatal reflex
+C0278107  Painful ejaculation
+C0278114  Cerebral paraplegia
+C0278115  Paraplegia, spinal
+C0278118  Cerebral paraparesis
+C0278126  Loss of equilibrium
+C0278134  Anesthesia
+C0278147  NERVE ROOT PAIN
+C0278155  Taste-blindness
+C0278161  Kinetic ataxia
+C0278184  Scanning speech
+C0278248  Barany's sign
+C0282005  Swelling of Scrotum
+C0302540  Generalized abdominal tenderness (finding)
+C0302807  AGITATION MENTAL
+C0311212  Migrating cheilosis
+C0312422  BLACK-OUT (NOT AMNESIA)
+C0332579  Black and blue
+C0338642  Toxic confusional state
+C0339667  Voluntary nystagmus
+C0339693  Internal ophthalmoplegia
+C0339780  Syncopal vertigo
+C0341865  Menopausal headache
+C0343494  RISUS SARDONICUS
+C0344232  Blurred vision
+C0344239  Mixed nystagmus
+C0344240  Irregular nystagmus
+C0344246  Postural nystagmus
+C0344304  General abdominal pain-symptom
+C0344306  Intercostal neuralgia
+C0344307  Analgesia
+C0344375  Stomach cramps
+C0347826  C/O nightmares
+C0349681  Spontaneous nystagmus
+C0349683  Body positional nystagmus
+C0349684  Neck positional nystagmus
+C0375209  Flaccid hemiplegia of nondominant side
+C0375212  Spastic hemiplegia of nondominant side
+C0392156  Akathisia
+C0392162  CLAMMINESS
+C0392184  PILL HANGOVER
+C0392674  EXHAUSTION
+C0392699  DYSESTHESIA
+C0392700  Color taste
+C0392701  Giddiness
+C0393588  Paroxysmal dystonia
+C0393610  Diurnal dystonia
+C0393750  External compression headache
+C0393754  Headache ass with sex activity
+C0393759  Transient insomnia
+C0393764  Exc dytme slpnss norm night sl
+C0393765  24 hour hypersomnolence
+C0393766  Postviral excessive daytime sleepiness
+C0393767  Exc dytm sleep & par not catap
+C0393775  Sleep-related head banging
+C0393903  Painful legs and moving toes
+C0395923  Multisensory dizziness
+C0395959  Tinnitus of vascular origin
+C0399410  Teeth staining due to metals
+C0399411  Teeth staining due to drugs
+C0399459  Discomfort in mouth
+C0399590  Drug-induced xerostomia
+C0400882  Chr nonspecific abdom pain
+C0404484  Chronic pelvic pain
+C0406399  Urticaria geographica
+C0406400  Menstrual urticaria
+C0406402  Erythema fugax
+C0406403  Delayed dermographism
+C0406404  Cold reflex urticaria
+C0406405  Delayed cold sensitivity
+C0406406  Persist cholinergic urticaria
+C0406407  Cholinergic pruritus
+C0406408  Reflex urticaria
+C0406411  Immune complex urticaria
+C0406672  Proctodynia
+C0406833  Wound erythema
+C0406846  Post-episiotomy pain
+C0420855  Headache caused by o.c. pill
+C0422879  CNS symptom
+C0422885  Allochiria
+C0423042  Divergence paralysis
+C0423386  Silver wire retinal artery
+C0423571  Abnormal sensation
+C0423572  Pins and needles
+C0423599  Sensation as if rectum still full
+C0423610  Female genital pain
+C0423617  Shooting headache
+C0423618  Headache Throbbing
+C0423619  Aching headache
+C0423621  TEMPORAL HEADACHE
+C0423622  Parietal headache
+C0423623  Bilateral headache
+C0423628  Painful teething
+C0423640  Right flank pain
+C0423641  Left flank pain
+C0423642  Right subcostal pain
+C0423643  Left subcostal pain
+C0423644  Central abdominal pain
+C0423645  Subcostal pain
+C0423646  Site of abdominal pain
+C0423647  Iliac fossa pain
+C0423649  Abdominal migraine - symptom
+C0423650  Non-colicky abdominal pain
+C0423655  Pain on abdom wall movement
+C0423674  Pain in cervical spine
+C0423681  Pain in lumbar spine
+C0423683  Lumbar ache - renal
+C0423685  Acute thoracic back pain
+C0423689  Post compartment low back pain
+C0423701  Urinary tract pain
+C0423703  Genitourinary pain
+C0423707  Lateral femor cutaneous neur
+C0423708  Obturator neuralgia
+C0423709  Cruralgia
+C0423710  Segmental peripheral neuralgia
+C0423713  Ilioinguinal nerve neuralgia
+C0423714  Genitofemoral nerve neuralgia
+C0423715  Testicular neuralgia
+C0423718  Thalamic pain
+C0423721  Painful arms and moving fing
+C0423735  Tenesmus, urinary
+C0423736  Burning on urination
+C0423739  Tenesmus - anal
+C0423746  Pain on penetration
+C0423773  SKIN SCALY
+C0424068  Hearing voices
+C0424071  Unformed visual hallucinations
+C0424072  Formed visual hallucinations
+C0424083  Dissociative hallucinations
+C0424275  Reaction to sudden wakening
+C0424276  Repetitive dreams
+C0424284  Sleep automatism
+C0424359  [D]Self-neglect (context-dependent category)
+C0424518  Flushes/goes red
+C0424520  Gets drowsiness
+C0424535  Vasovagal symptom
+C0424569  Circumstances interfere sleep
+C0424570  Symptoms interfere with sleep
+C0424572  Can't wake up
+C0426390  Spasm of bladder
+C0426623  Excessive flatulence
+C0426631  Unable to break wind
+C0426649  Bowel spasm
+C0426785  Intermittent torticollis
+C0427042  Stiff neck symptom
+C0427086  INVOLUNTARY MOVEMENT (NOS)
+C0427092  Has a tic
+C0427149  Dropfoot gait
+C0427190  Truncal ataxia
+C0438432  Angioscotoma
+C0438434  Ring scotoma
+C0439019  C/O - ureteric colic
+C0439040  C/O - loin pain
+C0439042  C/O - renal pain
+C0439052  Polyphagia symptom
+C0439053  Fatigue - symptom
+C0439814  Prickling sensation
+C0451632  Sore nostril
+C0451633  Sore lip
+C0451941  Itching of scrotum
+C0452143  Flaccid paraplegia
+C0454539  Covert stammering
+C0454542  Acquired stammering
+C0454545  Hyperkinetic dysphonia
+C0454596  Pseudobulbar palsy dysarthria
+C0454597  Bulbar palsy dysarthria
+C0454598  Comb flaccd/spastic dysarthria
+C0454605  Oral choreiform movement
+C0455981  C/O - ureteric pain
+C0456073  Neonatal facial petechiae
+C0456074  Traumat neonat facial cyanosis
+C0457950  Acute back pain - lumbar
+C0458002  Acquired dysphasias
+C0458104  Pain in male genitalia
+C0458109  Ovarian pain
+C0458110  Cervical trigger point syndrom
+C0458112  Chr pelv pain w/out obv pathol
+C0458116  Lumbar trigger point syndrome
+C0458232  Arthralgia of sacroiliac joint
+C0458960  Peripheral neuropathic pain
+C0474366  Generalised headache
+C0474520  Generalised myokymia
+C0475858  Generalised itching
+C0476206  Dizziness and giddiness
+C0476207  Giddiness
+C0476211  Sleep dysfunct./sleep stage
+C0476212  Sleep dysfunction with arousal disturbance
+C0476217  Abnormal head movements
+C0476223  Crossed laterality
+C0476226  Anaesthesia of skin
+C0476289  GAS PAIN
+C0476305  Hypochondrial pain
+C0476306  Pain in right iliac fossa
+C0476307  Left iliac fossa pain
+C0476311  [D]Umbilical swelling (context-dependent category)
+C0476457  Senile debility
+C0476481  Chronic intractable pain
+C0476543  [D]Symptoms and signs involving appearance and behavior (context-dependent category)
+C0478659  Pelvic and perineal pain
+C0478662  Slowness & poor responsiven
+C0494475  SEIZURE GRAND MAL
+C0495671  Flatulence and related conditions
+C0495696  Hypernasality and hyponasality
+C0497134  Excessive crying infant
+C0497293  Vertigo/dizziness
+C0497364  Local redness/erythema/rash
+C0497366  Other changes in skin color
+C0497481  PENILE PAIN
+C0520559  Numbness of tongue
+C0520587  Vulvovaginal discomfort
+C0520588  Vulvovaginal pain
+C0520821  Pleurothotonos
+C0520822  Wrist clonus
+C0520901  Increased skin sensitivity
+C0520902  Decreased skin sensitivity
+C0521005  Apoplectic vertigo
+C0521485  Mucosal numbness
+C0521486  BURNING MUCOSAL
+C0521503  Injection site burning
+C0521506  Injection site paraesthesia
+C0521591  MOUTH PARESTHESIA
+C0521592  Oral hypoaesthesia
+C0521628  Itching of male genital organs
+C0521634  Female genital pruritus
+C0521651  Excessive crying in the newborn
+C0521662  Transient hemiplegia
+C0521663  Chronic progressive paraparesis
+C0521668  Thunderclap headache
+C0521765  Nystagmus unchanged when fixation removed
+C0521766  Nystagmus inhibited when fixation removed
+C0521787  Clicking sound in ear
+C0521788  Crackling sound in ear
+C0521789  Nervous tinnitus
+C0521790  Non-vibratory tinnitus
+C0521791  Vibratory tinnitus
+C0521800  Central cyanosis
+C0521815  Vertigo preceded by head injury
+C0521991  Symptoms of stress
+C0522030  Recumbency cramps
+C0522031  Cervical spinous process tenderness
+C0522032  Neck pain aggravated by recumbency
+C0522037  Dyspraxia of arm
+C0522042  Loss of control of legs
+C0522047  Photoptarmosis
+C0522057  Numbness of skin
+C0522061  Localized abdominal pain
+C0522062  Ulcer-type pain
+C0522067  Liver pain
+C0522071  Pancreatalgia
+C0522123  Renal angle pain
+C0522245  Feeling hot and cold
+C0522250  Postpartum headache
+C0522256  Thoracic nerve root pain
+C0522257  Lumbosacral nerve root pain
+C0522331  Abnormal lateral conjugate gaze
+C0522349  Essential vertigo
+C0522353  Horizontal vertigo
+C0522354  Matutinal vertigo
+C0522355  Height vertigo
+C0522358  Intermittent vertigo
+C0522359  Constant vertigo
+C0522360  Visually-induced vertigo
+C0522361  Vertigo produced by neck pressure
+C0522362  Vertigo preceded by prolonged dental work or oral surgery
+C0522363  Vertigo preceded by chewing
+C0522364  Drug-induced vertigo, NOS
+C0522365  Severe vertigo
+C0522366  Severe vertigo, acute onset
+C0522367  Vertigo preceded by unsteady feeling
+C0522368  Vertigo, acute onset with vomiting and inability to stand
+C0522369  Vertigo when trying to urinate
+C0522370  Hearing loss remits during vertigo attacks
+C0522371  Vertigo associated with recent change in eyeglasses
+C0541798  Insomnia, matutinal
+C0541976  GAS IN STOMACH
+C0542239  TIRED AND HEAVY
+C0542267  WEAKNESS POSTURAL
+C0542476  FORGETFULNESS
+C0544668  Hallucination, kinesthetic
+C0546947  Sense of suffocation
+C0547001  Myopathic gait
+C0547030  Visual disturbances
+C0549209  JITTERINESS
+C0554107  Appendicular pain
+C0554990  Pale - symptom
+C0555957  Scaly scalp
+C0555976  Vulva sore
+C0557875  Tired
+C0558486  Tiredness symptom NOS
+C0558489  KIDNEY PAIN
+C0558855  Meningism present
+C0559208  Anal stump pain
+C0559537  Perineal irritation
+C0560252  Post-vasectomy epididymal pain
+C0560253  Persistent testicular pain
+C0562456  Hypomanic behavior
+C0562459  Continuously shifting in seat
+C0563234  Painful tooth socket
+C0563276  Left sided abdominal pain
+C0563277  Right sided abdominal pain
+C0563287  Tightness in arm
+C0563608  Formed hallucination of people
+C0563661  Reflex hallucinations
+C0564773  Dyspareunia - non-psychogenic (finding)
+C0566948  Swelling of vagina
+C0573983  Nuchal pain
+C0574747  Pain on movement of skin
+C0575012  Cervical spine stiff
+C0575014  Lumbar spine stiff
+C0575081  Gait abnormality
+C0575090  Disorder of balance
+C0575465  Lasegue test positive (finding)
+C0576657  Cryanaesthesia
+C0576690  Decrease of position sense
+C0576700  Sensation of a lesion
+C0576701  Named sensory signs
+C0576705  Piano playing sign
+C0576707  Tightness sensation
+C0576710  Observation relating to fit
+C0576711  Observation of measures of fit
+C0576836  Pinna tender
+C0576837  General tenderness in pinna
+C0576838  Focal tenderness in pinna
+C0576841  Numbness of pinna
+C0577256  Prostate swelling
+C0577590  Swelling urogenital struct
+C0577591  Swelling urological struct
+C0577592  Swelling male genital struct
+C0577593  Epididymal swelling
+C0577594  Swelling female genital struct
+C0577655  Quadriceps weakness
+C0577660  Postural low back pain
+C0578043  Pain of eye structure
+C0578046  Maxillary sinus pain
+C0578047  Frontal sinus pain
+C0578051  Pain of oral cavity structure
+C0578052  Pain of digestive structure
+C0578057  Right hypochondrial pain
+C0578058  Left hypochondrial pain
+C0578077  Tenderness of eye structure
+C0578082  Tenderness of oral cav struct
+C0578083  Tenderness of digestive struct
+C0578084  Genitourinary tenderness
+C0578085  Urinary tract tenderness
+C0578086  Tenderness of male genitalia
+C0578087  Tenderness of female genitalia
+C0578093  Tenderness of epigastrium
+C0578094  Tenderness R hypochondrium
+C0578095  Tenderness L hypochondrium
+C0578096  Tenderness of central region
+C0578097  Tenderness of right lumbar
+C0578098  Tenderness of left lumbar
+C0578099  Tenderness of hypogastrium
+C0578100  RIF - Tenderness R iliac fossa
+C0578101  LIF - Tenderness L iliac fossa
+C0578102  Rebound tenderness epigastrium
+C0578105  Rebound tendern centr region
+C0578106  Rebound tendern R lumbar
+C0578107  Rebound tenderness L lumbar
+C0578108  Rebound tendern hypogastrium
+C0578109  RIF-Rebnd tendern R iliac foss
+C0578110  LIF-Rebnd tendern L iliac foss
+C0578475  Cyanotic attack
+C0578675  Thyrotoxic tremor
+C0578687  Sore eye
+C0578994  Bad taste in mouth
+C0581322  Bony pelvic pain
+C0581358  Gastric spasm (disorder)
+C0581362  Anorectal pain
+C0581519  Sensation of heaviness in limbs
+C0581869  Abdominal wall pain
+C0581870  Hunger pangs
+C0581875  Viral headache
+C0581879  Feeling faint
+C0581880  Morning headache
+C0581881  Heavy head
+C0581882  Trans neuro symptom
+C0585134  Perianal pain
+C0585540  Oculopalatal myoclonus
+C0585566  Nystagmus signs
+C0586392  Parkinsonian tremor
+C0586407  Skin symptoms NOS
+C0586738  Calf muscle weakness
+C0587054  Numbness of finger
+C0587055  Numbness of lower limb
+C0587056  Numbness of toe
+C0587058  Paraesthesia of upper extremity
+C0587223  Abdominal pain in pregnancy
+C0587246  Limb weakness
+C0589386  [D]Nonspecific abdominal pain (context-dependent category)
+C0595963  Muzziness
+C0596601  Gas
+C0600142  Hot flash
+C0677500  STINGING
+C0684219  Myokymia
+C0686729  Generalized chronic body aches
+C0686769  Hutchinson's mask
+C0687681  Feels feverish
+C0687713  GI PAIN
+C0694551  RLQ ABDOMINAL PAIN
+C0700078  Decreased deep tendon reflexes
+C0700153  Myotonus
+C0700200  NEAR SYNCOPE
+C0701795  Reaction to spinal or lumbar puncture
+C0701824  Gait, staggering
+C0740577  Acute abdominal pain
+C0740584  diffuse abdominal pain
+C0740880  Alcoholic withdrawal symptoms
+C0742514  COCAINE CRACK INDUCED CHEST PAIN
+C0742520  COCAINE INDUCED ANGINA
+C0742523  COCAINE INDUCED CHEST PAIN
+C0743670  numbness of hands and feet
+C0743724  retro-orbital pain
+C0744034  weakness in fingers (symptom)
+C0744636  bilateral frontal headache
+C0744646  new-onset headache
+C0744649  bilateral temporal headache (symptom)
+C0749134  SUICIDAL IDEATION DENIED
+C0750957  Blindness, total
+C0751186  Headache, Orthostatic
+C0751188  PDPH - Post dural puncture headache
+C0751192  Vertex Headache
+C0751251  secondary insomnia
+C0751372  NERVE PAIN
+C0751409  Monoparesis - arm
+C0751410  Muscle weakness of lower extremity
+C0751460  Flaccid tetraplegia
+C0751466  Phonophobia
+C0751495  partial seizure
+C0751535  SYNCOPE CARDIAC
+C0751536  Convulsive syncope (disorder)
+C0751564  Pill rolling
+C0751837  Ataxic gait
+C0752255  Impaired light touch sensation
+C0848211  skin papules generalized [as symptom]
+C0848213  skin papule localized to [as symptom]
+C0848332  Spots
+C0849907  itching of ears (symptom)
+C0849913  Localized erythema
+C0849916  generalized change in color of skin to red (erythema)
+C0849963  Feeling jittery
+C0849970  feeling tired (symptom)
+C0849993  fussy infant (diagnosis)
+C0850060  pruritus of nose
+C0850800  excessive crying of adult
+C0850809  total loss of vision in one eye (symptom)
+C0850814  muscle cramps in thigh (symptom)
+C0856054  Change in mental status
+C0856864  FULLNESS HEAD
+C0857160  numbness of legs (symptom)
+C0857217  TREMBLING INSIDE
+C0857278  vise-like headache
+C0857361  headache occurring
+C0858722  facial muscle twitching (symptom)
+C0860515  Frozen gait
+C0860635  fugue states (symptom)
+C0860645  Bizarre dreams
+C0863108  Numbness in shoulder
+C0866957  visuospatial neglect
+C0877040  fear of falling
+C0877197  Numbness of lip
+C0877487  tingling of lip (symptom)
+C0877495  tingling of tongue (symptom)
+C0877639  blister of gum (diagnosis)
+C0877717  burning sensation in mouth (symptom)
+C0877781  Hemicrania
+C0878578  Shaky leg syndrome
+C0917799  Hypersomnia disorder
+C0917801  Sleeplessness
+C0919793  breast pruritus
+C0920171  feels like something is in eye
+C0920289  SLUGGISHNESS
+C0948992  Paresthesia lower limb
+C1168149  circumoral tingling
+C1168188  headache comes and goes (recurrent)
+C1268585  Headache due to intracranial disease (finding)
+C1268587  Tympanic plexus neuralgia syndrome
+C1268591  Quadrantic scotoma (finding)
+C1274923  Cutaneous hyperalgesia (finding)
+C1274924  Cutaneous allodynia (finding)
+C1274925  painful skin
+C1274926  skin stinging
+C1274927  Formication of skin (finding)
+C1277287  Transient paraesthesia (finding)
+C1277295  Cough with fever (finding)
+C1277598  Intermittent drowsiness (finding)
+C1277673  Splitting toenail (finding)
+C1281941  abdominal early pain pregnancy
+C1282002  Abdominal pain - cause unknown (finding)
+C1282322  acute pelvic pain
+C1286433  Finding of headache character
+C1287517  Finding of pattern of fever
+C1287526  Finding of phase of fever
+C1290644  Extrinsic staining of teeth associated with oral habits (disorder)
+C1291077  Bloating
+C1291078  Epigastric discomfort
+C1299637  Colicky hypogastric pain (finding)
+C1300119  Generalised colicky abdominal pain
+C1304408  Urticarial vasculitis
+C1320474  NUCHAL RIGIDITY
+C1321324  Bruns nystagmus (disorder)
+C1321607  Fear of falling
+C1328466  Laryngopharyngeal Dysesthesia
+C1332239  Alterations in Smell or Taste
+C1332836  Cancer Fatigue
+C1333034  Chronic Cancer Pain
+C1334804  Motor Manifestations
+C1335944  Sensory Manifestations
+C1336970  Visual Manifestations
+C1385682  abdominal; pain, lower abdomen, pelvic or perineal
+C1386058  General physical deterioration
+C1386605  organic; aphonia
+C1387638  local skin lesion; anesthesia
+C1388031  quadrant anopsia
+C1389591  limitation; visual field
+C1390877  abdomen; tympany
+C1394864  abdominal rigidity; severe abdominal pain
+C1395353  diaphragm; spasm
+C1396873  eruption; ringed
+C1397022  imbalance; labyrinth,
+C1397229  febricula
+C1397263  phenomenon; vasomotor
+C1397829  frequency; micturition, and painful
+C1398152  lack of; responsiveness, behavior
+C1398200  behavior; poor responsiveness
+C1398206  behavior; slow
+C1398207  behavior; slowness
+C1398545  sense; anxiety
+C1398595  effects of; steroids, fever, correct substance properly administered
+C1398664  visual field; disability
+C1398665  deformity; visual field
+C1398667  vision; visual field
+C1398935  grand mal; seizures, petit mal
+C1399115  paralysis of hand
+C1399357  hemiparesthesia
+C1399359  hemiplegia; hypotonic
+C1399371  hemitremor
+C1400318  hypotonic; paraplegia
+C1400319  hypotonic; quadriplegia
+C1400453  fever; inanition
+C1401125  fever; intermittent, of unknown origin
+C1401289  irritation; nervous
+C1401304  ischiadicus; pain
+C1401357  fever; iodine, correct substance properly administered
+C1401750  fever; steroid, correct substance properly administered
+C1401823  cramp(s); uterus
+C1402130  low back; myofasciitis
+C1403230  lumbar region; pain
+C1403584  massive; myoclonus
+C1404572  n.ischiadicus; neuritis
+C1404807  nephralgia
+C1404860  nape; pain
+C1404861  nape; stiff
+C1404887  nervous; problem
+C1405030  pain; micturition, and frequent
+C1405032  lower abdomen; pain, pelvic or perineal
+C1406074  phenomenon; vasovagal
+C1406293  disorder; smell, complete (anosmia)
+C1406671  syncope; vasoconstriction
+C1406961  tic; douloureux, atypical
+C1407990  ureteralgia
+C1408330  renal calculus; colic
+C1408508  eyestrain; fatigue
+C1408578  incoordinate; speech
+C1408658  responsiveness; lack of
+C1408758  eye; tension
+C1408810  whistling in the ear
+C1410714  vaccine; meningismus
+C1411946  abdominal; pain, severe
+C1442808  Ascending hemiplegia
+C1442877  Sore
+C1446312  Erythematous mucosa (disorder)
+C1504494  tingling of limbs (symptom)
+C1510410  Parosmia
+C1527347  Difficulty speaking
+C1533286  pain; abdomen, epigastric
+C1536047  desquamation of lip
+C1562577  C/O: dry skin
+C1562677  Alcohol induced hallucinations (finding)
+C1579838  Sore mouth
+C1658104  arm numbness
+C1704276  Jerking
+C1705500  Flasher
+C1706846  Arm Or Hand Hypoesthesia
+C1708090  Foot Or Leg Hypoesthesia
+C1709099  Muscular Tic
+C1709227  Nipple Sensation Change Or Loss
+C1709528  Phosphene Visualization
+C1710534  Undesired Nerve Stimulation
+C1710621  Vasovagal Reaction
+C1720231  Malaise associated with AIDS (disorder)
+C1720342  Fatigue associated with AIDS (disorder)
+C1740831  Chronic chest pain
+C1768507  Yellow nails
+C1827253  Involuntary truncal rocking (finding)
+C1827358  Gait dyspraxia
+C1827954  Increased muscle tone - right side more than left side (finding)
+C1828384  Increased muscle tone - left side more than right side
+C1857155  Decreased taste
+C1883552  Weakness
+C1960183  Chronic vaginal pain
+C1960562  Physiological tremor
+C1960888  Pain in female pelvis
+C1960989  Pain radiating to neck (finding)
+C1997332  Lingual dysarthria
+C1997818  Rhinitis due to alpha-adrenergic blocking agent
+C1998149  Dizziness of unknown cause (finding)
+C1998226  Multifactorial gait problem (finding)
+C2004684  abnormality of walk difficulty pushing off with foot
+C2004685  abnormality of walk difficulty pushing off with left foot (symptom)
+C2004686  abnormality of walk difficulty pushing off with right foot (symptom)
+C2004687  abnormality of walk intermittent (symptom)
+C2004820  burning sensation in middle finger of right hand (symptom)
+C2004821  burning sensation in perianal area (symptom)
+C2004822  burning sensation in perineum
+C2004823  burning sensation in right ankle (symptom)
+C2004824  burning sensation in right arm or hand
+C2004825  burning sensation in right groin (symptom)
+C2004826  burning sensation in right inner thigh (symptom)
+C2004827  burning sensation in right leg or foot
+C2004828  burning sensation in right outer thigh
+C2004829  burning sensation in right thigh
+C2004830  burning sensation in ring finger of right hand (symptom)
+C2004831  burning sensation in thumb of left hand (symptom)
+C2004832  burning sensation in thumb of right hand
+C2004833  burning sensation in toes of left foot (symptom)
+C2004834  burning sensation in toes of right foot
+C2004835  burning sensation localized to area of exposure (symptom)
+C2004836  burning sensation on one entire side (symptom)
+C2004837  burning superficial skin pain (symptom)
+C2008804  frequent falls to left while walking (symptom)
+C2008805  frequent falls to right while walking
+C2008806  frequent falls while walking (symptom)
+C2008807  frequent heartburn
+C2008827  frequently become lost
+C2008829  frequently bumping into things or people (symptom)
+C2008831  frequently knocking things over (symptom)
+C2008832  frequently misjudging distance when stepping up or down (symptom)
+C2008833  frequently missing container when pouring liquids (symptom)
+C2008834  frequently missing when threading a needle (symptom)
+C2010380  gambling causing illegal or irresponsible financial activity
+C2010381  gambling disrupting family or job (symptom)
+C2010382  gambling with denial of extent of consequences (symptom)
+C2010774  generalized convulsions occurring with high fever
+C2010778  generalized dry skin (symptom)
+C2010780  foggy vision which is generalized
+C2010790  generalized sandpaper-like skin crusts excluding palms and soles (symptom)
+C2010791  generalized sandpaper-like skin lesions excluding palms and soles
+C2010797  generalized scrotal swelling (symptom)
+C2010801  generalized skin lesions excluding palms (symptom)
+C2010802  generalized skin lesions excluding palms and soles (symptom)
+C2010803  generalized skin lesions excluding soles of feet (symptom)
+C2010804  generalized lesions including the eyelid(s)
+C2010805  generalized skin lesions including interior of genitalia (symptom)
+C2010806  generalized skin lesions including interior of mouth (symptom)
+C2010807  generalized skin lesions including interior of nose
+C2010808  generalized skin lesions including interior of rectum (symptom)
+C2010809  generalized skin lesions including interior surfaces
+C2010810  generalized skin lesions including palms (symptom)
+C2010811  generalized skin lesions including palms and soles
+C2010812  generalized skin lesions including soles of feet (symptom)
+C2012471  gradual loss of vision in left half of visual field
+C2012472  slow loss left vision binocular
+C2012473  gradual loss of vision in lower half of visual field (symptom)
+C2012474  slow loss lower vision left
+C2012475  gradual loss of vision in lower half of visual field in right eye (symptom)
+C2012476  gradual loss of vision in lower half of visual fields in both eyes
+C2012477  gradual loss of vision in nasal half of visual field (symptom)
+C2012478  slow loss nasal vision binocular
+C2012481  gradual loss of vision in part of visual field (symptom)
+C2012482  gradual loss of vision in right half of visual field (symptom)
+C2012483  gradual loss of vision in right half of visual fields in both eyes (symptom)
+C2012484  gradual loss of vision in temporal half of visual field (symptom)
+C2012487  gradual loss of vision in temporal half of visual fields in both eyes (symptom)
+C2012488  gradual loss of vision in upper half of visual field
+C2012489  slow loss upper vision binocular
+C2012490  gradual loss of vision in upper half of visual field in left eye
+C2012491  gradual loss of vision in upper half of visual field in right eye (symptom)
+C2012492  gradual onset of abdominal pain
+C2012496  gradual onset of fever (symptom)
+C2012498  gradual onset of hip joint pain
+C2012500  lower back pain started gradually
+C2012598  groggy for too long upon awakening
+C2012602  swelling of lymph nodes in both sides of groin
+C2012603  groin pain progressive with decreased level of activity
+C2012604  groin pain progressive with same level of activity (symptom)
+C2012605  groin pain radiating to testicle (symptom)
+C2012606  radiating groin pain
+C2012607  groin pain worsens then abates
+C2012608  bilateral inguinal swelling
+C2012609  groin swelling on left
+C2016108  overreaction to real or imagined slights or failures (symptom)
+C2016845  soft tissue pain in the pelvic girdle
+C2016846  soft tissue pain in the pelvic girdle on both sides
+C2016847  soft tissue pain in the left pelvic girdle
+C2016848  soft tissue pain in the right pelvic girdle
+C2017774  sore throat comes and goes
+C2017775  fluctuating sore throat getting better and worse
+C2017776  sore throat getting progressively worse (symptom)
+C2017777  sore throat lasting more than two weeks (symptom)
+C2017778  sore throat on left side only (symptom)
+C2017779  sore throat on right side only (symptom)
+C2017780  sore throat radiating to ear (symptom)
+C2017781  recurrent sore throat
+C2017782  sore throat recurring daily (symptom)
+C2017783  sudden onset of sore throat (symptom)
+C2017784  sore throat triggered by swallowing (symptom)
+C2017785  sore throat worse early AM, late PM
+C2017786  sore throat worse in evening (symptom)
+C2017787  sore throat worse in AM
+C2018708  spinning dizziness started with straining
+C2018709  spinning dizziness upon lying down (symptom)
+C2019533  abdominal pain feels stabbing
+C2019782  staggering to left
+C2019783  staggering to right
+C2019869  staring spells (reported)
+C2020356  diffuse back stiffness (symptom)
+C2020617  street signs blurry until too late
+C2029213  cyanosis of hand or foot (symptom)
+C2029231  hanging, extra skin
+C2029232  hangover in remission (diagnosis)
+C2029690  headache accompanied by
+C2029691  headache associated factor (symptom)
+C2029692  headache associated with diarrhea (symptom)
+C2029693  headache accompanied by ipsilateral watery nasal discharge
+C2029694  headache associated with jaw clicks
+C2029695  headache associated with menarche (symptom)
+C2029696  headache associated with menopause
+C2029697  headache associated with menstrual cycle
+C2029698  headache accompanied by nausea
+C2029699  headache associated with pregnancy (symptom)
+C2029700  headache associated with red eyes (symptom)
+C2029701  headache associated with vomiting (symptom)
+C2029702  headache associated with tearing
+C2029703  headache associated with watery rhinorrhea (symptom)
+C2029704  headache causes awakening from sleep (symptom)
+C2029706  headache during particular times of year (symptom)
+C2029707  headache exacerbated by bending over (symptom)
+C2029708  headache made worse by odors
+C2029709  headache exacerbated by changing body position (symptom)
+C2029710  headache exacerbated by mastication
+C2029711  headache made worse by coughing or straining (Valsalva)
+C2029712  headache made worse by the dark
+C2029713  headache exacerbated by exertion (symptom)
+C2029714  headache exacerbated by eye movement (symptom)
+C2029715  headache exacerbated by head movement
+C2029716  headache exacerbated by laughing
+C2029717  headache exacerbated by light
+C2029718  headache exacerbated by lying down (symptom)
+C2029719  headache made worse by noise
+C2029720  headache made worse by standing or sitting up
+C2029721  headache exacerbated by teeth clenching
+C2029722  headache exacerbated by weather changes (symptom)
+C2029723  headache made worse by
+C2029725  headache lasting 1-3 days (symptom)
+C2029726  headache lasting several hours (symptom)
+C2029727  headache lasting several minutes or less (symptom)
+C2029728  headache lasting more than a week (symptom)
+C2029729  headache preceded by anxiety (symptom)
+C2029730  headache preceded by depression
+C2029731  headache preceded by difficulty speaking
+C2029732  headache preceded by diplopia
+C2029733  headache preceded by fatigue (symptom)
+C2029734  headache preceded by jagged lights or undulating lines
+C2029735  headache preceded by anopsia
+C2029736  headache preceded by loss of sensation in both arms (symptom)
+C2029737  headache preceded by loss of feeling in both legs
+C2029738  headache preceded by other symptoms (aura) (symptom)
+C2029739  headache preceded by partial visual field loss (hemianopsia)
+C2029740  headache preceded by seeing dark spot, bright jagged outline
+C2029741  headache preceded by fainting
+C2029742  headache is preceded by tension
+C2029743  headache preceded by transient bilateral blindness (symptom)
+C2029744  headache preceded by one leg or arm tingling or going numb
+C2029745  headache preceded by unilateral weakness (symptom)
+C2029746  headache preceded by unsteady gait
+C2029747  headache preceded by vertigo (symptom)
+C2029748  headache preceded by
+C2029749  headache precipitated by amyl nitrite (symptom)
+C2029750  headache precipitated by certain foods (symptom)
+C2029751  headache precipitated by certain medications (symptom)
+C2029752  headache precipitated by cheese (symptom)
+C2029753  headache precipitated by Chinese foods
+C2029754  headache precipitated by chocolate
+C2029755  headache precipitated by drinking alcohol
+C2029756  headache precipitated by hydralazine (symptom)
+C2029757  headache precipitated by indomethacin (symptom)
+C2029758  headache precipitated by nitroglycerin
+C2029759  headache precipitated by red wine
+C2029760  headache initiating factor
+C2029761  headache present upon awakening (symptom)
+C2029762  headache recurring at the same time every day
+C2029763  headache recurs in late afternoon every day
+C2029764  headache made better by eating
+C2029765  headache relieved by lying down
+C2029767  headache made better by medication
+C2029768  headache made better by reducing stimuli
+C2029769  headache relieved by sleep
+C2029770  headache relieved by
+C2029771  severity of headache (symptom)
+C2029772  timing of headache
+C2029773  headache which changes locations (symptom)
+C2029774  headache which is steady (symptom)
+C2029775  headache which comes and goes
+C2029776  headaches occurring several times a year
+C2029777  headaches occurring daily (symptom)
+C2029778  headaches occurring every few weeks (symptom)
+C2029779  headaches occurring many times in groups or clusters (symptom)
+C2029780  headaches occurring several times each week (symptom)
+C2029781  headaches initially in groups or clusters now daily (symptom)
+C2029945  heartburn after meals (symptom)
+C2029946  heartburn related to certain foods caffeine
+C2029947  heartburn associated with certain foods (symptom)
+C2029948  heartburn related to certain foods fatty foods
+C2029949  heartburn related to non-steroidal anti-inflammatory drugs (NSAIDs)
+C2029950  heartburn related to certain foods tomatoes
+C2029951  heartburn at night in bed (symptom)
+C2029952  heartburn causing awakening
+C2029953  infrequent heartburn (monthly)
+C2029954  heartburn occurs during pregnancy (symptom)
+C2029955  heartburn related to alcohol (symptom)
+C2029956  heartburn related to anxiety
+C2029957  heartburn related to beer (symptom)
+C2029958  heartburn related to bending
+C2029959  heartburn related to biphosphonates
+C2029960  heartburn related to birth control pills
+C2029961  heartburn related to body position (symptom)
+C2029962  heartburn related to calcium channel blockers (symptom)
+C2029963  heartburn related to chocolate (symptom)
+C2029964  heartburn related to citrus (symptom)
+C2029965  heartburn related to corticosteroids
+C2029966  heartburn related to emotions (symptom)
+C2029967  heartburn related to exercise (symptom)
+C2029968  heartburn related to fear (symptom)
+C2029969  heartburn related to iron (symptom)
+C2029970  heartburn related to lifting (symptom)
+C2029971  heartburn related to nitroglycerin (symptom)
+C2029972  heartburn related to peppermint (symptom)
+C2029973  heartburn related to red wine (symptom)
+C2029974  heartburn related to squatting
+C2029975  heartburn related to theophylline (symptom)
+C2029976  heartburn related to tight clothing (symptom)
+C2029977  heartburn related to vitamins
+C2029978  heartburn relieved by antacids
+C2029979  heartburn relieved by medication (symptom)
+C2029980  heartburn seems related to certain medications
+C2029981  heartburn starts with smoking (symptom)
+C2029982  heartburn with regurgitation (symptom)
+C2030471  hemiparalysis not affecting the face
+C2030472  left-sided hemiparalysis not affecting the face
+C2030473  right-sided hemiparalysis not affecting the face
+C2030475  transient left-sided hemiparalysis
+C2030476  transient right-sided hemiparalysis
+C2030955  highly irritable (symptom)
+C2030956  premenstrual irritability
+C2031022  hip joint pain improved by rest (symptom)
+C2031023  hip joint pain worse on rising
+C2031024  hip joint pain worse with running
+C2031025  hip joint pain worsens with extended activity
+C2031099  hip joint pain causing difficulty lying on the affected side
+C2031171  hip joint pain improved by non-steroidal anti-inflammatory drugs (NSAIDs) (symptom)
+C2031172  hip joint pain improved by walking aids (symptom)
+C2031177  hip pain when actively moved (symptom)
+C2031178  hip pain with passive motion (symptom)
+C2031179  hip pain worse with weightbearing
+C2032140  pain in back of throat (symptom)
+C2032148  eye pain binocular
+C2032149  pain in both eyes with eye movement (symptom)
+C2032163  pain in eye with downward eye movement
+C2032164  pain with eye movement upward
+C2032186  pain in left eye with eye movement
+C2032191  pain in left groin (symptom)
+C2032247  pain with eye movement right
+C2032252  pain in right groin
+C2032305  bilateral flank pain
+C2032306  flank pain disproportionate to injury
+C2032307  radiating flank pain
+C2032308  pain in the flank which radiates to a testicle
+C2032377  pain in left side of jaw (symptom)
+C2032395  pelvic pain on the left
+C2032396  pelvic pain on the right
+C2032397  unrelenting pelvic pain
+C2032447  pain in right side of jaw (symptom)
+C2032450  pain in tailbone causing difficulty sitting (symptom)
+C2032726  pain with left gaze
+C2032727  pain with right gaze
+C2032736  painful skin area without rash or sore
+C2034121  left arm paralysis
+C2034122  left leg paralysis
+C2034123  right arm paralysis
+C2034124  right leg paralysis
+C2034125  left shoulder paralysis
+C2034126  right shoulder paralysis
+C2034127  paralysis of shoulder
+C2036419  stretch marks in skin (symptom)
+C2036478  stuttering accompanied by hand movements (symptom)
+C2036479  stuttering accompanied by head movements
+C2036492  stuttering characterized by hesitations (symptom)
+C2036493  stuttering characteristics prolongations
+C2036494  stuttering characterized by prolongations of sounds
+C2036495  stuttering characterized by prolongations of syllables
+C2036497  stuttering characterized by repetitions of syllables
+C2036498  stuttering characterized by repetitions of 'uh'
+C2036502  stuttering first noticed by person
+C2036534  stuttering improved by
+C2036535  stuttering improved by getting on stage
+C2036536  stuttering improved by hand movements (symptom)
+C2036537  stuttering improved by recitation
+C2036538  stuttering improved by singing
+C2036539  stuttering improved by speaking slowly (symptom)
+C2036540  stuttering improved by starting over (symptom)
+C2036541  stuttering interfering with (symptom)
+C2036542  stuttering interfering with family interaction
+C2036543  stuttering interfering with school (symptom)
+C2036544  stuttering interfering with social interaction (symptom)
+C2036545  stuttering interfering with talking on telephone (symptom)
+C2036546  stuttering interfering with work (symptom)
+C2037120  sudden exhaustion
+C2037122  sudden onset or visual field defect in left half of eye
+C2037123  sudden loss of vision in left half of visual fields in both eyes (symptom)
+C2037124  sudden loss lower vision
+C2037125  sudden loss lower vision left
+C2037126  sudden loss lower vision right
+C2037127  sudden loss of vision in lower half of visual fields in both eyes (symptom)
+C2037128  nasal visual field defect, sudden onset
+C2037129  sudden onset of nasal visual field defect in left eye
+C2037130  sudden loss nasal vision right
+C2037131  nasal visual field defects in both eyes, sudden onset
+C2037132  sudden loss of part of vision
+C2037133  sudden loss of vision in right half of visual field
+C2037134  sudden loss of vision in right half of visual fields in both eyes (symptom)
+C2037135  sudden loss of vision in temporal half of visual field (symptom)
+C2037136  temporal visual field defects in both eyes, sudden onset
+C2037138  sudden onset of temporal visual field defect in right eye
+C2037139  sudden loss of vision in upper half of visual field
+C2037140  sudden loss upper vision left
+C2037141  sudden onset of upper visual field defect in right eye
+C2037142  upper visual field defect in both eyes, sudden onset
+C2037144  sudden onset of abdominal pain (symptom)
+C2037193  sudden onset of fever (symptom)
+C2037196  lower back pain started suddenly
+C2037197  sudden onset of neck pain
+C2037198  sudden onset of testicular pain (symptom)
+C2037199  sudden onset of worsening vision (symptom)
+C2037201  duration of sudden redness of skin
+C2037202  frequency of sudden redness of skin
+C2037203  sudden redness of skin lasting several hours (symptom)
+C2037204  sudden redness of skin lasting several minutes (symptom)
+C2037205  flushing precipitated by stressful situations
+C2037206  flushing precipitated
+C2037207  flushing precipitated by alcohol
+C2037208  flushing precipitated by food
+C2037209  flushing precipitated by minimal exertion
+C2037210  sudden redness of skin several times a day (symptom)
+C2037211  sudden redness of skin several times a month
+C2037212  sudden redness of skin several times a week (symptom)
+C2037214  sudden, flailing involuntary movements (symptom)
+C2037215  left hemiballismus
+C2037216  right hemiballismus
+C2037217  rapid onset of choreiform movements
+C2037218  suddenly falling asleep during day
+C2037300  superficial neck pain (symptom)
+C2037303  superficial skin pain (symptom)
+C2037304  superficial skin pain of lower leg
+C2037494  supraorbital pain (symptom)
+C2037495  supraorbital pain on both sides
+C2037496  pain above left eye
+C2037497  supraorbital eye pain right
+C2038642  swelling in right groin (symptom)
+C2039135  swooshing sound in ears
+C2039340  symptoms involving nails
+C2045658  cyanosis with cold temperature
+C2045659  cyanosis with exertion (symptom)
+C2045660  change in color of skin to gray or ashen
+C2045661  circumoral pallor
+C2045666  change in handwriting
+C2045667  change in handwriting less legible (symptom)
+C2045668  change in handwriting signature questioned
+C2045674  callus on bottom of foot (symptom)
+C2046971  homosexual experiences unwanted and persistently distressing (symptom)
+C2047120  hostility toward authority figures
+C2047121  hostility toward caregivers
+C2047122  hot flashes after recent gynecological surgery (symptom)
+C2047123  hot flashes after recent orchiectomy (symptom)
+C2047124  hot flashes after recent treatment for prostate cancer
+C2047125  gradual onset of hot flashes
+C2047126  sudden onset of hot flashes
+C2047127  hot flashes with recent cessation of estrogen therapy (symptom)
+C2047334  humming sounds in ears (symptom)
+C2047418  poorly organized and not goal-directed
+C2048474  inability to pass gas painful
+C2048475  inability to pass gas painful at one location
+C2048476  inability to pass gas painful diffusely throughout abdomen
+C2048477  inability to pass gas after surgery (symptom)
+C2048478  inability to pass gas relieved by belching (symptom)
+C2048479  inability to pass gas relieved by vomiting (symptom)
+C2048480  inability to pass gas relieved by vomiting large amounts
+C2048481  inability to pass gas relieved by vomiting resembling stools (symptom)
+C2048482  inability to pass gas relieved by vomiting small amounts (symptom)
+C2048483  inability to pass gas started suddenly
+C2048873  increased sensitivity to glare
+C2049717  infant sleeping more than 4-5 hours at a time
+C2051864  peeling of skin between toes (symptom)
+C2051996  pelvic girdle pain worse rising from seated/recumbent position
+C2052727  crusted penile lesion (symptom)
+C2053483  periorbital pain on both sides (symptom)
+C2053484  periorbital eye pain left
+C2053485  periorbital pain on right side (symptom)
+C2053835  peripheral vision worsens during day
+C2054221  talking while asleep
+C2055124  temperature reported over 100 degrees Fahrenheit (symptom)
+C2055125  temperature reported over 39 degrees centigrade
+C2055367  temporary weakness of left side (symptom)
+C2055368  temporary weakness of one entire side (symptom)
+C2055369  temporary weakness of right side (symptom)
+C2057699  bilateral mouth droop
+C2057700  left-sided mouth droop
+C2057701  right-sided mouth droop
+C2057725  change in color of skin to metallic gray or blue color (symptom)
+C2073755  child previously walking now refuses to walk
+C2073756  child previously walking now refuses to walk upon awakening (symptom)
+C2073760  child refuses to learn to walk (symptom)
+C2073776  child's angry cry
+C2074609  chronic abdominal pain for more than three months (symptom)
+C2074632  chronic constant flank pain (symptom)
+C2074685  chronic dry skin
+C2074698  chronic flank pain recurring frequently (symptom)
+C2074778  abdominal pain chronic / recurring frequently
+C2076645  infraorbital pain on both sides
+C2076646  infraorbital pain on left side (symptom)
+C2076647  infraorbital pain on right side (symptom)
+C2077296  insomnia due to environmental disturbances (diagnosis)
+C2077297  insomnia due to frequent interruptions (symptom)
+C2077298  insomnia due to light
+C2077299  insomnia due to noise
+C2077300  insomnia due to pain (symptom)
+C2077301  insomnia due to stress
+C2077302  insomnia with moving to parental bed in middle of night (symptom)
+C2077826  intermittent abdominal swelling
+C2077827  anxiety which comes and goes
+C2077829  arm (upper) is blue (cyanosis) intermittent
+C2077839  lower back pain intermittent
+C2078973  involuntary movements during sleep
+C2078974  involuntary movements during sleep which are violent
+C2078975  involuntary movements during sleep which cause awakening
+C2078976  involuntary movements during sleep with vivid dream recall (symptom)
+C2078978  involuntary movements which come and go
+C2078979  involuntary shaking or trembling movements occur at rest (symptom)
+C2078980  involuntary shaking or trembling occurs with movement (symptom)
+C2078982  involuntary trembling or shaking movements on right side only (symptom)
+C2078984  involuntary trembling or shaking movements on left side only (symptom)
+C2079308  irresponsible parenting
+C2079572  persistent cyanosis (symptom)
+C2079663  personality change-reduced effectiveness or productivity
+C2080640  bilateral photophobia
+C2080641  photophobia in left eye (symptom)
+C2080642  photophobia in right eye (symptom)
+C2080643  periodic flashing lights centrally
+C2080644  photopsia in peripheral field of vision
+C2104553  episodic hangover (diagnosis)
+C2107102  confusion fluctuates (symptom)
+C2107103  confusion only at night (symptom)
+C2107104  confusion only in new or complex situations
+C2107105  confusion only upon awakening
+C2107114  confusion started recently
+C2107115  confusion steadily worsening
+C2107116  confusion with momentary lucid intervals (symptom)
+C2107733  constant burping
+C2107742  constant confusion
+C2108116  continuous facial pain (symptom)
+C2108380  itching after warm bath or shower
+C2108381  itching between toes (symptom)
+C2108382  itching causing awakening from sleep
+C2108384  itching of both breasts
+C2108385  itching of abdomen (symptom)
+C2108386  itching of both ears
+C2108387  itching of left ear (symptom)
+C2108388  itching of palms and soles
+C2108389  itching of right ear (symptom)
+C2108390  itching of soles
+C2108391  itching of teeth (symptom)
+C2108674  hip joint pain causing inability to sleep (symptom)
+C2108675  hip joint pain difficult to localize
+C2108676  hip joint pain feels better after normal movement (symptom)
+C2108677  hip joint pain first appears at night (symptom)
+C2108678  hip joint pain improved by (symptom)
+C2108679  hip joint pain improved by medication (symptom)
+C2108680  hip joint pain improved by medication acetaminophen
+C2108681  hip joint pain improved by medication narcotics (symptom)
+C2108682  hip joint pain increased by (symptom)
+C2108683  hip joint pain increased by bending forward (symptom)
+C2108684  hip joint pain increased by moving leg back while standing
+C2108685  hip joint pain increased by moving leg to left side while standing
+C2108686  hip joint pain increased by moving leg to right side while standing (symptom)
+C2108687  hip joint pain increased by turning foot inward while standing (symptom)
+C2108688  hip joint pain increased by turning foot outward while standing (symptom)
+C2108689  hip joint pain increased during cold weather (symptom)
+C2108690  hip joint pain increased during rainy weather
+C2108691  hip joint pain with no response to medication
+C2108692  hip joint pain is progressively worsening
+C2108693  hip joint pain slowly worsens
+C2108694  hip joint pain slowly worsens with decreased level of activity
+C2108695  hip joint pain slowly worsens with the same level of activity
+C2108696  sudden onset of hip joint pain
+C2108697  unrelenting hip joint pain
+C2108698  hip joint pain worse at night (symptom)
+C2108699  hip joint pain worse when going up or down stairs
+C2108700  hip joint pain worse with jumping (symptom)
+C2108701  hip joint pain worse with squatting (symptom)
+C2108702  hip joint pain worse with standing (symptom)
+C2108709  joint pain in both hips
+C2111862  poor coordination just on one side (symptom)
+C2111863  poor left-sided coordination
+C2111864  poor right-sided coordination
+C2111865  poor coordination of arm
+C2111866  poor coordination of entire left arm (symptom)
+C2111867  poor coordination of entire right arm (symptom)
+C2111868  knocking things over when trying to pick them up
+C2111869  poor left hand coordination
+C2111870  poor right hand coordination
+C2111871  poor coordination slowed reaction time (symptom)
+C2112828  post-traumatic insomnia (diagnosis)
+C2113593  preceding dizziness
+C2114753  progressive groin pain (symptom)
+C2115920  excruciating throat pain
+C2115921  throat pain on swallowing
+C2115922  throat pain on left side only (symptom)
+C2115923  throat pain on right side only
+C2115924  throat pain radiating to the ear
+C2115925  throat pain radiating to tongue
+C2116289  tight neck muscles
+C2116290  tight neck muscles on both sides
+C2116330  tingling from waist down (symptom)
+C2116331  tingling of feet
+C2116332  tingling in perianal region (symptom)
+C2116333  tingling in perineum
+C2116334  factors exacerbating tingling (symptom)
+C2116335  tingling made worse by exercise
+C2116336  tingling made worse by heat (symptom)
+C2116337  tingling made worse by stress
+C2116338  tingling of arms
+C2116339  tingling of arms or legs during exercise
+C2116340  tingling of both arms (symptom)
+C2116341  tingling of both arms and both legs (symptom)
+C2116342  tingling of both feet
+C2116343  tingling of both forearms
+C2116344  tingling of dorsum of both forearms (symptom)
+C2116345  tingling of inner aspect of both forearms (symptom)
+C2116346  tingling of outer aspect of both forearms (symptom)
+C2116347  tingling of volar aspect of both forearms (symptom)
+C2116348  tingling of both hands
+C2116349  tingling of both legs
+C2116350  tingling of hands
+C2116351  tingling of left arm (symptom)
+C2116352  tingling of left first and second toes (symptom)
+C2116353  tingling of left fourth and fifth toes (symptom)
+C2116354  tingling of left fourth toe (symptom)
+C2116355  tingling of left great toe
+C2116356  tingling of left hand (symptom)
+C2116357  tingling of left leg
+C2116358  tingling of left little toe
+C2116359  tingling of left middle toe
+C2116360  tingling of left second and third toes (symptom)
+C2116361  tingling of left second toe (symptom)
+C2116362  tingling of left third and fourth toes
+C2116363  tingling of thumb, index, and middle fingers of left hand (symptom)
+C2116364  tingling of legs (symptom)
+C2116365  tingling of one entire side (symptom)
+C2116366  tingling of right first and second toes
+C2116367  tingling of right fourth and fifth toes
+C2116368  tingling of right fourth toe
+C2116369  tingling of right great toe
+C2116370  tingling of right hand (symptom)
+C2116371  tingling of right little toe
+C2116372  tingling of right middle toe (symptom)
+C2116373  tingling of right second and third toes (symptom)
+C2116374  tingling of right second toe (symptom)
+C2116375  tingling of right third and fourth toes (symptom)
+C2116376  tingling of shoulder
+C2116377  tingling of ankle (symptom)
+C2116378  tingling of back of both arms
+C2116379  tingling of back of left arm (symptom)
+C2116380  tingling of left calf (symptom)
+C2116381  tingling of back of right arm (symptom)
+C2116382  tingling of right calf (symptom)
+C2116383  tingling of back of left thigh (symptom)
+C2116384  tingling of back of right thigh
+C2116385  tingling of chin
+C2116386  tingling of both sides of chin (symptom)
+C2116387  tingling of left side of chin (symptom)
+C2116388  tingling of right side of chin
+C2116389  left-sided hemiparesthesia
+C2116390  right-sided hemiparesthesia
+C2116391  tingling of forearm (symptom)
+C2116392  tingling of forehead (symptom)
+C2116393  tingling of left side of forehead (symptom)
+C2116394  tingling of right side of forehead (symptom)
+C2116395  tingling of front of both arms
+C2116396  tingling of front of left arm
+C2116397  tingling of front of left thigh (symptom)
+C2116398  tingling of front of right arm (symptom)
+C2116399  tingling of right shin (symptom)
+C2116400  tingling of hands at night (symptom)
+C2116401  tingling of inner aspect of left arm (symptom)
+C2116402  tingling of inner aspect of left lower leg (symptom)
+C2116403  tingling of inner aspect of right lower leg (symptom)
+C2116404  tingling of inner aspect of right thigh (symptom)
+C2116405  tingling of left ankle (symptom)
+C2116406  tingling of left buttock (symptom)
+C2116407  tingling of left cheek
+C2116408  tingling of left foot only
+C2116409  tingling of left forearm
+C2116410  tingling of dorsum of left forearm (symptom)
+C2116411  tingling of inner aspect of left forearm (symptom)
+C2116412  tingling of outer aspect of left forearm (symptom)
+C2116413  tingling of volar aspect of left forearm
+C2116414  tingling of left groin
+C2116415  tingling of index finger of left hand (symptom)
+C2116416  tingling of little finger of left hand (symptom)
+C2116417  tingling of middle finger of left hand
+C2116418  tingling of ring and little fingers of left hand (symptom)
+C2116419  tingling of ring finger of left hand (symptom)
+C2116420  tingling of left shoulder
+C2116421  tingling of left thumb (symptom)
+C2116422  tingling of thumb and index finger of left hand (symptom)
+C2116423  tingling of lower lip (symptom)
+C2116424  tingling of medial aspect of left ankle (symptom)
+C2116425  tingling of medial aspect of left ankle into arch
+C2116426  tingling of medial aspect of right ankle (symptom)
+C2116427  tingling of medial aspect of right ankle into arch
+C2116428  tingling of outer aspect of both arms
+C2116429  tingling of outer aspect of left arm
+C2116430  tingling of outer aspect of left lower leg (symptom)
+C2116431  tingling of outer aspect of left thigh
+C2116432  tingling of outer aspect of right arm (symptom)
+C2116433  tingling of outer aspect of right lower leg (symptom)
+C2116434  tingling of outer aspect of right thigh (symptom)
+C2116435  tingling of right ankle
+C2116436  tingling of right arm (symptom)
+C2116437  tingling of right buttock
+C2116438  tingling of right cheek
+C2116439  tingling of right foot only
+C2116440  tingling of right forearm
+C2116441  tingling of dorsum of right forearm (symptom)
+C2116442  tingling of inner aspect of right forearm
+C2116443  tingling of outer aspect of right forearm (symptom)
+C2116444  tingling of volar aspect of right forearm (symptom)
+C2116445  tingling of right groin (symptom)
+C2116446  tingling of index finger of right hand (symptom)
+C2116447  tingling of right leg
+C2116448  tingling of little finger of right hand (symptom)
+C2116449  tingling of middle finger of right hand (symptom)
+C2116450  tingling of ring and little fingers of right hand (symptom)
+C2116451  tingling of ring finger of right hand
+C2116452  tingling of right shoulder (symptom)
+C2116453  tingling of thumb and index finger of right hand
+C2116454  tingling of right thumb
+C2116455  tingling of thumb, index and middle fingers of right hand (symptom)
+C2116456  tingling of tongue on both sides
+C2116457  tingling of tongue on left side (symptom)
+C2116458  tingling of tongue on right side (symptom)
+C2116459  tingling of upper lip (symptom)
+C2116460  tingling of toes
+C2116461  tingling of toes of both feet
+C2116462  tingling of toes of left foot (symptom)
+C2116463  tingling of toes of right foot (symptom)
+C2116464  tingling on both buttocks
+C2116465  tingling on one entire side of face (symptom)
+C2116466  tingling of back of left hand (symptom)
+C2116467  tingling of back of right hand (symptom)
+C2116468  left-sided hemifacial tingling
+C2116469  right-sided hemifacial tingling
+C2116470  tingling of left shin (symptom)
+C2116471  tingling of front of right thigh
+C2116472  tingling of inner aspect of both arms
+C2116473  tingling of inner aspect of left thigh
+C2116474  tingling of inner aspect of right arm
+C2116475  tingling of sole of left foot (symptom)
+C2116476  tingling of sole of right foot (symptom)
+C2116477  tingling of top of left foot
+C2116478  tingling of top of right foot
+C2116479  tingling started with legs and progressed upward
+C2116483  tinnitus occurring
+C2116485  tinny sound in ears
+C2116487  tiring easily relieved by rest (symptom)
+C2126012  belching after meals (symptom)
+C2126013  belching from excessive swallowing of air (symptom)
+C2126014  belching after rapid ingestion of food
+C2126015  belching after drinking carbonated beverages (symptom)
+C2126016  belching after excessive drinking of carbonated beverages
+C2126017  burping accompanied by abdominal bloating
+C2126022  abdominal swelling relieved by
+C2126023  abdominal swelling relieved by passing gas
+C2126024  abdominal swelling relieved by bowel movement
+C2126025  abdominal swelling relieved by vomiting (symptom)
+C2126026  abdominal swelling relieved by urination
+C2126037  excessive gas worsened
+C2126038  excessive gas worsened by dairy products (symptom)
+C2126039  excessive gas worsened by fruits and vegetables
+C2126040  excessive gas occurs after
+C2126041  excessive gas after chewing gum
+C2126042  excessive gas after swallowing air (symptom)
+C2126043  excessive gas after rapid eating (symptom)
+C2126049  rectal pain accompanied by bleeding (symptom)
+C2126050  rectal pain accompanied by discharge of pus (symptom)
+C2126051  rectal pain worsens during bowel movements
+C2126052  rectal pain worsens with acidic foods (symptom)
+C2126053  rectal pain after anal sex
+C2126054  rectal sore with bleeding (symptom)
+C2126055  rectal sore after hard bowel movement (symptom)
+C2126073  blurry vision right
+C2126074  blurred vision in left eye
+C2126075  blurred vision in both eyes
+C2126076  lower back pain worse with standing
+C2126077  lower back pain worse with walking
+C2126089  weak grip (symptom)
+C2126090  fainting while straining (symptom)
+C2126115  fainting with exercise (symptom)
+C2126117  fainting followed by prolonged sleepiness (symptom)
+C2126118  feelings of weakness on exertion (symptom)
+C2126128  intermittent tinnitus
+C2126129  constant ringing in the ears
+C2126137  nosebleeds after nosepicking
+C2126177  numbness on palm of right hand (symptom)
+C2126178  numbness on palm of left hand
+C2126180  anal pain accompanied by bleeding (symptom)
+C2126181  anal pain accompanied by discharge of pus
+C2126182  anal pain worse with bowel movements
+C2126183  anal pain worsens with acidic foods
+C2126184  anal pain after anal sex (symptom)
+C2126197  numbness of toes of right foot
+C2126198  numbness of right third and fourth toes (symptom)
+C2126199  numbness of toes of left foot (symptom)
+C2126200  numbness of left third and fourth toes (symptom)
+C2126201  numbness of toes of both feet
+C2126202  anesthesia in the toes
+C2126223  constant anal pain (symptom)
+C2126224  intermittent anal pain (symptom)
+C2126225  constant rectal pain (symptom)
+C2126226  intermittent rectal pain (symptom)
+C2126262  a pimple as symptom
+C2126267  multiple sores on skin (symptom)
+C2126268  skin: multiple crusts [as symptom]
+C2126366  skin crust: red [as symptom]
+C2126367  red skin crust blanches with pressure [as symptom]
+C2126368  skin crust: yellow [as symptom]
+C2126369  amber-colored skin crust
+C2126370  skin crust: black [as symptom]
+C2126371  skin crust: brown [as symptom]
+C2126425  neck pain increased by eating (symptom)
+C2126929  burning sensation between third and fourth toes of right foot (symptom)
+C2126930  burning sensation between third and fourth toes of left foot (symptom)
+C2126934  abdominal pain relieved by not eating
+C2126935  worsening distance and near vision (symptom)
+C2126936  worsening peripheral vision in upper visual fields
+C2126937  worsening peripheral vision lower
+C2126938  worsening peripheral vision in nasal visual fields (symptom)
+C2126939  worsening peripheral vision temporal
+C2126940  worsening vision sustained
+C2126941  worsening vision gradual onset (symptom)
+C2126942  scotoma tracks eye movement
+C2126943  floaters clear with blinking or rubbing eyes
+C2126944  scotoma in the upper field of view
+C2126945  scotoma in the lower field of vision
+C2126946  foggy vision in right eye (symptom)
+C2126947  foggy vision in left eye
+C2126948  foggy vision in both eyes
+C2126949  foggy central vision
+C2126950  foggy vision in peripheral field of vision
+C2126951  foggy vision goes away with blinking or rubbing eyes
+C2126952  foggy vision worse in morning
+C2126953  foggy vision worse in AM improves during the day
+C2126954  foggy vision for distant objects (symptom)
+C2126955  foggy vision for near objects
+C2126956  white or light spots in field of vision (symptom)
+C2126975  seeing more than two images (symptom)
+C2126984  retro-orbital pain in both eyes
+C2126993  bilateral parietal headache
+C2126995  restless movements during sleep
+C2127013  skin lesion on skin of lip
+C2127014  skin lesion on vermilion border of lip
+C2127100  fever started insidiously (symptom)
+C2127118  hemiparesis not affecting the face
+C2127119  worsening nearsightedness making driving difficult
+C2127125  neck pain radiating down right arm
+C2127126  neck pain radiating down left arm (symptom)
+C2127127  neck pain radiating down both arms
+C2127128  neck pain radiating to right shoulder (symptom)
+C2127129  neck pain radiating to left shoulder
+C2127130  neck pain radiating to both shoulders (symptom)
+C2127134  abdominal pain initiated or exacerbated by food rich in dairy fat
+C2127140  burning sensation in front of right thigh (symptom)
+C2127141  burning sensation in back of right thigh (symptom)
+C2127142  burning sensation in left thigh
+C2127143  burning sensation in front of left thigh (symptom)
+C2127144  burning sensation in left inner thigh
+C2127145  burning sensation in left groin
+C2127146  burning sensation in left outer thigh (symptom)
+C2127147  burning sensation in back of left thigh (symptom)
+C2127148  worsening vision in both eyes (symptom)
+C2127153  worsening central vision right
+C2127154  worsening central vision in left eye (symptom)
+C2127155  worsening central vision in both eyes (symptom)
+C2127156  weak right hand grip
+C2127157  weak left hand grip
+C2127161  objects elongated
+C2127162  unilateral macropsia
+C2127163  macropsia in right eye (symptom)
+C2127164  objects appear larger than normal in left eye
+C2127165  worsening nearsightedness in right eye
+C2127166  worsening distance vision left
+C2127167  worsening distance vision in both eyes
+C2127168  worsening near vision in right eye (symptom)
+C2127169  worsening near vision in left eye (symptom)
+C2127170  worsening near vision in both eyes (symptom)
+C2127171  worsening distance and near vision right
+C2127172  worsening distance and near vision left
+C2127173  worsening distance and near vision binocular
+C2127174  worsening vision after prescription change right
+C2127175  worsening vision started after prescription change left
+C2127176  worsening vision started after prescription change binocular
+C2127227  muscle cramps in thigh occur at night (symptom)
+C2127228  thigh muscle cramps precipitated by exercise
+C2127229  muscle cramps in thigh especially in cold weather
+C2127230  muscle cramps in calf occur at night (symptom)
+C2127231  muscle cramps in the calf precipitated by exercise
+C2127232  muscle cramps in calf especially in cold weather
+C2127233  muscle cramps in feet occur at night
+C2127234  muscle cramps in the feet precipitated by exercise
+C2127235  muscle cramps in feet especially in cold weather
+C2127241  craving ice chips (symptom)
+C2127242  craving lettuce (symptom)
+C2127282  neck stiffness worst during first hour after arising (symptom)
+C2127291  fainting preceded by sudden horrifying experience (symptom)
+C2127292  fainting preceded by seeing blood (symptom)
+C2127293  fainting preceded by seeing an animal
+C2127294  fainting preceded by seeing a spider (symptom)
+C2127295  fainting preceded by seeing a snake (symptom)
+C2127296  fainting preceded by seeing a mouse (symptom)
+C2127298  weak grip in both hands
+C2127304  bilateral ocular pruritus
+C2127305  bitter taste in mouth (symptom)
+C2127312  vision worse in morning (symptom)
+C2127314  foreign body sensation in right eye (symptom)
+C2127315  foreign body sensation in left eye (symptom)
+C2127316  foreign body sensation binocular
+C2127383  visual distortion in right eye
+C2127384  visual distortion in left eye
+C2127385  distorted visual images in both eyes
+C2127386  objects elongated in right eye
+C2127387  objects elongated in left eye (symptom)
+C2127388  objects elongated in both eyes (symptom)
+C2127404  extreme overeating at night
+C2127405  numbness of right forearm (symptom)
+C2127406  numbness of inner aspect of right forearm
+C2127407  numbness of outer aspect of right forearm
+C2127408  numbness of left forearm (symptom)
+C2127409  numbness of inner aspect of left forearm
+C2127410  numbness of outer aspect of left forearm (symptom)
+C2127411  numbness of both forearms
+C2127412  numbness of inner aspect of both forearms (symptom)
+C2127413  numbness of outer aspect of both forearms (symptom)
+C2127414  the sense of smell is suddenly unpleasant
+C2127415  right corner of mouth droops with eye closure weakness
+C2127416  left corner of mouth droops with eye closure weakness (symptom)
+C2127417  corner of mouth droops on both sides with eye closure weakness (symptom)
+C2127422  nonmoving limbs as symptom
+C2127423  limb paralysis which started suddenly
+C2127424  limb paralysis which started suddenly after a starchy meal (symptom)
+C2127425  transient limb paralysis with intense emotions (cataplexy)
+C2127426  limb paralysis when falling asleep or awakening
+C2127427  limb paralysis when falling asleep
+C2127428  limb paralysis when awakening (symptom)
+C2127429  recurrent limb paralysis
+C2127431  right hand paralysis
+C2127432  left hand paralysis
+C2127433  bilateral hand paralysis
+C2127434  nonmoving limbs affecting both legs
+C2127436  limb paralysis which started with legs and progressed upward (symptom)
+C2127442  right-sided facial pain (symptom)
+C2127443  left facial pain
+C2127471  lower back pain radiating to legs when walking
+C2127509  weakness in right index finger (symptom)
+C2127510  weakness in right middle finger (symptom)
+C2127511  weakness in right ring finger
+C2127512  weakness in right little finger (symptom)
+C2127514  weakness in left index finger (symptom)
+C2127515  weakness in left middle finger
+C2127516  weakness in left ring finger (symptom)
+C2127517  weakness in left little finger (symptom)
+C2127521  weakness in both wrists (symptom)
+C2127696  lower back pain radiating to the legs worse on right
+C2127697  lower back pain radiating to the legs worse on left
+C2128139  numbness of forearm (symptom)
+C2128149  neck stiffness especially in the morning and evening
+C2128150  neck pain increased by bending head backward
+C2128151  neck pain increased by bending head forward
+C2128152  neck pain increased by turning head
+C2128153  factors relieving neck pain (symptom)
+C2128154  neck pain relieved by bending head forward (symptom)
+C2128161  lower back pain worse with bending forward
+C2128162  lower back pain worsens with bending backward
+C2128163  lower back pain worsens with bending to right (symptom)
+C2128164  lower back pain worsens with bending to left (symptom)
+C2128165  lower back pain worse with turning
+C2128189  unrelenting neck pain (symptom)
+C2128196  lower back pain unrelenting
+C2128200  repeated muscle twitches rapid onset (symptom)
+C2128227  lower back pain difficult to localize
+C2128230  loss of skin lines (symptom)
+C2128231  loss of skin lines on back of hand (symptom)
+C2128232  loss of skin lines on forearm
+C2128233  numbness of right side of chin (symptom)
+C2128234  numbness of left side of chin (symptom)
+C2128235  numbness of both sides of chin
+C2128236  numbness of upper lip (symptom)
+C2128237  numbness of lower lip (symptom)
+C2128259  upper arm is blue
+C2128260  cyanosis of right arm
+C2128261  cyanosis of left arm
+C2128262  both arms (upper) are blue (cyanosis)
+C2128264  decreased pinch strength (symptom)
+C2128316  dull or aching groin pain (symptom)
+C2128326  lower back pain shocklike sensation
+C2128327  shocklike sensation from lower back to right foot (symptom)
+C2128328  shocklike sensation from lower back to left foot
+C2128352  difficulty walking on uneven surfaces
+C2128487  burning sensation in ankle
+C2128488  burning sensation in medial aspect of right ankle (symptom)
+C2128489  burning sensation in medial aspect of right ankle into arch (symptom)
+C2128490  burning sensation in left ankle
+C2128491  burning sensation in medial aspect of left ankle
+C2128492  burning sensation in medial aspect of left ankle into arch
+C2128493  neck stiffness loosens after ordinary movements (symptom)
+C2128494  walking stooped over (symptom)
+C2128495  neck pain radiating down right arm relieved by putting hand on head (symptom)
+C2128496  neck pain radiating down left arm relieved by putting hand on head
+C2128497  lower back pain worse with straining during bowel movement
+C2128498  tripping easily
+C2128499  tripping easily with right foot (symptom)
+C2128500  tripping easily with left foot
+C2128501  tripping easily with both feet (symptom)
+C2128502  difficulty with fine manipulative tasks
+C2128503  difficulty with knitting (symptom)
+C2128504  lower back pain causing difficulty standing erect (symptom)
+C2128505  lower back pain relieved frequent position changes (sitting)
+C2128506  lower back pain worsens
+C2128507  lower back pain worse with stooping
+C2128508  lower back pain worsens with lifting (___ lbs)
+C2128509  lower back pain relieved by
+C2128510  lower back pain causing difficulty finding a comfortable position
+C2128511  lower back pain relieved by lying down on the back with a pillow under the knees
+C2128513  weak hand grip when lifting heavy objects
+C2128514  weak hand grip when lifting light objects
+C2128518  lower back pain causing inability to sleep
+C2128519  neck pain causing inability to sleep
+C2128520  limb weakness started w/ head progressed symmetrically down
+C2128522  burning pain in eye (symptom)
+C2128524  rubbing of clothing is uncomfortable
+C2128530  lower back pain worse with sitting
+C2128531  lower back pain worsens with sitting in car (symptom)
+C2128532  lower back pain relieved by sitting
+C2128533  lower back pain relieved by standing (symptom)
+C2128534  lower back pain relieved by movement walking
+C2128535  lower back pain worsens when putting on shoes (symptom)
+C2128536  lower back pain worsens when putting on right shoe
+C2128537  lower back pain worsens when putting on left shoe
+C2128538  lower back pain worsens when putting on both shoes
+C2128539  lower back pain radiating to anterior thigh (symptom)
+C2128540  lower back pain radiating to the anterior right thigh
+C2128541  lower back pain radiating to the anterior left thigh
+C2128542  lower back pain radiating to knee
+C2128543  lower back pain radiating to the right knee
+C2128544  lower back pain radiating to the left knee
+C2128545  lower back pain radiating to posterior leg (symptom)
+C2128546  lower back pain radiating to posterior right leg
+C2128547  lower back pain radiating to the right ankle
+C2128548  lower back pain radiating to posterior left leg (symptom)
+C2128549  lower back pain radiating to the left ankle
+C2128550  lower back pain radiating to the right foot
+C2128551  lower back pain radiating to the left foot
+C2128552  lower back pain radiating to the medial right foot
+C2128553  lower back pain radiating to the lateral right foot
+C2128554  lower back pain radiating to the medial left foot
+C2128555  lower back pain radiating to the lateral left foot
+C2128556  numbness from waist down to anterior thigh
+C2128557  numbness from the waist down to the anterior right thigh
+C2128558  numbness from the waist down to the anterior left thigh
+C2128559  numbness from waist down to knee (symptom)
+C2128560  numbness from the waist down to the right knee
+C2128561  numbness from the waist down to the left knee
+C2128562  numbness from waist down to posterior leg (symptom)
+C2128563  numbness from the waist down to the posterior right leg
+C2128564  numbness from the waist down to the posterior left leg
+C2128565  numbness from waist down posterior right leg to ankle
+C2128566  numbness from waist down posterior right leg to foot (symptom)
+C2128567  numbness from waist down posterior right leg to medial foot
+C2128568  numbness from waist down posterior right leg to lateral foot
+C2128569  numbness from waist down posterior left leg to ankle
+C2128570  numbness from waist down posterior left leg to foot
+C2128571  numbness from waist down posterior left leg to medial foot (symptom)
+C2128572  numbness from waist down posterior left leg to lateral foot (symptom)
+C2128573  intermittent numbness from the waist down
+C2128574  continuous numbness from waist down
+C2128575  weakness in leg after walking (symptom)
+C2128576  weakness in leg after prolonged standing (symptom)
+C2128577  lower back pain relieved by leaning forward
+C2128589  foot turns out while walking (symptom)
+C2128590  right foot turns out while walking
+C2128591  left foot turns out while walking (symptom)
+C2128592  both feet turn out while walking
+C2128593  foot turned in while walking (symptom)
+C2128594  right foot turned in while walking (symptom)
+C2128595  left foot turned in while walking
+C2128596  both feet turned in while walking (symptom)
+C2128598  limping after playing sports (symptom)
+C2128628  limping worse in morning
+C2128629  limping worse in evening
+C2128636  neck muscle tightness on the right
+C2128637  tightness of neck muscle on left side
+C2128638  limping goes away in 1-2 weeks (symptom)
+C2128639  limping goes away in 1-2 weeks does not recur
+C2128640  lower back pain after sleeping on back a few hours
+C2128643  uses technique for pain control (symptom)
+C2128644  uses rest to control pain
+C2128645  uses medication for pain control
+C2128646  uses position change for pain control
+C2128647  uses music for pain control (symptom)
+C2128648  uses biofeedback for pain control
+C2128649  uses happy thoughts for pain control
+C2128817  skin: a single crust [as symptom]
+C2128824  lower back pain disproportionate to injury
+C2128827  anxious on a daily basis
+C2128837  violent behavior with objects (symptom)
+C2128838  violent behavior with a weapon (symptom)
+C2128839  infantile behavior (symptom)
+C2128958  middle-night awakening with choking sensation (symptom)
+C2128959  middle-night awakening with dry mouth (symptom)
+C2128960  middle-night awakening with sore throat (symptom)
+C2128961  middle-night awakening with headache (symptom)
+C2129019  pain control techniques distraction
+C2129020  pain control techniques progressive muscle relaxation
+C2129021  uses hypnosis to control pain
+C2129022  uses positive thinking for pain control (symptom)
+C2129031  testicular pain right
+C2129032  left testicular pain
+C2129033  bilateral testicular pain
+C2129049  scrotal lesion crusted
+C2129103  number of multiple sores on skin (#___) (symptom)
+C2129116  right-sided anosmia
+C2129117  left-sided anosmia
+C2129118  bilateral anosmia
+C2129119  bilateral shoulder weakness
+C2129123  right-sided hemiparesis not affecting the face
+C2129124  left-sided hemiparesis not affecting the face
+C2129181  upper chest pain on swallowing (symptom)
+C2129182  mid-chest pain on swallowing (symptom)
+C2129183  lower chest pain on swallowing (symptom)
+C2129184  nausea during episodes of abdominal pain (symptom)
+C2129188  sudden onset of abdominal swelling
+C2129189  gradually progressive abdominal swelling (symptom)
+C2129190  abdominal swelling gradually progressive over ___ hours
+C2129191  abdominal swelling interfering with breathing (symptom)
+C2129192  abdominal pain increasing in frequency
+C2129193  abdominal pain radiation to chest
+C2129194  abdominal pain radiating to substernal region (symptom)
+C2129195  abdominal pain radiating to right anterior chest
+C2129196  abdominal pain radiating to left anterior chest (symptom)
+C2129197  abdominal pain radiating to the chest right lateral
+C2129198  abdominal pain radiating to left lateral chest
+C2129199  abdominal pain feels like pressure or fullness
+C2129200  abdominal tightness or squeezing (symptom)
+C2129201  abdominal pain started / intensified by empty stomach
+C2129202  onset of abdominal pain unrelated to meals (symptom)
+C2129203  abdominal pain initiated or exacerbated by taking medication (symptom)
+C2129204  abdominal pain worsening through day (symptom)
+C2129205  abdominal pain onset not consistently related to known factor
+C2129206  abdominal pain initiated or exacerbated by spicy foods
+C2129207  abdominal pain initiated or exacerbated by citrus foods
+C2129208  abdominal pain initiated or exacerbated by tomato products
+C2129209  abdominal pain relieved by lying down
+C2129210  abdominal pain gradually resolves spontaneously (symptom)
+C2129212  excessive gas after anti-reflux surgery
+C2129217  rectal pain worsens after prolonged sitting (symptom)
+C2129218  rectal itching at night (symptom)
+C2129219  drowsiness when sitting quietly or reading (symptom)
+C2129220  drowsiness affecting work (symptom)
+C2129221  lower back pain radiating
+C2129222  lower back pain radiating to the buttocks
+C2129223  lower back pain radiating to right buttock
+C2129224  lower back pain radiating to left buttock (symptom)
+C2129225  lower back pain radiating to both buttocks
+C2129259  lower back pain radiating to the medial right ankle
+C2129260  lower back pain radiating to the lateral right ankle
+C2129261  lower back pain radiating to the medial left ankle
+C2129262  lower back pain radiating to the lateral left ankle
+C2129263  lower back pain worse in the morning
+C2129264  lower back pain worse with driving
+C2129265  lower back pain worsens when going from sitting to standing
+C2129266  lower back pain relieved by leaning backward (symptom)
+C2129279  muscle spasm in the mid lower back
+C2129280  lower back pain muscle spasm bilateral
+C2129281  lower back pain radiating to ankle
+C2129282  lower back pain radiating to foot
+C2129283  lower back pain radiating to toe
+C2129284  lower back pain radiating to toe of right foot
+C2129285  lower back pain radiating to great toe of right foot
+C2129286  lower back pain radiating to second toe of right foot (symptom)
+C2129287  lower back pain radiating to third toe of right foot (symptom)
+C2129288  lower back pain radiating to fourth toe of right foot (symptom)
+C2129289  lower back pain radiating to fifth toe of right foot (symptom)
+C2129290  lower back pain radiating to toes of left foot (symptom)
+C2129291  lower back pain radiating to great toe of left foot
+C2129292  lower back pain radiating to second toe of left foot (symptom)
+C2129293  lower back pain radiating to third toe of left foot
+C2129294  lower back pain radiating to fourth toe of left foot
+C2129295  lower back pain radiating to fifth toe of left foot
+C2129296  likelihood to fall asleep during day by Epworth scale (symptom)
+C2129297  likelihood of falling asleep during the day while sitting and reading
+C2129298  likelihood of falling asleep during the day while watching television
+C2129299  likelihood of falling asleep during the day while sitting inactive in a public place
+C2129300  likelihood of falling asleep during the day as a passenger in a car for an extended time
+C2129301  likelihood of falling asleep during the day while lying down to rest in the afternoon
+C2129302  likelihood fall asleep while sitting talking to someone (0-3
+C2129303  likelihood of falling asleep during the day in a car while stopped in traffic
+C2129304  likelihood fall asleep during day total epworth score (symptom)
+C2129319  sharp abdominal pain (symptom)
+C2129320  abdominal pain negatively influenced by urination
+C2129321  abdominal pain negatively influenced by bowel movement (symptom)
+C2129322  abdominal pain relieved by urination
+C2129328  limping in right leg (symptom)
+C2129329  limping in left leg (symptom)
+C2129330  anxiety with persistent worry about recurrent panic attacks (symptom)
+C2129332  unreasonable fear of man-made heights
+C2129347  unreasonable fear of injury related events
+C2129348  unreasonable fear of seeing blood (symptom)
+C2129349  unreasonable fear of seeing an injury (symptom)
+C2129350  unreasonable fear of needle insertion (symptom)
+C2129351  unreasonable fear of invasive medical procedure (symptom)
+C2129406  weakness in limb causing difficulty lifting
+C2129407  weakness in limb causing difficulty lifting more than specified weight
+C2129408  weakness in limb causing difficulty lifting above waist level (symptom)
+C2129409  weakness in limb causes difficulty lifting above shoulder level (symptom)
+C2129420  neck pain increased by head movement bending to right (symptom)
+C2129421  neck pain increased by head movement bending to left
+C2129422  neck pain increased by head movement turning to right (symptom)
+C2129423  neck pain increased by head movement turning to left (symptom)
+C2129424  neck pain increased by sneezing
+C2129425  neck pain relieved by bending head backward
+C2129426  lower posterior neck pain extending into shoulder (symptom)
+C2129427  neck pain relieved by bending head to right
+C2129428  neck pain relieved by bending head to left
+C2129429  neck pain relieved by turning head
+C2129430  neck pain relieved by turning head to right
+C2129431  neck pain relieved by turning head to left (symptom)
+C2129432  lower posterior neck pain extending to tip of shoulder
+C2129433  neck pain increased by upright activity (symptom)
+C2129440  neck pain relieved by immobilizing head (symptom)
+C2129453  lower back pain midline
+C2129454  lower back pain right of midline
+C2129455  lower back pain left of midline
+C2129456  midline low back pain worse with movement (symptom)
+C2129457  midline lower back pain unchanged with movement
+C2129458  midline lower back pain improves with movement
+C2129465  lower back pain worsens during storms (symptom)
+C2129466  lower back pain worsens before storms (symptom)
+C2129467  lower back pain worsens with cold temperatures
+C2129486  lower back pain relieved by medication
+C2129487  lower back pain relieved by bracing (symptom)
+C2129488  lower back pain relieved by heat (symptom)
+C2129489  lower back pain relieved by ice (symptom)
+C2129490  lower back pain relieved by firm mattress (symptom)
+C2129491  lower back pain relieved by softer mattress (symptom)
+C2129492  lower back pain relieved by waterbed (symptom)
+C2129493  lower back pain relieved by an alternative medicine approach
+C2129502  lower back pain started suddenly with lifting (___ lbs)
+C2129503  lower back pain started suddenly with bending
+C2129504  lower back pain started suddenly with twisting (symptom)
+C2129505  lower back pain started suddenly while at work (symptom)
+C2129508  lower back pain worsens with driving over rough terrain (symptom)
+C2129515  lower back pain no longer radiates (symptom)
+C2129516  lower back pain radiating to legs after walking specified number of blocks
+C2129517  lower back pain radiating to groin (symptom)
+C2129518  lower back pain radiating to right groin (symptom)
+C2129519  lower back pain radiating to left groin
+C2129520  lower back pain radiating to both groins
+C2129521  right lower back pain at the sacroiliac joint
+C2129522  left lower back pain at the sacroiliac joint
+C2129525  numbness on front of right thigh toward outer side (symptom)
+C2129526  numbness on front of left thigh toward outer side (symptom)
+C2129533  factors relieving muscle cramps in thigh
+C2129534  muscle cramps in thigh relieved by medication (symptom)
+C2129535  muscle cramps in thigh relieved by massage
+C2129536  thigh cramping relieved by heat
+C2129537  muscle cramps in thigh relieved by ice (symptom)
+C2129538  thigh cramping relieved by stretching
+C2129539  muscle cramps in thigh relieved by ice cream (symptom)
+C2129540  muscle tightness in the thigh
+C2129541  posterior thigh tightness
+C2129542  anterior thigh tightness
+C2129543  medial thigh tightness
+C2129552  calf muscle cramps especially in hot weather
+C2129553  factors relieving muscle cramps in calf (symptom)
+C2129554  muscle cramps in calf relieved by medication (symptom)
+C2129555  muscle cramps in calf relieved by massage (symptom)
+C2129556  calf muscle cramps relieved by heat
+C2129557  calf muscle cramps relieved by ice
+C2129558  muscle cramps in calf relieved by stretching (symptom)
+C2129559  muscle cramps in calf relieved by ice cream (symptom)
+C2129560  factors relieving muscle cramps in feet
+C2129561  muscle cramps in feet relieved by medication
+C2129562  foot muscle cramps relieved by massage
+C2129563  muscle cramps in feet relieved by heat
+C2129564  foot muscle cramps relieved by ice
+C2129565  foot muscle cramps relieved by stretching
+C2129566  muscle cramps in feet relieved by ice cream
+C2129607  numbness of right second and third toes
+C2129608  numbness of right fourth and fifth toes (symptom)
+C2129609  numbness of left second and third toes (symptom)
+C2129610  numbness of left fourth and fifth toes
+C2129616  lower back pain worsens when sleeping on back
+C2129617  lower back pain worsens when sleeping on stomach (symptom)
+C2129622  lower back pain worsens during exercise
+C2129623  lower back pain worsens after exercise (symptom)
+C2129637  red streaking going up limb
+C2129638  red streaking going up right hand
+C2129639  red streaking going up left hand (symptom)
+C2129640  red streaking going up right arm
+C2129641  red streaking going up left arm (symptom)
+C2129642  red streaking going up right foot (symptom)
+C2129643  red streaking going up left foot
+C2129644  red streaking going up right leg (symptom)
+C2129645  red streaking going up left leg (symptom)
+C2129652  itching in the legs
+C2129655  vulvar itching on the right
+C2129656  vulvar itching on the left
+C2130046  factors leaving neck pain unchanged
+C2130047  neck pain unchanged by bending head backward (symptom)
+C2130048  neck pain unchanged by bending head forward
+C2130049  neck pain unchanged by bending head to right (symptom)
+C2130050  neck pain unchanged by bending head to left (symptom)
+C2130051  neck pain unchanged by turning head
+C2130052  neck pain unchanged by turning head to right
+C2130053  neck pain unchanged by turning head to left (symptom)
+C2130054  neck pain unchanged by immobilizing head
+C2130101  unchanged lower back pain (symptom)
+C2130102  lower back pain is unchanged in the morning
+C2130103  lower back pain unchanged with coughing or sneezing (symptom)
+C2130104  lower back pain unchanged w/ straining during bowel movement
+C2130105  lower back pain unchanged with sitting
+C2130106  lower back pain unchanged with sitting in a car (symptom)
+C2130107  lower back pain unchanged with driving
+C2130108  lower back pain unchanged with driving over rough terrain
+C2130109  lower back pain unchanged when going from sitting to standing (symptom)
+C2130110  lower back pain unchanged with standing
+C2130111  lower back pain unchanged with walking (symptom)
+C2130112  lower back pain unchanged during exercise
+C2130113  lower back pain unchanged after exercise (symptom)
+C2130114  lower back pain unchanged with stooping
+C2130115  lower back pain unchanged with bending (symptom)
+C2130116  lower back pain unchanged with bending forward
+C2130117  lower back pain unchanged with bending backward (symptom)
+C2130118  lower back pain unchanged with bending to right
+C2130119  lower back pain unchanged with bending to left (symptom)
+C2130120  lower back pain unchanged with lifting (___ lbs)
+C2130121  lower back pain unchanged with turning (symptom)
+C2130122  lower back pain unchanged by lying down (symptom)
+C2130123  lower back pain unchanged when sleeping on back (symptom)
+C2130124  lower back pain unchanged when sleeping on stomach
+C2130125  lower back pain unchanged when putting on shoes
+C2130126  lower back pain unchanged when putting on right shoe
+C2130127  lower back pain unchanged when putting on left shoe
+C2130128  lower back pain unchanged when putting on both shoes (symptom)
+C2130129  lower back pain unchanged during storms (symptom)
+C2130130  lower back pain unchanged before storms
+C2130131  lower back pain unchanged with cold temperatures (symptom)
+C2130132  neck pain relieved by putting arm over head
+C2130133  dizziness upon turning head
+C2130136  lower back pain present upon awakening (symptom)
+C2130141  lower back pain started suddenly during sports activity (symptom)
+C2130142  lower back pain start suddenly after motor vehicle accident (symptom)
+C2130143  neck pain started suddenly with lifting
+C2130144  neck pain started suddenly with bending (symptom)
+C2130145  neck pain started suddenly with twisting
+C2130146  neck pain started suddenly while at work
+C2130147  neck pain started suddenly during sports activity
+C2130148  neck pain started suddenly after motor vehicle accident (symptom)
+C2130182  vulvar pain on the right
+C2130183  vulvar pain on the left
+C2130189  deformity of toenail causing pain (symptom)
+C2130190  burning sensation between first and second toes of right foot
+C2130191  burning sensation between second and third toes of right foot (symptom)
+C2130192  burning sensation between fourth and fifth toes of right foot
+C2130193  burning sensation between first and second toes of left foot (symptom)
+C2130194  burning sensation between second and third toes of left foot
+C2130195  burning sensation between fourth and fifth toes of left foot (symptom)
+C2130196  numbness of right great toe (symptom)
+C2130197  numbness of right second toe (symptom)
+C2130198  numbness of right middle toe (symptom)
+C2130199  numbness of right fourth toe (symptom)
+C2130200  numbness of right little toe
+C2130201  numbness of right first and second toes (symptom)
+C2130202  numbness of left great toe
+C2130203  numbness of left second toe (symptom)
+C2130204  numbness of left middle toe (symptom)
+C2130205  numbness of left fourth toe (symptom)
+C2130206  numbness of left little toe (symptom)
+C2130207  numbness of left first and second toes (symptom)
+C2130208  burning sensation in fingers of right hand (symptom)
+C2130209  burning sensation in index finger of right hand
+C2130210  burning sensation in little finger of right hand (symptom)
+C2130211  burning sensation in fingers of left hand
+C2130212  burning sensation in index finger of left hand
+C2130213  burning sensation in middle finger of left hand (symptom)
+C2130214  burning sensation in left ring finger
+C2130215  burning sensation in little finger of left hand
+C2130216  numbness of right index finger (symptom)
+C2130217  numbness of right ring finger (symptom)
+C2130218  numbness of right little finger
+C2130219  numbness of left index finger (symptom)
+C2130220  numbness of left ring finger (symptom)
+C2130221  numbness of left little finger
+C2130222  localized change in color of skin to red with irregular border (symptom)
+C2130250  anal pain accompanied by discharge (symptom)
+C2130251  anal pain accompanied by foul-smelling discharge (symptom)
+C2130252  abdominal pain decreasing in frequency (symptom)
+C2130253  sharp or stabbing groin pain
+C2130256  muscle cramps in right thigh (symptom)
+C2130257  muscle cramps in left thigh (symptom)
+C2130258  muscle cramps in both thighs
+C2130259  muscle cramps in right calf
+C2130260  muscle cramps in left calf (symptom)
+C2130261  muscle cramps in both calves
+C2130262  buttock/hip muscle cramps occurring at night
+C2130263  buttock/hip muscle cramps precipitated by exercise
+C2130264  buttock/hip muscle cramps especially in cold weather
+C2130265  buttock/hip muscle cramps relieved
+C2130266  buttock/hip muscle cramps relieved by medication
+C2130267  buttock/hip muscle cramps relieved by massage
+C2130268  buttock/hip muscle cramps relieved by heat
+C2130269  buttock/hip muscle cramps relieved by ice
+C2130270  buttock/hip muscle cramps relieved by stretching
+C2130271  buttock/hip muscle cramps
+C2130272  buttock/hip muscle cramps on the right
+C2130273  muscle cramps in left buttock/hip region (symptom)
+C2130274  buttock/hip muscle cramps on both sides
+C2130276  muscle cramps in thigh especially in hot weather (symptom)
+C2130277  muscle cramps in right foot (symptom)
+C2130278  muscle cramps in left foot (symptom)
+C2130279  muscle cramps in both feet (symptom)
+C2130282  feet insensitive to temperature
+C2130283  scotoma in the nasal field of view
+C2130284  scotoma in the temporal field of view
+C2130285  scotoma upper field right
+C2130286  scotoma upper field left
+C2130287  scotoma in the upper half of visual field in both eyes
+C2130288  scotoma lower field right
+C2130289  scotoma lower field left
+C2130290  scotoma lower field binocular
+C2130291  scotoma nasal field right
+C2130292  scotoma nasal field left
+C2130293  scotoma nasal field binocular
+C2130294  scotoma temporal field right
+C2130295  scotoma temporal field left
+C2130296  scotoma temporal field binocular
+C2133612  fear of possible acquired immunodeficiency syndrome (AIDS) (symptom)
+C2135320  feared medical condition not demonstrated
+C2136007  fear that no cause for symptoms will be found
+C2137247  convulsions followed by (symptom)
+C2137248  convulsions followed by confusion
+C2137249  convulsions followed by headache (symptom)
+C2137250  convulsions followed by paralysis
+C2137251  convulsions followed by paresis
+C2137252  convulsions preceded by
+C2137253  convulsions preceded by buzzing feeling (symptom)
+C2137254  convulsions preceded by feeling experienced before previous seizures
+C2137255  convulsions preceded by flashing lights
+C2137256  convulsions preceded by tingling
+C2137257  convulsions preceded by unusual smell
+C2137258  convulsions preceded by unusual taste (symptom)
+C2137259  convulsions recurring for a long time (symptom)
+C2137552  mouth droop
+C2138381  craving amphetamines or sympathomimetics (symptom)
+C2138382  craving caffeine
+C2138383  craving cocaine
+C2138384  craving earth or clay (pica)
+C2138385  craving laundry starch (pica) (symptom)
+C2138386  craving opioids (symptom)
+C2141086  left eye pain
+C2141922  left hip joint pain (symptom)
+C2142807  pruritus of left eye (symptom)
+C2142808  pruritus of right eye (symptom)
+C2144095  deformity of toenail limiting walking
+C2144729  tooth pain induced by chewing
+C2144730  tooth pain induced by tapping on tooth (symptom)
+C2144731  tooth pain in the left lower jaw
+C2144732  tooth pain in posterior left lower jaw (symptom)
+C2144733  tooth pain in anterior left lower jaw (symptom)
+C2144734  tooth pain in left upper jaw
+C2144735  tooth pain in posterior left upper jaw
+C2144736  tooth pain in anterior left upper jaw (symptom)
+C2144737  pain in multiple teeth (symptom)
+C2144738  tooth pain in right lower jaw
+C2144739  tooth pain in posterior right lower jaw (symptom)
+C2144740  tooth pain in anterior right lower jaw
+C2144741  tooth pain in right upper jaw (symptom)
+C2144742  tooth pain in posterior right upper jaw (symptom)
+C2144743  tooth pain in anterior right upper jaw (symptom)
+C2144744  pain in single tooth (symptom)
+C2144962  total loss of vision in both eyes (symptom)
+C2144963  total loss of vision in both eyes occurs briefly for more global events
+C2144964  total blindness in left eye
+C2144965  total loss of vision in right eye
+C2145411  transient monoplegia of left lower extremity
+C2145412  transient monoplegia of left upper extremity
+C2145413  transient monoplegia of right lower extremity (diagnosis)
+C2145414  transient monoplegia of right upper extremity (diagnosis)
+C2146655  acid taste in mouth (symptom)
+C2164343  decrease in consciousness relieved by eating (symptom)
+C2164362  decreased concentrating ability
+C2164363  decreased ability to concentrate which fluctuates (symptom)
+C2164364  decreased ability to concentrate getting worse
+C2165311  delusion of missing a limb (symptom)
+C2165312  delusions that one is a prominent figure (symptom)
+C2165313  delusions that one is emitting foul odors
+C2165314  delusions that one is loved by another
+C2165315  delusions that one is obese when normal or thin
+C2165316  delusions that one's body is infested with parasites
+C2165507  depression accompanied by persistent worry (symptom)
+C2165508  depression accompanied by eating less
+C2165509  depression accompanied by eating more
+C2165510  depression accompanied by sleeping less (symptom)
+C2165511  depression accompanied by sleeping more (symptom)
+C2165512  depression alternating with periods of elation (symptom)
+C2165515  depression preceded by high activity level
+C2165517  depression relieved by counseling (symptom)
+C2165518  depression relieved by good news
+C2165519  depression relieved by medication (symptom)
+C2165602  swollen left labia
+C2166198  neck pain in the lower neck / upper back left
+C2166575  left neck pain
+C2167126  weakness shoulder left only
+C2168106  left cheek pain
+C2168109  left-sided frontal headache (symptom)
+C2168110  left-sided headache
+C2168111  left-sided low back pain
+C2168115  left-sided temporal headache
+C2168117  left-sided zygomatic headache (symptom)
+C2169390  rash appeared after fever went away
+C2169391  rash appeared third to 6th febrile day (symptom)
+C2169798  recurrent dizziness
+C2169801  recurrent episodes of fainting
+C2169806  involuntary movements repeated muscle twitches (tics)
+C2170206  renal colic of both kidneys
+C2170207  renal colic of left kidney (diagnosis)
+C2170208  renal colic of right kidney
+C2170435  repeated muscle twitches which can be suppressed temporarily (symptom)
+C2170436  repeated questioning about recent events (symptom)
+C2170460  repetitive head banging
+C2182650  2-3 week episodes of sleeping much more than usual
+C2183399  difficult to rouse (stupor)
+C2183423  difficulty distinguishing colors
+C2183438  difficulty reading improved by holding text further away (symptom)
+C2183439  difficulty running, but walk is normal
+C2183440  difficulty seeing in bright light
+C2183441  difficulty starting and stopping movements
+C2183442  difficulty starting and stopping movements since childhood
+C2183470  difficulty with stairs progressed to difficulty rising from chair (symptom)
+C2183875  lightheadedness during exercise
+C2183876  lightheadedness with collapse
+C2183878  likelihood of falling asleep while sitting quietly after lunch (no alcohol)
+C2183879  weakness in limb causing difficulty climbing stairs
+C2183880  weakness in limb made worse by (symptom)
+C2183881  weakness in limb made worse by exercise (symptom)
+C2183882  weakness in limb made worse by heat
+C2183883  weakness in limb made worse by stress (symptom)
+C2183884  recurrent weakness in limb
+C2183885  sudden limb weakness
+C2183886  weakness in limb started suddenly after a starchy meal (symptom)
+C2183887  upper limb weakness descended to the legs
+C2183888  temporary weakness in limb
+C2183889  temporary weakness in limb with intense emotions (cataplexy) (symptom)
+C2183890  weakness in limb when awakening
+C2183891  weakness in limb when falling asleep (symptom)
+C2183892  weakness in limb when falling asleep or awakening (sleep paral)
+C2183893  weakness in limb started with legs and progressed upward
+C2184179  localized blue or brown patches on legs or arms (symptom)
+C2184183  localized convulsion progressed to involve one entire side (symptom)
+C2184184  localized convulsions
+C2184216  localized skin discoloration
+C2185950  loss of vision in part of visual field as if curtain were being drawn
+C2185951  lost periods of time (symptom)
+C2185953  lower back pain radiating to the legs
+C2185954  lower back pain relieved by lying down (symptom)
+C2185955  lower back pain worse with bending
+C2185956  lower back pain worse with coughing or sneezing
+C2185957  lower back pain worsened by lying down (symptom)
+C2185962  low self-esteem compensated by falsely positive attitude (symptom)
+C2185964  lower back pain precipitated by tension, depression, anxiety
+C2185965  lower back pain relieved by movement
+C2187510  retroorbital pain in left eye
+C2187511  pain behind the right eye
+C2187991  frequency of urinary incontinence at night while asleep
+C2188004  unconscious about 1-5 minutes after fainting (symptom)
+C2188005  unconscious for 15 seconds or less after fainting (symptom)
+C2188199  constant headache
+C2188222  unusual darkening of skin color (symptom)
+C2189718  worsening vision started after prescription change
+C2198702  bloating after meals
+C2198703  bloating after medications
+C2198704  abdominal bloating after specific foods (symptom)
+C2198872  worsening vision after prescription change distance vision
+C2198875  bilateral anosmia (diagnosis)
+C2198876  anosmia on left
+C2198877  anosmia on right
+C2198887  dizziness preceded by chest pain (symptom)
+C2198888  dizziness preceded by flushing (symptom)
+C2198889  dizziness preceded by nausea
+C2198890  dizziness preceded by rapid or irregular heartbeat (symptom)
+C2198891  dizziness preceded by sudden or severe headache (symptom)
+C2198892  dizziness preceded by sudden severe ear pain
+C2198893  dizziness preceded by sudden severe pain
+C2198894  dizziness preceded by sudden severe throat pain (symptom)
+C2198895  dizziness preceded by sweating
+C2198896  dizziness preceded by turning blue (symptom)
+C2198897  dizziness preceded by turning pale (symptom)
+C2198898  dizziness upon bending over (symptom)
+C2198899  dizziness upon rolling over (symptom)
+C2198900  dizziness when walking up stairs
+C2198901  dizziness while using hands or arms
+C2198906  do not feel rested after adequate night's sleep
+C2199005  drags left foot when walking (symptom)
+C2199006  drags one foot when walking as symptom
+C2199007  drags right foot when walking
+C2199085  dropping dishes frequently (symptom)
+C2199086  drowsiness while driving (symptom)
+C2199191  dry skin localized to both feet (symptom)
+C2199192  dry skin localized to both hands (symptom)
+C2199193  dry skin localized to both shins (symptom)
+C2199194  dry skin localized to creases of elbows, wrists, knees (symptom)
+C2199195  dry skin localized to face (symptom)
+C2199196  dry skin localized to feet (symptom)
+C2199197  dry skin localized to hand
+C2199198  dry skin localized to left foot
+C2199199  dry skin localized to left hand (symptom)
+C2199200  dry skin localized to left shin
+C2199201  dry skin localized to right foot
+C2199202  dry skin localized to right hand (symptom)
+C2199203  dry skin localized to right shin (symptom)
+C2199204  dry skin localized to shins
+C2199205  dry skin with cracking
+C2199213  dull abdominal pain
+C2199612  eating binges followed by guilt and depression
+C2199768  lower posterior neck pain (symptom)
+C2200455  rhythmic rocking or bumping
+C2201627  eye pain right
+C2202100  right hip joint pain (symptom)
+C2202419  swollen right labia
+C2202703  voluntary repetitive behavior (symptom)
+C2202800  walking with short steps
+C2202982  wavy lines in vision
+C2202993  weakness in right hand
+C2202994  weakness in hips and shoulders (symptom)
+C2202995  weakness of left arm
+C2202996  weakness of right arm (physical finding)
+C2202997  quadriparesis developed in a clockwise fashion
+C2203000  weakness in hands and feet (symptom)
+C2203001  weakness on one entire side
+C2203257  white or light spots in field of vision stationary (symptom)
+C2203298  worsening central vision
+C2203299  worsening distance vision (symptom)
+C2203300  worsening headaches (symptom)
+C2203301  worsening near vision (symptom)
+C2203302  worsening peripheral vision
+C2203303  worsening peripheral vision binocular
+C2203304  worsening peripheral vision in left eye (symptom)
+C2203305  worsening peripheral vision in right eye
+C2203306  worsening continuous headache
+C2203308  worsening vision as day progresses (symptom)
+C2203309  worsening vision in left eye
+C2203310  worsening vision in one eye
+C2203311  worsening vision in right eye (symptom)
+C2203312  transient worsening of vision (symptom)
+C2203313  worsening vision progressing rapidly (symptom)
+C2203314  worsening vision progressing slowly (symptom)
+C2203491  writing has become very small (symptom)
+C2203713  zygomatic headache
+C2203729  headache which started with devastating suddenness
+C2203731  excruciating facial pain which is brief
+C2203732  facial pain initiated by trigger point stimulation
+C2203733  seeing words, letters, or syllables reversed on page (symptom)
+C2203734  eye pain worse with movement
+C2203737  yellow-green halos around lights
+C2215257  acute postoperative pain
+C2218165  neck pain in the lower neck / upper back right
+C2218360  right neck pain (symptom)
+C2218625  right shoulder weakness (symptom)
+C2219283  pain in the right cheek
+C2219284  headache in right forehead
+C2219285  right-sided headache (symptom)
+C2219286  lower back pain on the right
+C2219290  right-sided temporal headache (symptom)
+C2219292  headache in front of right ear
+C2219313  ring scotoma of both eyes
+C2219314  ring scotoma of left eye (diagnosis)
+C2219315  ring scotoma of right eye
+C2219321  ringing in both ears (symptom)
+C2219322  ringing in ears sounds like
+C2219323  pulsating tinnitus
+C2219324  ringing in left ear only (symptom)
+C2219325  ringing in right ear only
+C2219654  excruciating sore throat
+C2219655  factors increasing neck pain (symptom)
+C2219656  neck pain increased by swallowing (symptom)
+C2219657  neck pain increased by head movement (symptom)
+C2219658  neck pain increased by coughing (symptom)
+C2219659  neck pain radiating down arm (symptom)
+C2219660  neck pain radiating up back of head
+C2219661  neck pain radiating to shoulder
+C2219663  extreme overeating lasting 2-3 weeks and recurring (symptom)
+C2219667  abdominal swelling 20-30 minutes after a meal (symptom)
+C2219668  abdominal swelling after milk or milk products
+C2219669  abdominal pain which radiates
+C2219670  abdominal pain radiating to upper back
+C2219671  abdominal pain radiating to lower or middle back (symptom)
+C2219672  abdominal pain radiating to inguinal region (symptom)
+C2219673  abdominal pain radiating to left shoulder
+C2219674  abdominal pain radiating to the neck & arms
+C2219675  abdominal pain radiating to right shoulder (symptom)
+C2219676  abdominal pain which changed location (symptom)
+C2219677  abdominal pain migrated to right lower quadrant region
+C2219678  quality of abdominal pain (symptom)
+C2219679  severe, constant abdominal pain (symptom)
+C2219680  burning abdominal pain
+C2219681  pattern of occurrence of abdominal pain (symptom)
+C2219682  abdominal pain onset within 30 minutes after eating
+C2219683  onset of abdominal pain 1-4 hours after eating
+C2219684  abdominal pain initiated or exacerbated by ETOH
+C2219685  abdominal pain negatively influenced by exertion
+C2219686  abdominal pain causes awakening from sleep (symptom)
+C2219687  abdominal pain upon awakening for day
+C2219688  seasonal abdominal pain either spring or fall
+C2219689  abdominal pain initiating or exacerbating factors
+C2219690  abdominal pain negatively influenced by fasting (symptom)
+C2219691  abdominal pain negatively influenced by coffee (symptom)
+C2219692  abdominal pain initiated or exacerbated by milk or milk products
+C2219693  abdominal pain negatively influenced by food
+C2219694  abdominal pain negatively influenced by fatty foods (symptom)
+C2219695  abdominal pain initiated or exacerbated by lying down
+C2219696  abdominal pain initiated or exacerbated by body movement or cough
+C2219697  abdominal pain relieved by
+C2219698  abdominal pain relieved by food
+C2219699  abdominal pain relieved by antacids (symptom)
+C2219700  abdominal pain relieved suddenly for no known reason (symptom)
+C2219701  abdominal pain relieved by leaning forward
+C2219702  abdominal pain relieved by bowel movement (symptom)
+C2219703  abdominal pain relieved by vomiting
+C2219719  fever started during most recent menstrual period
+C2219727  fainting while using hands or arms
+C2219728  fainting upon bending over (symptom)
+C2219729  fainting upon standing up
+C2219730  focal neurological disturbances
+C2219731  sense of smell greatly increased (symptom)
+C2219732  sense of smell lost (anosmia) just on one side
+C2219735  shuffling walk
+C2219736  facial tingling
+C2219737  burning sensation in left arm or hand
+C2219738  burning sensation in both arms or hands
+C2219739  burning sensation in left leg or foot (symptom)
+C2219740  burning sensation in both legs or feet (symptom)
+C2219741  burning sensation in hands and feet
+C2219742  numbness of one entire side
+C2219743  numbness of entire right side (symptom)
+C2219744  numbness of entire left side (symptom)
+C2219745  numbness of right arm (symptom)
+C2219746  numbness of inner aspect of right arm (symptom)
+C2219747  numbness of outer aspect of right arm
+C2219748  numbness of left arm (symptom)
+C2219749  numbness of inner side of left arm (symptom)
+C2219750  numbness of outer side of left arm (symptom)
+C2219751  numbness of both arms (symptom)
+C2219752  numbness of inner aspect of both arms (symptom)
+C2219753  numbness of outer aspect of both arms
+C2219754  numbness of right hand
+C2219755  numbness of right thumb (symptom)
+C2219756  numbness of right thumb and index finger (symptom)
+C2219757  numbness of right thumb, index and middle fingers (symptom)
+C2219758  numbness of right middle finger (symptom)
+C2219759  numbness of right ring and little fingers (symptom)
+C2219760  numbness on back of right hand (symptom)
+C2219761  numbness of left hand
+C2219762  numbness of left thumb (symptom)
+C2219763  numbness of left thumb and index finger (symptom)
+C2219764  numbness of left thumb, index and middle fingers (symptom)
+C2219765  numbness of left middle finger
+C2219766  numbness of left ring and little fingers
+C2219767  numbness on back of left hand (symptom)
+C2219768  numbness of both hands
+C2219769  numbness from the waist down
+C2219770  numbness of right leg (symptom)
+C2219771  numbness on front of right thigh
+C2219772  numbness of inner aspect of right thigh (symptom)
+C2219773  numbness of right groin (symptom)
+C2219774  numbness of outer aspect of right thigh
+C2219775  numbness of back of right thigh (symptom)
+C2219776  numbness of right buttock
+C2219777  numbness of front of right lower leg
+C2219778  numbness of back of right lower leg
+C2219779  left leg numbness
+C2219780  numbness of front of left thigh (symptom)
+C2219781  numbness of inner aspect of left thigh
+C2219782  numbness of left groin
+C2219783  numbness of outer aspect of left thigh
+C2219784  numbness of back of left thigh (symptom)
+C2219785  numbness of left buttock (symptom)
+C2219786  numbness on front of left lower leg (symptom)
+C2219787  numbness of left calf
+C2219788  numbness of both legs
+C2219789  numbness of both buttocks (symptom)
+C2219790  numbness of both arms and both legs (symptom)
+C2219791  numbness of right foot (symptom)
+C2219792  numbness on top of right foot (symptom)
+C2219793  numbness on sole of right foot (symptom)
+C2219794  numbness of left foot (symptom)
+C2219795  numbness on top of left foot (symptom)
+C2219796  numbness on sole of left foot
+C2219797  numbness of both feet
+C2219798  numbness started with legs and progressed upward
+C2219799  numbness of arms or legs during exercise (symptom)
+C2219800  numbness of perianal region
+C2219801  numbness in the perineum
+C2219803  anesthesia from the neck down
+C2219804  anesthesia from the chest down
+C2219805  anesthesia from the waist down
+C2219806  anesthesia in the legs
+C2219807  focal disturbances which start with straining (symptom)
+C2219816  lower back pain excruciating
+C2219830  muscle cramps occur at night
+C2219831  muscle cramps precipitated by exercise (symptom)
+C2219832  muscle cramps especially in cold weather (symptom)
+C2219833  muscle spasms in the neck
+C2219835  feelings of weakness occurring 15-30 minutes after eating
+C2219836  feelings of weakness occurring 2-3 hours after eating (symptom)
+C2219837  skin lesion comes and goes (symptom)
+C2219840  episodic pallor
+C2219841  feet and legs are blue (cyanosis)
+C2219842  the skin has acquired a light lemon yellow color
+C2219843  anal pruritus worse at night
+C2219845  malaise worse in morning (symptom)
+C2219846  malaise worse in evening (symptom)
+C2219847  sleeping much more than usual
+C2219848  excessive sleepiness during the day (daytime somnolence)
+C2219849  awakening in middle of night
+C2219851  screaming in middle of night
+C2219868  anxiety, starts suddenly lasting minutes to hours
+C2219870  anxiety, 3 or more episodes in 3 weeks (symptom)
+C2219874  euphoria alternating with periods of depression
+C2219881  seeing objects distorted in size or shape (symptom)
+C2219895  automatism chewing (symptom)
+C2219896  automatism smacking or licking lips
+C2219897  automatism blinking eyelids (symptom)
+C2219898  automatism head turning (symptom)
+C2219901  being more talkative than usual (symptom)
+C2219903  being less talkative than usual (symptom)
+C2219909  sexual identity is different from one's anatomic sex (symptom)
+C2219916  brownish skin discoloration localized on lower legs (symptom)
+C2219918  vaginal spasms
+C2219919  vaginal spasms with attempted penetration
+C2219924  feeling persecuted, expecting trickery
+C2219925  feeling persecuted, vigilant against perceived treachery (symptom)
+C2219926  feeling persecuted, concerned with hidden motives of others
+C2219927  fixed beliefs contradicted by reality shared with others
+C2219928  being quick to take offense
+C2219946  sleep terrors
+C2219953  middle-night awakening having a cigarette (symptom)
+C2219954  middle-night awakening having a snack (symptom)
+C2219960  fainting preceded by sudden or severe headache (symptom)
+C2219961  fainting followed by a headache
+C2219962  fainting preceded by turning pale (symptom)
+C2219963  fainting preceded by sweating (symptom)
+C2219964  fainting preceded by flushing
+C2219965  fainting during urination
+C2219966  fainting while coughing (symptom)
+C2219967  fainting preceded by sudden severe throat pain
+C2219968  fainting preceded by sudden severe ear pain
+C2219969  fainting preceded by rapid or irregular heartbeat
+C2219970  fainting preceded by turning blue
+C2219973  mouthing of one's hair (symptom)
+C2219974  burning sensation in fingers (symptom)
+C2219983  fainting preceded by chest pain (symptom)
+C2219984  skin stretch marks occurred after pregnancy
+C2219985  skin stretch marks occurred after losing weight
+C2219986  skin stretch marks occurred spontaneously
+C2219988  skin lesion comes and goes with fever (symptom)
+C2219989  total vision loss unilaterally occurring briefly
+C2219994  numbness of tongue on right side (symptom)
+C2219995  numbness of tongue on left side
+C2219996  numbness of tongue on both sides
+C2219997  numbness on one entire side of face (symptom)
+C2219998  right-sided hemifacial numbness
+C2219999  left-sided hemifacial numbness
+C2220000  numbness of forehead (symptom)
+C2220001  numbness of right side of forehead (symptom)
+C2220002  numbness of left side of forehead
+C2220003  numbness of right cheek (symptom)
+C2220004  numbness of left cheek
+C2220005  numbness of chin
+C2220006  right shoulder numbness
+C2220007  left shoulder numbness
+C2220010  socially inappropriate behavior (symptom)
+C2220020  mismatch of sleep-wake schedule with lifestyle needs
+C2220024  abdominal pain relieved by passing gas (symptom)
+C2220026  neck pain radiating up back of head on right (symptom)
+C2220027  neck pain radiating up back of head on left
+C2220028  burning headache (symptom)
+C2220050  blurred vision as if looking through a glass of water
+C2220051  seeing a bright light for 1-15 minutes
+C2220057  fainting preceded (symptom)
+C2220077  numbness made worse by
+C2220078  numbness made worse by heat
+C2220079  numbness made worse by exercise (symptom)
+C2220080  numbness made worse by stress (symptom)
+C2220081  bilateral lower posterior neck pain (symptom)
+C2220082  muscle pain in shoulder (symptom)
+C2220083  muscle pain in right shoulder (symptom)
+C2220084  muscle pain in left shoulder (symptom)
+C2220085  muscle pain in both shoulders (symptom)
+C2220087  bilateral neck pain (symptom)
+C2220114  skin lesion appeared after fever with other symptoms resolved
+C2220115  abdominal pain in multiple locations
+C2220116  skin lesion has gotten much worse (symptom)
+C2220150  skin lesion on right side of nose
+C2220151  skin lesion on left side of nose
+C2220152  skin lesion on both sides of nose (symptom)
+C2220160  skin lesion on upper lip
+C2220161  skin lesion on right side of upper lip (symptom)
+C2220162  skin lesion on left side of upper lip
+C2220163  skin lesion on both sides of upper lip (symptom)
+C2220164  skin lesion on lower lip (symptom)
+C2220165  skin lesion on right side of lower lip (symptom)
+C2220166  skin lesion on left side of lower lip
+C2220167  skin lesion on both sides of lower lip (symptom)
+C2220232  skin lesion on right ear (symptom)
+C2220233  skin lesion on left ears
+C2220245  worsening vision after prescription change for near vision
+C2220247  feelings of weakness relieved by food (symptom)
+C2220255  motor disturbances (symptom)
+C2220390  mouth pain occurring recently with fruit juices
+C2228009  angioscotoma of both eyes (diagnosis)
+C2228010  angioscotoma of left eye (diagnosis)
+C2228011  angioscotoma of right eye (diagnosis)
+C2228138  primary diurnal enuresis (diagnosis)
+C2228140  primary nocturnal and diurnal enuresis (diagnosis)
+C2228141  secondary diurnal enuresis (diagnosis)
+C2228963  medicated level of sleepiness
+C2229262  scintillating scotoma of both eyes
+C2229263  scintillating scotoma of left eye
+C2229264  scintillating scotoma of right eye (diagnosis)
+C2229494  decreased sense of smell on both sides
+C2229495  decreased sense of smell on left (symptom)
+C2229496  decreased sense of smell on right
+C2229995  fear of present medical condition (symptom)
+C2229996  fear of possible cancer (symptom)
+C2229997  fear of possible surgery (symptom)
+C2229998  fear of possible loss of ability to work
+C2229999  fear of inability to care for family members
+C2230000  fear of inability to pay for medical care (symptom)
+C2230001  fear of possible side effects of medications (symptom)
+C2230002  fear of dying from medical condition (symptom)
+C2230003  fear that knowledge of condition will harm others (symptom)
+C2230004  fear of seriousness of illness (symptom)
+C2230005  fear of possible communicable illness (symptom)
+C2230006  fear of time lost from work (symptom)
+C2230007  fear of possible inheritable condition
+C2230008  fear that personal behavior caused illness
+C2231398  post-viral asthenia
+C2231481  blister on the upper gums
+C2231482  blister on the lower gums
+C2231893  skin crust shape [as symptom]
+C2231894  skin crust circular in shape [as symptom]
+C2231895  skin crust coin-shaped [as symptom]
+C2231896  circular skin crust spreading outward with surrounding red ring (symptom)
+C2231897  skin crust circular in shape at site of tick bite [as symptom]
+C2231898  skin crust lacy [as symptom]
+C2231899  skin crust polygonal [as symptom]
+C2231900  skin crusts generalized [as symptom]
+C2231901  skin crusts generalized including palms and soles [as symptom]
+C2231902  skin crusts generalized excluding palms and soles [as symptom]
+C2231903  skin crusts generalized including the palms [as symptom]
+C2231904  skin crusts generalized excluding the palms [as symptom]
+C2231905  skin crusts generalized including soles of feet [as symptom]
+C2231906  skin crusts generalized excluding soles of feet [as symptom]
+C2231907  skin crusts generalized including the eyelid(s) [as symptom]
+C2231908  skin crusts generalized including interior surfaces [as symptom]
+C2231909  generalized skin crust including interior of nose (symptom)
+C2231910  generalized skin crust including interior of mouth (symptom)
+C2231911  generalized skin crust including interior of genitalia (symptom)
+C2231912  generalized skin crust including interior of rectum
+C2231913  skin crust localized to [as symptom]
+C2231914  skin crust on scalp
+C2231915  skin crust on anterior surface of scalp (symptom)
+C2231916  skin crust on top of scalp (symptom)
+C2231917  skin crust on lateral surface of right side of scalp (symptom)
+C2231918  skin crust on lateral surface of left side of scalp (symptom)
+C2231919  skin crust on posterior surface of scalp
+C2231920  skin crust on scalp at hair line
+C2231921  skin crust on ears (symptom)
+C2231922  skin crust on right ear (symptom)
+C2231923  skin crust on left ear (symptom)
+C2231924  skin crust on face (symptom)
+C2231925  skin crust on forehead
+C2231926  skin crust on right side of forehead
+C2231927  skin crust on left side of forehead
+C2231928  skin crust on entire forehead (symptom)
+C2231929  skin crust between forehead and ear (symptom)
+C2231930  skin crust between forehead and right ear
+C2231931  skin crust between forehead and left ear
+C2231932  skin crust between forehead and both ears
+C2231933  skin crust on cheek (symptom)
+C2231934  skin crust on right cheek (symptom)
+C2231935  skin crust on left cheeks (symptom)
+C2231936  skin crust on both cheeks (symptom)
+C2231937  skin crust at junction of nose and cheek (symptom)
+C2231938  skin crust at junction of nose and right cheek (symptom)
+C2231939  skin crust at junction of nose and left cheek
+C2231940  skin crust at junction of nose and both cheeks
+C2231941  skin crust on nose (symptom)
+C2231942  skin crust on right side of nose (symptom)
+C2231943  skin crust on left side of nose
+C2231944  skin crust on both sides of nose (symptom)
+C2231945  skin crust around mouth (circumoral) (symptom)
+C2231946  skin crust around right side of mouth (symptom)
+C2231947  skin crust around left side of mouth (symptom)
+C2231948  skin crust around both sides of mouth
+C2231949  skin crust around nose and mouth (symptom)
+C2231950  skin crust around right side of nose and mouth
+C2231951  skin crust around left side of nose and mouth (symptom)
+C2231952  skin crust around both sides of nose and mouth (symptom)
+C2231953  skin crust on lip
+C2231954  skin crust on skin of lip
+C2231955  skin crust on vermilion border of lip (symptom)
+C2231956  skin crust on upper lip (symptom)
+C2231957  skin crust on right side of upper lip (symptom)
+C2231958  skin crust on left side of upper lip
+C2231959  skin crust on both sides of upper lip
+C2231960  skin crust on lower lip (symptom)
+C2231961  skin crust on right side of lower lip
+C2231962  skin crust on left side of lower lip (symptom)
+C2231963  skin crust on both sides of lower lip (symptom)
+C2231964  skin crust on chin (symptom)
+C2231965  skin crust on right side of chin (symptom)
+C2231966  skin crust on left side of chin
+C2231967  skin crust on both sides of chin
+C2231968  skin crust along jawline
+C2231969  skin crust along right side of jawline
+C2231970  skin crust along left side of jawline (symptom)
+C2231971  skin crust along both sides of jawline (symptom)
+C2231972  skin crust on neck
+C2231973  skin crust on right side of neck
+C2231974  skin crust on anterior surface of right side of neck (symptom)
+C2231975  skin crust on posterior surface of right side of neck (symptom)
+C2231976  skin crust on left side of neck
+C2231977  skin crust on left anterior neck
+C2231978  skin crust on posterior surface of left side of neck (symptom)
+C2231979  skin crust on both sides of neck (symptom)
+C2231980  skin crust on anterior surface of both sides of neck
+C2231981  skin crust on posterior surface of both sides of neck (symptom)
+C2231982  skin crust of shoulder
+C2231983  skin crust on right shoulder
+C2231984  skin crust on front of right shoulder
+C2231985  skin crust on top of right shoulder
+C2231986  skin crust on back of right shoulder (symptom)
+C2231987  skin crust on left shoulder (symptom)
+C2231988  skin crust on anterior surface of left shoulder
+C2231989  skin crust on superior surface of left shoulder (symptom)
+C2231990  skin crust on posterior surface of left shoulder (symptom)
+C2231991  skin crust on both shoulders (symptom)
+C2231992  skin crust on anterior surface of both shoulders
+C2231993  skin crust on superior surface of both shoulders (symptom)
+C2231994  skin crust on posterior surface of both shoulders (symptom)
+C2231995  skin crust of armpit (symptom)
+C2231996  skin crust of axillary vault (symptom)
+C2231997  skin crust of axillary fold (symptom)
+C2231998  skin crust of anterior axillary fold (symptom)
+C2231999  skin crust of posterior axillary fold (symptom)
+C2232000  skin crust within right armpit (symptom)
+C2232001  skin crust within left armpit
+C2232002  skin crust within both armpits (symptom)
+C2232003  skin crust on upper extremity (symptom)
+C2232004  skin crust on upper arm
+C2232005  skin crust on right upper arm
+C2232006  skin crust on left upper arm (symptom)
+C2232007  skin crust on both upper arms (symptom)
+C2232008  skin crust on elbow (symptom)
+C2232009  skin crust on right elbow
+C2232010  skin crust on medial surface of right elbow
+C2232011  skin crust on lateral surface of right elbow
+C2232012  skin crust on anterior surface of right elbow
+C2232013  skin crust on posterior surface of right elbow (symptom)
+C2232014  skin crust on left elbow
+C2232015  skin crust on medial surface of left elbow
+C2232016  skin crust on lateral surface of left elbow
+C2232017  skin crust on anterior surface of left elbow
+C2232018  skin crust on posterior surface of left elbow (symptom)
+C2232019  skin crust on both elbows
+C2232020  skin crust on medial surface of both elbows
+C2232021  skin crust on lateral surface of both elbows (symptom)
+C2232022  skin crust on anterior surface of both elbows (symptom)
+C2232023  skin crust on posterior surface of both elbows
+C2232024  skin crust on forearm (symptom)
+C2232025  skin crust on right forearm (symptom)
+C2232026  skin crust on proximal surface of right forearm
+C2232027  skin crust on distal surface of right forearm
+C2232028  skin crust on anterior surface of right forearm
+C2232029  skin crust on posterior surface of right forearm
+C2232030  skin crust on ulnar surface of right forearm (symptom)
+C2232031  skin crust on radial surface of right forearm (symptom)
+C2232032  skin crust on left forearm
+C2232033  skin crust on proximal surface of left forearm
+C2232034  skin crust on distal surface of left forearm
+C2232035  skin crust on anterior surface of left forearm
+C2232036  skin crust on posterior surface of left forearm (symptom)
+C2232037  skin crust on ulnar surface of left forearm
+C2232038  skin crust on radial surface of left forearm
+C2232039  skin crust on wrist (symptom)
+C2232040  skin crust on right wrist
+C2232041  skin crust on anterior surface of right wrist (symptom)
+C2232042  skin crust on posterior surface of right wrist (symptom)
+C2232043  skin crust on ulnar surface of right wrist
+C2232044  skin crust on radial surface of right wrist (symptom)
+C2232045  skin crust on left wrist
+C2232046  skin crust on anterior surface of left wrist
+C2232047  skin crust on posterior surface of left wrist (symptom)
+C2232048  skin crust on ulnar surface of left wrist (symptom)
+C2232049  skin crust on radial surface of left wrist (symptom)
+C2232050  skin crust on both wrists (symptom)
+C2232051  skin crust on anterior surface of both wrists
+C2232052  skin crust on posterior surface of both wrists (symptom)
+C2232053  skin crust on ulnar surface of both wrists (symptom)
+C2232054  skin crust on radial surface of both wrists (symptom)
+C2232055  skin crust on hand (symptom)
+C2232056  skin crust on right hand (symptom)
+C2232057  skin crust on dorsal surface of right hand
+C2232058  skin crust on palmar surface of right hand (symptom)
+C2232059  skin crust on left hand (symptom)
+C2232060  skin crust on dorsal surface of left hand (symptom)
+C2232061  skin crust on palmar surface of left hand (symptom)
+C2232062  skin crust on both hands
+C2232063  skin crust on dorsal surface of both hands (symptom)
+C2232064  skin crust on palmar surface of both hands
+C2232065  skin crust on finger
+C2232066  skin crust on thumb of right hand
+C2232067  skin crust on proximal surface of thumb of right hand (symptom)
+C2232068  skin crust on distal surface of thumb of right hand (symptom)
+C2232069  skin crust on palmar surface of thumb of right hand (symptom)
+C2232070  skin crust on dorsal surface of thumb of right hand (symptom)
+C2232071  skin crust on medial surface of thumb of right hand
+C2232072  skin crust on lateral surface of thumb of right hand (symptom)
+C2232073  skin crust on index finger of right hand (symptom)
+C2232074  skin crust on proximal surface of index finger of right hand
+C2232075  skin crust on distal surface of index finger of right hand (symptom)
+C2232076  skin crust on palmar surface of index finger of right hand (symptom)
+C2232077  skin crust on dorsal surface of index finger of right hand
+C2232078  skin crust on medial surface of index finger of right hand
+C2232079  skin crust on lateral surface of index finger of right hand
+C2232080  skin crust on middle finger of right hand (symptom)
+C2232081  skin crust on proximal surface of middle finger of right hand (symptom)
+C2232082  skin crust on distal surface of middle finger of right hand
+C2232083  skin crust on palmar surface of middle finger of right hand (symptom)
+C2232084  skin crust on dorsal surface of middle finger of right hand (symptom)
+C2232085  skin crust on medial surface of middle finger of right hand (symptom)
+C2232086  skin crust on lateral surface of middle finger of right hand (symptom)
+C2232087  skin crust on ring finger of right hand
+C2232088  skin crust on proximal surface of ring finger of right hand (symptom)
+C2232089  skin crust on distal surface of ring finger of right hand (symptom)
+C2232090  skin crust on palmar surface of ring finger of right hand
+C2232091  skin crust on dorsal surface of ring finger of right hand
+C2232092  skin crust on medial surface of ring finger of right hand (symptom)
+C2232093  skin crust on lateral surface of ring finger of right hand (symptom)
+C2232094  skin crust on little finger of right hand
+C2232095  skin crust on proximal surface of little finger of right hand
+C2232096  skin crust on distal surface of little finger of right hand (symptom)
+C2232097  skin crust on palmar surface of little finger of right hand
+C2232098  skin crust on dorsal surface of little finger of right hand
+C2232099  skin crust on medial surface of little finger of right hand
+C2232100  skin crust on lateral surface of little finger of right hand (symptom)
+C2232101  skin crust on thumb of left hand
+C2232102  skin crust on proximal surface of thumb of left hand (symptom)
+C2232103  skin crust on distal surface of thumb of left hand
+C2232104  skin crust on palmar surface of thumb of left hand
+C2232105  skin crust on dorsal surface of thumb of left hand (symptom)
+C2232106  skin crust on medial surface of thumb of left hand (symptom)
+C2232107  skin crust on lateral surface of thumb of left hand (symptom)
+C2232108  skin crust on index finger of left hand (symptom)
+C2232109  skin crust on proximal surface of index finger of left hand (symptom)
+C2232110  skin crust on distal surface of index finger of left hand
+C2232111  skin crust on palmar surface of index finger of left hand
+C2232112  skin crust on dorsal surface of index finger of left hand
+C2232113  skin crust on medial surface of index finger of left hand
+C2232114  skin crust on lateral surface of index finger of left hand (symptom)
+C2232115  skin crust on middle finger of left hand
+C2232116  skin crust on proximal surface of middle finger of left hand (symptom)
+C2232117  skin crust on distal surface of middle finger of left hand (symptom)
+C2232118  skin crust on palmar surface of middle finger of left hand (symptom)
+C2232119  skin crust on dorsal surface of middle finger of left hand
+C2232120  skin crust on medial surface of middle finger of left hand
+C2232121  skin crust on lateral surface of middle finger of left hand (symptom)
+C2232122  skin crust on ring finger of left hand
+C2232123  skin crust on proximal surface of ring finger of left hand (symptom)
+C2232124  skin crust on distal surface of ring finger of left hand
+C2232125  skin crust on palmar surface of ring finger of left hand (symptom)
+C2232126  skin crust on dorsal surface of ring finger of left hand
+C2232127  skin crust on medial surface of ring finger of left hand (symptom)
+C2232128  skin crust on lateral surface of ring finger of left hand
+C2232129  skin crust on little finger of left hand
+C2232130  skin crust on proximal surface of little finger of left hand (symptom)
+C2232131  skin crust on distal surface of little finger of left hand
+C2232132  skin crust on palmar surface of little finger of left hand (symptom)
+C2232133  skin crust on dorsal surface of little finger of left hand
+C2232134  skin crust on medial surface of little finger of left hand (symptom)
+C2232135  skin crust on lateral surface of little finger of left hand
+C2232136  skin crust of multiple fingers of both hands
+C2232137  skin crust involving knuckle
+C2232138  skin crust sparing knuckle (symptom)
+C2232139  skin crust around fingernail
+C2232140  skin crust on trunk (symptom)
+C2232141  skin crust of breast (symptom)
+C2232142  skin crust of right breast (symptom)
+C2232143  skin crust of right upper outer breast (symptom)
+C2232144  skin crust of right lower outer breast
+C2232145  skin crust of right upper inner breast (symptom)
+C2232146  skin crust of right lower inner breast (symptom)
+C2232147  skin crust of left breast (symptom)
+C2232148  skin crust of left upper outer breast
+C2232149  skin crust of left lower outer breast
+C2232150  skin crust of left upper inner breast (symptom)
+C2232151  skin crust of left lower inner breast
+C2232152  skin crust of chest (symptom)
+C2232153  skin crust of right upper chest (symptom)
+C2232154  skin crust of left upper chest (symptom)
+C2232155  skin crust of right lower chest (symptom)
+C2232156  skin crust of left lower chest
+C2232157  skin crust of entire chest (symptom)
+C2232158  skin crust of abdomen
+C2232159  skin crust of right upper abdomen (symptom)
+C2232160  skin crust of left upper abdomen
+C2232161  skin crust of right lower abdomen (symptom)
+C2232162  skin crust of left lower abdomen
+C2232163  skin crust of middle abdomen
+C2232164  skin crust of entire abdomen (symptom)
+C2232165  skin crust of back
+C2232166  skin crust of right upper back (symptom)
+C2232167  skin crust of left upper back (symptom)
+C2232168  skin crust of right lower back
+C2232169  skin crust of left lower back
+C2232170  skin crust of mid back
+C2232171  skin crust of entire upper back (symptom)
+C2232172  skin crust of groin
+C2232173  skin crust of right side of groin
+C2232174  skin crust of left side of groin (symptom)
+C2232175  skin crust of entire groin area (symptom)
+C2232176  skin crust of diaper area (symptom)
+C2232177  skin crust of diaper area in front
+C2232178  skin crust of diaper area involving buttocks
+C2232179  skin crust of vulva (symptom)
+C2232180  skin crust of right side of vulva
+C2232181  skin crust of left side of vulva (symptom)
+C2232182  skin crust of entire vulvar area
+C2232183  skin crust of buttocks (symptom)
+C2232184  skin crust of right buttock (symptom)
+C2232185  skin crust of left buttock
+C2232186  skin crust of midline buttocks (symptom)
+C2232187  skin crust of both buttocks (symptom)
+C2232188  skin crust of intragluteal cleft
+C2232189  skin crust of perianal region (symptom)
+C2232190  skin crust of lower extremities (symptom)
+C2232191  skin crust of thighs (symptom)
+C2232192  skin crust of right thigh (symptom)
+C2232193  skin crust of anterior aspect of right thigh (symptom)
+C2232194  skin crust of posterior aspect of right thigh (symptom)
+C2232195  skin crust of medial aspect of right thigh
+C2232196  skin crust of lateral aspect of right thigh (symptom)
+C2232197  skin crust of left thigh
+C2232198  skin crust of anterior aspect of left thigh
+C2232199  skin crust of posterior aspect of left thigh (symptom)
+C2232200  skin crust of medial aspect of left thigh (symptom)
+C2232201  skin crust of lateral aspect of left thigh
+C2232202  skin crust of both thighs (symptom)
+C2232203  skin crust of anterior aspect of both thighs (symptom)
+C2232204  skin crust of posterior aspect of both thighs (symptom)
+C2232205  skin crust of medial aspect of both thighs (symptom)
+C2232206  skin crust of lateral aspect of both thighs
+C2232207  skin crust of knee (symptom)
+C2232208  skin crust of right knee (symptom)
+C2232209  skin crust of anterior aspect of right knee
+C2232210  skin crust of posterior aspect of right knee
+C2232211  skin crust of medial aspect of right knee
+C2232212  skin crust of lateral aspect of right knee (symptom)
+C2232213  skin crust of left knee (symptom)
+C2232214  skin crust of anterior aspect of left knee (symptom)
+C2232215  skin crust of posterior aspect of left knee
+C2232216  skin crust of medial aspect of left knee (symptom)
+C2232217  skin crust of lateral aspect of left knee
+C2232218  skin crust of both knees (symptom)
+C2232219  skin crust of anterior aspect of both knees (symptom)
+C2232220  skin crust of posterior aspect of both knees (symptom)
+C2232221  skin crust of medial aspect of both knees
+C2232222  skin crust of lateral aspect of both knees (symptom)
+C2232223  skin crust of shin (symptom)
+C2232224  skin crust of right shin
+C2232225  skin crust of left shin
+C2232226  skin crust of both shins (symptom)
+C2232227  skin crust of calf (symptom)
+C2232228  skin crust of right calf (symptom)
+C2232229  skin crust of left calf (symptom)
+C2232230  skin crust of both calves
+C2232231  skin crust of ankle
+C2232232  skin crust of right ankle
+C2232233  skin crust of anterior aspect of right ankle (symptom)
+C2232234  skin crust of posterior aspect of right ankle (symptom)
+C2232235  skin crust of medial aspect of right ankle
+C2232236  skin crust of lateral aspect of right ankle
+C2232237  skin crust of left ankle
+C2232238  skin crust of anterior aspect of left ankle (symptom)
+C2232239  skin crust of posterior aspect of left ankle (symptom)
+C2232240  skin crust of medial aspect of left ankle
+C2232241  skin crust of lateral aspect of left ankle (symptom)
+C2232242  skin crust of both ankles
+C2232243  skin crust of anterior aspect of both ankles
+C2232244  skin crust of posterior aspect of both ankles (symptom)
+C2232245  skin crust of medial aspect of both ankles
+C2232246  skin crust of lateral aspect of both ankles (symptom)
+C2232247  skin crust of foot (symptom)
+C2232248  skin crust of right foot
+C2232249  skin crust of top of right foot
+C2232250  skin crust of sole of right foot
+C2232251  skin crust of medial aspect of right foot (symptom)
+C2232252  skin crust of lateral aspect of right foot (symptom)
+C2232253  skin crusts of right foot with moccasin distribution (symptom)
+C2232254  skin crust of left foot (symptom)
+C2232255  skin crust of top of left foot
+C2232256  skin crust of sole of left foot
+C2232257  skin crust of medial aspect of left foot
+C2232258  skin crust of lateral aspect of left foot
+C2232259  skin crusts of left foot with moccasin distribution
+C2232260  skin crust of both feet
+C2232261  skin crust of top of both feet
+C2232262  skin crust of soles of both feet
+C2232263  skin crust of medial aspect of both feet
+C2232264  skin crust of lateral aspect of both feet
+C2232265  skin crusts of both feet with moccasin distribution (symptom)
+C2232266  skin crust of toe
+C2232267  skin crust of toe of right foot (symptom)
+C2232268  skin crust of great toe of right foot
+C2232269  skin crust of second toe of right
+C2232270  skin crust of third toe of right foot (symptom)
+C2232271  skin crust of fourth toe of right foot (symptom)
+C2232272  skin crust of little toe of right foot
+C2232273  skin crust of toe of left foot (symptom)
+C2232274  skin crust of great toe of left foot
+C2232275  skin crust of second toe of left foot (symptom)
+C2232276  skin crust of third toe of left foot (symptom)
+C2232277  skin crust of fourth toe of left foot
+C2232278  skin crust of little toe of left foot
+C2232279  skin crust between toes (symptom)
+C2232280  skin crust between toes of right foot (symptom)
+C2232281  skin crust between toes of left foot
+C2232282  skin crust between toes of both feet (symptom)
+C2232696  painful mouth sore
+C2232700  labial swelling bilateral
+C2232708  chipped tooth multiple
+C2232712  numbness of right upper lip (symptom)
+C2232713  numbness of left upper lip (symptom)
+C2232714  numbness of entire upper lip
+C2232715  numbness of right lower lip (symptom)
+C2232716  numbness of left lower lip (symptom)
+C2232717  numbness of entire lower lip (symptom)
+C2232724  fainting after swallowing (symptom)
+C2232725  fainting preceded by nausea
+C2232726  fainting while sitting (symptom)
+C2232727  fainting while lying down (symptom)
+C2232728  fainting preceded by sudden severe pain (symptom)
+C2232737  malaise started suddenly
+C2232739  object swimming across field of vision
+C2232743  numbness of dorsum of right forearm (symptom)
+C2232744  numbness of volar aspect of right forearm (symptom)
+C2232745  numbness of dorsum of left forearm
+C2232746  numbness of volar aspect of left forearm
+C2232747  numbness of dorsum of both forearms
+C2232748  numbness of volar aspect of both forearms
+C2232749  numbness of outer aspect of lower right leg
+C2232750  numbness of inner aspect of lower right leg (symptom)
+C2232751  numbness of outer aspect of lower left leg
+C2232752  numbness of inner aspect of lower left leg (symptom)
+C2232754  numbness of eyebrow region (symptom)
+C2232755  numbness of right eyebrow region
+C2232756  numbness of left eyebrow region (symptom)
+C2232757  numbness of eyebrow region on both sides (symptom)
+C2233386  skin rash of right breast (symptom)
+C2233387  skin rash of right upper outer breast
+C2233388  skin rash of right lower outer breast
+C2233389  skin rash of right upper inner breast (symptom)
+C2233390  skin rash of right lower inner breast
+C2233391  skin rash of left breast (symptom)
+C2233392  skin rash of left upper outer breast (symptom)
+C2233393  skin rash of left lower outer breast
+C2233394  skin rash of left upper inner breast
+C2233395  skin rash of left lower inner breast
+C2233396  skin rash of right upper chest (symptom)
+C2233397  skin rash of left upper chest (symptom)
+C2233398  skin rash of right lower chest
+C2233399  skin rash of left lower chest (symptom)
+C2233400  skin rash of entire chest
+C2233401  skin rash of right upper abdomen (symptom)
+C2233402  skin rash of left upper abdomen
+C2233403  skin rash of right lower abdomen
+C2233404  skin rash of left lower abdomen (symptom)
+C2233405  skin rash of middle abdomen (symptom)
+C2233406  skin rash of entire abdomen
+C2233530  intermittent right eye pain (symptom)
+C2233531  constant right eye pain (symptom)
+C2233532  intermittent left eye pain (symptom)
+C2233533  constant left eye pain (symptom)
+C2233559  frontal sinus pain on right (symptom)
+C2233560  frontal sinus pain on the left
+C2233561  bilateral frontal sinus pain (symptom)
+C2233562  ethmoid sinus pain
+C2233563  ethmoid sinus pain on the right
+C2233564  ethmoid sinus pain on left
+C2233565  bilateral ethmoid sinus pain (symptom)
+C2233566  maxillary sinus pain on right
+C2233567  maxillary sinus pain on the left
+C2233568  bilateral maxillary sinus pain
+C2233584  abdominal pain relieved by belching (symptom)
+C2233585  flank pain emanating from spine (symptom)
+C2233586  flank pain crossing midline (symptom)
+C2233587  migratory flank pain
+C2233588  gradual onset of flank pain
+C2233589  abrupt onset of flank pain
+C2233590  flank pain severity
+C2233591  flank pain intermittent
+C2233592  quality of flank pain
+C2233593  flank pain quality sharp
+C2233594  stabbing flank pain
+C2233595  dull flank pain
+C2233596  positional flank pain
+C2233597  flank pain unrelated to meals
+C2233598  factors exacerbating flank pain (symptom)
+C2233599  flank pain worsened by sneezing or coughing (symptom)
+C2233600  flank pain worsened by bowel movement (symptom)
+C2233601  flank pain worsened by urinating (symptom)
+C2233602  flank pain worsened by breathing deeply (symptom)
+C2233603  flank pain worsened by bending forward (symptom)
+C2233604  flank pain worsened by twisting (symptom)
+C2233605  flank pain worsened by curling up on one's side
+C2233606  factors relieving flank pain
+C2233607  flank pain lessened by sneezing or coughing
+C2233608  flank pain lessened by bowel movement
+C2233609  flank pain lessened by urinating
+C2233610  flank pain lessened by breathing deeply (symptom)
+C2233611  flank pain lessened by bending forward (symptom)
+C2233612  flank pain lessened by twisting (symptom)
+C2233613  flank pain lessened by curling up on one's side (symptom)
+C2233614  flank pain lessened by applying heat (symptom)
+C2233615  flank pain lessened by applying cold
+C2233616  flank pain lessened by massage
+C2233617  flank pain not made better by anything (symptom)
+C2233637  location of pain in flank
+C2233638  timing of flank pain
+C2233639  flank pain increasing in frequency
+C2233640  flank pain decreasing in frequency (symptom)
+C2233641  flank pain gradually resolves on its own
+C2236754  abdominal pain of childhood (diagnosis)
+C2242814  Acute sore throat, NOS
+C2242996  Tingling sensation
+C2243108  symptoms of the nails of toes
+C2315195  Pain in symphysis pubis in pregnancy (finding)
+C2315430  Orthostatic tremor
+C2316722  Acute pain due to injury (finding)
+C2317014  Spasm of cervix uteri (finding)
+C2317372  Acute pain in female pelvis
+C2321745  total vision loss occurring briefly
+C2364111  Ageusia
+C2366927  convulsions followed by combative behavior (symptom)
+C2366928  convulsions followed by drowsiness (symptom)
+C2366929  convulsions preceded by rising feeling in chest
+C2366930  convulsions preceded by sudden inability to speak
+C2366931  convulsions preceded by feeling of déjà vu (symptom)
+C2366932  convulsions triggered
+C2366933  convulsions triggered by alcohol (symptom)
+C2366934  convulsions triggered by flashing lights (symptom)
+C2366935  convulsions triggered by lack of sleep
+C2366936  convulsions triggered by stress (symptom)
+C2367212  dizziness preceded by sudden severe neck pain (symptom)
+C2367442  spinning dizziness after rolling over (symptom)
+C2367443  spinning dizziness after turning head (symptom)
+C2367594  fainting followed by event (symptom)
+C2367595  fainting preceded by sudden severe neck pain (symptom)
+C2367645  headache precipitated by erectile dysfunction medications (symptom)
+C2367647  unusual taste of foods (symptom)
+C2367648  paralysis of wrist
+C2367649  paralysis of right wrist (symptom)
+C2367650  paralysis of left wrist
+C2367651  paralysis of both wrists
+C2367652  paralysis of finger (symptom)
+C2367653  paralysis of right thumb (symptom)
+C2367654  paralysis of index finger of right hand (symptom)
+C2367655  paralysis of middle finger of right hand (symptom)
+C2367656  paralysis of ring finger of right hand (symptom)
+C2367657  paralysis of little finger of right hand (symptom)
+C2367658  paralysis of left thumb
+C2367659  paralysis of index finger of left hand (symptom)
+C2367660  paralysis of middle finger of left hand
+C2367661  paralysis of ring finger of left hand (symptom)
+C2367662  paralysis of little finger of left hand
+C2367663  poor coordination of lower extremity
+C2367664  poor coordination of entire right lower extremity (symptom)
+C2367665  poor coordination of entire left lower extremity (symptom)
+C2367666  poor coordination of right foot (symptom)
+C2367667  poor coordination of left foot (symptom)
+C2368355  walking
+C2585306  Abdominal tenderness of left lower quadrant
+C2585575  Recurrent abdominal pain (finding)
+C2586208  Visceral abdominal pain
+C2607896  Discomfort of vulva
+C2702663  choreiform movements
+C2702695  headache relieved by ice (symptom)
+C2702696  headache relieved by heat
+C2702697  headache relieved by darkness (symptom)
+C2702700  pain in jaw both sides (symptom)
+C2728554  feeling demoralized (symptom)
+C2728877  flatus foul-smelling
+C2828177  Central Nervous System Signs and Symptoms
+C2881415  Glare sensitivity
+C2919320  Chronic tremor (finding)
+C2919655  Acute exacerbation of chronic abdominal pain (finding)
+C2921138  Visuospatial deficit
+C2921723  difficulty falling asleep because of anticipation of pain
+C2921780  pain during urination (dysuria) seems related to menstrual cycle
+C2921781  rectal pain accompanied by discharge of pus seems related to menstrual cycle
+C2939147  Feeling hot
+C2939430  Fear of the dark
+C2957231  maxillary pain right side
+C2957232  maxillary pain left side
+C2957233  maxillary pain bilaterally
+C2958682  symptoms involving cognition (diagnosis)
+C2981133  Evening colic
+C2985217  Job Strain
+C2985351  Pregnancy Mood Swing
+C3163691  Referred pain in face
+C3164070  Tenderness of right upper quadrant of abdomen (finding)
+C3164167  Tenderness of left upper quadrant of abdomen (finding)
+C3164168  Tenderness of right lower quadrant of abdomen
+C3266098  Numbness of saddle area (finding)
+C3266106  Lateral vertigo
+C3266107  Nocturnal vertigo (finding)
+C3266179  Cramp in lower limb
+C3266180  Cramp in lower leg (finding)
+C3468173  arthralgia - pelvis / hip / femur left
+C3468174  arthralgia of right hip (diagnosis)
+C3469466  tingling of the lateral left ankle (symptom)
+C3469467  tingling of the lateral right ankle (symptom)
+C3472693  Numbness and tingling sensation of skin
+C3505951  position sensation decreased distal extremities (glove and stocking)
+C3506372  abdominal pain non-incisional
+C3506376  skin wound red
+C3509787  progressive limb weakness (symptom)
+C3532522  Pain in palate
+C3532678  Dizziness due to drug (disorder)
+C3532891  Pain in chin
+C3536584  Tonic-clonic seizure, non-refractory (finding)
+C3536585  Tonic-clonic seizure, refractory (finding)

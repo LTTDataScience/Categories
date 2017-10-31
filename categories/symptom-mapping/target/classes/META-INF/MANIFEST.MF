@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: PTKSP
+Class-Path: dependency-jars/mysql-connector-java-5.1.6.jar
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Main-Class: gov.va.utah.adigroup.symptom_mapping.SignOrSymptomMapping
+

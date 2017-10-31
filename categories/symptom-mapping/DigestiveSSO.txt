@@ -1,0 +1,2580 @@
+C0000727 Sign or Symptom
+C0000729 Sign or Symptom
+C0000731 Finding
+C0000737 Sign or Symptom
+C0001707 Mental or Behavioral Dysfunction
+C0003962 Finding
+C0009806 Sign or Symptom
+C0011991 Sign or Symptom
+C0013132 Sign or Symptom
+C0013395 Sign or Symptom
+C0014724 Sign or Symptom
+C0015734 Finding
+C0016204 Sign or Symptom
+C0016205 Sign or Symptom
+C0016479 Injury or Poisoning
+C0016546 Finding
+C0016927 Finding
+C0017650 Mental or Behavioral Dysfunction
+C0018834 Sign or Symptom
+C0018926 Sign or Symptom
+C0018932 Finding
+C0019065 Finding
+C0019086 Sign or Symptom
+C0019193 Injury or Poisoning
+C0019209 Sign or Symptom
+C0019214 Sign or Symptom
+C0020450 Sign or Symptom
+C0020505 Mental or Behavioral Dysfunction
+C0022353 Sign or Symptom
+C0027497 Sign or Symptom
+C0027498 Sign or Symptom
+C0034194 Finding
+C0036114 Injury or Poisoning
+C0037089 Sign or Symptom
+C0038002 Finding
+C0038187 Finding
+C0042963 Sign or Symptom
+C0042964 Sign or Symptom
+C0043066 Sign or Symptom
+C0149532 Injury or Poisoning
+C0149695 Finding
+C0149823 Finding
+C0150019 Sign or Symptom
+C0150020 Mental or Behavioral Dysfunction
+C0151739 Injury or Poisoning
+C0151766 Finding
+C0151767 Sign or Symptom
+C0151791 Sign or Symptom
+C0152165 Sign or Symptom
+C0152496 Injury or Poisoning
+C0152497 Injury or Poisoning
+C0159065 Sign or Symptom
+C0160342 Injury or Poisoning
+C0160345 Injury or Poisoning
+C0160540 Injury or Poisoning
+C0160541 Injury or Poisoning
+C0160543 Injury or Poisoning
+C0160544 Injury or Poisoning
+C0160549 Injury or Poisoning
+C0161009 Injury or Poisoning
+C0161010 Injury or Poisoning
+C0161017 Injury or Poisoning
+C0161019 Injury or Poisoning
+C0161020 Finding
+C0161021 Injury or Poisoning
+C0161323 Injury or Poisoning
+C0162286 Injury or Poisoning
+C0162287 Finding
+C0178496 Injury or Poisoning
+C0221150 Sign or Symptom
+C0221151 Sign or Symptom
+C0221470 Finding
+C0221490 Sign or Symptom
+C0221512 Sign or Symptom
+C0221716 Finding
+C0221727 Sign or Symptom
+C0221755 Sign or Symptom
+C0221780 Finding
+C0231361 Finding
+C0231363 Finding
+C0232459 Finding
+C0232465 Finding
+C0232474 Finding
+C0232475 Finding
+C0232476 Sign or Symptom
+C0232477 Finding
+C0232487 Sign or Symptom
+C0232488 Sign or Symptom
+C0232491 Sign or Symptom
+C0232492 Sign or Symptom
+C0232493 Sign or Symptom
+C0232494 Sign or Symptom
+C0232495 Sign or Symptom
+C0232496 Sign or Symptom
+C0232497 Sign or Symptom
+C0232498 Sign or Symptom
+C0232517 Sign or Symptom
+C0232520 Sign or Symptom
+C0232533 Sign or Symptom
+C0232534 Sign or Symptom
+C0232535 Sign or Symptom
+C0232536 Sign or Symptom
+C0232537 Sign or Symptom
+C0232541 Finding
+C0232557 Finding
+C0232562 Finding
+C0232564 Finding
+C0232567 Finding
+C0232568 Finding
+C0232569 Finding
+C0232574 Finding
+C0232575 Finding
+C0232578 Finding
+C0232588 Finding
+C0232589 Finding
+C0232591 Finding
+C0232592 Finding
+C0232593 Sign or Symptom
+C0232596 Finding
+C0232597 Sign or Symptom
+C0232598 Sign or Symptom
+C0232599 Finding
+C0232600 Mental or Behavioral Dysfunction
+C0232601 Sign or Symptom
+C0232602 Sign or Symptom
+C0232603 Sign or Symptom
+C0232605 Finding
+C0232607 Sign or Symptom
+C0232608 Sign or Symptom
+C0232609 Sign or Symptom
+C0232610 Sign or Symptom
+C0232617 Finding
+C0232619 Finding
+C0232620 Finding
+C0232652 Finding
+C0232654 Finding
+C0232656 Finding
+C0232673 Finding
+C0232687 Finding
+C0232693 Finding
+C0232694 Finding
+C0232695 Sign or Symptom
+C0232696 Finding
+C0232708 Finding
+C0232709 Finding
+C0232716 Sign or Symptom
+C0232719 Sign or Symptom
+C0232720 Finding
+C0232721 Sign or Symptom
+C0232723 Finding
+C0232733 Finding
+C0232743 Finding
+C0232744 Finding
+C0232751 Finding
+C0232756 Finding
+C0232770 Finding
+C0232771 Sign or Symptom
+C0232773 Finding
+C0232951 Sign or Symptom
+C0232952 Sign or Symptom
+C0232957 Sign or Symptom
+C0233180 Finding
+C0233757 Mental or Behavioral Dysfunction
+C0234246 Sign or Symptom
+C0235250 Sign or Symptom
+C0235295 Sign or Symptom
+C0235296 Sign or Symptom
+C0235299 Sign or Symptom
+C0235307 Sign or Symptom
+C0235308 Finding
+C0235309 Sign or Symptom
+C0235315 Finding
+C0235318 Sign or Symptom
+C0235333 Injury or Poisoning
+C0235380 Finding
+C0235698 Sign or Symptom
+C0235996 Finding
+C0236849 Mental or Behavioral Dysfunction
+C0237327 Finding
+C0238427 Finding
+C0238552 Sign or Symptom
+C0238569 Finding
+C0238634 Finding
+C0238973 Sign or Symptom
+C0239043 Finding
+C0239182 Sign or Symptom
+C0239233 Sign or Symptom
+C0239707 Finding
+C0239953 Finding
+C0239978 Finding
+C0240352 Sign or Symptom
+C0240406 Finding
+C0240459 Finding
+C0240871 Finding
+C0240873 Finding
+C0240877 Sign or Symptom
+C0240925 Finding
+C0241228 Finding
+C0241254 Finding
+C0241706 Finding
+C0242002 Sign or Symptom
+C0259795 Injury or Poisoning
+C0260683 Finding
+C0262527 Sign or Symptom
+C0266836 Sign or Symptom
+C0266996 Sign or Symptom
+C0267096 Injury or Poisoning
+C0267097 Injury or Poisoning
+C0267103 Injury or Poisoning
+C0267167 Finding
+C0267169 Sign or Symptom
+C0267373 Sign or Symptom
+C0267439 Injury or Poisoning
+C0267442 Injury or Poisoning
+C0267456 Finding
+C0267597 Injury or Poisoning
+C0267628 Injury or Poisoning
+C0267633 Sign or Symptom
+C0267636 Finding
+C0267779 Finding
+C0267780 Finding
+C0267781 Finding
+C0267897 Injury or Poisoning
+C0267927 Injury or Poisoning
+C0268671 Mental or Behavioral Dysfunction
+C0269308 Injury or Poisoning
+C0269356 Injury or Poisoning
+C0269407 Injury or Poisoning
+C0269458 Injury or Poisoning
+C0269513 Injury or Poisoning
+C0269565 Injury or Poisoning
+C0270208 Finding
+C0270209 Finding
+C0270212 Finding
+C0270274 Sign or Symptom
+C0270529 Mental or Behavioral Dysfunction
+C0272572 Injury or Poisoning
+C0272574 Injury or Poisoning
+C0273137 Injury or Poisoning
+C0273292 Injury or Poisoning
+C0273296 Injury or Poisoning
+C0273299 Injury or Poisoning
+C0273300 Injury or Poisoning
+C0273304 Injury or Poisoning
+C0273305 Injury or Poisoning
+C0273434 Injury or Poisoning
+C0273435 Injury or Poisoning
+C0273679 Injury or Poisoning
+C0273976 Injury or Poisoning
+C0273977 Injury or Poisoning
+C0274191 Injury or Poisoning
+C0274247 Finding
+C0274248 Finding
+C0274258 Injury or Poisoning
+C0274259 Injury or Poisoning
+C0274260 Injury or Poisoning
+C0274888 Injury or Poisoning
+C0274932 Injury or Poisoning
+C0275089 Injury or Poisoning
+C0275107 Injury or Poisoning
+C0275143 Injury or Poisoning
+C0275147 Injury or Poisoning
+C0275589 Injury or Poisoning
+C0275590 Injury or Poisoning
+C0275592 Injury or Poisoning
+C0277849 Sign or Symptom
+C0277926 Finding
+C0277966 Sign or Symptom
+C0277969 Sign or Symptom
+C0277970 Sign or Symptom
+C0277974 Sign or Symptom
+C0277977 Sign or Symptom
+C0277979 Finding
+C0277999 Finding
+C0278002 Finding
+C0278007 Sign or Symptom
+C0278008 Sign or Symptom
+C0278009 Sign or Symptom
+C0278010 Sign or Symptom
+C0278012 Sign or Symptom
+C0278013 Sign or Symptom
+C0278014 Sign or Symptom
+C0278015 Sign or Symptom
+C0278016 Finding
+C0278020 Sign or Symptom
+C0279036 Finding
+C0281839 Injury or Poisoning
+C0301623 Finding
+C0302540 Sign or Symptom
+C0311181 Finding
+C0311427 Finding
+C0311428 Finding
+C0311429 Finding
+C0311430 Finding
+C0312416 Sign or Symptom
+C0341140 Injury or Poisoning
+C0341320 Injury or Poisoning
+C0341336 Injury or Poisoning
+C0341404 Injury or Poisoning
+C0341505 Injury or Poisoning
+C0341512 Finding
+C0341518 Finding
+C0341523 Finding
+C0341560 Mental or Behavioral Dysfunction
+C0341562 Finding
+C0341564 Finding
+C0343355 Injury or Poisoning
+C0343356 Injury or Poisoning
+C0343357 Injury or Poisoning
+C0343358 Injury or Poisoning
+C0343359 Injury or Poisoning
+C0343360 Injury or Poisoning
+C0343361 Injury or Poisoning
+C0343364 Injury or Poisoning
+C0344164 Injury or Poisoning
+C0344165 Injury or Poisoning
+C0344166 Injury or Poisoning
+C0344167 Injury or Poisoning
+C0344196 Mental or Behavioral Dysfunction
+C0344304 Sign or Symptom
+C0344369 Finding
+C0344370 Sign or Symptom
+C0344374 Sign or Symptom
+C0344375 Sign or Symptom
+C0345246 Sign or Symptom
+C0347589 Injury or Poisoning
+C0347591 Injury or Poisoning
+C0347592 Injury or Poisoning
+C0347629 Injury or Poisoning
+C0347759 Injury or Poisoning
+C0347943 Finding
+C0347946 Finding
+C0349252 Mental or Behavioral Dysfunction
+C0349253 Mental or Behavioral Dysfunction
+C0349450 Individual Behavior
+C0349464 Mental or Behavioral Dysfunction
+C0349783 Injury or Poisoning
+C0374921 Injury or Poisoning
+C0392176 Sign or Symptom
+C0392503 Finding
+C0392513 Sign or Symptom
+C0392678 Sign or Symptom
+C0396007 Injury or Poisoning
+C0399459 Sign or Symptom
+C0399592 Sign or Symptom
+C0399593 Sign or Symptom
+C0400814 Finding
+C0400815 Finding
+C0400882 Sign or Symptom
+C0400922 Injury or Poisoning
+C0401001 Finding
+C0401015 Injury or Poisoning
+C0401016 Injury or Poisoning
+C0401148 Sign or Symptom
+C0401149 Sign or Symptom
+C0401150 Sign or Symptom
+C0401155 Sign or Symptom
+C0401157 Sign or Symptom
+C0401158 Sign or Symptom
+C0405584 Sign or Symptom
+C0410923 Finding
+C0410983 Finding
+C0411266 Injury or Poisoning
+C0411267 Injury or Poisoning
+C0413282 Injury or Poisoning
+C0416786 Injury or Poisoning
+C0423598 Finding
+C0423599 Sign or Symptom
+C0423600 Sign or Symptom
+C0423642 Sign or Symptom
+C0423643 Sign or Symptom
+C0423644 Sign or Symptom
+C0423645 Sign or Symptom
+C0423646 Sign or Symptom
+C0423649 Sign or Symptom
+C0423650 Sign or Symptom
+C0423655 Sign or Symptom
+C0424416 Finding
+C0424420 Finding
+C0424822 Finding
+C0424823 Finding
+C0424824 Finding
+C0424855 Finding
+C0425414 Finding
+C0426462 Finding
+C0426464 Finding
+C0426468 Finding
+C0426480 Finding
+C0426483 Finding
+C0426505 Finding
+C0426511 Finding
+C0426512 Finding
+C0426526 Finding
+C0426533 Finding
+C0426534 Finding
+C0426535 Finding
+C0426536 Finding
+C0426537 Finding
+C0426566 Finding
+C0426567 Finding
+C0426572 Finding
+C0426573 Finding
+C0426576 Sign or Symptom
+C0426584 Finding
+C0426585 Finding
+C0426601 Sign or Symptom
+C0426603 Finding
+C0426605 Finding
+C0426606 Finding
+C0426607 Finding
+C0426609 Finding
+C0426611 Finding
+C0426612 Finding
+C0426614 Finding
+C0426618 Finding
+C0426620 Finding
+C0426622 Finding
+C0426623 Sign or Symptom
+C0426625 Finding
+C0426628 Finding
+C0426629 Finding
+C0426630 Finding
+C0426631 Sign or Symptom
+C0426632 Sign or Symptom
+C0426634 Finding
+C0426635 Finding
+C0426637 Finding
+C0426638 Finding
+C0426639 Sign or Symptom
+C0426640 Sign or Symptom
+C0426641 Finding
+C0426642 Finding
+C0426644 Finding
+C0426645 Finding
+C0426646 Finding
+C0426647 Finding
+C0426648 Finding
+C0426649 Sign or Symptom
+C0426654 Finding
+C0426672 Finding
+C0426674 Finding
+C0426675 Finding
+C0426679 Finding
+C0426680 Finding
+C0426681 Finding
+C0426682 Finding
+C0426684 Finding
+C0426686 Finding
+C0426689 Finding
+C0426690 Finding
+C0426691 Finding
+C0426694 Finding
+C0426699 Finding
+C0426700 Finding
+C0426701 Finding
+C0426702 Finding
+C0426712 Finding
+C0426713 Finding
+C0426714 Finding
+C0426715 Finding
+C0426719 Finding
+C0426721 Finding
+C0426722 Finding
+C0426723 Finding
+C0426724 Finding
+C0426725 Finding
+C0426726 Finding
+C0426741 Finding
+C0426742 Finding
+C0426743 Finding
+C0426745 Finding
+C0426746 Finding
+C0426752 Finding
+C0426754 Finding
+C0426756 Finding
+C0426757 Finding
+C0426758 Finding
+C0426760 Finding
+C0426761 Finding
+C0426764 Finding
+C0426765 Finding
+C0426766 Finding
+C0426767 Finding
+C0426768 Sign or Symptom
+C0426769 Sign or Symptom
+C0426770 Finding
+C0426771 Finding
+C0426772 Finding
+C0426773 Finding
+C0426774 Finding
+C0426776 Finding
+C0427814 Finding
+C0427816 Finding
+C0429214 Finding
+C0429220 Sign or Symptom
+C0429221 Sign or Symptom
+C0429222 Sign or Symptom
+C0429951 Finding
+C0429955 Sign or Symptom
+C0429956 Finding
+C0431579 Finding
+C0433452 Injury or Poisoning
+C0433461 Injury or Poisoning
+C0433472 Injury or Poisoning
+C0433661 Injury or Poisoning
+C0433662 Injury or Poisoning
+C0433663 Injury or Poisoning
+C0433664 Injury or Poisoning
+C0433665 Injury or Poisoning
+C0433666 Injury or Poisoning
+C0433667 Injury or Poisoning
+C0433668 Injury or Poisoning
+C0433669 Injury or Poisoning
+C0433670 Injury or Poisoning
+C0433671 Injury or Poisoning
+C0433740 Injury or Poisoning
+C0434071 Injury or Poisoning
+C0434073 Injury or Poisoning
+C0434104 Injury or Poisoning
+C0434505 Injury or Poisoning
+C0435207 Injury or Poisoning
+C0435208 Injury or Poisoning
+C0435209 Injury or Poisoning
+C0435210 Injury or Poisoning
+C0436572 Finding
+C0436660 Finding
+C0436732 Finding
+C0436865 Finding
+C0436871 Finding
+C0436875 Finding
+C0436910 Finding
+C0436911 Finding
+C0436912 Finding
+C0436914 Finding
+C0436916 Finding
+C0436917 Finding
+C0436918 Finding
+C0436920 Finding
+C0436922 Finding
+C0436924 Finding
+C0436925 Finding
+C0436926 Finding
+C0436927 Finding
+C0436929 Finding
+C0436931 Finding
+C0436933 Finding
+C0436935 Finding
+C0436936 Finding
+C0436937 Finding
+C0436938 Finding
+C0436939 Finding
+C0436940 Finding
+C0436941 Finding
+C0436942 Finding
+C0436943 Finding
+C0436944 Finding
+C0436946 Finding
+C0436947 Finding
+C0436948 Finding
+C0436950 Finding
+C0436953 Finding
+C0436958 Finding
+C0436960 Finding
+C0436961 Finding
+C0436962 Finding
+C0436963 Finding
+C0436964 Finding
+C0436965 Finding
+C0436966 Finding
+C0436967 Finding
+C0436968 Finding
+C0436969 Finding
+C0436970 Finding
+C0436972 Finding
+C0436973 Finding
+C0436974 Finding
+C0436977 Finding
+C0436978 Finding
+C0436979 Finding
+C0436980 Finding
+C0437001 Finding
+C0437003 Finding
+C0437004 Finding
+C0437005 Finding
+C0437006 Finding
+C0437017 Finding
+C0437019 Finding
+C0437020 Finding
+C0437021 Finding
+C0437022 Finding
+C0437023 Finding
+C0437026 Finding
+C0437027 Finding
+C0437028 Finding
+C0437029 Finding
+C0437459 Finding
+C0437460 Finding
+C0437634 Finding
+C0437636 Finding
+C0437637 Finding
+C0437638 Finding
+C0437639 Finding
+C0437705 Finding
+C0437706 Finding
+C0438012 Finding
+C0438013 Finding
+C0438014 Finding
+C0438021 Finding
+C0438121 Finding
+C0438197 Finding
+C0438198 Finding
+C0438237 Finding
+C0438331 Injury or Poisoning
+C0438346 Injury or Poisoning
+C0438542 Injury or Poisoning
+C0438922 Finding
+C0439039 Finding
+C0439052 Sign or Symptom
+C0451792 Finding
+C0455647 Finding
+C0455811 Finding
+C0455882 Finding
+C0455883 Finding
+C0455884 Finding
+C0455885 Finding
+C0455890 Finding
+C0455891 Finding
+C0455892 Finding
+C0455893 Finding
+C0455894 Finding
+C0455895 Finding
+C0455898 Finding
+C0455934 Finding
+C0455938 Finding
+C0455953 Finding
+C0455968 Sign or Symptom
+C0456001 Finding
+C0456014 Finding
+C0456138 Finding
+C0456552 Finding
+C0456568 Finding
+C0456569 Finding
+C0457558 Sign or Symptom
+C0457627 Injury or Poisoning
+C0473123 Finding
+C0473124 Finding
+C0473129 Sign or Symptom
+C0473130 Mental or Behavioral Dysfunction
+C0473131 Sign or Symptom
+C0473136 Sign or Symptom
+C0473137 Sign or Symptom
+C0474089 Injury or Poisoning
+C0474090 Injury or Poisoning
+C0474091 Injury or Poisoning
+C0474365 Finding
+C0474495 Sign or Symptom
+C0474496 Sign or Symptom
+C0474499 Finding
+C0474500 Sign or Symptom
+C0474502 Finding
+C0474503 Finding
+C0474505 Finding
+C0474507 Sign or Symptom
+C0474508 Finding
+C0474509 Finding
+C0474510 Finding
+C0474511 Sign or Symptom
+C0474512 Sign or Symptom
+C0474517 Sign or Symptom
+C0474518 Finding
+C0474573 Finding
+C0474579 Finding
+C0474583 Finding
+C0474585 Sign or Symptom
+C0474594 Finding
+C0474595 Finding
+C0474600 Finding
+C0474608 Finding
+C0474610 Finding
+C0474613 Finding
+C0474614 Finding
+C0474615 Finding
+C0474616 Finding
+C0474617 Finding
+C0474618 Finding
+C0474619 Finding
+C0474620 Finding
+C0474623 Finding
+C0474632 Finding
+C0474637 Finding
+C0474694 Finding
+C0474698 Finding
+C0474977 Injury or Poisoning
+C0474978 Injury or Poisoning
+C0474979 Finding
+C0475000 Injury or Poisoning
+C0475001 Injury or Poisoning
+C0475002 Injury or Poisoning
+C0475003 Injury or Poisoning
+C0475004 Injury or Poisoning
+C0475008 Injury or Poisoning
+C0475012 Injury or Poisoning
+C0475013 Injury or Poisoning
+C0475014 Injury or Poisoning
+C0475015 Injury or Poisoning
+C0475017 Injury or Poisoning
+C0475100 Finding
+C0475125 Finding
+C0475132 Finding
+C0475133 Finding
+C0475154 Finding
+C0475156 Finding
+C0475201 Finding
+C0475202 Finding
+C0475569 Injury or Poisoning
+C0475709 Injury or Poisoning
+C0475831 Injury or Poisoning
+C0476288 Sign or Symptom
+C0476289 Sign or Symptom
+C0476305 Sign or Symptom
+C0476308 Finding
+C0476346 Finding
+C0476348 Finding
+C0476419 Finding
+C0495429 Finding
+C0495671 Sign or Symptom
+C0496025 Injury or Poisoning
+C0518500 Finding
+C0520561 Finding
+C0520753 Finding
+C0520904 Sign or Symptom
+C0520905 Sign or Symptom
+C0520906 Sign or Symptom
+C0520907 Sign or Symptom
+C0520909 Sign or Symptom
+C0520911 Injury or Poisoning
+C0522061 Sign or Symptom
+C0522062 Sign or Symptom
+C0522063 Finding
+C0522064 Finding
+C0522065 Finding
+C0522066 Finding
+C0522067 Sign or Symptom
+C0522074 Finding
+C0522075 Finding
+C0541750 Finding
+C0541818 Finding
+C0541938 Sign or Symptom
+C0541972 Finding
+C0541976 Sign or Symptom
+C0541977 Finding
+C0541979 Finding
+C0542147 Injury or Poisoning
+C0543392 Finding
+C0548823 Sign or Symptom
+C0554107 Sign or Symptom
+C0555073 Finding
+C0555074 Sign or Symptom
+C0555075 Finding
+C0555076 Finding
+C0555117 Finding
+C0555118 Finding
+C0555306 Injury or Poisoning
+C0555727 Finding
+C0555728 Finding
+C0555729 Finding
+C0555730 Finding
+C0555849 Finding
+C0555855 Finding
+C0555856 Finding
+C0555857 Finding
+C0555859 Finding
+C0555860 Finding
+C0555861 Finding
+C0555868 Finding
+C0558131 Finding
+C0558175 Finding
+C0558176 Finding
+C0558496 Finding
+C0558499 Finding
+C0558500 Finding
+C0558501 Finding
+C0558502 Finding
+C0558508 Finding
+C0558921 Sign or Symptom
+C0559070 Finding
+C0559234 Finding
+C0559687 Sign or Symptom
+C0559874 Injury or Poisoning
+C0559923 Injury or Poisoning
+C0559932 Injury or Poisoning
+C0559936 Injury or Poisoning
+C0559938 Injury or Poisoning
+C0559939 Injury or Poisoning
+C0559943 Injury or Poisoning
+C0560321 Injury or Poisoning
+C0560322 Injury or Poisoning
+C0560323 Injury or Poisoning
+C0560324 Injury or Poisoning
+C0561243 Injury or Poisoning
+C0561331 Injury or Poisoning
+C0561381 Injury or Poisoning
+C0561430 Injury or Poisoning
+C0561478 Injury or Poisoning
+C0561608 Injury or Poisoning
+C0562042 Injury or Poisoning
+C0563051 Finding
+C0563052 Finding
+C0563233 Injury or Poisoning
+C0563276 Sign or Symptom
+C0563277 Sign or Symptom
+C0563552 Injury or Poisoning
+C0564434 Finding
+C0565554 Finding
+C0565826 Injury or Poisoning
+C0566340 Finding
+C0566341 Finding
+C0566342 Finding
+C0566357 Finding
+C0566359 Finding
+C0566360 Finding
+C0566361 Finding
+C0566362 Finding
+C0566364 Finding
+C0566365 Finding
+C0566366 Finding
+C0566367 Finding
+C0566369 Finding
+C0566370 Finding
+C0566371 Finding
+C0566372 Finding
+C0566373 Finding
+C0566375 Finding
+C0566376 Finding
+C0566377 Finding
+C0566378 Finding
+C0566379 Finding
+C0566381 Finding
+C0566382 Finding
+C0566383 Finding
+C0566384 Finding
+C0566394 Finding
+C0567324 Finding
+C0567325 Finding
+C0574059 Finding
+C0575448 Finding
+C0576612 Finding
+C0576613 Finding
+C0576615 Finding
+C0576617 Finding
+C0576789 Sign or Symptom
+C0576979 Finding
+C0576981 Finding
+C0576982 Finding
+C0576983 Finding
+C0576984 Finding
+C0576985 Finding
+C0576988 Finding
+C0576989 Finding
+C0576990 Finding
+C0576991 Finding
+C0576992 Finding
+C0576993 Finding
+C0576994 Finding
+C0576995 Finding
+C0576996 Finding
+C0576997 Finding
+C0577002 Finding
+C0577003 Finding
+C0577006 Finding
+C0577007 Finding
+C0577008 Finding
+C0577009 Finding
+C0577011 Finding
+C0577012 Finding
+C0577013 Finding
+C0577014 Finding
+C0577015 Finding
+C0577016 Finding
+C0577018 Finding
+C0577019 Finding
+C0577026 Finding
+C0577027 Finding
+C0577028 Finding
+C0577029 Finding
+C0577030 Finding
+C0577031 Finding
+C0577032 Finding
+C0577033 Finding
+C0577035 Finding
+C0577036 Finding
+C0577037 Finding
+C0577038 Finding
+C0577039 Finding
+C0577040 Finding
+C0577041 Finding
+C0577042 Finding
+C0577043 Finding
+C0577045 Finding
+C0577046 Finding
+C0577047 Finding
+C0577048 Finding
+C0577049 Finding
+C0577050 Finding
+C0577051 Finding
+C0577052 Finding
+C0577053 Finding
+C0577055 Finding
+C0577057 Finding
+C0577058 Finding
+C0577059 Finding
+C0577060 Finding
+C0577061 Finding
+C0577062 Finding
+C0577063 Finding
+C0577064 Finding
+C0577065 Finding
+C0577066 Finding
+C0577067 Finding
+C0577068 Finding
+C0577069 Finding
+C0577070 Finding
+C0577072 Finding
+C0577074 Finding
+C0577075 Finding
+C0577076 Finding
+C0577078 Finding
+C0577081 Finding
+C0577082 Finding
+C0577084 Finding
+C0577085 Finding
+C0577086 Finding
+C0577089 Finding
+C0577090 Finding
+C0577091 Finding
+C0577092 Finding
+C0577093 Finding
+C0577095 Finding
+C0577100 Sign or Symptom
+C0577105 Sign or Symptom
+C0577110 Finding
+C0577111 Finding
+C0577113 Finding
+C0577114 Finding
+C0577115 Sign or Symptom
+C0577117 Finding
+C0577127 Finding
+C0577128 Finding
+C0577132 Finding
+C0577150 Finding
+C0577156 Finding
+C0577158 Sign or Symptom
+C0577160 Finding
+C0577163 Finding
+C0577566 Sign or Symptom
+C0577633 Injury or Poisoning
+C0577888 Finding
+C0577889 Finding
+C0577890 Finding
+C0577891 Finding
+C0577900 Finding
+C0577901 Finding
+C0577946 Finding
+C0578052 Sign or Symptom
+C0578057 Sign or Symptom
+C0578058 Sign or Symptom
+C0578083 Sign or Symptom
+C0578093 Sign or Symptom
+C0578094 Sign or Symptom
+C0578095 Sign or Symptom
+C0578096 Sign or Symptom
+C0578099 Sign or Symptom
+C0578102 Sign or Symptom
+C0578103 Finding
+C0578104 Finding
+C0578105 Sign or Symptom
+C0578108 Sign or Symptom
+C0578469 Finding
+C0578538 Finding
+C0578787 Finding
+C0579086 Finding
+C0579091 Finding
+C0579092 Finding
+C0579131 Finding
+C0581358 Sign or Symptom
+C0581361 Finding
+C0581868 Sign or Symptom
+C0581869 Sign or Symptom
+C0581870 Sign or Symptom
+C0581877 Finding
+C0581926 Finding
+C0581927 Finding
+C0582132 Finding
+C0584626 Finding
+C0584627 Finding
+C0584628 Finding
+C0584629 Finding
+C0584631 Finding
+C0584632 Finding
+C0584633 Finding
+C0584634 Finding
+C0584635 Finding
+C0584838 Finding
+C0584839 Finding
+C0585128 Injury or Poisoning
+C0585145 Finding
+C0585354 Finding
+C0586258 Finding
+C0586259 Finding
+C0586262 Finding
+C0587147 Finding
+C0587148 Finding
+C0587223 Sign or Symptom
+C0589386 Sign or Symptom
+C0596601 Sign or Symptom
+C0600030 Finding
+C0684905 Injury or Poisoning
+C0685898 Injury or Poisoning
+C0687713 Sign or Symptom
+C0699816 Finding
+C0729262 Finding
+C0729791 Finding
+C0730017 Finding
+C0730573 Finding
+C0740170 Finding
+C0740307 Finding
+C0740315 Finding
+C0740411 Finding
+C0740432 Sign or Symptom
+C0740577 Sign or Symptom
+C0740584 Sign or Symptom
+C0741244 Finding
+C0741488 Finding
+C0741489 Finding
+C0742232 Finding
+C0743317 Sign or Symptom
+C0743840 Finding
+C0744257 Finding
+C0744258 Finding
+C0744260 Finding
+C0744288 Sign or Symptom
+C0744289 Sign or Symptom
+C0744333 Finding
+C0744818 Finding
+C0744820 Finding
+C0744821 Finding
+C0744827 Finding
+C0744828 Finding
+C0744832 Finding
+C0744834 Finding
+C0744835 Finding
+C0744836 Finding
+C0744839 Finding
+C0744840 Finding
+C0744845 Finding
+C0744859 Finding
+C0744861 Finding
+C0744863 Finding
+C0744864 Finding
+C0744871 Finding
+C0744872 Finding
+C0744873 Finding
+C0744874 Finding
+C0744875 Finding
+C0744876 Sign or Symptom
+C0744899 Finding
+C0745472 Finding
+C0745473 Finding
+C0745738 Finding
+C0745739 Finding
+C0745740 Finding
+C0745741 Finding
+C0745742 Sign or Symptom
+C0745748 Finding
+C0745750 Finding
+C0745751 Finding
+C0745753 Finding
+C0745759 Finding
+C0745761 Finding
+C0745762 Finding
+C0745764 Finding
+C0745765 Finding
+C0745768 Finding
+C0746777 Finding
+C0746779 Sign or Symptom
+C0747765 Finding
+C0750316 Sign or Symptom
+C0750317 Sign or Symptom
+C0750318 Sign or Symptom
+C0750319 Sign or Symptom
+C0750320 Sign or Symptom
+C0750321 Sign or Symptom
+C0750323 Sign or Symptom
+C0750325 Sign or Symptom
+C0751471 Finding
+C0848377 Injury or Poisoning
+C0849747 Sign or Symptom
+C0849819 Sign or Symptom
+C0850614 Mental or Behavioral Dysfunction
+C0856500 Finding
+C0865379 Mental or Behavioral Dysfunction
+C0877359 Finding
+C0939990 Finding
+C0939991 Finding
+C0940016 Finding
+C0940026 Finding
+C0940044 Finding
+C0940045 Finding
+C0940046 Finding
+C0940048 Finding
+C0940052 Finding
+C0940054 Finding
+C0940059 Finding
+C0940065 Finding
+C0940066 Finding
+C0940067 Finding
+C0940068 Finding
+C0940074 Finding
+C0940078 Finding
+C0940085 Finding
+C0940090 Finding
+C0940094 Finding
+C0940122 Finding
+C0940123 Finding
+C0940124 Finding
+C0940144 Finding
+C0940145 Finding
+C0940148 Finding
+C0940150 Finding
+C0940157 Finding
+C0940159 Finding
+C0940161 Finding
+C0940163 Finding
+C0940169 Finding
+C0940172 Finding
+C0940176 Finding
+C0940180 Finding
+C0940192 Finding
+C0940195 Finding
+C0940216 Finding
+C0940222 Finding
+C0940258 Finding
+C0940262 Finding
+C0940263 Finding
+C0940305 Finding
+C0940306 Finding
+C0940307 Finding
+C0940310 Finding
+C0940327 Finding
+C0940328 Finding
+C0940329 Finding
+C0940339 Finding
+C0940348 Finding
+C0940354 Finding
+C0940357 Finding
+C0940360 Finding
+C0940372 Finding
+C0940383 Finding
+C0940388 Finding
+C0940396 Finding
+C0940400 Finding
+C0940405 Finding
+C0940415 Finding
+C0940486 Finding
+C0940487 Finding
+C0940500 Finding
+C0940502 Finding
+C0940514 Finding
+C0940519 Finding
+C0940522 Finding
+C0940533 Finding
+C0940537 Finding
+C0940542 Finding
+C0940551 Finding
+C0940560 Finding
+C0940564 Finding
+C0940637 Finding
+C0940638 Finding
+C0940655 Finding
+C0940681 Finding
+C0940747 Finding
+C0941108 Finding
+C0941110 Finding
+C0941117 Finding
+C0941121 Finding
+C0941151 Finding
+C0941159 Finding
+C0941160 Finding
+C0941183 Finding
+C0941196 Finding
+C0941244 Finding
+C0941255 Finding
+C0941258 Finding
+C0941262 Finding
+C0941271 Finding
+C1112316 Finding
+C1142485 Finding
+C1142487 Finding
+C1142488 Finding
+C1142541 Finding
+C1168325 Sign or Symptom
+C1261141 Finding
+C1261369 Injury or Poisoning
+C1262535 Sign or Symptom
+C1264615 Injury or Poisoning
+C1268770 Finding
+C1274203 Injury or Poisoning
+C1277629 Finding
+C1277637 Finding
+C1279591 Finding
+C1279843 Finding
+C1280008 Sign or Symptom
+C1281528 Finding
+C1281551 Finding
+C1281552 Finding
+C1281553 Finding
+C1281554 Finding
+C1281941 Sign or Symptom
+C1282002 Sign or Symptom
+C1282518 Injury or Poisoning
+C1285905 Finding
+C1286466 Finding
+C1286470 Finding
+C1286471 Finding
+C1286472 Finding
+C1286473 Finding
+C1286474 Finding
+C1286475 Finding
+C1286476 Finding
+C1286477 Finding
+C1287100 Finding
+C1287101 Finding
+C1287102 Finding
+C1287647 Finding
+C1287766 Finding
+C1287767 Finding
+C1287776 Finding
+C1287777 Finding
+C1287778 Finding
+C1287779 Finding
+C1287781 Finding
+C1287782 Finding
+C1287783 Finding
+C1287784 Finding
+C1287785 Finding
+C1291045 Finding
+C1291077 Sign or Symptom
+C1291078 Sign or Symptom
+C1299603 Finding
+C1300119 Sign or Symptom
+C1300749 Finding
+C1301810 Injury or Poisoning
+C1301825 Injury or Poisoning
+C1301924 Finding
+C1301941 Injury or Poisoning
+C1302160 Sign or Symptom
+C1313962 Injury or Poisoning
+C1318512 Injury or Poisoning
+C1318625 Finding
+C1319121 Finding
+C1319215 Finding
+C1320682 Finding
+C1321663 Sign or Symptom
+C1321756 Finding
+C1321898 Sign or Symptom
+C1333310 Sign or Symptom
+C1333324 Finding
+C1333752 Finding
+C1333771 Finding
+C1333772 Finding
+C1334003 Finding
+C1334414 Finding
+C1384607 Finding
+C1385680 Finding
+C1388945 Sign or Symptom
+C1390594 Mental or Behavioral Dysfunction
+C1390595 Mental or Behavioral Dysfunction
+C1390873 Finding
+C1390874 Finding
+C1390876 Finding
+C1390877 Sign or Symptom
+C1393776 Sign or Symptom
+C1394864 Sign or Symptom
+C1397941 Finding
+C1399309 Injury or Poisoning
+C1399464 Finding
+C1401859 Finding
+C1401861 Finding
+C1403419 Finding
+C1403430 Finding
+C1403444 Injury or Poisoning
+C1410124 Finding
+C1411946 Sign or Symptom
+C1443044 Sign or Symptom
+C1443390 Finding
+C1443902 Injury or Poisoning
+C1443903 Injury or Poisoning
+C1443904 Injury or Poisoning
+C1443905 Injury or Poisoning
+C1443924 Sign or Symptom
+C1446303 Finding
+C1446304 Finding
+C1446305 Finding
+C1446306 Finding
+C1446317 Finding
+C1446318 Finding
+C1446319 Finding
+C1446320 Finding
+C1446321 Finding
+C1456471 Finding
+C1510416 Sign or Symptom
+C1532194 Finding
+C1532286 Finding
+C1532384 Finding
+C1533007 Finding
+C1533008 Finding
+C1533093 Finding
+C1533286 Sign or Symptom
+C1560655 Finding
+C1560656 Finding
+C1560657 Finding
+C1560658 Finding
+C1560659 Finding
+C1562873 Finding
+C1565887 Sign or Symptom
+C1611181 Sign or Symptom
+C1626924 Finding
+C1628485 Finding
+C1632843 Finding
+C1635038 Finding
+C1636673 Finding
+C1638412 Finding
+C1690520 Finding
+C1697746 Finding
+C1698097 Injury or Poisoning
+C1698195 Finding
+C1698511 Finding
+C1699327 Finding
+C1699653 Finding
+C1704205 Sign or Symptom
+C1704427 Mental or Behavioral Dysfunction
+C1707837 Finding
+C1708363 Finding
+C1708748 Finding
+C1719857 Sign or Symptom
+C1739094 Injury or Poisoning
+C1740793 Sign or Symptom
+C1827028 Finding
+C1827109 Finding
+C1827135 Finding
+C1827263 Finding
+C1827433 Finding
+C1827507 Finding
+C1827519 Finding
+C1827526 Finding
+C1827654 Finding
+C1827732 Finding
+C1827767 Finding
+C1827931 Finding
+C1827961 Finding
+C1827998 Finding
+C1828006 Finding
+C1828110 Finding
+C1828355 Finding
+C1828396 Finding
+C1828440 Finding
+C1828450 Finding
+C1955516 Sign or Symptom
+C1955517 Sign or Symptom
+C1960077 Finding
+C1960173 Finding
+C1960177 Finding
+C1960714 Finding
+C1961009 Finding
+C1997160 Injury or Poisoning
+C1997442 Injury or Poisoning
+C1997452 Injury or Poisoning
+C1997958 Injury or Poisoning
+C1998139 Injury or Poisoning
+C1998225 Injury or Poisoning
+C1998391 Injury or Poisoning
+C1998404 Injury or Poisoning
+C2004489 Sign or Symptom
+C2004490 Injury or Poisoning
+C2005132 Injury or Poisoning
+C2005432 Injury or Poisoning
+C2008807 Sign or Symptom
+C2008822 Sign or Symptom
+C2009901 Sign or Symptom
+C2009902 Sign or Symptom
+C2009903 Sign or Symptom
+C2009904 Sign or Symptom
+C2010626 Finding
+C2010627 Finding
+C2010628 Finding
+C2010629 Finding
+C2010630 Finding
+C2010631 Finding
+C2010632 Finding
+C2010633 Finding
+C2010635 Finding
+C2010636 Finding
+C2010642 Finding
+C2010643 Finding
+C2010644 Finding
+C2010645 Finding
+C2010653 Finding
+C2010654 Finding
+C2010655 Finding
+C2010656 Finding
+C2010659 Finding
+C2010786 Finding
+C2012492 Sign or Symptom
+C2012588 Sign or Symptom
+C2017441 Sign or Symptom
+C2018798 Injury or Poisoning
+C2018818 Injury or Poisoning
+C2018852 Injury or Poisoning
+C2019533 Sign or Symptom
+C2020388 Sign or Symptom
+C2020389 Sign or Symptom
+C2020427 Sign or Symptom
+C2020448 Sign or Symptom
+C2020504 Sign or Symptom
+C2021439 Finding
+C2021698 Finding
+C2021699 Finding
+C2021700 Finding
+C2021701 Finding
+C2021702 Finding
+C2021987 Finding
+C2021989 Finding
+C2021991 Finding
+C2022130 Finding
+C2022430 Finding
+C2022908 Finding
+C2022914 Finding
+C2022946 Finding
+C2022947 Finding
+C2022953 Finding
+C2028133 Injury or Poisoning
+C2028151 Injury or Poisoning
+C2028157 Injury or Poisoning
+C2028176 Injury or Poisoning
+C2028199 Injury or Poisoning
+C2029945 Sign or Symptom
+C2029946 Sign or Symptom
+C2029947 Sign or Symptom
+C2029948 Sign or Symptom
+C2029949 Sign or Symptom
+C2029950 Sign or Symptom
+C2029951 Sign or Symptom
+C2029952 Sign or Symptom
+C2029953 Sign or Symptom
+C2029954 Sign or Symptom
+C2029955 Sign or Symptom
+C2029956 Sign or Symptom
+C2029957 Sign or Symptom
+C2029958 Sign or Symptom
+C2029959 Sign or Symptom
+C2029960 Sign or Symptom
+C2029961 Sign or Symptom
+C2029962 Sign or Symptom
+C2029963 Sign or Symptom
+C2029964 Sign or Symptom
+C2029965 Sign or Symptom
+C2029966 Sign or Symptom
+C2029967 Sign or Symptom
+C2029968 Sign or Symptom
+C2029969 Sign or Symptom
+C2029970 Sign or Symptom
+C2029971 Sign or Symptom
+C2029972 Sign or Symptom
+C2029973 Sign or Symptom
+C2029974 Sign or Symptom
+C2029975 Sign or Symptom
+C2029976 Sign or Symptom
+C2029977 Sign or Symptom
+C2029978 Sign or Symptom
+C2029979 Sign or Symptom
+C2029980 Sign or Symptom
+C2029981 Sign or Symptom
+C2029982 Sign or Symptom
+C2030502 Finding
+C2030928 Finding
+C2030931 Finding
+C2032722 Sign or Symptom
+C2032730 Sign or Symptom
+C2034639 Finding
+C2034640 Finding
+C2034641 Finding
+C2034645 Finding
+C2034646 Finding
+C2034647 Finding
+C2034648 Finding
+C2034649 Finding
+C2034650 Finding
+C2034651 Finding
+C2034652 Finding
+C2034653 Finding
+C2034654 Finding
+C2034655 Finding
+C2034656 Finding
+C2034657 Finding
+C2034658 Finding
+C2034659 Finding
+C2034660 Finding
+C2034661 Finding
+C2034662 Finding
+C2034663 Finding
+C2034664 Finding
+C2034665 Finding
+C2034666 Finding
+C2034667 Finding
+C2034668 Finding
+C2034669 Finding
+C2034670 Finding
+C2034671 Finding
+C2034672 Finding
+C2034673 Finding
+C2036919 Finding
+C2036920 Finding
+C2037144 Sign or Symptom
+C2041209 Finding
+C2041210 Finding
+C2041423 Finding
+C2042048 Finding
+C2042052 Finding
+C2042055 Finding
+C2042058 Finding
+C2045675 Sign or Symptom
+C2045676 Sign or Symptom
+C2045738 Injury or Poisoning
+C2045740 Injury or Poisoning
+C2045756 Injury or Poisoning
+C2047413 Finding
+C2047414 Finding
+C2047415 Finding
+C2047416 Finding
+C2047741 Finding
+C2047742 Finding
+C2047743 Finding
+C2047744 Finding
+C2047749 Finding
+C2047750 Finding
+C2047751 Finding
+C2047752 Finding
+C2047753 Finding
+C2047754 Finding
+C2047757 Finding
+C2047758 Finding
+C2047759 Finding
+C2047760 Finding
+C2047761 Finding
+C2047762 Finding
+C2047763 Finding
+C2047764 Finding
+C2047765 Finding
+C2047769 Finding
+C2047770 Finding
+C2047771 Finding
+C2047772 Finding
+C2047773 Finding
+C2047774 Finding
+C2047775 Finding
+C2047776 Finding
+C2047910 Finding
+C2047911 Finding
+C2047912 Finding
+C2047913 Finding
+C2047921 Finding
+C2047922 Finding
+C2048438 Finding
+C2048439 Finding
+C2048440 Finding
+C2048441 Finding
+C2048442 Finding
+C2048474 Sign or Symptom
+C2048475 Sign or Symptom
+C2048476 Sign or Symptom
+C2048477 Sign or Symptom
+C2048478 Sign or Symptom
+C2048479 Sign or Symptom
+C2048480 Sign or Symptom
+C2048481 Sign or Symptom
+C2048482 Sign or Symptom
+C2048483 Sign or Symptom
+C2053955 Finding
+C2054287 Finding
+C2057715 Sign or Symptom
+C2057724 Sign or Symptom
+C2057726 Sign or Symptom
+C2057727 Sign or Symptom
+C2061838 Finding
+C2061839 Finding
+C2062357 Finding
+C2062967 Finding
+C2063252 Injury or Poisoning
+C2063647 Injury or Poisoning
+C2063750 Injury or Poisoning
+C2063751 Injury or Poisoning
+C2063752 Injury or Poisoning
+C2063753 Injury or Poisoning
+C2064643 Finding
+C2064645 Finding
+C2064648 Finding
+C2064649 Finding
+C2064650 Finding
+C2064651 Finding
+C2064652 Finding
+C2064654 Finding
+C2064655 Finding
+C2064656 Finding
+C2064657 Finding
+C2064665 Finding
+C2064666 Finding
+C2064668 Finding
+C2064669 Finding
+C2064670 Finding
+C2064671 Finding
+C2064673 Finding
+C2064674 Finding
+C2064676 Finding
+C2064677 Finding
+C2064678 Finding
+C2064679 Finding
+C2064681 Finding
+C2071437 Finding
+C2071438 Finding
+C2071439 Finding
+C2071440 Finding
+C2073929 Finding
+C2074609 Sign or Symptom
+C2074633 Sign or Symptom
+C2074634 Sign or Symptom
+C2074635 Sign or Symptom
+C2074724 Finding
+C2074726 Finding
+C2074778 Sign or Symptom
+C2076571 Finding
+C2076574 Finding
+C2076579 Finding
+C2077391 Finding
+C2077392 Finding
+C2077394 Finding
+C2077826 Sign or Symptom
+C2077851 Finding
+C2077852 Finding
+C2077853 Finding
+C2077854 Finding
+C2080431 Finding
+C2082973 Injury or Poisoning
+C2083577 Injury or Poisoning
+C2083578 Injury or Poisoning
+C2087500 Finding
+C2087501 Finding
+C2087502 Finding
+C2087507 Finding
+C2087508 Finding
+C2087509 Finding
+C2087510 Finding
+C2087511 Finding
+C2087512 Finding
+C2087589 Finding
+C2087713 Finding
+C2087714 Finding
+C2088001 Finding
+C2088352 Finding
+C2088353 Finding
+C2088354 Finding
+C2088355 Finding
+C2088356 Finding
+C2089308 Finding
+C2089309 Finding
+C2089310 Finding
+C2089311 Finding
+C2089312 Finding
+C2097733 Finding
+C2098431 Finding
+C2098432 Finding
+C2098433 Finding
+C2098434 Finding
+C2098435 Finding
+C2098436 Finding
+C2098437 Finding
+C2098438 Finding
+C2098439 Finding
+C2098440 Finding
+C2098441 Finding
+C2098442 Finding
+C2098443 Finding
+C2098444 Finding
+C2098445 Finding
+C2098446 Finding
+C2098447 Finding
+C2104252 Finding
+C2104253 Finding
+C2104306 Finding
+C2104324 Finding
+C2104325 Finding
+C2104379 Finding
+C2104380 Finding
+C2106473 Finding
+C2106474 Finding
+C2106475 Finding
+C2106485 Finding
+C2106486 Finding
+C2106487 Finding
+C2106488 Finding
+C2106676 Finding
+C2106677 Finding
+C2106678 Finding
+C2106679 Finding
+C2106682 Finding
+C2106683 Finding
+C2106684 Finding
+C2106687 Finding
+C2106688 Finding
+C2106689 Finding
+C2106690 Finding
+C2106691 Finding
+C2106692 Finding
+C2106693 Finding
+C2106694 Finding
+C2106695 Finding
+C2106696 Finding
+C2106727 Finding
+C2106728 Finding
+C2106729 Finding
+C2106730 Finding
+C2106732 Finding
+C2106734 Finding
+C2106736 Finding
+C2106740 Finding
+C2107733 Sign or Symptom
+C2107751 Sign or Symptom
+C2107752 Sign or Symptom
+C2107753 Sign or Symptom
+C2107754 Sign or Symptom
+C2107755 Sign or Symptom
+C2107756 Sign or Symptom
+C2107757 Sign or Symptom
+C2107758 Sign or Symptom
+C2107759 Sign or Symptom
+C2107760 Sign or Symptom
+C2107761 Sign or Symptom
+C2107762 Sign or Symptom
+C2108447 Finding
+C2108448 Finding
+C2108449 Finding
+C2108450 Finding
+C2108459 Finding
+C2108460 Finding
+C2108461 Finding
+C2108462 Finding
+C2108465 Finding
+C2111422 Finding
+C2111423 Finding
+C2111424 Finding
+C2111425 Finding
+C2111426 Finding
+C2111427 Finding
+C2111428 Finding
+C2111429 Finding
+C2111430 Finding
+C2111431 Finding
+C2111440 Finding
+C2111441 Finding
+C2111442 Finding
+C2111443 Finding
+C2111444 Finding
+C2111485 Finding
+C2111486 Finding
+C2111487 Finding
+C2111489 Finding
+C2112816 Finding
+C2112817 Finding
+C2112818 Finding
+C2112819 Finding
+C2112820 Finding
+C2114725 Finding
+C2114726 Finding
+C2114727 Finding
+C2114739 Finding
+C2114740 Finding
+C2115921 Sign or Symptom
+C2118194 Injury or Poisoning
+C2118640 Finding
+C2118641 Finding
+C2121405 Finding
+C2121406 Finding
+C2121407 Finding
+C2121408 Finding
+C2121409 Finding
+C2121410 Finding
+C2121411 Finding
+C2121412 Finding
+C2121413 Finding
+C2121414 Finding
+C2121415 Finding
+C2121416 Finding
+C2121417 Finding
+C2121418 Finding
+C2121419 Finding
+C2121420 Finding
+C2121421 Finding
+C2121422 Finding
+C2121423 Finding
+C2121424 Finding
+C2121425 Finding
+C2122142 Finding
+C2122144 Finding
+C2122146 Finding
+C2122188 Finding
+C2122217 Finding
+C2122218 Finding
+C2123156 Finding
+C2123158 Finding
+C2123159 Finding
+C2123629 Finding
+C2123631 Finding
+C2126009 Sign or Symptom
+C2126010 Sign or Symptom
+C2126011 Sign or Symptom
+C2126012 Sign or Symptom
+C2126013 Sign or Symptom
+C2126014 Sign or Symptom
+C2126015 Sign or Symptom
+C2126016 Sign or Symptom
+C2126017 Sign or Symptom
+C2126018 Sign or Symptom
+C2126019 Sign or Symptom
+C2126020 Sign or Symptom
+C2126021 Sign or Symptom
+C2126022 Sign or Symptom
+C2126023 Sign or Symptom
+C2126024 Sign or Symptom
+C2126025 Sign or Symptom
+C2126026 Sign or Symptom
+C2126027 Sign or Symptom
+C2126028 Sign or Symptom
+C2126029 Sign or Symptom
+C2126032 Sign or Symptom
+C2126033 Sign or Symptom
+C2126034 Sign or Symptom
+C2126035 Sign or Symptom
+C2126036 Sign or Symptom
+C2126037 Sign or Symptom
+C2126038 Sign or Symptom
+C2126039 Sign or Symptom
+C2126040 Sign or Symptom
+C2126041 Sign or Symptom
+C2126042 Sign or Symptom
+C2126043 Sign or Symptom
+C2126044 Finding
+C2126045 Sign or Symptom
+C2126046 Sign or Symptom
+C2126047 Sign or Symptom
+C2126048 Sign or Symptom
+C2126068 Sign or Symptom
+C2126934 Sign or Symptom
+C2127098 Sign or Symptom
+C2127104 Sign or Symptom
+C2127112 Sign or Symptom
+C2127123 Sign or Symptom
+C2127134 Sign or Symptom
+C2127299 Sign or Symptom
+C2127300 Sign or Symptom
+C2127301 Sign or Symptom
+C2127302 Sign or Symptom
+C2127303 Sign or Symptom
+C2127404 Sign or Symptom
+C2128844 Finding
+C2128962 Finding
+C2128963 Sign or Symptom
+C2128964 Finding
+C2129178 Sign or Symptom
+C2129179 Sign or Symptom
+C2129180 Sign or Symptom
+C2129181 Sign or Symptom
+C2129182 Sign or Symptom
+C2129183 Sign or Symptom
+C2129184 Sign or Symptom
+C2129185 Sign or Symptom
+C2129186 Sign or Symptom
+C2129187 Sign or Symptom
+C2129188 Sign or Symptom
+C2129189 Sign or Symptom
+C2129190 Sign or Symptom
+C2129191 Sign or Symptom
+C2129192 Sign or Symptom
+C2129193 Sign or Symptom
+C2129194 Sign or Symptom
+C2129195 Sign or Symptom
+C2129196 Sign or Symptom
+C2129197 Sign or Symptom
+C2129198 Sign or Symptom
+C2129199 Sign or Symptom
+C2129200 Sign or Symptom
+C2129201 Sign or Symptom
+C2129202 Sign or Symptom
+C2129203 Sign or Symptom
+C2129204 Sign or Symptom
+C2129205 Sign or Symptom
+C2129206 Sign or Symptom
+C2129207 Sign or Symptom
+C2129208 Sign or Symptom
+C2129209 Sign or Symptom
+C2129210 Sign or Symptom
+C2129211 Sign or Symptom
+C2129212 Sign or Symptom
+C2129213 Sign or Symptom
+C2129214 Sign or Symptom
+C2129215 Sign or Symptom
+C2129216 Finding
+C2129317 Finding
+C2129318 Sign or Symptom
+C2129319 Sign or Symptom
+C2129320 Sign or Symptom
+C2129321 Sign or Symptom
+C2129322 Sign or Symptom
+C2129323 Sign or Symptom
+C2129324 Sign or Symptom
+C2129325 Sign or Symptom
+C2129326 Sign or Symptom
+C2129327 Sign or Symptom
+C2129633 Sign or Symptom
+C2129634 Sign or Symptom
+C2129635 Sign or Symptom
+C2130252 Sign or Symptom
+C2130275 Sign or Symptom
+C2136018 Finding
+C2136331 Finding
+C2136453 Finding
+C2136454 Finding
+C2136455 Finding
+C2156857 Finding
+C2163221 Finding
+C2163863 Finding
+C2163864 Finding
+C2163865 Finding
+C2163866 Finding
+C2163867 Finding
+C2163868 Finding
+C2163869 Finding
+C2163870 Finding
+C2163871 Finding
+C2163872 Finding
+C2163873 Finding
+C2163874 Finding
+C2163875 Finding
+C2163876 Finding
+C2163877 Finding
+C2163878 Finding
+C2164006 Finding
+C2168106 Sign or Symptom
+C2169460 Finding
+C2169539 Finding
+C2169569 Finding
+C2169705 Finding
+C2169706 Finding
+C2169749 Finding
+C2169750 Finding
+C2169751 Finding
+C2169752 Finding
+C2169753 Finding
+C2169754 Finding
+C2169771 Finding
+C2169772 Finding
+C2169773 Finding
+C2169774 Finding
+C2169775 Finding
+C2169776 Finding
+C2169778 Finding
+C2169780 Finding
+C2169781 Finding
+C2169786 Finding
+C2169812 Sign or Symptom
+C2169877 Finding
+C2169930 Sign or Symptom
+C2169931 Sign or Symptom
+C2169932 Sign or Symptom
+C2169933 Sign or Symptom
+C2170660 Finding
+C2170661 Finding
+C2170674 Finding
+C2170675 Finding
+C2170716 Finding
+C2170717 Finding
+C2181198 Finding
+C2181199 Finding
+C2181200 Finding
+C2181201 Finding
+C2181202 Finding
+C2181396 Finding
+C2181496 Finding
+C2183205 Finding
+C2183206 Finding
+C2183207 Finding
+C2183218 Finding
+C2183293 Sign or Symptom
+C2183294 Sign or Symptom
+C2183295 Sign or Symptom
+C2183296 Sign or Symptom
+C2183427 Sign or Symptom
+C2183443 Sign or Symptom
+C2183444 Sign or Symptom
+C2183445 Sign or Symptom
+C2183446 Finding
+C2183447 Finding
+C2183448 Sign or Symptom
+C2183449 Sign or Symptom
+C2183450 Sign or Symptom
+C2183681 Finding
+C2183768 Finding
+C2183769 Finding
+C2183774 Finding
+C2183775 Finding
+C2183776 Finding
+C2183777 Finding
+C2183778 Finding
+C2185961 Finding
+C2185963 Finding
+C2188255 Finding
+C2188256 Finding
+C2189665 Sign or Symptom
+C2195744 Finding
+C2197732 Finding
+C2198702 Sign or Symptom
+C2198703 Sign or Symptom
+C2198704 Sign or Symptom
+C2199213 Sign or Symptom
+C2202704 Sign or Symptom
+C2202705 Finding
+C2202706 Sign or Symptom
+C2202707 Sign or Symptom
+C2202708 Finding
+C2202709 Sign or Symptom
+C2202710 Sign or Symptom
+C2202711 Sign or Symptom
+C2202712 Finding
+C2202713 Sign or Symptom
+C2202714 Sign or Symptom
+C2202715 Finding
+C2202716 Sign or Symptom
+C2203151 Finding
+C2203152 Finding
+C2203153 Finding
+C2203154 Finding
+C2203155 Finding
+C2203156 Finding
+C2203157 Finding
+C2203158 Finding
+C2203159 Finding
+C2203163 Finding
+C2203164 Finding
+C2203165 Finding
+C2203260 Sign or Symptom
+C2203297 Sign or Symptom
+C2203644 Sign or Symptom
+C2203646 Sign or Symptom
+C2203647 Sign or Symptom
+C2203648 Sign or Symptom
+C2203649 Sign or Symptom
+C2203650 Sign or Symptom
+C2203651 Sign or Symptom
+C2203652 Sign or Symptom
+C2203937 Mental or Behavioral Dysfunction
+C2204196 Injury or Poisoning
+C2204197 Injury or Poisoning
+C2204198 Injury or Poisoning
+C2204199 Injury or Poisoning
+C2204201 Injury or Poisoning
+C2207241 Finding
+C2215129 Finding
+C2219283 Sign or Symptom
+C2219663 Sign or Symptom
+C2219664 Sign or Symptom
+C2219665 Sign or Symptom
+C2219666 Sign or Symptom
+C2219667 Sign or Symptom
+C2219668 Sign or Symptom
+C2219669 Sign or Symptom
+C2219670 Sign or Symptom
+C2219671 Sign or Symptom
+C2219672 Sign or Symptom
+C2219673 Sign or Symptom
+C2219674 Sign or Symptom
+C2219675 Sign or Symptom
+C2219676 Sign or Symptom
+C2219678 Sign or Symptom
+C2219679 Sign or Symptom
+C2219680 Sign or Symptom
+C2219681 Sign or Symptom
+C2219682 Sign or Symptom
+C2219683 Sign or Symptom
+C2219684 Sign or Symptom
+C2219685 Sign or Symptom
+C2219686 Sign or Symptom
+C2219687 Sign or Symptom
+C2219688 Sign or Symptom
+C2219689 Sign or Symptom
+C2219690 Sign or Symptom
+C2219691 Sign or Symptom
+C2219692 Sign or Symptom
+C2219693 Sign or Symptom
+C2219694 Sign or Symptom
+C2219695 Sign or Symptom
+C2219696 Sign or Symptom
+C2219697 Sign or Symptom
+C2219698 Sign or Symptom
+C2219699 Sign or Symptom
+C2219700 Sign or Symptom
+C2219701 Sign or Symptom
+C2219702 Sign or Symptom
+C2219703 Sign or Symptom
+C2219990 Sign or Symptom
+C2220015 Sign or Symptom
+C2220024 Sign or Symptom
+C2220091 Individual Behavior
+C2220098 Sign or Symptom
+C2220109 Sign or Symptom
+C2220110 Sign or Symptom
+C2220115 Sign or Symptom
+C2220596 Finding
+C2220597 Finding
+C2220598 Finding
+C2220599 Finding
+C2220600 Finding
+C2222614 Finding
+C2222615 Finding
+C2222616 Finding
+C2222617 Finding
+C2222618 Finding
+C2222619 Finding
+C2222620 Finding
+C2222621 Finding
+C2222622 Finding
+C2223409 Finding
+C2225347 Finding
+C2225562 Finding
+C2225563 Finding
+C2225564 Finding
+C2225565 Finding
+C2226661 Finding
+C2226662 Finding
+C2226663 Finding
+C2226664 Finding
+C2226665 Finding
+C2226666 Finding
+C2226667 Finding
+C2226668 Finding
+C2226669 Finding
+C2226670 Finding
+C2226710 Finding
+C2227390 Finding
+C2227391 Finding
+C2227392 Finding
+C2227394 Finding
+C2227395 Finding
+C2227400 Finding
+C2227401 Finding
+C2227402 Finding
+C2227403 Finding
+C2227494 Injury or Poisoning
+C2227495 Finding
+C2227496 Finding
+C2227708 Finding
+C2227721 Finding
+C2227722 Finding
+C2227741 Finding
+C2227748 Finding
+C2227749 Finding
+C2227751 Finding
+C2227755 Finding
+C2227756 Finding
+C2227757 Finding
+C2227758 Finding
+C2227759 Finding
+C2227943 Finding
+C2227944 Finding
+C2227950 Injury or Poisoning
+C2228890 Injury or Poisoning
+C2230331 Finding
+C2230971 Finding
+C2233529 Sign or Symptom
+C2233534 Sign or Symptom
+C2233535 Sign or Symptom
+C2233536 Sign or Symptom
+C2233537 Finding
+C2233538 Sign or Symptom
+C2233539 Sign or Symptom
+C2233540 Sign or Symptom
+C2233541 Sign or Symptom
+C2233542 Sign or Symptom
+C2233543 Sign or Symptom
+C2233544 Sign or Symptom
+C2233545 Sign or Symptom
+C2233546 Sign or Symptom
+C2233547 Sign or Symptom
+C2233548 Sign or Symptom
+C2233549 Sign or Symptom
+C2233584 Sign or Symptom
+C2235765 Finding
+C2235766 Finding
+C2235767 Finding
+C2235768 Finding
+C2236638 Injury or Poisoning
+C2236754 Sign or Symptom
+C2236963 Finding
+C2237689 Finding
+C2237700 Finding
+C2237701 Finding
+C2237702 Finding
+C2237703 Finding
+C2237704 Finding
+C2237705 Finding
+C2237706 Finding
+C2237711 Finding
+C2237712 Finding
+C2237713 Finding
+C2237714 Finding
+C2237715 Finding
+C2237716 Finding
+C2237717 Finding
+C2237718 Finding
+C2237720 Finding
+C2237721 Finding
+C2237722 Finding
+C2237723 Finding
+C2237724 Finding
+C2237725 Finding
+C2237726 Finding
+C2237727 Finding
+C2237728 Finding
+C2237730 Finding
+C2237731 Finding
+C2237732 Finding
+C2237733 Finding
+C2237734 Finding
+C2237735 Finding
+C2237736 Finding
+C2237737 Finding
+C2237738 Finding
+C2237739 Finding
+C2237740 Finding
+C2237741 Finding
+C2237742 Finding
+C2237743 Finding
+C2237744 Finding
+C2237745 Finding
+C2237746 Finding
+C2237747 Finding
+C2237748 Finding
+C2237749 Finding
+C2237750 Finding
+C2237751 Finding
+C2237752 Finding
+C2237753 Finding
+C2237754 Finding
+C2237755 Finding
+C2237756 Finding
+C2237757 Finding
+C2237758 Finding
+C2237759 Finding
+C2237760 Finding
+C2237761 Finding
+C2237762 Finding
+C2237763 Finding
+C2237764 Finding
+C2237765 Finding
+C2237768 Finding
+C2237769 Finding
+C2237770 Finding
+C2237771 Finding
+C2237772 Finding
+C2237773 Finding
+C2237774 Finding
+C2237775 Finding
+C2237776 Finding
+C2237777 Finding
+C2237778 Finding
+C2237779 Finding
+C2237780 Finding
+C2237781 Finding
+C2237782 Finding
+C2237783 Finding
+C2237784 Finding
+C2237785 Finding
+C2237786 Finding
+C2237787 Finding
+C2237788 Finding
+C2237789 Finding
+C2237790 Finding
+C2237791 Finding
+C2237792 Finding
+C2237793 Finding
+C2237794 Finding
+C2237795 Finding
+C2237796 Finding
+C2237798 Finding
+C2237801 Finding
+C2237804 Finding
+C2237808 Finding
+C2237809 Finding
+C2237810 Finding
+C2237811 Finding
+C2237812 Finding
+C2237813 Finding
+C2237814 Finding
+C2237815 Finding
+C2237816 Finding
+C2237817 Finding
+C2237818 Finding
+C2237819 Finding
+C2237820 Finding
+C2237821 Finding
+C2237822 Finding
+C2237823 Finding
+C2237824 Finding
+C2237825 Finding
+C2237826 Finding
+C2237828 Finding
+C2237829 Finding
+C2237830 Finding
+C2237831 Finding
+C2237832 Finding
+C2237833 Finding
+C2237834 Finding
+C2237835 Finding
+C2237836 Finding
+C2237837 Finding
+C2237838 Finding
+C2237839 Finding
+C2237840 Finding
+C2237841 Finding
+C2237842 Finding
+C2237843 Finding
+C2237844 Finding
+C2237845 Finding
+C2237846 Finding
+C2237848 Finding
+C2237849 Finding
+C2237850 Finding
+C2237851 Finding
+C2237852 Finding
+C2237853 Finding
+C2237854 Finding
+C2237855 Finding
+C2237857 Finding
+C2237858 Finding
+C2237859 Finding
+C2237860 Finding
+C2237862 Finding
+C2237863 Finding
+C2237864 Finding
+C2237865 Finding
+C2237866 Finding
+C2237867 Finding
+C2237868 Finding
+C2237869 Finding
+C2237870 Finding
+C2237872 Finding
+C2237873 Finding
+C2237874 Finding
+C2237875 Finding
+C2237876 Finding
+C2237877 Finding
+C2237878 Finding
+C2237879 Finding
+C2237880 Finding
+C2237881 Finding
+C2237882 Finding
+C2237883 Finding
+C2237884 Finding
+C2237885 Finding
+C2237886 Finding
+C2237887 Finding
+C2237888 Finding
+C2237889 Finding
+C2237890 Finding
+C2237891 Finding
+C2237892 Finding
+C2237893 Finding
+C2237894 Finding
+C2237895 Finding
+C2237896 Finding
+C2237897 Finding
+C2237898 Finding
+C2237899 Finding
+C2237900 Finding
+C2237901 Finding
+C2237902 Finding
+C2237903 Finding
+C2237904 Finding
+C2237905 Finding
+C2237906 Finding
+C2237907 Finding
+C2237908 Finding
+C2237909 Finding
+C2237910 Finding
+C2237911 Finding
+C2237912 Finding
+C2237913 Finding
+C2237914 Finding
+C2237915 Finding
+C2237916 Finding
+C2237917 Finding
+C2237918 Finding
+C2237919 Finding
+C2237920 Finding
+C2237921 Finding
+C2237923 Finding
+C2237924 Finding
+C2237925 Finding
+C2237927 Finding
+C2237928 Finding
+C2237929 Finding
+C2237930 Finding
+C2237931 Finding
+C2237932 Finding
+C2237933 Finding
+C2237934 Finding
+C2237935 Finding
+C2237936 Finding
+C2237937 Finding
+C2237939 Finding
+C2237940 Finding
+C2237941 Finding
+C2237942 Finding
+C2237943 Finding
+C2237944 Finding
+C2238326 Finding
+C2238327 Finding
+C2238328 Finding
+C2238331 Finding
+C2238332 Finding
+C2238333 Finding
+C2238334 Finding
+C2238335 Finding
+C2238339 Finding
+C2238340 Finding
+C2238345 Finding
+C2238346 Finding
+C2238349 Finding
+C2238350 Finding
+C2238353 Finding
+C2238354 Finding
+C2238355 Finding
+C2240385 Finding
+C2266402 Finding
+C2316263 Finding
+C2316293 Finding
+C2316773 Finding
+C2317745 Finding
+C2321305 Finding
+C2321329 Finding
+C2362935 Finding
+C2367674 Sign or Symptom
+C2584726 Finding
+C2585102 Finding
+C2585575 Sign or Symptom
+C2586208 Sign or Symptom
+C2673892 Finding
+C2697492 Finding
+C2697795 Finding
+C2699313 Finding
+C2700242 Finding
+C2700371 Finding
+C2702521 Finding
+C2702522 Finding
+C2702523 Finding
+C2702524 Finding
+C2702613 Finding
+C2702614 Finding
+C2702615 Finding
+C2702728 Finding
+C2702773 Finding
+C2702774 Finding
+C2702775 Finding
+C2702776 Finding
+C2702809 Mental or Behavioral Dysfunction
+C2711165 Finding
+C2711181 Finding
+C2711329 Injury or Poisoning
+C2711395 Finding
+C2711964 Injury or Poisoning
+C2712086 Finding
+C2717988 Injury or Poisoning
+C2728322 Finding
+C2728517 Sign or Symptom
+C2728877 Sign or Symptom
+C2728978 Finding
+C2729502 Finding
+C2729503 Finding
+C2729504 Finding
+C2729505 Finding
+C2732615 Finding
+C2748701 Finding
+C2826559 Finding
+C2826616 Finding
+C2828158 Finding
+C2830907 Injury or Poisoning
+C2832954 Injury or Poisoning
+C2832962 Injury or Poisoning
+C2832967 Injury or Poisoning
+C2833006 Injury or Poisoning
+C2833061 Injury or Poisoning
+C2833069 Injury or Poisoning
+C2833074 Injury or Poisoning
+C2919182 Finding
+C2919545 Finding
+C2919655 Sign or Symptom
+C2921133 Sign or Symptom
+C2921779 Sign or Symptom
+C2957123 Finding
+C2959954 Finding
+C2960123 Finding
+C2960524 Finding
+C2960525 Finding
+C2960586 Finding
+C2981133 Sign or Symptom
+C2987258 Finding
+C2987259 Finding
+C2987401 Finding
+C2987402 Finding
+C3161658 Finding
+C3161759 Finding
+C3164070 Sign or Symptom
+C3164167 Sign or Symptom
+C3164335 Finding
+C3164609 Finding
+C3164696 Finding
+C3165139 Finding
+C3250607 Finding
+C3250608 Finding
+C3266112 Finding
+C3266113 Finding
+C3272819 Finding
+C3273014 Finding
+C3274545 Finding
+C3275161 Finding
+C3468091 Finding
+C3468092 Finding
+C3468093 Finding
+C3468349 Finding
+C3468350 Finding
+C3468351 Finding
+C3468370 Sign or Symptom
+C3472689 Finding
+C3506261 Injury or Poisoning
+C3506262 Injury or Poisoning
+C3506263 Injury or Poisoning
+C3506264 Injury or Poisoning
+C3506265 Injury or Poisoning
+C3506266 Injury or Poisoning
+C3506372 Sign or Symptom
+C3508576 Injury or Poisoning
+C3508579 Injury or Poisoning
+C3508580 Injury or Poisoning
+C3508581 Injury or Poisoning
+C3508583 Injury or Poisoning
+C3508683 Finding
+C3508684 Injury or Poisoning
+C3508685 Injury or Poisoning
+C3508686 Finding
+C3508687 Injury or Poisoning
+C3508688 Injury or Poisoning
+C3508689 Injury or Poisoning
+C3508690 Injury or Poisoning
+C3508725 Finding
+C3508726 Injury or Poisoning
+C3508727 Injury or Poisoning
+C3508728 Finding
+C3508729 Injury or Poisoning
+C3508731 Injury or Poisoning
+C3508732 Injury or Poisoning
+C3509788 Sign or Symptom
+C3532188 Finding
+C3532351 Finding

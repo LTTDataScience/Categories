@@ -1,0 +1,1238 @@
+C0000727  Abdomen, Acute
+C0000729  ABDOMINAL CRAMP
+C0000737  Abdominal Pain
+C0003107  Anogenital pruritus
+C0009806  Constipation
+C0011991  Diarrhea
+C0013132  Drooling
+C0013395  Indigestion
+C0013428  Dysuria
+C0014724  Burping
+C0016199  FLANK PAIN
+C0016204  Flatulence
+C0016205  Flatulence, eructation, and gas pain
+C0017672  Painful tongue
+C0018520  Bad breath
+C0018834  Heartburn
+C0018926  Hematemeses
+C0019086  Hemorrhagic ascites
+C0019209  Hepatomegaly
+C0019214  Hepatosplenomegaly
+C0019825  Hoarseness
+C0020175  Hunger
+C0020450  Hyperemesis Gravidarum
+C0022353  Jaundice, Neonatal
+C0024031  Back Pain, Low
+C0027497  Nausea
+C0027498  Nausea and vomiting
+C0030214  Palatal myoclonus
+C0030794  Pelvic Pain
+C0033775  Pruritus Ani
+C0033776  Pruritus gravidarum
+C0034886  RECTUM PAIN
+C0036660  Sensation of hunger, abnormal
+C0037089  Signs and Symptoms, Digestive
+C0040460  Toothache
+C0042963  Emesis
+C0042964  Anticipatory Vomiting
+C0043066  Waterbrash
+C0043352  Salivary secretion, decreased
+C0085602  Polydipsia
+C0149696  FOOD INTOLERANCE
+C0149758  POOR DENTITION
+C0150019  Simple constipation
+C0151767  LIVER TENDERNESS
+C0151791  NAUSEA VOMITING AND DIARRHEA
+C0152149  Mittelschmerz
+C0152165  Vomiting, persistent
+C0152169  Renal colic
+C0159065  Other symptoms involving abdomen and pelvis
+C0221150  ODYNOPHAGIA
+C0221151  Vomiting, projectile
+C0221200  Koplik spot
+C0221490  DISTRESS EPIGASTRIC
+C0221512  ACHE STOMACH
+C0221727  ESOPHAGEAL PAIN
+C0221730  NUMBNESS PERIORAL
+C0221755  ABDOMINAL BRUIT
+C0221776  MOUTH PAIN
+C0232462  Food appetite, decreased
+C0232476  Absent peristalsis
+C0232487  ABDOMINAL DISCOMFORT
+C0232488  Colic
+C0232491  CHRONIC ABDOMINAL PAIN
+C0232492  ABDOMINAL PAIN UPPER
+C0232493  EPIGASTRIC ABDOMINAL PAIN
+C0232494  Burning epigastric pain
+C0232495  ABDOMINAL PAIN LOWER
+C0232496  Midabdominal crampy pain
+C0232497  Abdominal involuntary guarding
+C0232498  Abdominal tenderness
+C0232502  Umbilical discharge
+C0232503  Umbilical bleeding
+C0232504  Umbilical pain
+C0232513  Premature tooth loss
+C0232514  Tooth chattering
+C0232517  Gurgling
+C0232520  Absent deglutition
+C0232533  Esophageal chest pain
+C0232534  Globus sensation
+C0232535  Bolus awareness
+C0232536  Bolus impaction
+C0232537  Esophageal colic
+C0232593  Cardiac sphincter, hypertensive spasm
+C0232597  Acute vomiting
+C0232598  Chronic vomiting
+C0232601  Concealed vomiting
+C0232602  Dry heaves
+C0232603  Violent retching
+C0232607  Chronic regurgitation
+C0232608  Nasal regurgitation
+C0232609  Bile pigment retention
+C0232610  Bile pigment regurgitation
+C0232695  Bowel sounds, decreased
+C0232716  Defecation straining
+C0232719  Hyperactive rectosigmoid junction
+C0232721  Bulky stool
+C0232726  TENESMUS
+C0232771  Cholesterol crystal nucleation in bile
+C0232857  Psychogenic dysuria
+C0232858  Dysuria, spastic
+C0232951  Enteromenia
+C0232952  Gastromenia
+C0232957  Proctomenia
+C0232958  Stomatomenia
+C0233194  Souffle, uterine
+C0234246  Abdominal rebound pain
+C0235234  THROAT DRY
+C0235250  HYPEREMESIS
+C0235290  TASTE BITTER
+C0235293  TASTE PECULIAR
+C0235295  ABDOMINAL DISTRESS
+C0235296  EPIGASTRIC PAIN NOT FOOD-RELATED
+C0235299  RUQ ABDOMINAL PAIN
+C0235307  EPIGASTRIC FOOD-RELATED PAIN
+C0235309  STOMACH UPSET
+C0235318  FULLNESS ABDOMINAL
+C0235612  URETHRAL BURNING ON MICTURITION
+C0235632  LOIN PAIN
+C0235634  COSTOVERTEBRAL ANGLE TENDERNESS
+C0235698  Abdom.distension, gaseous
+C0236065  EDEMA MOUTH
+C0238551  LLQ ABDOMINAL PAIN
+C0238552  LUQ ABDOMINAL PAIN
+C0238637  Anal pain
+C0238973  cheek pain (symptom)
+C0238977  CHEEK SWELLING
+C0239182  watery diarrhea
+C0239233  feeling full before finishing meals (symptom)
+C0239548  Fasciculation of tongue
+C0239549  Fat intolerance
+C0239739  GINGIVAL PAIN
+C0239783  PAIN GROIN
+C0240194  Blue lips
+C0240211  Swelling lips
+C0240311  maxillary pain (symptom)
+C0240327  TASTE METALLIC
+C0240352  Morning nausea
+C0240877  rectal tenderness
+C0241310  Suprapubic pain
+C0241379  INCREASED THIRST
+C0241426  Burning tongue
+C0241439  Paraesthesia of tongue
+C0241457  teeth sensitive to cold (symptom)
+C0241462  teeth sensitive to heat (symptom)
+C0241562  Urethral meatal pain
+C0241700  Decreased vocal loudness
+C0241705  URINATION DIFFICULTY
+C0242002  diarrhea mucous
+C0242429  Sore Throat
+C0262527  INTERMITTENT ABDOMINAL PAIN
+C0266836  Colic infantile
+C0266952  Loosening of tooth
+C0266996  Sialectasia
+C0267028  Cheilodynia
+C0267169  Gastric tympany
+C0267373  Intestinal haemorrhage NOS
+C0267633  Appendiceal colic
+C0270272  Regurgitation of food in newborn
+C0270273  Slow feeding in newborn
+C0270274  VOMITING NEONATAL
+C0277849  Psoas sign
+C0277938  Circumoral rhytides
+C0277965  Abnormal food appetite
+C0277966  Aphagia algera
+C0277967  Adipsia
+C0277969  Abdominal pain through to back
+C0277970  Abdominal pain worse on motion
+C0277974  McBurney's point
+C0277977  Murphy's sign
+C0277980  Onion breath
+C0277981  Garlic breath
+C0277984  Halitus saturninus
+C0277986  Gingival edema
+C0278007  Normal bowel habits
+C0278008  CHANGE IN BOWEL HABITS
+C0278009  Passage of rice water stools
+C0278010  Pseudodiarrhea
+C0278012  Red stools, NOS
+C0278013  Change in stool caliber, NOS
+C0278014  Decreased stool caliber
+C0278015  Change in stool consistency, NOS
+C0278020  Digestive gland sign or symptom, NOS
+C0278021  Courvoisier's law
+C0278155  Taste-blindness
+C0302540  Generalized abdominal tenderness (finding)
+C0311212  Migrating cheilosis
+C0312416  Morning sickness
+C0344304  General abdominal pain-symptom
+C0344370  Posseting
+C0344374  Faecal overflow
+C0344375  Stomach cramps
+C0345246  Abnormal large bowel motility
+C0392176  GASTRIC IRRITATION
+C0392513  Inanition
+C0392678  SWALLOWING IMPAIRED
+C0399410  Teeth staining due to metals
+C0399411  Teeth staining due to drugs
+C0399459  Discomfort in mouth
+C0399590  Drug-induced xerostomia
+C0399591  Sublingual sialectasia
+C0399592  Submandibular sialectasia
+C0399593  Parotid sialectasia
+C0400882  Chr nonspecific abdom pain
+C0401148  Acute constipation
+C0401149  Chronic constipation
+C0401150  Chronic constipation without overflow
+C0401155  Double incont - urine + stool
+C0401157  Intermittent vomiting
+C0401158  Vomiting after GIT surgery
+C0405584  Sucrose intolerance
+C0406672  Proctodynia
+C0410924  Underfeeding in newborn
+C0410925  Overfeeding in newborn
+C0423599  Sensation as if rectum still full
+C0423600  Feeling of lump in throat
+C0423628  Painful teething
+C0423640  Right flank pain
+C0423641  Left flank pain
+C0423642  Right subcostal pain
+C0423643  Left subcostal pain
+C0423644  Central abdominal pain
+C0423645  Subcostal pain
+C0423646  Site of abdominal pain
+C0423649  Abdominal migraine - symptom
+C0423650  Non-colicky abdominal pain
+C0423655  Pain on abdom wall movement
+C0423681  Pain in lumbar spine
+C0423683  Lumbar ache - renal
+C0423689  Post compartment low back pain
+C0423735  Tenesmus, urinary
+C0423736  Burning on urination
+C0423739  Tenesmus - anal
+C0424489  Chapped lips
+C0424805  Breath symptom
+C0426390  Spasm of bladder
+C0426481  Tooth symptom NOS
+C0426484  Throat symptom NOS
+C0426487  Mouth symptom NOS
+C0426498  Dry tongue
+C0426576  Gastrointestinal symptom NOS
+C0426577  Appetite symptom
+C0426579  Anorexia symptom
+C0426590  Thirst symptom
+C0426595  Cannot stop drinking
+C0426601  Swallowing symptom NOS
+C0426623  Excessive flatulence
+C0426631  Unable to break wind
+C0426632  Flatulent dyspepsia
+C0426639  Incomplete bowel evacuation
+C0426640  Infrequent bowel action
+C0426649  Bowel spasm
+C0426768  O sign
+C0426769  Anal twitching
+C0429220  GI sensation altered
+C0429221  GI sensation unchanged
+C0429222  GI symptoms reproduced
+C0429955  Bowels: occasional accident
+C0439019  C/O - ureteric colic
+C0439040  C/O - loin pain
+C0439042  C/O - renal pain
+C0451633  Sore lip
+C0455968  Encopresis symptom
+C0455981  C/O - ureteric pain
+C0457558  Anal symptoms
+C0457950  Acute back pain - lumbar
+C0458116  Lumbar trigger point syndrome
+C0472514  Edema of uvula
+C0473129  Diarrhea following gastrointestinal surgery
+C0473131  Diarrhea due to ingestion of unabsorbable substances
+C0473136  Neuromyopathic faecal incont
+C0473137  Congenital faecal incontinence
+C0474495  Constipation alternates with diarrhea
+C0474496  D&V - Diarrhea and vomiting
+C0474500  Faecal discharge
+C0474507  Floating faeces symptom
+C0474511  Worms in faeces symptom
+C0474512  Blood in faeces symptom
+C0474517  Tire sign
+C0474585  Black stools
+C0476288  Digestive system symptoms
+C0476289  GAS PAIN
+C0476305  Hypochondrial pain
+C0476311  [D]Umbilical swelling (context-dependent category)
+C0495462  Neonatal difficulty in feeding at breast
+C0495671  Flatulence and related conditions
+C0520559  Numbness of tongue
+C0520904  Postoperative nausea
+C0520905  Postoperative vomiting
+C0520906  Increased nausea and vomiting
+C0520907  Decreased nausea and vomiting
+C0520909  Postoperative nausea and vomiting
+C0521588  Abnormal jaw movement, NOS
+C0521591  MOUTH PARESTHESIA
+C0521592  Oral hypoaesthesia
+C0522058  Carbohydrate craving
+C0522061  Localized abdominal pain
+C0522062  Ulcer-type pain
+C0522067  Liver pain
+C0522069  Pancreatic sign, NOS
+C0522070  Pancreatic symptom, NOS
+C0522071  Pancreatalgia
+C0541938  EPIGASTRIC BURNING
+C0541976  GAS IN STOMACH
+C0548823  DISTRESS GASTROINTESTINAL
+C0554107  Appendicular pain
+C0555074  Regurgitates food
+C0558921  [D]Rectal symptoms (context-dependent category)
+C0558944  [D]Choking due to airways obstruction (context-dependent category)
+C0559208  Anal stump pain
+C0559537  Perineal irritation
+C0559687  Congestion of pharynx
+C0563234  Painful tooth socket
+C0563276  Left sided abdominal pain
+C0563277  Right sided abdominal pain
+C0574984  Temporomandibular joint laxity
+C0575010  Stiff temporomandibular joint
+C0575014  Lumbar spine stiff
+C0576789  Dribbling from one side mouth
+C0577100  Difficult defecation
+C0577105  Decreased defecation
+C0577115  Decreased consistency of stools
+C0577158  Cullen's sign positive (context-dependent category)
+C0577565  Mass of oral cavity
+C0577566  Mass of digestive structure
+C0577589  Swelling of oral cavity struct
+C0577660  Postural low back pain
+C0578051  Pain of oral cavity structure
+C0578052  Pain of digestive structure
+C0578057  Right hypochondrial pain
+C0578058  Left hypochondrial pain
+C0578082  Tenderness of oral cav struct
+C0578083  Tenderness of digestive struct
+C0578093  Tenderness of epigastrium
+C0578094  Tenderness R hypochondrium
+C0578095  Tenderness L hypochondrium
+C0578096  Tenderness of central region
+C0578097  Tenderness of right lumbar
+C0578098  Tenderness of left lumbar
+C0578099  Tenderness of hypogastrium
+C0578101  LIF - Tenderness L iliac fossa
+C0578102  Rebound tenderness epigastrium
+C0578105  Rebound tendern centr region
+C0578106  Rebound tendern R lumbar
+C0578107  Rebound tenderness L lumbar
+C0578108  Rebound tendern hypogastrium
+C0578109  RIF-Rebnd tendern R iliac foss
+C0578110  LIF-Rebnd tendern L iliac foss
+C0578994  Bad taste in mouth
+C0581295  [D]Swelling of mandibular region (context-dependent category)
+C0581358  Gastric spasm (disorder)
+C0581362  Anorectal pain
+C0581867  Tongue symptoms
+C0581868  Peptic ulcer symptoms
+C0581869  Abdominal wall pain
+C0581870  Hunger pangs
+C0587223  Abdominal pain in pregnancy
+C0589386  [D]Nonspecific abdominal pain (context-dependent category)
+C0596601  Gas
+C0687713  GI PAIN
+C0694551  RLQ ABDOMINAL PAIN
+C0700184  Irritation of the throat, NOS
+C0740432  Stomach fullness
+C0740577  Acute abdominal pain
+C0740584  diffuse abdominal pain
+C0743317  chronic difficulty swallowing (symptom)
+C0744288  GASTRIC CONTENT COFFEE GROUND
+C0744289  GASTRIC CONTENT REDDISH BROWN
+C0744876  Hepatomegaly tenderness
+C0745015  HOARSENESS CHRONIC
+C0745742  LIVER DAMAGE SIGN
+C0746637  MOUTH BLOOD ON WAKING
+C0746643  MOUTH SENSATION ABNORMAL
+C0746779  chronic nausea (symptom)
+C0747510  PERIODONTAL BLEEDING
+C0749579  TONGUE CRACKING PAIN
+C0750316  VOMIT APPEARANCE BILIOUS
+C0750317  VOMIT APPEARANCE BLOOD STREAKED
+C0750318  VOMIT APPEARANCE BROWN
+C0750319  VOMIT APPEARANCE COFFEE GROUND
+C0750320  VOMIT APPEARANCE DARK
+C0750321  VOMIT CHRONIC INTERMITTENT
+C0750323  Intractable vomiting
+C0750325  VOMIT RECURRENT
+C0847554  lump in throat
+C0849747  regurgitation with acid (symptom)
+C0849819  change in stool
+C0849835  lip bleeding (physical finding)
+C0877384  lip pale (physical finding)
+C0877488  tenderness of lip
+C0877495  tingling of tongue (symptom)
+C0877717  burning sensation in mouth (symptom)
+C0878638  tongue abnormalities
+C1168325  VOMIT POSTPRANDIAL
+C1262535  Jaundice, hepatocellular
+C1280008  INTESTINAL ANGINA
+C1281941  abdominal early pain pregnancy
+C1282002  Abdominal pain - cause unknown (finding)
+C1282322  acute pelvic pain
+C1290643  Extrinsic staining of teeth associated with inadequate oral hygiene (disorder)
+C1290644  Extrinsic staining of teeth associated with oral habits (disorder)
+C1290771  edema of oral vestibule
+C1291077  Bloating
+C1291078  Epigastric discomfort
+C1299637  Colicky hypogastric pain (finding)
+C1300119  Generalised colicky abdominal pain
+C1302160  Uncompensated swallowing impairment
+C1319537  O/E - right eye background diabetic retinopathy (disorder)
+C1319538  O/E - left eye background diabetic retinopathy (disorder)
+C1319539  O/E - right eye preproliferative diabetic retinopathy (disorder)
+C1319540  O/E - left eye preproliferative diabetic retinopathy (disorder)
+C1319541  O/E - right eye proliferative diabetic retinopathy (disorder)
+C1319542  O/E - left eye proliferative diabetic retinopathy (disorder)
+C1319543  O/E - right eye diabetic maculopathy (disorder)
+C1319544  O/E - left eye diabetic maculopathy (disorder)
+C1321663  Colonic constipation
+C1321898  Blood in stool
+C1333310  Disturbance in Bowel Function
+C1386209  breath; fetid
+C1388945  atonic; dyspepsia
+C1390877  abdomen; tympany
+C1393776  constipation; drug, correct substance properly administered
+C1394864  abdominal rigidity; severe abdominal pain
+C1395353  diaphragm; spasm
+C1395946  dysorexia
+C1397829  frequency; micturition, and painful
+C1402130  low back; myofasciitis
+C1403230  lumbar region; pain
+C1404372  mottling of tooth enamel (diagnosis)
+C1404807  nephralgia
+C1405030  pain; micturition, and frequent
+C1405463  feeding; problem, newborn, underfeeding
+C1405464  feeding; problem, newborn, overfeeding
+C1405465  feeding; problem, newborn, slow
+C1407055  feeding; slow
+C1407990  ureteralgia
+C1408330  renal calculus; colic
+C1408558  malnutrition; newborn
+C1411946  abdominal; pain, severe
+C1443044  bilious; attack
+C1443924  Severe diarrhea
+C1510416  Coffee ground emesis
+C1533286  pain; abdomen, epigastric
+C1536047  desquamation of lip
+C1536053  TONGUE DESQUAMATION
+C1565887  Physiologic jaundice in newborn, NOS
+C1579838  Sore mouth
+C1611181  stercoral; vomiting
+C1704205  Pharyngeal swelling
+C1719857  Hepatomegaly associated with AIDS (disorder)
+C1740793  Post-tussive vomiting
+C1857155  Decreased taste
+C1955516  Dysphagia, pharyngeal phase
+C1955517  Dysphagia, pharyngoesophageal phase
+C1994994  Excessive thirst
+C2004489  REGURGITATION
+C2008807  frequent heartburn
+C2008822  frequent vomiting just after eating
+C2008880  frothy saliva (symptom)
+C2009901  gagging on food
+C2009902  gagging on regurgitated food (symptom)
+C2009903  gagging on foreign body (symptom)
+C2009904  gagging on vomitus (symptom)
+C2012492  gradual onset of abdominal pain
+C2012500  lower back pain started gradually
+C2012588  gravy-like stools (symptom)
+C2012602  swelling of lymph nodes in both sides of groin
+C2012603  groin pain progressive with decreased level of activity
+C2012604  groin pain progressive with same level of activity (symptom)
+C2012605  groin pain radiating to testicle (symptom)
+C2012606  radiating groin pain
+C2012607  groin pain worsens then abates
+C2012694  spots on gums
+C2012695  black spots on the gums
+C2012696  blue spots on the gums
+C2012697  gray spots on gums
+C2012698  multiple spots on gums
+C2012699  single spot on gums (symptom)
+C2012700  white spots on gums
+C2012701  gums symptoms (symptom)
+C2013427  oral cavity symptoms
+C2017441  softly formed stools
+C2017774  sore throat comes and goes
+C2017775  fluctuating sore throat getting better and worse
+C2017776  sore throat getting progressively worse (symptom)
+C2017777  sore throat lasting more than two weeks (symptom)
+C2017778  sore throat on left side only (symptom)
+C2017779  sore throat on right side only (symptom)
+C2017780  sore throat radiating to ear (symptom)
+C2017781  recurrent sore throat
+C2017782  sore throat recurring daily (symptom)
+C2017783  sudden onset of sore throat (symptom)
+C2017784  sore throat triggered by swallowing (symptom)
+C2017785  sore throat worse early AM, late PM
+C2017786  sore throat worse in evening (symptom)
+C2017787  sore throat worse in AM
+C2017788  soreness or pain in salivary gland (symptom)
+C2017789  soreness or pain of mouth
+C2017790  soreness or pain on left side of mouth (symptom)
+C2017791  soreness or pain on right side of mouth
+C2017792  soreness or pain on roof of mouth (symptom)
+C2017793  soreness or pain of mouth under tongue (symptom)
+C2017794  soreness or pain of mouth without visible sores or cuts
+C2017795  soreness or pain of tongue
+C2017796  soreness or pain of bottom of tongue
+C2017797  soreness or pain of left side of tongue
+C2017798  soreness or pain of right side of tongue (symptom)
+C2017799  soreness or pain of tip of tongue (symptom)
+C2017800  soreness or pain of top of tongue (symptom)
+C2017801  sores on bottom of tongue (symptom)
+C2017802  sores on left side of tongue (symptom)
+C2017803  sores on right side of tongue (symptom)
+C2017804  sores on tip of tongue (symptom)
+C2017805  sores on top of tongue (symptom)
+C2019022  spots in mouth (symptom)
+C2019023  black spots in mouth (symptom)
+C2019024  gray spots in mouth (symptom)
+C2019025  multiple spots in mouth (symptom)
+C2019026  pink or salmon-colored spots in mouth
+C2019027  red spots in the mouth
+C2019028  single spot in mouth (symptom)
+C2019029  white spots in mouth
+C2019533  abdominal pain feels stabbing
+C2020356  diffuse back stiffness (symptom)
+C2020388  harder or firmer consistency of stool (symptom)
+C2020389  looser or softer consistency of stool (symptom)
+C2020427  sickly sweet smelling stool (symptom)
+C2020448  stool retention with overflow
+C2020504  stools formed like round balls (symptom)
+C2029945  heartburn after meals (symptom)
+C2029946  heartburn related to certain foods caffeine
+C2029947  heartburn associated with certain foods (symptom)
+C2029948  heartburn related to certain foods fatty foods
+C2029949  heartburn related to non-steroidal anti-inflammatory drugs (NSAIDs)
+C2029950  heartburn related to certain foods tomatoes
+C2029951  heartburn at night in bed (symptom)
+C2029952  heartburn causing awakening
+C2029953  infrequent heartburn (monthly)
+C2029954  heartburn occurs during pregnancy (symptom)
+C2029955  heartburn related to alcohol (symptom)
+C2029956  heartburn related to anxiety
+C2029957  heartburn related to beer (symptom)
+C2029958  heartburn related to bending
+C2029959  heartburn related to biphosphonates
+C2029960  heartburn related to birth control pills
+C2029961  heartburn related to body position (symptom)
+C2029962  heartburn related to calcium channel blockers (symptom)
+C2029963  heartburn related to chocolate (symptom)
+C2029964  heartburn related to citrus (symptom)
+C2029965  heartburn related to corticosteroids
+C2029966  heartburn related to emotions (symptom)
+C2029967  heartburn related to exercise (symptom)
+C2029968  heartburn related to fear (symptom)
+C2029969  heartburn related to iron (symptom)
+C2029970  heartburn related to lifting (symptom)
+C2029971  heartburn related to nitroglycerin (symptom)
+C2029972  heartburn related to peppermint (symptom)
+C2029973  heartburn related to red wine (symptom)
+C2029974  heartburn related to squatting
+C2029975  heartburn related to theophylline (symptom)
+C2029976  heartburn related to tight clothing (symptom)
+C2029977  heartburn related to vitamins
+C2029978  heartburn relieved by antacids
+C2029979  heartburn relieved by medication (symptom)
+C2029980  heartburn seems related to certain medications
+C2029981  heartburn starts with smoking (symptom)
+C2029982  heartburn with regurgitation (symptom)
+C2032140  pain in back of throat (symptom)
+C2032191  pain in left groin (symptom)
+C2032252  pain in right groin
+C2032305  bilateral flank pain
+C2032306  flank pain disproportionate to injury
+C2032307  radiating flank pain
+C2032308  pain in the flank which radiates to a testicle
+C2032332  pain in temporomandibular joints on both sides (symptom)
+C2032363  pain in left temporomandibular joint (symptom)
+C2032434  pain in right temporomandibular joint
+C2032722  pain when defecating
+C2032730  painful diarrhea (symptom)
+C2032741  mouth sore painless
+C2037144  sudden onset of abdominal pain (symptom)
+C2037196  lower back pain started suddenly
+C2039130  bottom of tongue swollen
+C2039131  left side of tongue swollen (symptom)
+C2039132  right side of tongue swollen (symptom)
+C2039133  tip of tongue swollen (symptom)
+C2039134  top of tongue swollen
+C2045675  change in the stool character
+C2045676  change in stool color
+C2046451  breaking hoarseness
+C2046452  breathy hoarseness (symptom)
+C2046453  catching hoarseness
+C2046454  hoarseness comes and goes
+C2046455  complete hoarseness (symptom)
+C2046456  constant hoarseness
+C2046457  fluctuating hoarseness getting better and worse (symptom)
+C2046458  hoarseness getting progressively worse
+C2046459  harsh hoarseness (symptom)
+C2046460  hoarseness lasting more than two weeks (symptom)
+C2046461  occurrence of hoarseness (symptom)
+C2046462  quality of hoarseness
+C2046463  hoarseness recurs daily
+C2046464  hoarseness worse in evening (symptom)
+C2046465  hoarseness worse in morning (symptom)
+C2048474  inability to pass gas painful
+C2048475  inability to pass gas painful at one location
+C2048476  inability to pass gas painful diffusely throughout abdomen
+C2048477  inability to pass gas after surgery (symptom)
+C2048478  inability to pass gas relieved by belching (symptom)
+C2048479  inability to pass gas relieved by vomiting (symptom)
+C2048480  inability to pass gas relieved by vomiting large amounts
+C2048481  inability to pass gas relieved by vomiting resembling stools (symptom)
+C2048482  inability to pass gas relieved by vomiting small amounts (symptom)
+C2048483  inability to pass gas started suddenly
+C2054361  teeth chip easily (symptom)
+C2054480  teeth moved (symptom)
+C2054481  multiple teeth moved (symptom)
+C2054482  single tooth moved
+C2054487  teeth sensitive to both cold and heat
+C2054488  teeth sensitive to cold or heat
+C2057715  seedy stool of newborn
+C2057724  size of stool has changed (symptom)
+C2057726  stool has become foul-smelling (symptom)
+C2057727  reduction in diameter of stool (symptom)
+C2058109  thick phlegm in throat (symptom)
+C2073927  choking on liquid
+C2074609  chronic abdominal pain for more than three months (symptom)
+C2074632  chronic constant flank pain (symptom)
+C2074633  chronic constipation with less than one stool a week
+C2074634  chronic constipation with more than three hard stools a week (symptom)
+C2074635  chronic constipation with one to three stools a week
+C2074698  chronic flank pain recurring frequently (symptom)
+C2074778  abdominal pain chronic / recurring frequently
+C2077826  intermittent abdominal swelling
+C2077839  lower back pain intermittent
+C2077989  intolerance to milk products (history)
+C2077990  intolerance to milk products used as filler in pills
+C2077991  intolerance to milk products used in wine production (history)
+C2077992  intolerance to wheat gluten
+C2107733  constant burping
+C2107748  constantly clearing the throat
+C2107751  constipation accompanied by feeling of incomplete evacuation
+C2107752  obstructed defecation
+C2107753  constipation occurs when traveling
+C2107754  constipation seems associated with medications
+C2107755  constipation seems related to menstrual cycle (symptom)
+C2107756  self-treatment for constipation
+C2107757  constipation is self-treated with fiber supplements
+C2107758  self-treatment for constipation with finger disimpaction
+C2107759  self-treatment for constipation with laxatives
+C2107760  self-treatment for constipation with suppositories (symptom)
+C2107761  constipation with straining
+C2107762  constipation within one month of abdominal surgery (symptom)
+C2109045  stiffness of temporomandibular joint on both sides (symptom)
+C2109050  left TMJ stiffness
+C2109051  stiffness of right temporomandibular joint (symptom)
+C2114753  progressive groin pain (symptom)
+C2115920  excruciating throat pain
+C2115921  throat pain on swallowing
+C2115922  throat pain on left side only (symptom)
+C2115923  throat pain on right side only
+C2115924  throat pain radiating to the ear
+C2115925  throat pain radiating to tongue
+C2116456  tingling of tongue on both sides
+C2116457  tingling of tongue on left side (symptom)
+C2116458  tingling of tongue on right side (symptom)
+C2126009  location where food sticks associated with difficulty swallowing (symptom)
+C2126010  difficulty swallowing with food sticking in throat (symptom)
+C2126011  difficulty swallowing with food sticking in middle chest (symptom)
+C2126012  belching after meals (symptom)
+C2126013  belching from excessive swallowing of air (symptom)
+C2126014  belching after rapid ingestion of food
+C2126015  belching after drinking carbonated beverages (symptom)
+C2126016  belching after excessive drinking of carbonated beverages
+C2126017  burping accompanied by abdominal bloating
+C2126018  nausea seems associated with medications (symptom)
+C2126019  nausea occurs with body motion while traveling
+C2126020  vomiting 8-12 hours after eating
+C2126021  vomiting with remote abdominal surgery
+C2126022  abdominal swelling relieved by
+C2126023  abdominal swelling relieved by passing gas
+C2126024  abdominal swelling relieved by bowel movement
+C2126025  abdominal swelling relieved by vomiting (symptom)
+C2126026  abdominal swelling relieved by urination
+C2126027  factors accompanying regurgitation (symptom)
+C2126028  regurgitation accompanied by unwillingness to move
+C2126029  regurgitation while taking steroids (symptom)
+C2126030  yellow skin or eyes seems due to medication (symptom)
+C2126031  yellow skin or eyes seems due to bacterial infection (symptom)
+C2126032  yellow skin or eyes after hypotensive episode
+C2126033  yellow skin or eyes following bone marrow transplant
+C2126034  diarrhea amount (symptom)
+C2126035  large volume of diarrhea (symptom)
+C2126036  small volume of diarrhea
+C2126037  excessive gas worsened
+C2126038  excessive gas worsened by dairy products (symptom)
+C2126039  excessive gas worsened by fruits and vegetables
+C2126040  excessive gas occurs after
+C2126041  excessive gas after chewing gum
+C2126042  excessive gas after swallowing air (symptom)
+C2126043  excessive gas after rapid eating (symptom)
+C2126045  obstipation started suddenly (symptom)
+C2126046  painful obstipation (symptom)
+C2126047  obstipation painful at one location (symptom)
+C2126048  obstipation painful diffusely throughout abdomen
+C2126049  rectal pain accompanied by bleeding (symptom)
+C2126050  rectal pain accompanied by discharge of pus (symptom)
+C2126051  rectal pain worsens during bowel movements
+C2126052  rectal pain worsens with acidic foods (symptom)
+C2126053  rectal pain after anal sex
+C2126054  rectal sore with bleeding (symptom)
+C2126055  rectal sore after hard bowel movement (symptom)
+C2126068  vomiting with prior abdominal surgery
+C2126076  lower back pain worse with standing
+C2126077  lower back pain worse with walking
+C2126148  lump in gums
+C2126149  lump in the right upper gum
+C2126150  lump on anterior lingual surface of right upper gum (symptom)
+C2126151  lump on posterior lingual surface of right upper gum
+C2126152  lump in the left upper gum
+C2126153  lump on anterior lingual surface of left upper gum
+C2126154  lump left upper gum inside back
+C2126155  lump in right lower gum
+C2126156  lump on anterior lingual surface of right lower gum (symptom)
+C2126157  lump on posterior lingual surface of right lower gum (symptom)
+C2126158  lump in left lower gum (symptom)
+C2126159  lump on anterior lingual surface of left lower gum (symptom)
+C2126160  lump on posterior lingual surface of left lower gum (symptom)
+C2126161  lump on anterior buccal surface of right upper gum
+C2126162  lump right upper gum outside back
+C2126163  lump on anterior buccal surface of left upper gum
+C2126164  lump on posterior buccal surface of left upper gum (symptom)
+C2126165  lump right lower gum outside front
+C2126166  lump on posterior buccal surface of right lower gum
+C2126167  lump on anterior buccal surface of left lower gum (symptom)
+C2126168  lump left lower gum outside back
+C2126169  sore on right side of mouth (symptom)
+C2126170  sore on left side of mouth (symptom)
+C2126171  sore on top of mouth (symptom)
+C2126172  sore on floor of mouth
+C2126173  lump in mouth on right
+C2126174  lump in mouth on left (symptom)
+C2126175  lump in mouth on top
+C2126176  lump in mouth on floor (symptom)
+C2126180  anal pain accompanied by bleeding (symptom)
+C2126181  anal pain accompanied by discharge of pus
+C2126182  anal pain worse with bowel movements
+C2126183  anal pain worsens with acidic foods
+C2126184  anal pain after anal sex (symptom)
+C2126185  anal sore with bleeding (symptom)
+C2126186  anal soreness after hard bowel movement (symptom)
+C2126223  constant anal pain (symptom)
+C2126224  intermittent anal pain (symptom)
+C2126225  constant rectal pain (symptom)
+C2126226  intermittent rectal pain (symptom)
+C2126934  abdominal pain relieved by not eating
+C2127014  skin lesion on vermilion border of lip
+C2127098  difficulty swallowing precipitates coughing
+C2127101  right-sided cheek swelling (symptom)
+C2127102  left cheek swelling
+C2127103  bilateral cheek swelling (symptom)
+C2127104  diarrhea throughout day (symptom)
+C2127112  totally unable to swallow
+C2127123  vomiting blood (hematemesis) in large amounts
+C2127134  abdominal pain initiated or exacerbated by food rich in dairy fat
+C2127241  craving ice chips (symptom)
+C2127242  craving lettuce (symptom)
+C2127299  difficulty swallowing thin liquids
+C2127300  dysphagia with hard dry foods
+C2127301  difficulty swallowing mixed texture foods (symptom)
+C2127302  difficulty swallowing medium texture foods (symptom)
+C2127303  dysphagia is worse with some types of foods
+C2127305  bitter taste in mouth (symptom)
+C2127471  lower back pain radiating to legs when walking
+C2127696  lower back pain radiating to the legs worse on right
+C2127697  lower back pain radiating to the legs worse on left
+C2128161  lower back pain worse with bending forward
+C2128162  lower back pain worsens with bending backward
+C2128163  lower back pain worsens with bending to right (symptom)
+C2128164  lower back pain worsens with bending to left (symptom)
+C2128165  lower back pain worse with turning
+C2128196  lower back pain unrelenting
+C2128227  lower back pain difficult to localize
+C2128316  dull or aching groin pain (symptom)
+C2128326  lower back pain shocklike sensation
+C2128327  shocklike sensation from lower back to right foot (symptom)
+C2128328  shocklike sensation from lower back to left foot
+C2128497  lower back pain worse with straining during bowel movement
+C2128504  lower back pain causing difficulty standing erect (symptom)
+C2128505  lower back pain relieved frequent position changes (sitting)
+C2128506  lower back pain worsens
+C2128507  lower back pain worse with stooping
+C2128508  lower back pain worsens with lifting (___ lbs)
+C2128509  lower back pain relieved by
+C2128510  lower back pain causing difficulty finding a comfortable position
+C2128511  lower back pain relieved by lying down on the back with a pillow under the knees
+C2128518  lower back pain causing inability to sleep
+C2128530  lower back pain worse with sitting
+C2128531  lower back pain worsens with sitting in car (symptom)
+C2128532  lower back pain relieved by sitting
+C2128533  lower back pain relieved by standing (symptom)
+C2128534  lower back pain relieved by movement walking
+C2128535  lower back pain worsens when putting on shoes (symptom)
+C2128536  lower back pain worsens when putting on right shoe
+C2128537  lower back pain worsens when putting on left shoe
+C2128538  lower back pain worsens when putting on both shoes
+C2128539  lower back pain radiating to anterior thigh (symptom)
+C2128540  lower back pain radiating to the anterior right thigh
+C2128541  lower back pain radiating to the anterior left thigh
+C2128542  lower back pain radiating to knee
+C2128543  lower back pain radiating to the right knee
+C2128544  lower back pain radiating to the left knee
+C2128545  lower back pain radiating to posterior leg (symptom)
+C2128546  lower back pain radiating to posterior right leg
+C2128547  lower back pain radiating to the right ankle
+C2128548  lower back pain radiating to posterior left leg (symptom)
+C2128549  lower back pain radiating to the left ankle
+C2128550  lower back pain radiating to the right foot
+C2128551  lower back pain radiating to the left foot
+C2128552  lower back pain radiating to the medial right foot
+C2128553  lower back pain radiating to the lateral right foot
+C2128554  lower back pain radiating to the medial left foot
+C2128555  lower back pain radiating to the lateral left foot
+C2128577  lower back pain relieved by leaning forward
+C2128640  lower back pain after sleeping on back a few hours
+C2128824  lower back pain disproportionate to injury
+C2128963  formed stools (symptom)
+C2129178  difficulty swallowing with food sticking in lower chest (symptom)
+C2129179  dysphagia with food passing through after ___ sec
+C2129180  dysphagia with relief only after food regurgitated
+C2129181  upper chest pain on swallowing (symptom)
+C2129182  mid-chest pain on swallowing (symptom)
+C2129183  lower chest pain on swallowing (symptom)
+C2129184  nausea during episodes of abdominal pain (symptom)
+C2129185  vomiting food particles eaten many hours earlier (symptom)
+C2129186  vomiting blood at beginning of vomiting
+C2129187  vomiting blood after several episodes of vomiting (symptom)
+C2129188  sudden onset of abdominal swelling
+C2129189  gradually progressive abdominal swelling (symptom)
+C2129190  abdominal swelling gradually progressive over ___ hours
+C2129191  abdominal swelling interfering with breathing (symptom)
+C2129192  abdominal pain increasing in frequency
+C2129193  abdominal pain radiation to chest
+C2129194  abdominal pain radiating to substernal region (symptom)
+C2129195  abdominal pain radiating to right anterior chest
+C2129196  abdominal pain radiating to left anterior chest (symptom)
+C2129197  abdominal pain radiating to the chest right lateral
+C2129198  abdominal pain radiating to left lateral chest
+C2129199  abdominal pain feels like pressure or fullness
+C2129200  abdominal tightness or squeezing (symptom)
+C2129201  abdominal pain started / intensified by empty stomach
+C2129202  onset of abdominal pain unrelated to meals (symptom)
+C2129203  abdominal pain initiated or exacerbated by taking medication (symptom)
+C2129204  abdominal pain worsening through day (symptom)
+C2129205  abdominal pain onset not consistently related to known factor
+C2129206  abdominal pain initiated or exacerbated by spicy foods
+C2129207  abdominal pain initiated or exacerbated by citrus foods
+C2129208  abdominal pain initiated or exacerbated by tomato products
+C2129209  abdominal pain relieved by lying down
+C2129210  abdominal pain gradually resolves spontaneously (symptom)
+C2129211  regurgitation after meals
+C2129212  excessive gas after anti-reflux surgery
+C2129213  small caliber formed stools (symptom)
+C2129214  loose/mushy stools
+C2129215  diarrhea after taking antibiotics (symptom)
+C2129217  rectal pain worsens after prolonged sitting (symptom)
+C2129218  rectal itching at night (symptom)
+C2129221  lower back pain radiating
+C2129222  lower back pain radiating to the buttocks
+C2129223  lower back pain radiating to right buttock
+C2129224  lower back pain radiating to left buttock (symptom)
+C2129225  lower back pain radiating to both buttocks
+C2129259  lower back pain radiating to the medial right ankle
+C2129260  lower back pain radiating to the lateral right ankle
+C2129261  lower back pain radiating to the medial left ankle
+C2129262  lower back pain radiating to the lateral left ankle
+C2129263  lower back pain worse in the morning
+C2129264  lower back pain worse with driving
+C2129265  lower back pain worsens when going from sitting to standing
+C2129266  lower back pain relieved by leaning backward (symptom)
+C2129279  muscle spasm in the mid lower back
+C2129280  lower back pain muscle spasm bilateral
+C2129281  lower back pain radiating to ankle
+C2129282  lower back pain radiating to foot
+C2129283  lower back pain radiating to toe
+C2129284  lower back pain radiating to toe of right foot
+C2129285  lower back pain radiating to great toe of right foot
+C2129286  lower back pain radiating to second toe of right foot (symptom)
+C2129287  lower back pain radiating to third toe of right foot (symptom)
+C2129288  lower back pain radiating to fourth toe of right foot (symptom)
+C2129289  lower back pain radiating to fifth toe of right foot (symptom)
+C2129290  lower back pain radiating to toes of left foot (symptom)
+C2129291  lower back pain radiating to great toe of left foot
+C2129292  lower back pain radiating to second toe of left foot (symptom)
+C2129293  lower back pain radiating to third toe of left foot
+C2129294  lower back pain radiating to fourth toe of left foot
+C2129295  lower back pain radiating to fifth toe of left foot
+C2129318  vomiting in morning
+C2129319  sharp abdominal pain (symptom)
+C2129320  abdominal pain negatively influenced by urination
+C2129321  abdominal pain negatively influenced by bowel movement (symptom)
+C2129322  abdominal pain relieved by urination
+C2129323  regurgitation of baby formula (symptom)
+C2129324  regurgitation of small amounts of baby formula (symptom)
+C2129325  regurgitation of large amounts of baby formula (symptom)
+C2129326  regurgitation of baby formula as a newborn
+C2129327  regurgitation of small amounts of fluid
+C2129453  lower back pain midline
+C2129454  lower back pain right of midline
+C2129455  lower back pain left of midline
+C2129456  midline low back pain worse with movement (symptom)
+C2129457  midline lower back pain unchanged with movement
+C2129458  midline lower back pain improves with movement
+C2129465  lower back pain worsens during storms (symptom)
+C2129466  lower back pain worsens before storms (symptom)
+C2129467  lower back pain worsens with cold temperatures
+C2129486  lower back pain relieved by medication
+C2129487  lower back pain relieved by bracing (symptom)
+C2129488  lower back pain relieved by heat (symptom)
+C2129489  lower back pain relieved by ice (symptom)
+C2129490  lower back pain relieved by firm mattress (symptom)
+C2129491  lower back pain relieved by softer mattress (symptom)
+C2129492  lower back pain relieved by waterbed (symptom)
+C2129493  lower back pain relieved by an alternative medicine approach
+C2129502  lower back pain started suddenly with lifting (___ lbs)
+C2129503  lower back pain started suddenly with bending
+C2129504  lower back pain started suddenly with twisting (symptom)
+C2129505  lower back pain started suddenly while at work (symptom)
+C2129508  lower back pain worsens with driving over rough terrain (symptom)
+C2129515  lower back pain no longer radiates (symptom)
+C2129516  lower back pain radiating to legs after walking specified number of blocks
+C2129517  lower back pain radiating to groin (symptom)
+C2129518  lower back pain radiating to right groin (symptom)
+C2129519  lower back pain radiating to left groin
+C2129520  lower back pain radiating to both groins
+C2129521  right lower back pain at the sacroiliac joint
+C2129522  left lower back pain at the sacroiliac joint
+C2129616  lower back pain worsens when sleeping on back
+C2129617  lower back pain worsens when sleeping on stomach (symptom)
+C2129622  lower back pain worsens during exercise
+C2129623  lower back pain worsens after exercise (symptom)
+C2129633  unable to restrain bowel movement with soft stools (symptom)
+C2129634  unable to restrain bowel movement with formed stools
+C2129635  unable to control passing gas (symptom)
+C2130101  unchanged lower back pain (symptom)
+C2130102  lower back pain is unchanged in the morning
+C2130103  lower back pain unchanged with coughing or sneezing (symptom)
+C2130104  lower back pain unchanged w/ straining during bowel movement
+C2130105  lower back pain unchanged with sitting
+C2130106  lower back pain unchanged with sitting in a car (symptom)
+C2130107  lower back pain unchanged with driving
+C2130108  lower back pain unchanged with driving over rough terrain
+C2130109  lower back pain unchanged when going from sitting to standing (symptom)
+C2130110  lower back pain unchanged with standing
+C2130111  lower back pain unchanged with walking (symptom)
+C2130112  lower back pain unchanged during exercise
+C2130113  lower back pain unchanged after exercise (symptom)
+C2130114  lower back pain unchanged with stooping
+C2130115  lower back pain unchanged with bending (symptom)
+C2130116  lower back pain unchanged with bending forward
+C2130117  lower back pain unchanged with bending backward (symptom)
+C2130118  lower back pain unchanged with bending to right
+C2130119  lower back pain unchanged with bending to left (symptom)
+C2130120  lower back pain unchanged with lifting (___ lbs)
+C2130121  lower back pain unchanged with turning (symptom)
+C2130122  lower back pain unchanged by lying down (symptom)
+C2130123  lower back pain unchanged when sleeping on back (symptom)
+C2130124  lower back pain unchanged when sleeping on stomach
+C2130125  lower back pain unchanged when putting on shoes
+C2130126  lower back pain unchanged when putting on right shoe
+C2130127  lower back pain unchanged when putting on left shoe
+C2130128  lower back pain unchanged when putting on both shoes (symptom)
+C2130129  lower back pain unchanged during storms (symptom)
+C2130130  lower back pain unchanged before storms
+C2130131  lower back pain unchanged with cold temperatures (symptom)
+C2130136  lower back pain present upon awakening (symptom)
+C2130141  lower back pain started suddenly during sports activity (symptom)
+C2130142  lower back pain start suddenly after motor vehicle accident (symptom)
+C2130250  anal pain accompanied by discharge (symptom)
+C2130251  anal pain accompanied by foul-smelling discharge (symptom)
+C2130252  abdominal pain decreasing in frequency (symptom)
+C2130253  sharp or stabbing groin pain
+C2130275  maroon stools
+C2138248  cracked lips in corners (symptom)
+C2138249  cracked lips throughout
+C2138381  craving amphetamines or sympathomimetics (symptom)
+C2138383  craving cocaine
+C2138384  craving earth or clay (pica)
+C2138385  craving laundry starch (pica) (symptom)
+C2138386  craving opioids (symptom)
+C2144547  change in tongue surface appearance
+C2144584  tongue has become smooth (symptom)
+C2144729  tooth pain induced by chewing
+C2144730  tooth pain induced by tapping on tooth (symptom)
+C2144731  tooth pain in the left lower jaw
+C2144732  tooth pain in posterior left lower jaw (symptom)
+C2144733  tooth pain in anterior left lower jaw (symptom)
+C2144734  tooth pain in left upper jaw
+C2144735  tooth pain in posterior left upper jaw
+C2144736  tooth pain in anterior left upper jaw (symptom)
+C2144737  pain in multiple teeth (symptom)
+C2144738  tooth pain in right lower jaw
+C2144739  tooth pain in posterior right lower jaw (symptom)
+C2144740  tooth pain in anterior right lower jaw
+C2144741  tooth pain in right upper jaw (symptom)
+C2144742  tooth pain in posterior right upper jaw (symptom)
+C2144743  tooth pain in anterior right upper jaw (symptom)
+C2144744  pain in single tooth (symptom)
+C2146655  acid taste in mouth (symptom)
+C2168106  left cheek pain
+C2168111  left-sided low back pain
+C2169812  red blood on the stool rather than in the bowel movement
+C2169816  red gums (symptom)
+C2169930  regurgitating undigested food with rechewing & reswallowing
+C2169931  regurgitation of undigested food
+C2169932  regurgitation through nose (symptom)
+C2169933  regurgitation while sleeping (symptom)
+C2170206  renal colic of both kidneys
+C2170207  renal colic of left kidney (diagnosis)
+C2170208  renal colic of right kidney
+C2183293  diarrhea after milk or milk products (symptom)
+C2183294  diarrhea containing worms (symptom)
+C2183295  occurrence of diarrhea
+C2183296  diarrhea within one month of abdominal surgery
+C2183427  difficulty initiating swallow (symptom)
+C2183432  difficulty moving tongue to left
+C2183433  difficulty moving tongue to right (symptom)
+C2183443  difficulty swallowing accompanied by pain (symptom)
+C2183444  difficulty swallowing followed by regurgitation
+C2183445  difficulty swallowing getting worse (symptom)
+C2183448  recent onset dysphagia
+C2183449  difficulty swallowing very hot or cold foods (symptom)
+C2183450  difficulty swallowing with nasal regurgitation (symptom)
+C2183966  lip abnormalities (symptom)
+C2185953  lower back pain radiating to the legs
+C2185954  lower back pain relieved by lying down (symptom)
+C2185955  lower back pain worse with bending
+C2185956  lower back pain worse with coughing or sneezing
+C2185957  lower back pain worsened by lying down (symptom)
+C2185964  lower back pain precipitated by tension, depression, anxiety
+C2185965  lower back pain relieved by movement
+C2189665  violent and prolonged vomiting (symptom)
+C2198702  bloating after meals
+C2198703  bloating after medications
+C2198704  abdominal bloating after specific foods (symptom)
+C2199213  dull abdominal pain
+C2200101  lump in mouth
+C2202704  coffee ground emesis in large amounts
+C2202706  vomiting characteristics (symptom)
+C2202707  vomiting clear (nonbilious)
+C2202709  vomiting 'coffee grounds' material
+C2202710  vomiting followed by vigorous coughing (symptom)
+C2202711  vomiting food particles up to an hour after eating
+C2202713  vomiting preceded by vigorous coughing
+C2202714  vomiting stool (symptom)
+C2202716  vomiting worms
+C2202986  breaking weak voice (symptom)
+C2202987  breathy weak voice (symptom)
+C2202988  catching weak voice
+C2202989  weak voice comes and goes (symptom)
+C2202990  constant weak voice (symptom)
+C2202991  weak voice getting progressively worse (symptom)
+C2202992  weak voice recurs daily
+C2203260  white, thin worms seen at rectum at night
+C2203297  worms in stool with white, thin worms at rectum (symptom)
+C2203644  yellow lower extremities (symptom)
+C2203646  yellow skin or eyes (jaundice)
+C2203647  yellow skin or eyes during pregnancy, subsiding afterwards
+C2203648  jaundice following a blood transfusion
+C2203649  yellow skin or eyes occurs intermittently (symptom)
+C2203650  yellow skin or eyes during first week after surgery (symptom)
+C2203651  yellow skin or eyes worsens with fasting (symptom)
+C2203652  newborn yellow stools
+C2219283  pain in the right cheek
+C2219286  lower back pain on the right
+C2219649  small dark spots on lips (symptom)
+C2219650  small bumps on lips (symptom)
+C2219651  small bumps on tongue (symptom)
+C2219652  metallic taste in mouth
+C2219653  solitary mouth sore
+C2219654  excruciating sore throat
+C2219664  slow to finish meals (symptom)
+C2219665  occurrence of nausea (symptom)
+C2219666  nausea 15-30 minutes after eating (symptom)
+C2219667  abdominal swelling 20-30 minutes after a meal (symptom)
+C2219668  abdominal swelling after milk or milk products
+C2219669  abdominal pain which radiates
+C2219670  abdominal pain radiating to upper back
+C2219671  abdominal pain radiating to lower or middle back (symptom)
+C2219672  abdominal pain radiating to inguinal region (symptom)
+C2219673  abdominal pain radiating to left shoulder
+C2219674  abdominal pain radiating to the neck & arms
+C2219675  abdominal pain radiating to right shoulder (symptom)
+C2219676  abdominal pain which changed location (symptom)
+C2219677  abdominal pain migrated to right lower quadrant region
+C2219678  quality of abdominal pain (symptom)
+C2219679  severe, constant abdominal pain (symptom)
+C2219680  burning abdominal pain
+C2219681  pattern of occurrence of abdominal pain (symptom)
+C2219682  abdominal pain onset within 30 minutes after eating
+C2219683  onset of abdominal pain 1-4 hours after eating
+C2219684  abdominal pain initiated or exacerbated by ETOH
+C2219685  abdominal pain negatively influenced by exertion
+C2219686  abdominal pain causes awakening from sleep (symptom)
+C2219687  abdominal pain upon awakening for day
+C2219688  seasonal abdominal pain either spring or fall
+C2219689  abdominal pain initiating or exacerbating factors
+C2219690  abdominal pain negatively influenced by fasting (symptom)
+C2219691  abdominal pain negatively influenced by coffee (symptom)
+C2219692  abdominal pain initiated or exacerbated by milk or milk products
+C2219693  abdominal pain negatively influenced by food
+C2219694  abdominal pain negatively influenced by fatty foods (symptom)
+C2219695  abdominal pain initiated or exacerbated by lying down
+C2219696  abdominal pain initiated or exacerbated by body movement or cough
+C2219697  abdominal pain relieved by
+C2219698  abdominal pain relieved by food
+C2219699  abdominal pain relieved by antacids (symptom)
+C2219700  abdominal pain relieved suddenly for no known reason (symptom)
+C2219701  abdominal pain relieved by leaning forward
+C2219702  abdominal pain relieved by bowel movement (symptom)
+C2219703  abdominal pain relieved by vomiting
+C2219816  lower back pain excruciating
+C2219843  anal pruritus worse at night
+C2219990  nausea related to menstrual cycle
+C2219994  numbness of tongue on right side (symptom)
+C2219995  numbness of tongue on left side
+C2219996  numbness of tongue on both sides
+C2220015  excessive vomiting during early pregnancy
+C2220024  abdominal pain relieved by passing gas (symptom)
+C2220098  greenish black stools of newborn
+C2220109  newborn stools (symptom)
+C2220110  newborn transitional stools
+C2220115  abdominal pain in multiple locations
+C2220386  meat intolerance (history)
+C2220390  mouth pain occurring recently with fruit juices
+C2229208  mixed brown and black spots in mouth
+C2231481  blister on the upper gums
+C2231482  blister on the lower gums
+C2231955  skin crust on vermilion border of lip (symptom)
+C2231968  skin crust along jawline
+C2231969  skin crust along right side of jawline
+C2231970  skin crust along left side of jawline (symptom)
+C2231971  skin crust along both sides of jawline (symptom)
+C2232696  painful mouth sore
+C2232701  brown spots in mouth
+C2232702  small bumps on right side of tongue (symptom)
+C2232703  small bumps on left side of tongue (symptom)
+C2232704  small bumps on tip of tongue (symptom)
+C2232705  small bumps on top of tongue (symptom)
+C2232706  small bumps on bottom of tongue (symptom)
+C2232708  chipped tooth multiple
+C2232709  brown spots on the gums
+C2232710  single lip sore (symptom)
+C2232711  multiple lip sores
+C2233529  number of bowel movements per month
+C2233534  feeding tube problems (symptom)
+C2233535  feeding tube came out (symptom)
+C2233536  feeding tube blocked (symptom)
+C2233538  discharge from feeding tube (symptom)
+C2233539  watery discharge from feeding tube
+C2233540  blood discharge from feeding tube (symptom)
+C2233541  purulent discharge from feeding tube (symptom)
+C2233542  feeding tube has tissue protruding
+C2233543  feeding tube surrounding skin (symptom)
+C2233544  feeding tube surrounding skin red (symptom)
+C2233545  feeding tube surrounding skin warm (symptom)
+C2233546  feeding tube surrounding skin tender (symptom)
+C2233547  feeding tube surrounding skin itching (symptom)
+C2233548  feeding tube surrounding skin oozing (symptom)
+C2233549  feeding tube surrounding skin bleeding (symptom)
+C2233584  abdominal pain relieved by belching (symptom)
+C2233585  flank pain emanating from spine (symptom)
+C2233586  flank pain crossing midline (symptom)
+C2233587  migratory flank pain
+C2233588  gradual onset of flank pain
+C2233589  abrupt onset of flank pain
+C2233590  flank pain severity
+C2233591  flank pain intermittent
+C2233592  quality of flank pain
+C2233593  flank pain quality sharp
+C2233594  stabbing flank pain
+C2233595  dull flank pain
+C2233596  positional flank pain
+C2233597  flank pain unrelated to meals
+C2233598  factors exacerbating flank pain (symptom)
+C2233599  flank pain worsened by sneezing or coughing (symptom)
+C2233600  flank pain worsened by bowel movement (symptom)
+C2233601  flank pain worsened by urinating (symptom)
+C2233602  flank pain worsened by breathing deeply (symptom)
+C2233603  flank pain worsened by bending forward (symptom)
+C2233604  flank pain worsened by twisting (symptom)
+C2233605  flank pain worsened by curling up on one's side
+C2233606  factors relieving flank pain
+C2233607  flank pain lessened by sneezing or coughing
+C2233608  flank pain lessened by bowel movement
+C2233609  flank pain lessened by urinating
+C2233610  flank pain lessened by breathing deeply (symptom)
+C2233611  flank pain lessened by bending forward (symptom)
+C2233612  flank pain lessened by twisting (symptom)
+C2233613  flank pain lessened by curling up on one's side (symptom)
+C2233614  flank pain lessened by applying heat (symptom)
+C2233615  flank pain lessened by applying cold
+C2233616  flank pain lessened by massage
+C2233617  flank pain not made better by anything (symptom)
+C2233637  location of pain in flank
+C2233638  timing of flank pain
+C2233639  flank pain increasing in frequency
+C2233640  flank pain decreasing in frequency (symptom)
+C2233641  flank pain gradually resolves on its own
+C2236754  abdominal pain of childhood (diagnosis)
+C2242814  Acute sore throat, NOS
+C2317372  Acute pain in female pelvis
+C2317690  food intolerance to wheat (history)
+C2364111  Ageusia
+C2367647  unusual taste of foods (symptom)
+C2367674  gagging initiated by liquids (symptom)
+C2585306  Abdominal tenderness of left lower quadrant
+C2585575  Recurrent abdominal pain (finding)
+C2586208  Visceral abdominal pain
+C2728517  neonatal bilious vomiting
+C2728877  flatus foul-smelling
+C2919655  Acute exacerbation of chronic abdominal pain (finding)
+C2921133  Fecal soiling
+C2921779  pain when defecating seems related to menstrual cycle
+C2921780  pain during urination (dysuria) seems related to menstrual cycle
+C2921781  rectal pain accompanied by discharge of pus seems related to menstrual cycle
+C2939427  Hypoaesthesia of tongue
+C2957231  maxillary pain right side
+C2957232  maxillary pain left side
+C2957233  maxillary pain bilaterally
+C2981133  Evening colic
+C3164070  Tenderness of right upper quadrant of abdomen (finding)
+C3164167  Tenderness of left upper quadrant of abdomen (finding)
+C3164168  Tenderness of right lower quadrant of abdomen
+C3468370  constipation self-treated with enema
+C3506372  abdominal pain non-incisional
+C3509788  neonatal jaundice due to excessive hemolysis (diagnosis)
+C3532522  Pain in palate
+C3532891  Pain in chin

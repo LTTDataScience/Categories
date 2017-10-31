@@ -1,0 +1,16 @@
+C0040953  Trichologia
+C0149765  PSYCHOGENIC PRURITIS
+C0154551  Skin disorder arising from mental factors
+C0233623  Neurotic picking at nails
+C0233624  Cheilophagia
+C0233625  Cheek biting
+C0241424  Biting of oral mucosa - tongue
+C0278076  Tic, behavioral
+C0395008  Dermatological artefacta
+C0406663  Repetitive self-excoriation
+C0406669  Psychogenic sens disturb skin
+C0406673  Perineal itch syndrome
+C0554477  Psychogenic skin symptoms NOS
+C0562668  Biting sides of own cheeks
+C1274917  Cutaneous Munchhausen syndrome by proxy
+C1274921  Psychogenic formication (disorder)

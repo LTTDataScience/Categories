@@ -1,0 +1,8 @@
+C0027821  Irritable heart syndrome
+C0154318  Arteriosclerotic dementia with depressive features
+C0236650  Vascular Dementia, Uncomplicated
+C0236651  Arteriosclerotic dementia with delirium
+C0236652  Vascular Dementia, With Delusions
+C0236653  Vascular Dementia, With Depressed Mood
+C0393562  Mixed cortical and subcortical vascular dementia
+C2874329  Vascular dementia with behavioral disturbance

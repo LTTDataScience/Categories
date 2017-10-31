@@ -1,0 +1,19 @@
+C0001940  Alcohol Amnestic Disorder
+C0236641  Dementia Due to Creutzfeldt-Jakob Disease
+C0268671  Korsakoff's psychosis, non-alcoholic
+C0275875  Dementia paralytica juvenilis
+C0341560  Cyclical vomiting - psychogenic
+C0344196  Malnutrition in child maltreatment syndrome
+C0349464  Korsakoff Psychosis
+C0473130  Diarrhea due cathartic abuse
+C0679303  Alcohol or Other Drug Related amnestic syndrome
+C0850614  Psychogenic diarrhea
+C1387100  delirium, ; alcoholic, chronic
+C1387229  amnesia; disorder alcohol-induced
+C1387230  amnesia; syndrome, alcohol
+C1387232  amnestic; syndrome, organic, alcohol-induced
+C1405341  polyneuritic; psychosis, alcohol
+C1405608  psychosis; alcoholic, amnestic confabulatory
+C1622892  Amnestic syndrome of Wernicke's disease
+C1623448  Alcoholic polyneuritic psychosis
+C1704427  alcoholic Wernicke-Korsakoff syndrome

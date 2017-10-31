@@ -1,0 +1,774 @@
+C0005687  BLADDER DISTENTION
+C0008983  Clitoral erection, painful
+C0009193  Coccygodynia
+C0009806  Constipation
+C0013421  Dystonia
+C0013428  Dysuria
+C0014394  Enuresis
+C0016199  FLANK PAIN
+C0016708  Frequency of urination and polyuria
+C0018933  Hematocolpometra
+C0019559  HIP PAIN
+C0020450  Hyperemesis Gravidarum
+C0023533  Leukorrhea
+C0028081  Night sweats
+C0028961  Urine volume, decreased
+C0028962  Oliguria and anuria
+C0030794  Pelvic Pain
+C0032617  Urine volume, increased
+C0033776  Pruritus gravidarum
+C0033777  Pruritus of genital organs
+C0033778  Pruritus Vulvae
+C0034886  RECTUM PAIN
+C0039591  TESTICULAR PAIN
+C0042256  VAGINAL ITCHING
+C0085598  Labor, false
+C0085688  Engorgement of breast
+C0149671  DRIBBLING
+C0149741  NIPPLE DISCHARGE
+C0149751  PENILE LESION
+C0150019  Simple constipation
+C0150045  Urge incontinence
+C0151830  URETHRAL PAIN
+C0152032  URINARY HESITANCY
+C0152149  Mittelschmerz
+C0152169  Renal colic
+C0152447  Urethral discharge
+C0156308  Edema of penis
+C0156317  Edema of male genital organs
+C0156405  Ovulation bleeding
+C0159075  Chyluria
+C0175848  Sacrocoxalgia
+C0221169  HEMIBALLISMUS
+C0221226  CAPUT MEDUSAE
+C0232431  Cold sweat
+C0232719  Hyperactive rectosigmoid junction
+C0232726  TENESMUS
+C0232847  Enuresis, primary
+C0232848  Enuresis, secondary
+C0232849  BLADDER PAIN
+C0232852  Normal urinary stream
+C0232854  Slowing of urinary stream
+C0232855  Splitting of urinary stream
+C0232857  Psychogenic dysuria
+C0232858  Dysuria, spastic
+C0232861  PENILE DISCHARGE
+C0232894  Pneumatouria
+C0232943  MENOMETRORRHAGIA
+C0232947  Menstruation, supplementary
+C0232950  Atopomenorrhea
+C0232951  Enteromenia
+C0232952  Gastromenia
+C0232953  Helcomenia
+C0232954  Myelomenia
+C0232955  Menouria
+C0232956  Mastomenia
+C0232957  Proctomenia
+C0232958  Stomatomenia
+C0232968  Menopausal problem, NOS
+C0232971  Delayed menopause
+C0232982  Complete spermatogenic arrest
+C0232983  Incomplete spermatogenic arrest
+C0233134  Inversion of uterine contraction
+C0233135  Fundal dominance of uterine contraction
+C0233138  Uterine incoordination, first degree
+C0233187  Braxton Hicks contractions
+C0233189  Goodell's sign
+C0233191  Hegar's sign
+C0233194  Souffle, uterine
+C0233204  Calkin's sign
+C0233220  Fetal activity change
+C0233227  Fetal lateroflexion
+C0233228  Fetal universal flexion
+C0233229  Fetal floating head flexion
+C0233389  Subinvolution of breast
+C0233390  Postlactation subinvolution of breast
+C0233973  Painful penile erection
+C0235014  FONTANEL BULGING
+C0235612  URETHRAL BURNING ON MICTURITION
+C0235633  URETERAL PAIN
+C0235634  COSTOVERTEBRAL ANGLE TENDERNESS
+C0235641  PERINEAL PAIN FEMALE
+C0235642  GENITALIA EXTERNAL PAINFUL
+C0235678  VAGINAL ODOR
+C0235808  PERINEAL PAIN MALE
+C0236075  Menopausal symptom, NOS
+C0236078  SCROTAL PAIN
+C0236080  Discomfort of vagina
+C0236082  Vaginal pain
+C0236083  Burning feeling vagina
+C0238637  Anal pain
+C0239278  Epididymal pain
+C0239783  PAIN GROIN
+C0240515  Nipple pain
+C0240521  Nipple tenderness
+C0240715  Perineal lump
+C0240717  [D] Perineal pain
+C0240812  PAIN PROSTATIC
+C0240813  Prostate tender
+C0240877  rectal tenderness
+C0241562  Urethral meatal pain
+C0241656  Vas deferens tender
+C0241705  URINATION DIFFICULTY
+C0241709  Burning sensation of vulva
+C0241718  Pain of vulva
+C0242453  Prostatism
+C0263571  Chloasma gravidarum
+C0268988  Itching of penis
+C0269671  Gestational edema without mention of hypertension
+C0269678  Fatigue during pregnancy
+C0270327  Enuresis, nocturnal
+C0270777  Edema of spinal cord
+C0278028  SIGNS AND SYMPTOMS OF THE URINARY SYSTEM
+C0278053  Abnormal vaginal odor
+C0278107  Painful ejaculation
+C0282005  Swelling of Scrotum
+C0312414  Spotting
+C0341742  ARU - Acute retention of urine
+C0341961  Vulval varices in pregnancy
+C0343731  Penile warts
+C0392071  Prostatorrhea
+C0392162  CLAMMINESS
+C0393588  Paroxysmal dystonia
+C0393903  Painful legs and moving toes
+C0401148  Acute constipation
+C0401149  Chronic constipation
+C0401150  Chronic constipation without overflow
+C0401155  Double incont - urine + stool
+C0404484  Chronic pelvic pain
+C0404555  Contact bleeding
+C0405064  Symptomatic disorder in pregn
+C0405084  Abnormal weight gain in preg
+C0405089  Fatigue during pregnancy - not delivered
+C0405091  Fatigue + pregnancy-delivered
+C0405326  Vascular engorgement of breast
+C0406671  Burning scrotum
+C0406672  Proctodynia
+C0406846  Post-episiotomy pain
+C0410918  Fetal tachycardia
+C0410919  Fetal bradycardia
+C0423599  Sensation as if rectum still full
+C0423610  Female genital pain
+C0423637  Sore nipple
+C0423640  Right flank pain
+C0423641  Left flank pain
+C0423647  Iliac fossa pain
+C0423701  Urinary tract pain
+C0423703  Genitourinary pain
+C0423721  Painful arms and moving fing
+C0423732  'After pains'
+C0423735  Tenesmus, urinary
+C0423736  Burning on urination
+C0423739  Tenesmus - anal
+C0425791  Peau d'orange over breast
+C0425816  Female genital organ sympt.NOS
+C0425936  Length of cycle decreasing
+C0425937  Period has come early
+C0426021  Cervical dilatation, 10cm
+C0426070  Fetal flexion
+C0426317  GU symptoms
+C0426359  Urinary symptoms
+C0426373  INCOMPLETE URINATION
+C0426390  Spasm of bladder
+C0431949  Congenital clicking hip
+C0439019  C/O - ureteric colic
+C0439042  C/O - renal pain
+C0451941  Itching of scrotum
+C0454605  Oral choreiform movement
+C0455880  Micturition stream poor
+C0455979  Menstruation postponed
+C0455981  C/O - ureteric pain
+C0457225  Cervical effacement, 100%
+C0458090  Ureteric neuromusc incoordin
+C0458104  Pain in male genitalia
+C0458109  Ovarian pain
+C0458112  Chr pelv pain w/out obv pathol
+C0458232  Arthralgia of sacroiliac joint
+C0473234  Painful haematuria
+C0473235  Painless haematuria
+C0473236  Traumatic haematuria
+C0473238  Clot haematuria
+C0473240  Chemical haematuria
+C0473249  Idiopathic scrotal edema
+C0474368  Childbirth pain
+C0474369  False labor pains
+C0474495  Constipation alternates with diarrhea
+C0474512  Blood in faeces symptom
+C0475549  Fals lab at or aft 37 wks gest
+C0476299  Deficient urine secretion
+C0476300  [D]Suppressed urine secretion (context-dependent category)
+C0476303  Extrarenal uraemia
+C0476306  Pain in right iliac fossa
+C0476307  Left iliac fossa pain
+C0478659  Pelvic and perineal pain
+C0497456  Menstruation absent
+C0497481  PENILE PAIN
+C0520586  Dryness of vulva
+C0520587  Vulvovaginal discomfort
+C0520588  Vulvovaginal pain
+C0520589  Vulvovaginal dryness
+C0521628  Itching of male genital organs
+C0521629  Leukoplakia of male genital organs
+C0521632  Irritation of penis, NOS
+C0521634  Female genital pruritus
+C0521635  Female genital leukoplakia
+C0522123  Renal angle pain
+C0541951  EXUDATE NIPPLES BLOODY
+C0542254  VAGINAL PAIN OR BURNING
+C0547004  Regular intermenstrual bleeding
+C0547005  Midcycle bleeding
+C0555976  Vulva sore
+C0558489  KIDNEY PAIN
+C0558921  [D]Rectal symptoms (context-dependent category)
+C0559208  Anal stump pain
+C0559753  Daytime enuresis
+C0560252  Post-vasectomy epididymal pain
+C0560253  Persistent testicular pain
+C0565404  Premature/false labor
+C0566909  Inflammation of vulva
+C0566922  Vulva tender
+C0566948  Swelling of vagina
+C0567083  Tender body of uterus
+C0567237  Bluish discolor cervix
+C0567519  Clear nipple discharge
+C0567521  Serosang nipple discharge
+C0567522  Nipple discharge - pus
+C0567523  Milky nipple discharge
+C0567526  Green nipple discharge
+C0574785  LUTS-Lower urinary tract sympt
+C0577256  Prostate swelling
+C0577294  Perianal lump
+C0577567  Mass of urogenital structure
+C0577568  Mass of urinary tract structure
+C0577569  Mass of male genital structure
+C0577570  Mass female genital structure
+C0577590  Swelling urogenital struct
+C0577591  Swelling urological struct
+C0577592  Swelling male genital struct
+C0577593  Epididymal swelling
+C0577594  Swelling female genital struct
+C0578084  Genitourinary tenderness
+C0578085  Urinary tract tenderness
+C0578086  Tenderness of male genitalia
+C0578087  Tenderness of female genitalia
+C0578100  RIF - Tenderness R iliac fossa
+C0578101  LIF - Tenderness L iliac fossa
+C0578109  RIF-Rebnd tendern R iliac foss
+C0578110  LIF-Rebnd tendern L iliac foss
+C0581322  Bony pelvic pain
+C0581362  Anorectal pain
+C0581909  Vulval irritation
+C0585134  Perianal pain
+C0585958  Genital varices in puerperium
+C0585977  Vaginal varices in puerperium
+C0588110  Pregnancy prolonged - 41 weeks
+C0588111  Pregnancy prolonged - 42 weeks
+C0600142  Hot flash
+C0686344  Back pain complicating pregnancy
+C0700590  DIAPHORESIS
+C0747453  penile tenderness (physical finding)
+C0848360  scrotal tenderness
+C0849752  unable (to) urinate
+C0849986  localized penile swelling of foreskin (symptom)
+C0850758  PAIN PELVIC
+C0856626  bilateral testicular swelling by history (symptom)
+C0869256  urge and stress incontinence
+C0919793  breast pruritus
+C1096235  premenopausal (symptom)
+C1282322  acute pelvic pain
+C1282799  Swelling of Penis
+C1288081  Inflammatory testicular mass
+C1385682  abdominal; pain, lower abdomen, pelvic or perineal
+C1386619  discharge; urinary, excessive
+C1388133  sulfonamide; anuria, correct substance properly administered
+C1389649  delivery; threatened
+C1389652  delivery; threatened, at or after 37 completed weeks of gestation
+C1390183  hemorrhage; intermenstrual
+C1390319  hemorrhage; uterus, intermenstrual (regular)
+C1391707  c.pregnancy; false labor
+C1392633  chyluria; nonfilarial
+C1393776  constipation; drug, correct substance properly administered
+C1397829  frequency; micturition, and painful
+C1399331  hematuria; idiopathic
+C1399340  hematuria; paroxysmal
+C1401309  ischuria
+C1401823  cramp(s); uterus
+C1403039  lipuria
+C1404807  nephralgia
+C1405030  pain; micturition, and frequent
+C1405032  lower abdomen; pain, pelvic or perineal
+C1407990  ureteralgia
+C1408032  excessive; urine secretion
+C1408330  renal calculus; colic
+C1408695  insufficient; urine secretion
+C1411464  pregnancy; delivery, threatened
+C1411465  pregnancy; delivery, threatened, at or after 37 completed weeks of gestation
+C1960183  Chronic vaginal pain
+C1960888  Pain in female pelvis
+C2004661  abnormal frequency of periods
+C2006247  cannot feel string of intrauterine device (symptom)
+C2008810  frequent passing of dime-sized blood clots during periods (symptom)
+C2008811  frequent passing of egg-sized blood clots during periods (symptom)
+C2008812  frequent passing of large blood clots during periods
+C2008813  frequent passing of quarter-sized blood clots during periods
+C2008825  frequent small amounts of urine (symptom)
+C2010797  generalized scrotal swelling (symptom)
+C2010971  genital lesion began as small inflamed pimple
+C2010972  genital lesion began as sore (symptom)
+C2010973  genital lesion first looked like small blister (symptom)
+C2012498  gradual onset of hip joint pain
+C2012599  swelling of inguinal lymph nodes
+C2012600  swelling of lymph node in left groin (symptom)
+C2012601  swelling of lymph node in right groin (symptom)
+C2012602  swelling of lymph nodes in both sides of groin
+C2012603  groin pain progressive with decreased level of activity
+C2012604  groin pain progressive with same level of activity (symptom)
+C2012605  groin pain radiating to testicle (symptom)
+C2012606  radiating groin pain
+C2012607  groin pain worsens then abates
+C2012608  bilateral inguinal swelling
+C2012609  groin swelling on left
+C2012610  groin symptoms (symptom)
+C2016603  pain during intercourse at entry
+C2016845  soft tissue pain in the pelvic girdle
+C2016846  soft tissue pain in the pelvic girdle on both sides
+C2016847  soft tissue pain in the left pelvic girdle
+C2016848  soft tissue pain in the right pelvic girdle
+C2029593  head elongated (symptom)
+C2029696  headache associated with menopause
+C2030274  metrorrhagia
+C2030275  heavy bleeding since the last period
+C2031022  hip joint pain improved by rest (symptom)
+C2031023  hip joint pain worse on rising
+C2031024  hip joint pain worse with running
+C2031025  hip joint pain worsens with extended activity
+C2031099  hip joint pain causing difficulty lying on the affected side
+C2031171  hip joint pain improved by non-steroidal anti-inflammatory drugs (NSAIDs) (symptom)
+C2031172  hip joint pain improved by walking aids (symptom)
+C2031177  hip pain when actively moved (symptom)
+C2031178  hip pain with passive motion (symptom)
+C2031179  hip pain worse with weightbearing
+C2032191  pain in left groin (symptom)
+C2032252  pain in right groin
+C2032305  bilateral flank pain
+C2032306  flank pain disproportionate to injury
+C2032307  radiating flank pain
+C2032308  pain in the flank which radiates to a testicle
+C2032342  pain at the left nipple
+C2032395  pelvic pain on the left
+C2032396  pelvic pain on the right
+C2032397  unrelenting pelvic pain
+C2032410  pain at the right nipple
+C2032450  pain in tailbone causing difficulty sitting (symptom)
+C2032731  painful genital lesion (symptom)
+C2032732  painful inability to urinate
+C2032735  painful scrotal lesion
+C2035062  passage of food particles in the urine
+C2035063  passage of stones or gravel in urine (symptom)
+C2035064  passage of stool in urine
+C2035065  passage of tissue during urination (symptom)
+C2037198  sudden onset of testicular pain (symptom)
+C2037217  rapid onset of choreiform movements
+C2038642  swelling in right groin (symptom)
+C2045681  change in urinary habits
+C2045682  change in appearance of urine
+C2045683  change in volume of urine (symptom)
+C2047122  hot flashes after recent gynecological surgery (symptom)
+C2047123  hot flashes after recent orchiectomy (symptom)
+C2047124  hot flashes after recent treatment for prostate cancer
+C2047125  gradual onset of hot flashes
+C2047126  sudden onset of hot flashes
+C2047127  hot flashes with recent cessation of estrogen therapy (symptom)
+C2048469  inability to impregnate after previous successful impregnation (symptom)
+C2051601  patient thinks she may be pregnant (symptom)
+C2051996  pelvic girdle pain worse rising from seated/recumbent position
+C2052087  pelvic pressure (symptom)
+C2052704  penile curvature to left with erection
+C2052705  penile curvature to right with erection
+C2052706  penile curvature with erection (symptom)
+C2052709  bloody penile discharge not related to urination (symptom)
+C2052710  green penile discharge
+C2052711  profuse yellow to yellow-green penile discharge (symptom)
+C2052713  penile lesion at base of shaft (symptom)
+C2052714  penile lesion at base of shaft on bottom (symptom)
+C2052715  penile lesion at base of shaft on left side
+C2052716  penile lesion at base of shaft on right side
+C2052717  penile lesion at base of shaft on top (symptom)
+C2052718  penile lesion at head (symptom)
+C2052719  penile lesion at the head on the bottom
+C2052720  penile lesion at head on left side (symptom)
+C2052721  lesion at opening of penis
+C2052722  penile lesion at head on right side
+C2052723  penile lesion at head on top (symptom)
+C2052724  penile lesion began as small inflamed pimple (symptom)
+C2052725  penile lesion began as sore (symptom)
+C2052727  crusted penile lesion (symptom)
+C2052728  penile lesion first looked like small blister (symptom)
+C2052729  foul-smelling penile lesion
+C2052730  mid-shaft penile lesion
+C2052731  penile lesion mid-shaft on bottom (symptom)
+C2052732  mid-shaft penile lesion on the left side
+C2052733  mid-shaft penile lesion on the right side
+C2052734  penile lesion mid-shaft on top
+C2052735  multiple penile lesions (symptom)
+C2052736  painful penile lesion
+C2052737  single penile lesion (symptom)
+C2052738  penile sore
+C2052739  weeping penile lesion
+C2052746  penile lump
+C2052747  penile lump at base of shaft
+C2052748  penile lump at base of shaft on bottom (symptom)
+C2052749  penile lump at base of shaft on left side (symptom)
+C2052750  penile lump at base of shaft on right side
+C2052751  penile lump at base of shaft on top (symptom)
+C2052752  penile lump at head (symptom)
+C2052753  penile lump at head on bottom (symptom)
+C2052754  penile lump at head on left side (symptom)
+C2052755  lump at opening of penis
+C2052756  penile lump at head on right side
+C2052757  penile lump at head on top (symptom)
+C2052758  mid-shaft penile lump
+C2052759  mid-shaft penile lump on the bottom
+C2052760  penile lump mid-shaft on left side (symptom)
+C2052761  penile lump mid-shaft on right side
+C2052762  penile lump mid-shaft on top (symptom)
+C2052794  penile opening on underside of penis (symptom)
+C2052795  penile opening on underside of penis at base of shaft
+C2052796  penile opening on underside of penis at head (symptom)
+C2052797  penile opening on underside of penis mid-shaft (symptom)
+C2052800  penile reddening (symptom)
+C2052806  generalized penile swelling
+C2052807  localized penile swelling of shaft (symptom)
+C2052808  localized penile swelling of tip
+C2052810  penile symptoms (symptom)
+C2052811  hard area under skin of penis (symptom)
+C2053183  perineal bruising
+C2053301  perineal symptoms
+C2053428  periods resumed after pregnancy (symptom)
+C2053429  periods require staying in bed (symptom)
+C2055363  temporary loss of urinary control with cough (symptom)
+C2055364  temporary loss of urinary control with physical exercise
+C2055365  temporary loss of urinary control with sneeze (symptom)
+C2055366  temporary loss of urinary control with sudden movement (symptom)
+C2057654  testicular swelling by history
+C2057655  testicular symptoms
+C2057704  number of days most recent menstrual period early
+C2057705  number of days most recent menstrual period late
+C2057723  number of days previous menstrual period late
+C2057729  decreased time between periods
+C2057730  oligomenorrhea
+C2057731  blue-green urine (symptom)
+C2057732  bright orange urine
+C2074632  chronic constant flank pain (symptom)
+C2074633  chronic constipation with less than one stool a week
+C2074634  chronic constipation with more than three hard stools a week (symptom)
+C2074635  chronic constipation with one to three stools a week
+C2074698  chronic flank pain recurring frequently (symptom)
+C2075679  clear vaginal discharge (symptom)
+C2077052  initiating urination requires straining (symptom)
+C2077932  specified interval preceding last two periods (___days) (symptom)
+C2079304  irregular length of menstrual periods (symptom)
+C2106468  blood in the urine color
+C2107751  constipation accompanied by feeling of incomplete evacuation
+C2107752  obstructed defecation
+C2107753  constipation occurs when traveling
+C2107754  constipation seems associated with medications
+C2107755  constipation seems related to menstrual cycle (symptom)
+C2107756  self-treatment for constipation
+C2107757  constipation is self-treated with fiber supplements
+C2107758  self-treatment for constipation with finger disimpaction
+C2107759  self-treatment for constipation with laxatives
+C2107760  self-treatment for constipation with suppositories (symptom)
+C2107761  constipation with straining
+C2107762  constipation within one month of abdominal surgery (symptom)
+C2108384  itching of both breasts
+C2108674  hip joint pain causing inability to sleep (symptom)
+C2108675  hip joint pain difficult to localize
+C2108676  hip joint pain feels better after normal movement (symptom)
+C2108677  hip joint pain first appears at night (symptom)
+C2108678  hip joint pain improved by (symptom)
+C2108679  hip joint pain improved by medication (symptom)
+C2108680  hip joint pain improved by medication acetaminophen
+C2108681  hip joint pain improved by medication narcotics (symptom)
+C2108682  hip joint pain increased by (symptom)
+C2108683  hip joint pain increased by bending forward (symptom)
+C2108684  hip joint pain increased by moving leg back while standing
+C2108685  hip joint pain increased by moving leg to left side while standing
+C2108686  hip joint pain increased by moving leg to right side while standing (symptom)
+C2108687  hip joint pain increased by turning foot inward while standing (symptom)
+C2108688  hip joint pain increased by turning foot outward while standing (symptom)
+C2108689  hip joint pain increased during cold weather (symptom)
+C2108690  hip joint pain increased during rainy weather
+C2108691  hip joint pain with no response to medication
+C2108692  hip joint pain is progressively worsening
+C2108693  hip joint pain slowly worsens
+C2108694  hip joint pain slowly worsens with decreased level of activity
+C2108695  hip joint pain slowly worsens with the same level of activity
+C2108696  sudden onset of hip joint pain
+C2108697  unrelenting hip joint pain
+C2108698  hip joint pain worse at night (symptom)
+C2108699  hip joint pain worse when going up or down stairs
+C2108700  hip joint pain worse with jumping (symptom)
+C2108701  hip joint pain worse with squatting (symptom)
+C2108702  hip joint pain worse with standing (symptom)
+C2108709  joint pain in both hips
+C2110924  labor pains at term
+C2110925  postterm labor pains
+C2114287  prepubertal vaginal bleeding
+C2114320  preterm contractions
+C2114321  preterm labor pains (symptom)
+C2114519  previously continent child unable to restrain urination (symptom)
+C2114690  currently nursing with pain in left breast during lactation
+C2114691  currently nursing with pain in right breast during lactation
+C2114753  progressive groin pain (symptom)
+C2116316  timing of last 2 (late) periods
+C2118391  fetal tachycardia with baby delivered (diagnosis)
+C2118393  fetal bradycardia with baby delivered
+C2126045  obstipation started suddenly (symptom)
+C2126046  painful obstipation (symptom)
+C2126047  obstipation painful at one location (symptom)
+C2126048  obstipation painful diffusely throughout abdomen
+C2126049  rectal pain accompanied by bleeding (symptom)
+C2126050  rectal pain accompanied by discharge of pus (symptom)
+C2126051  rectal pain worsens during bowel movements
+C2126052  rectal pain worsens with acidic foods (symptom)
+C2126053  rectal pain after anal sex
+C2126054  rectal sore with bleeding (symptom)
+C2126055  rectal sore after hard bowel movement (symptom)
+C2126116  urinary incontinence with loss of consciousness
+C2126180  anal pain accompanied by bleeding (symptom)
+C2126181  anal pain accompanied by discharge of pus
+C2126182  anal pain worse with bowel movements
+C2126183  anal pain worsens with acidic foods
+C2126184  anal pain after anal sex (symptom)
+C2126223  constant anal pain (symptom)
+C2126224  intermittent anal pain (symptom)
+C2126225  constant rectal pain (symptom)
+C2126226  intermittent rectal pain (symptom)
+C2126231  light bleeding between periods (symptom)
+C2126233  urinary incontinence preceded by sudden urge
+C2126234  urinary incontinence before reaching bathroom (symptom)
+C2126932  feeling of uterus falling out
+C2126933  uterus feels like falling out worse when lifting or coughing
+C2127120  deep pain during intercourse (symptom)
+C2127179  right breast
+C2127180  left breast symptoms (symptom)
+C2127284  urinary incontinence without sensory awareness
+C2127285  smaller urinary stream with post-void dribbling (symptom)
+C2127286  urinary incontinence with continuous leakage (symptom)
+C2127311  'tom cat' urine odor (symptom)
+C2127338  usual duration of menstrual bleeding
+C2127339  duration of menstrual bleeding during most recent period
+C2127340  menses abnormal duration
+C2127341  light bleeding since last period (symptom)
+C2127347  burning sensation during urination
+C2128201  dark brown vaginal discharge
+C2128202  foul odor from vagina (symptom)
+C2128205  menstrual cycle intervals regularly irregular
+C2128206  menstrual cycles are irregularly irregular
+C2128207  number of days between last two menstrual periods (symptom)
+C2128316  dull or aching groin pain (symptom)
+C2129024  hematuria throughout urination
+C2129025  hematuria only at the end of urination
+C2129026  blood in the urine with clots string-like
+C2129027  blood in urine with clots in clumps (symptom)
+C2129028  bright red blood in urine (symptom)
+C2129029  dark red blood in urine
+C2129030  brownish blood in urine
+C2129031  testicular pain right
+C2129032  left testicular pain
+C2129033  bilateral testicular pain
+C2129034  right testicular swelling by history (symptom)
+C2129035  right testicular lump
+C2129036  left testicular lump (symptom)
+C2129037  lumps in both testes
+C2129038  scrotal symptoms (symptom)
+C2129039  scrotal lesion (symptom)
+C2129040  scrotal lesion single
+C2129042  scrotal lesion began as small inflamed pimple (symptom)
+C2129043  scrotal lesion began as sore (symptom)
+C2129044  scrotal lesion first looked like a small blister
+C2129045  scrotal lesion foul-smelling
+C2129046  scrotal sore (symptom)
+C2129047  wart on the scrotum
+C2129048  scrotal lesion weeping
+C2129049  scrotal lesion crusted
+C2129053  scrotal 'bag of worms'
+C2129055  smaller urinary stream with dribbles at end of urination (symptom)
+C2129056  frequency of urination during night (symptom)
+C2129217  rectal pain worsens after prolonged sitting (symptom)
+C2129521  right lower back pain at the sacroiliac joint
+C2129522  left lower back pain at the sacroiliac joint
+C2129628  number of incontinence diapers used per day (#___)
+C2129629  uses incontinence devices infrequently
+C2129630  uses incontinence devices continuously (symptom)
+C2129631  loss of urinary control significantly affects lifestyle (symptom)
+C2129632  vaginal discharge of stool
+C2129636  feeling of something bulging from vagina (symptom)
+C2129647  menstruation
+C2129653  number of tampons used per 24 hours during menstrual period (#___) (symptom)
+C2129654  number of pads used per 24 hours during menstrual period (#___) (symptom)
+C2129655  vulvar itching on the right
+C2129656  vulvar itching on the left
+C2129657  vulvar burning on right (symptom)
+C2129658  vulvar burning on left (symptom)
+C2129659  right vulvar lump or mass
+C2129660  lump on the left vulva
+C2130177  number of weeks into pregnancy when bleeding noted
+C2130182  vulvar pain on the right
+C2130183  vulvar pain on the left
+C2130244  yellow-green discharge from both nipples
+C2130250  anal pain accompanied by discharge (symptom)
+C2130251  anal pain accompanied by foul-smelling discharge (symptom)
+C2130253  sharp or stabbing groin pain
+C2141922  left hip joint pain (symptom)
+C2164465  urinary stream is smaller
+C2165501  depressed fetal heart sounds (diagnosis)
+C2165503  depressed fetal heart sounds with baby delivered (diagnosis)
+C2165602  swollen left labia
+C2166883  left scrotal lump (symptom)
+C2169837  redness at distal end of penis
+C2170206  renal colic of both kidneys
+C2170207  renal colic of left kidney (diagnosis)
+C2170208  renal colic of right kidney
+C2187991  frequency of urinary incontinence at night while asleep
+C2187992  frequency of urinary incontinence during day (symptom)
+C2188172  unexplained vaginal bleeding (symptom)
+C2188283  upward penile curvature with erection
+C2188437  duration between urinations
+C2188438  frequency of urination during day
+C2188439  decrease in urinary frequency (symptom)
+C2188456  urinary incontinence occurring at least twice a week (symptom)
+C2188457  urinary incontinence without sensory awareness of fullness (symptom)
+C2188458  urinary incontinence without sensory awareness of wetness (symptom)
+C2188459  loss of urinary control with physical activity (symptom)
+C2188502  urinary volume of infant
+C2188545  urine ceased for 2 days or more (symptom)
+C2188551  urine content abnormalities (symptom)
+C2188569  the urine is dark but not cloudy
+C2188715  urine is frothy or foamy
+C2188716  smoke-colored urine
+C2188793  spraying or splitting of urine stream (symptom)
+C2188836  using eight or more tampons daily during period
+C2188849  using incontinence devices (symptom)
+C2188850  number of incontinence mini-pads used per day (#___)
+C2188851  number of regular incontinence pads used per day (#___) (symptom)
+C2188852  using a penile clamp for incontinence
+C2188853  using incontinence tissues (symptom)
+C2188854  using a urethral plug for incontinence
+C2188870  using tampons regularly during menstrual period (symptom)
+C2189016  vaginal itching or burning
+C2189071  vaginal pain during intercourse (symptom)
+C2199003  downward penile curvature with erection
+C2202100  right hip joint pain (symptom)
+C2202419  swollen right labia
+C2202732  vulvar itching or burning (symptom)
+C2202740  vulvar lump or mass (symptom)
+C2203259  white vaginal discharge worse after menstruation
+C2203694  thick yellow-green vaginal discharge
+C2216471  male genital symptoms
+C2218530  right scrotal lump
+C2219704  blood in urine initially only (symptom)
+C2219705  blood in urine only at night or early morning (symptom)
+C2219706  blood in urine recurring over a period of years (symptom)
+C2219707  blood in urine occurs after exposure to cold (symptom)
+C2219708  hematuria initiated with exercise
+C2219709  single genital lesion (symptom)
+C2219711  genital lesion foul-smelling
+C2219712  female genitourinary symptoms (symptom)
+C2219714  menstrual bleeding lasts less than 3 days (symptom)
+C2219715  menstrual bleeding lasts more than 7 days (symptom)
+C2219717  menstrual periods stopped for over 6 months
+C2219718  over age 16 and menstrual periods have not started
+C2219719  fever started during most recent menstrual period
+C2219721  bleeding after sexual intercourse
+C2219834  excessive sweating 2-3 hours after eating
+C2219918  vaginal spasms
+C2219919  vaginal spasms with attempted penetration
+C2219938  normal menstruation occurred within the last 30 days
+C2220008  baby is moving (in uterus)
+C2220015  excessive vomiting during early pregnancy
+C2220099  number of wet diapers per day (symptom)
+C2220101  mucous vaginal discharge
+C2220103  mucopurulent vaginal discharge (symptom)
+C2220246  excessive sweating 15-30 minutes after eating (symptom)
+C2228108  enlarged labial veins (symptom)
+C2228138  primary diurnal enuresis (diagnosis)
+C2228140  primary nocturnal and diurnal enuresis (diagnosis)
+C2228141  secondary diurnal enuresis (diagnosis)
+C2228527  excessive malodorous sweating (symptom)
+C2228528  excessive sweating of armpits (symptom)
+C2228529  excessive sweating of hands (symptom)
+C2229012  regular cycle intervals
+C2229013  regular cycle intervals less than 21 days
+C2229014  menstrual-type cramping (symptom)
+C2229278  scrotal lump (symptom)
+C2231238  subinvolution of right breast (diagnosis)
+C2231239  subinvolution of left breast (diagnosis)
+C2231240  subinvolution of both breasts
+C2232700  labial swelling bilateral
+C2232753  brown penile discharge
+C2233585  flank pain emanating from spine (symptom)
+C2233586  flank pain crossing midline (symptom)
+C2233587  migratory flank pain
+C2233588  gradual onset of flank pain
+C2233589  abrupt onset of flank pain
+C2233590  flank pain severity
+C2233591  flank pain intermittent
+C2233592  quality of flank pain
+C2233593  flank pain quality sharp
+C2233594  stabbing flank pain
+C2233595  dull flank pain
+C2233596  positional flank pain
+C2233597  flank pain unrelated to meals
+C2233598  factors exacerbating flank pain (symptom)
+C2233599  flank pain worsened by sneezing or coughing (symptom)
+C2233600  flank pain worsened by bowel movement (symptom)
+C2233601  flank pain worsened by urinating (symptom)
+C2233602  flank pain worsened by breathing deeply (symptom)
+C2233603  flank pain worsened by bending forward (symptom)
+C2233604  flank pain worsened by twisting (symptom)
+C2233605  flank pain worsened by curling up on one's side
+C2233606  factors relieving flank pain
+C2233607  flank pain lessened by sneezing or coughing
+C2233608  flank pain lessened by bowel movement
+C2233609  flank pain lessened by urinating
+C2233610  flank pain lessened by breathing deeply (symptom)
+C2233611  flank pain lessened by bending forward (symptom)
+C2233612  flank pain lessened by twisting (symptom)
+C2233613  flank pain lessened by curling up on one's side (symptom)
+C2233614  flank pain lessened by applying heat (symptom)
+C2233615  flank pain lessened by applying cold
+C2233616  flank pain lessened by massage
+C2233617  flank pain not made better by anything (symptom)
+C2233637  location of pain in flank
+C2233638  timing of flank pain
+C2233639  flank pain increasing in frequency
+C2233640  flank pain decreasing in frequency (symptom)
+C2233641  flank pain gradually resolves on its own
+C2315195  Pain in symphysis pubis in pregnancy (finding)
+C2317014  Spasm of cervix uteri (finding)
+C2317372  Acute pain in female pelvis
+C2349960  left testicular swelling by history (symptom)
+C2367668  urinary urgency with straining
+C2607896  Discomfort of vulva
+C2702663  choreiform movements
+C2733651  Chadwick's sign
+C2919424  Mass of uterine adnexa
+C2921780  pain during urination (dysuria) seems related to menstrual cycle
+C2921781  rectal pain accompanied by discharge of pus seems related to menstrual cycle
+C2957221  baby's (in uterus) early movements
+C2957222  baby's (in uterus) early movements - flutters
+C2957223  baby's (in uterus) early movements swishes
+C2957224  baby (in uterus) daily movement count during the ___ week
+C2957225  baby's (in uterus) activity timing (symptom)
+C2957226  baby's (in uterus) activity after meals (symptom)
+C2957227  baby's (in uterus) activity after exercise (symptom)
+C2957228  baby's (in uterus) activity more in the morning (symptom)
+C2957229  baby's (in uterus) activity more in the evening
+C2985303  Late Pregnancy Bleeding
+C2985306  Maternal Fever
+C3468173  arthralgia - pelvis / hip / femur left
+C3468174  arthralgia of right hip (diagnosis)
+C3468370  constipation self-treated with enema
+C3468454  vulvar swelling (symptom)
